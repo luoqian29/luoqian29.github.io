@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>夜晚 on 一落归谦</title>
-        <link>https://luoqian29.github.io/tags/%E5%A4%9C%E6%99%9A/</link>
+        <link>http://localhost:1313/tags/%E5%A4%9C%E6%99%9A/</link>
         <description>Recent content in 夜晚 on 一落归谦</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/%E5%A4%9C%E6%99%9A/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%A4%9C%E6%99%9A/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Ripples</title>
-        <link>https://luoqian29.github.io/p/ripples/</link>
+        <link>http://localhost:1313/p/ripples/</link>
         <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://luoqian29.github.io/p/ripples/</guid>
-        <description>&lt;img src="https://luoqian29.github.io/p/ripples/4K_CUS_DEC24_TIF.png" alt="Featured image of post Ripples" /&gt;&lt;h2 id=&#34;正文示例&#34;&gt;正文示例
+        <guid>http://localhost:1313/p/ripples/</guid>
+        <description>&lt;img src="http://localhost:1313/p/ripples/4K_CUS_DEC24_TIF.png" alt="Featured image of post Ripples" /&gt;&lt;h2 id=&#34;正文示例&#34;&gt;正文示例
 &lt;/h2&gt;&lt;p&gt;这里是文章正文的开始部分，可以写任何 Markdown 内容。&lt;/p&gt;
 &lt;h3 id=&#34;段落示例&#34;&gt;段落示例
 &lt;/h3&gt;&lt;p&gt;而这些并不是完全重要，更加重要的问题是，带着这些问题，我们来审视一下学生会退会。&lt;br&gt;
@@ -28,10 +28,10 @@
     &gt;最暖的憂傷 - 田馥甄&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h3 id=&#34;图片示例&#34;&gt;图片示例
 &lt;/h3&gt;&lt;p&gt;下面引用当前目录下的图片：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://luoqian29.github.io/p/ripples/4K_CUS_DEC24_TIF.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ripples/4K_CUS_DEC24_TIF.png&#34;
 	width=&#34;3840&#34;
 	height=&#34;2160&#34;
-	srcset=&#34;https://luoqian29.github.io/p/ripples/4K_CUS_DEC24_TIF_hu_c7549f1080ffe474.png 480w, https://luoqian29.github.io/p/ripples/4K_CUS_DEC24_TIF_hu_51bd42baaa932e14.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/ripples/4K_CUS_DEC24_TIF_hu_c7549f1080ffe474.png 480w, http://localhost:1313/p/ripples/4K_CUS_DEC24_TIF_hu_51bd42baaa932e14.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;封面图&#34;
@@ -43,7 +43,7 @@
 	
 &gt;  &lt;!-- 注意路径是相对 index.md 的 --&gt;&lt;/p&gt;
 &lt;!-- 如果还有其他图片，可以继续添加 --&gt;
-&lt;p&gt;&lt;img src=&#34;https://luoqian29.github.io/another-image.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/another-image.png&#34;
 	
 	
 	

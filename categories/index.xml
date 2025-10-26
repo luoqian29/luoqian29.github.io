@@ -8,52 +8,20 @@
         <language>zh-cn</language>
         <copyright>一落归谦</copyright>
         <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>随记</title>
-        <link>https://luoqian29.github.io/categories/%E9%9A%8F%E8%AE%B0/</link>
+        <title>HS1/HS2</title>
+        <link>https://luoqian29.github.io/categories/hs1/hs2/</link>
         <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://luoqian29.github.io/categories/%E9%9A%8F%E8%AE%B0/</guid>
+        <guid>https://luoqian29.github.io/categories/hs1/hs2/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
         <link>https://luoqian29.github.io/categories/test/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://luoqian29.github.io/categories/test/</guid>
         <description>&lt;img src="https://luoqian29.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
-        </item>
-        <item>
-        <title>测试</title>
-        <link>https://luoqian29.github.io/categories/%E6%B5%8B%E8%AF%95/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://luoqian29.github.io/categories/%E6%B5%8B%E8%AF%95/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Syntax</title>
-        <link>https://luoqian29.github.io/categories/syntax/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://luoqian29.github.io/categories/syntax/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Themes</title>
-        <link>https://luoqian29.github.io/categories/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://luoqian29.github.io/categories/themes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Test With Whitespaces</title>
-        <link>https://luoqian29.github.io/categories/test-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://luoqian29.github.io/categories/test-with-whitespaces/</guid>
-        <description></description>
         </item>
         
     </channel>
