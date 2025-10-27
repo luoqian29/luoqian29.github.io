@@ -13,10 +13,58 @@
         <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
         
         <guid>https://luoqian29.github.io/p/citydevil/</guid>
-        <description>&lt;img src="https://luoqian29.github.io/post/CityDevil/minami.jpg" alt="Featured image of post City Devil 城市恶魔" /&gt;&lt;h2 id=&#34;-汉化补丁下载及使用步骤&#34;&gt;📦 汉化补丁下载及使用步骤
-&lt;/h2&gt;&lt;p&gt;本文分享的是&lt;strong&gt;CityDevilRestart-0.4.0-AI-DeepSeek-V3-schinese&lt;/strong&gt;AI意译补丁。&lt;/p&gt;
+        <description>&lt;img src="https://luoqian29.github.io/post/CityDevil/minami.jpg" alt="Featured image of post City Devil 城市恶魔" /&gt;&lt;h1 id=&#34;city-devil-restart-v04-sabirow&#34;&gt;City Devil: Restart [V0.4] [Sabirow]
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://luoqian29.github.io/post/CityDevil/xErtbA.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;0.4封面图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;In a new city, you start a fresh chapter of your life by enrolling in a high school. Embarking on this thrilling journey, you&amp;rsquo;ll encounter a diverse group of friends, including charming and beautiful girls. As you explore the town and its inhabitants, you will realize something mysterious and disturbing is happening here. Strange people and unexplained phenomena seem to haunt you. MC&amp;rsquo;s frequent nightmares add a creepy element to the story. As you interact with various characters, you will also have to make decisions that will affect the game&amp;rsquo;s outcome. Your choices will determine the course of the story and the relationships you form with other characters.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;一winlinux&#34;&gt;一、Win/Linux
+&lt;h2 id=&#34;游戏介绍&#34;&gt;游戏介绍
+&lt;/h2&gt;&lt;h3 id=&#34;游戏引擎&#34;&gt;游戏引擎
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;《City Devil: Restart》——基于Illusion（i社）&lt;strong&gt;Honey Select 2&lt;/strong&gt;引擎与&lt;strong&gt;Renpy&lt;/strong&gt;引擎制作的亚洲风视觉小说（AVN）游戏&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;版本信息&#34;&gt;版本信息
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;当前版本:0.4&lt;/li&gt;
+&lt;li&gt;原版首发日: 2025-10-15&lt;/li&gt;
+&lt;li&gt;汉化分享日: 2025-10-17&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;changelog更新日志&#34;&gt;Changelog(更新日志)
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;2 600+ new images&lt;/li&gt;
+&lt;li&gt;305+ new animations&lt;/li&gt;
+&lt;li&gt;24 900+ new words&lt;/li&gt;
+&lt;li&gt;19 200+ rewritten words from earlier versions&lt;/li&gt;
+&lt;li&gt;90+ new music &amp;amp; ambient tracks&lt;/li&gt;
+&lt;li&gt;215+ new sound effects&lt;/li&gt;
+&lt;li&gt;Updated relationship screen&lt;/li&gt;
+&lt;li&gt;Numerous minor improvements &amp;amp; fixes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;developer入正地址&#34;&gt;Developer(入正地址)
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.patreon.com/sabirow&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Patreon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://sabirow.itch.io/cdr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Itch.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://subscribestar.adult/sabirow&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Subscribestar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://discord.com/invite/sabirow&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Discord&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;download汉化补丁&#34;&gt;DOWNLOAD(汉化补丁)
+&lt;/h2&gt;&lt;h3 id=&#34;winlinuxpc端&#34;&gt;Win/Linux(PC端)
 &lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;下载文件：&lt;/p&gt;
@@ -30,14 +78,15 @@
 &lt;li&gt;
 &lt;p&gt;安装步骤：&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;下载两个链接的文件，如果打不开链接，则需要科学上网，没有梯子可以参考此文章——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/p/citydevil/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;解压英文原版&lt;/li&gt;
 &lt;li&gt;将汉化补丁文件放置到 &lt;strong&gt;game 文件夹&lt;/strong&gt; 中&lt;/li&gt;
-&lt;li&gt;启动游戏，选择中文即可&lt;/li&gt;
+&lt;li&gt;启动exe游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;二android&#34;&gt;二、Android
+&lt;h3 id=&#34;android安卓端&#34;&gt;Android(安卓端)
 &lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;下载文件：&lt;/p&gt;
@@ -53,9 +102,11 @@
 &lt;li&gt;
 &lt;p&gt;安装步骤：&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;下载两个链接的文件，如果打不开链接，则需要科学上网，没有梯子可以参考此文章——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/p/citydevil/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;安装 APK 文件&lt;/li&gt;
 &lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
-&lt;li&gt;游戏可能闪退（正常现象）&lt;/li&gt;
+&lt;li&gt;此时游戏可能闪退（正常现象）&lt;/li&gt;
 &lt;li&gt;解压英文原版&lt;/li&gt;
 &lt;li&gt;将英文原版 &lt;strong&gt;game 文件夹&lt;/strong&gt; 中的 rpa 文件和汉化补丁 rpa 文件一起移动到：
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -70,31 +121,22 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;三ios&#34;&gt;三、iOS
+&lt;h3 id=&#34;ios苹果端&#34;&gt;iOS(苹果端)
 &lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;根据&lt;strong&gt;PC端&lt;/strong&gt;的步骤，再使用 Spark 等模拟器进行游玩。&lt;/li&gt;
+&lt;li&gt;根据&lt;strong&gt;PC端&lt;/strong&gt;的步骤操作即可，再使用 Spark 等模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;补丁介绍&#34;&gt;补丁介绍
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CityDevilRestart-0.4.0-AI-DeepSeek-V3-schinese&lt;/strong&gt;——本汉化补丁是由落谦使用 DeepSeek V3 语言模型进行意译&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;温馨提醒&#34;&gt;温馨提醒
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;应该是没有漏翻的句子，有可能部分人名错翻了？最近DeepSeek-V3老是这样，有时候会，有时候不会，但是用其他引擎，跑出来的意译效果没V3的好，落谦实在没时间去逐句意译了，而且这游戏有官中，不心急的水友，可以等官中，总之不妨碍游玩，如果介意，还请勿玩。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;四免责声明&#34;&gt;四、免责声明
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;本汉化补丁由 &lt;strong&gt;落谦制作&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;仅供 &lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播&lt;/li&gt;
-&lt;li&gt;本人不对补丁使用产生的任何问题承担责任&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;五预览图&#34;&gt;五、预览图
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://luoqian29.github.io/post/CityDevil/minami.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;封面图&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://luoqian29.github.io/post/CityDevil/asami.jpg&#34;
+&lt;h2 id=&#34;预览图&#34;&gt;预览图
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://luoqian29.github.io/post/CityDevil/date_event_1_intro_3.jpg&#34;
 	
 	
 	
@@ -104,17 +146,7 @@
 	
 	
 &gt;
-&lt;img src=&#34;https://luoqian29.github.io/post/CityDevil/izumi.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;预览图1&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://luoqian29.github.io/post/CityDevil/lillian.jpg&#34;
+&lt;img src=&#34;https://luoqian29.github.io/post/CityDevil/date_event_1_intro_15.jpg&#34;
 	
 	
 	
@@ -124,7 +156,7 @@
 	
 	
 &gt;
-&lt;img src=&#34;https://luoqian29.github.io/post/CityDevil/may.jpg&#34;
+&lt;img src=&#34;https://luoqian29.github.io/post/CityDevil/date_event_1_intro_17.jpg&#34;
 	
 	
 	
@@ -133,7 +165,75 @@
 		alt=&#34;预览图3&#34;
 	
 	
+&gt;
+&lt;img src=&#34;https://luoqian29.github.io/post/CityDevil/date_event_1_minami_100.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图4&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://luoqian29.github.io/post/CityDevil/date_event_1_minami_167.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图5&#34;
+	
+	
 &gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;落谦酱点评&#34;&gt;落谦酱点评
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;总分&lt;/strong&gt;：5分（满分）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;建模&#34;&gt;建模
+&lt;/h3&gt;&lt;!-- 这里可以描述模型的精细度、细节、人物造型等 --&gt;
+&lt;!-- 例如：模型的细节十分丰富，人物设计精美，表情和动作的刻画也很到位。 --&gt;
+&lt;ul&gt;
+&lt;li&gt;待，目前落谦没时间点评，哈哈。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;渲染&#34;&gt;渲染
+&lt;/h3&gt;&lt;!-- 描述渲染效果，光影、细节、整体视觉呈现等 --&gt;
+&lt;!-- 例如：渲染效果非常出色，光影处理得当，纹理细节清晰，整体画面流畅。 --&gt;
+&lt;ul&gt;
+&lt;li&gt;待，目前落谦没时间点评，哈哈。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sfw剧情清汤寡水&#34;&gt;SFW剧情（清汤寡水）
+&lt;/h3&gt;&lt;!-- 讨论无关情色内容的剧情，描述其情节、人物发展、节奏等 --&gt;
+&lt;!-- 例如：剧情较为简单，节奏有些拖沓，人物关系不够丰富，整体上偏向轻松的情节。 --&gt;
+&lt;ul&gt;
+&lt;li&gt;待，目前落谦没时间点评，哈哈。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;nsfw剧情肉戏&#34;&gt;NSFW剧情（肉戏）
+&lt;/h3&gt;&lt;!-- 评述涉及情色内容的剧情，描写场面、情感、动作等，注意分寸 --&gt;
+&lt;!-- 例如：肉戏场面刻画细腻，情感流露自然，尽管如此，整体氛围仍然保持得当。 --&gt;
+&lt;ul&gt;
+&lt;li&gt;待，目前落谦没时间点评，哈哈。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;bgm&#34;&gt;BGM
+&lt;/h3&gt;&lt;!-- 评价背景音乐的配合，氛围渲染、音效使用、是否增强剧情体验等 --&gt;
+&lt;!-- 例如：背景音乐与剧情高度契合，音效的运用增强了气氛，特别是在紧张场景中的表现非常到位。 --&gt;
+&lt;ul&gt;
+&lt;li&gt;待，目前落谦没时间点评，哈哈。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;时长&#34;&gt;时长
+&lt;/h3&gt;&lt;!-- 对时长的反馈，是否合适，节奏感如何等 --&gt;
+&lt;!-- 例如：时长恰到好处，剧情推进没有冗余的部分，节奏保持良好，未感到拖沓或匆忙。 --&gt;
+&lt;ul&gt;
+&lt;li&gt;待，目前落谦没时间点评，哈哈。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宇宙安全声明&#34;&gt;宇宙安全声明！
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;本汉化补丁由 &lt;strong&gt;落谦制作&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;仅供 &lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播&lt;/li&gt;
+&lt;li&gt;本人不对此补丁的使用产生的任何问题承担责任&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
 </description>
         </item>
