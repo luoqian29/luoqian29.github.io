@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='https://luoqian29.github.io/about/'>
 
-<link rel="stylesheet" href="/scss/style.min.9218b8b03ddf1cbe21c1252eebcc0285e59ea70b1386ca1c3bea9f7754974eff.css"><meta property='og:title' content="关于">
+<link rel="stylesheet" href="/scss/style.min.0a7596b0db4b1c0ebb12937db36015fad05c094c0322c114d6b721969d4daa81.css"><meta property='og:title' content="关于">
 <meta property='og:description' content="">
 <meta property='og:url' content='https://luoqian29.github.io/about/'>
 <meta property='og:site_name' content='一落归谦'>
@@ -41,7 +41,10 @@
         }
     })();
 </script>
-<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+<div class="container main-container flex on-phone--column extended">
+
+
+        <aside class="sidebar left-sidebar sticky ">
     <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
         <span class="hamburger-box">
             <span class="hamburger-inner"></span>
@@ -213,7 +216,7 @@
         
         
         <li >
-            <a href='/%E5%8F%8B%E9%93%BE/' >
+            <a href='/link/' >
                 
                 
                 
@@ -258,6 +261,8 @@
         </li>
     </ol>
 </aside>
+
+    
 
     
 
@@ -324,7 +329,7 @@
         
     
 
-    <footer class="site-footer">
+<footer class="site-footer">
     <section class="copyright">
         &copy; 
         
@@ -556,6 +561,87 @@
         if (document.readyState === "interactive") NProgress.inc(0.8);
         if (document.readyState === "complete") NProgress.done();
     });
+</script>
+
+<style>
+    .highlight {
+         
+        max-height: 400px;
+        overflow: hidden;
+    }
+
+    .code-show {
+        max-height: none !important;
+    }
+
+    .code-more-box {
+        width: 100%;
+        padding-top: 78px;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0)), to(#fff));
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 1;
+    }
+
+    .code-more-btn {
+        display: block;
+        margin: auto;
+        width: 44px;
+        height: 22px;
+        background: #f0f0f5;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+        padding-top: 6px;
+        cursor: pointer;
+    }
+
+    .code-more-img {
+        cursor: pointer !important;
+        display: block;
+        margin: auto;
+        width: 22px;
+        height: 16px;
+    }
+</style>
+
+<script>
+  function initCodeMoreBox() {
+    let codeBlocks = document.querySelectorAll(".highlight");
+    if (!codeBlocks) {
+      return;
+    }
+    codeBlocks.forEach(codeBlock => {
+      
+      if (codeBlock.scrollHeight <= codeBlock.clientHeight) {
+        return;
+      }
+      
+      
+      let codeMoreBox = document.createElement('div');
+      codeMoreBox.classList.add('code-more-box');
+      
+      let codeMoreBtn = document.createElement('span');
+      codeMoreBtn.classList.add('code-more-btn');
+      codeMoreBtn.addEventListener('click', () => {
+        codeBlock.classList.add('code-show');
+        codeMoreBox.style.display = 'none';
+        
+        window.dispatchEvent(new Event('resize'))
+      })
+      
+      let img = document.createElement('img');
+      img.classList.add('code-more-img');
+      img.src = "https://luoqian29.github.io/icons/codeMore.png"
+      
+      codeMoreBtn.appendChild(img);
+      codeMoreBox.appendChild(codeMoreBtn);
+      codeBlock.appendChild(codeMoreBox)
+    })
+  }
+  
+  initCodeMoreBox();
 </script>
 
     </body>
