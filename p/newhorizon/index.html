@@ -113,6 +113,195 @@
         </div>
     </section>
 
+
+
+    
+    <button id="toggle-toc" class="mobile-only">Toc</button>
+    <section class="widget archives" id="toc-container">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目录</h2>
+
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li><a href="#游戏介绍">游戏介绍</a>
+      <ol>
+        <li><a href="#游戏类型">游戏类型</a></li>
+        <li><a href="#版本信息">版本信息</a></li>
+        <li><a href="#changelog更新日志">Changelog(更新日志)</a></li>
+        <li><a href="#developer入正地址">Developer(入正地址)</a></li>
+      </ol>
+    </li>
+    <li><a href="#download官中">DOWNLOAD(官中)</a>
+      <ol>
+        <li><a href="#winlinuxpc端">Win/Linux(PC端)</a></li>
+        <li><a href="#android安卓端">Android(安卓端)</a></li>
+        <li><a href="#ios苹果端">iOS(苹果端)</a></li>
+      </ol>
+    </li>
+    <li><a href="#预览图">预览图</a></li>
+    <li><a href="#落谦酱点评">落谦酱点评</a>
+      <ol>
+        <li><a href="#建模">建模</a></li>
+        <li><a href="#渲染">渲染</a></li>
+        <li><a href="#sfw剧情清汤寡水">SFW剧情（清汤寡水）</a></li>
+        <li><a href="#nsfw剧情肉戏">NSFW剧情（肉戏）</a></li>
+        <li><a href="#bgm">BGM</a></li>
+        <li><a href="#时长">时长</a></li>
+      </ol>
+    </li>
+    <li><a href="#宇宙安全声明">宇宙安全声明！</a></li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+
+<style>
+    .container {
+        .right-sidebar {
+             
+            display: flex;
+        }
+    }
+
+     
+    .mobile-only {
+        display: none !important;
+    }
+
+    #toc-container {
+         
+         
+        position: fixed;
+         
+        bottom: 21%;
+         
+        right: 60px;
+         
+        background-color: var(--card-background);
+         
+        padding: 10px;
+         
+        border: 1px solid #96979a50;
+        border-radius: var(--card-border-radius);
+         
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+         
+        z-index: 9998 !important;
+         
+        max-height: 75vh;
+        overflow-y: auto;
+         
+        width: auto;
+        max-width: 290px;
+    }
+
+    #toggle-toc {
+        position: fixed;
+        bottom: 22%;
+        right: 20px;
+        padding: 10px 10px;
+        z-index: 9998 !important;
+        border: 0px solid #96979a50;
+        border-radius: 7px;
+        box-shadow: var(--shadow-l1);
+        background-color: #00640010;
+        color: #34495e;
+         
+        display: none;  
+        margin-bottom: -20px;
+        cursor: pointer;
+        font-size: 1.2rem;
+    }
+
+    .widget--toc #TableOfContents {
+        overflow-x: auto;
+        max-height: 66vh;
+        width: auto;
+    }
+
+    @media screen and (max-width: 768px) {
+        .mobile-only {
+            display: block !important;  
+        }
+
+        #toc-container {
+            display: none;  
+        }
+
+        #toggle-toc {
+            display: block;  
+            bottom: 100px;  
+        }
+    }
+
+     
+    @media screen and (min-width: 769px) {
+        #toc-container {
+            display: block !important;  
+            position: static;  
+            border: none;  
+            box-shadow: none;  
+            max-height: none;  
+            overflow-y: visible;  
+            margin-top: 20px;  
+            right: auto;  
+            bottom: auto;  
+            width: auto;  
+            max-width: 100%;  
+            background-color: transparent;  
+            padding: 0;  
+        }
+
+        #toggle-toc {
+            display: none !important;  
+        }
+    }
+</style>
+<script>
+    var toggleButton = document.getElementById('toggle-toc');
+    var tocContainer = document.getElementById('toc-container');
+
+    
+    toggleButton.addEventListener('click', function() {
+        if (tocContainer.style.display === 'none' || tocContainer.style.display === '') {
+            tocContainer.style.display = 'block';
+        } else {
+            tocContainer.style.display = 'none';
+        }
+    });
+
+    
+    toggleButton.addEventListener('mouseover', function() {
+        
+            tocContainer.style.display = 'block';
+        
+    });
+
+    
+    document.addEventListener('click', function(event) {
+        
+            
+            if (!tocContainer.contains(event.target) && event.target !== toggleButton) {
+                
+                tocContainer.style.display = 'none';
+            }
+        
+    });
+</script>
+
             
         
     </aside>
