@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='https://luoqian29.github.io/p/milfyday/'>
 
-<link rel="stylesheet" href="/scss/style.min.1258883d7418958cafa137f27e30a973e555b5f1b62ef11608a3b167423b7691.css"><meta property='og:title' content="Milfy Day 徐娘半老之日">
+<link rel="stylesheet" href="/scss/style.min.93c8fe38c35f22268e0af65a954bfc5af4876186e1bfa896ab1032b584aaa733.css"><meta property='og:title' content="Milfy Day 徐娘半老之日">
 <meta property='og:description' content="Milfy Day [v0.8.9] [Red Lighthouse]">
 <meta property='og:url' content='https://luoqian29.github.io/p/milfyday/'>
 <meta property='og:site_name' content='一落归谦'>
@@ -66,7 +66,7 @@
    
 
     
-    <button id="toggle-toc" class="mobile-only">Toc</button>
+    <button id="toggle-toc" class="mobile-only">目录</button>
     <section class="widget archives" id="toc-container">
         <div class="widget-icon">
             <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -591,6 +591,22 @@ Because your family is going through a crisis, you need to revive your family, m
     </section>
 
 
+    
+    
+
+    
+    <section class="article-copyright">
+        <span><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M14.5 9a3.5 4 0 1 0 0 6" />
+</svg>
+
+
+</span>
+        <p>本文版权归落谦所有，未经许可不得转载。</p>
+    </section>
+
     <section class="article-lastmod">
         <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z"/>
@@ -603,7 +619,28 @@ Because your family is going through a crisis, you need to revive your family, m
         <span>
             最后更新于 2025年10月29日 13:13
         </span>
-    </section></footer>
+    </section>
+<div class="reward-container">
+  <button id="rewardButton" onclick="toggleReward()">投喂落谦</button>
+
+  <div id="QR" class="reward-hidden">
+    <div class="qr-box">
+      <img id="wechat_qr" src="/reward/wechat_zsm.png" alt="微信赞赏码">
+      <p>是要请落谦喝杯咖啡吗？</p>
+    </div>
+    
+    
+  </div>
+</div>
+
+<script>
+  function toggleReward() {
+    const qr = document.getElementById("QR");
+    qr.classList.toggle("reward-show");
+  }
+</script>
+
+</footer>
 
 
     
