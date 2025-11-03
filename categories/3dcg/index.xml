@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Tue, 04 Nov 2025 05:09:44 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/3dcg/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 04 Nov 2025 05:13:37 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/3dcg/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Wild Cats 野猫</title>
         <link>https://luoqian29.github.io/p/wildcats/</link>
         <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
@@ -100,7 +100,7 @@
 &lt;details&gt;
 &lt;summary&gt;&lt;strong&gt;PS&lt;/strong&gt;&lt;/summary&gt;
 &lt;ul&gt;
-&lt;li&gt;我在telegram找到0.3版本，但是移植安卓的时候有BUG，找了半天没找到源头，不得不自己跑一次AI，然后重新打包移植，之后是西班牙文的josn文件的问题，然后就将游戏里的西班牙文删了，再打包成PRA形式，安卓就能运行了，但我还没有玩到后面，不知道还有没有BUG，以防万一，我把自己跑AI的补丁和胡适翻的官方中文补丁一起上传吧，首选官方补丁，有问题再选AI。&lt;/li&gt;
+&lt;li&gt;我在telegram找到0.3版本，但是移植安卓的时候有BUG，找了半天没找到源头，不得不自己跑一次AI，然后重新打包移植，之后发现是西班牙文的josn文件的问题，然后就将游戏里的西班牙文删了，再打包成PRA形式，安卓就能运行了，但我还没有玩到后面，不知道还有没有BUG，以防万一，我把自己跑AI的补丁和胡适翻的官方中文补丁一起上传吧，首选官方补丁，有问题再选AI。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
