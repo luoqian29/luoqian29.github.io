@@ -1,13 +1,1062 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>3DCG on 一落归谦</title>
-        <link>https://luoqian29.github.io/tags/3dcg/</link>
-        <description>Recent content in 3DCG on 一落归谦</description>
+        <title>IOS on 一落归谦</title>
+        <link>https://luoqian29.github.io/categories/ios/</link>
+        <description>Recent content in IOS on 一落归谦</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Mon, 03 Nov 2025 02:32:11 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/3dcg/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 03 Nov 2025 14:10:51 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/ios/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Astreon 星宿</title>
+        <link>https://luoqian29.github.io/p/astreon/</link>
+        <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://luoqian29.github.io/p/astreon/</guid>
+        <description>&lt;img src="https://img.itch.zone/aW1nLzE5MTc2MDE0LnBuZw==/original/xJcJpZ.png" alt="Featured image of post Astreon 星宿" /&gt;&lt;h1 id=&#34;astreon-ch2-v035-noglory&#34;&gt;Astreon [Ch.2 v0.3.5] [NoGlory]
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/139740649/91e0d906c49b4798872c292e89709b76/eyJxIjoxMDAsIndlYnAiOjB9/1.png?token-hash=D29pAC09kXlV8wIZM4sPorCMkB-4fhKuF46ccSFUKVY%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview
+&lt;/h1&gt;&lt;details&gt;
+&lt;summary&gt;游戏概述&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;In the year 2032, humanity stands on the brink of a technological breakthrough. A new material, developed by a group of scientists, possesses not only extraordinary strength, hyper-elasticity, and energy-saving properties, but also a unique, or rather exceptional, ability to self-repair. This capability turned the material into a regenerative pill, allowing people with limited abilities to become fully functional humans, while also making them stronger, smarter, and even extending their lifespan.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details&gt;
+&lt;summary&gt;Spoiler: More&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;However, fearing the consequences of such power, the scientists decide to destroy the records, reports, and everything related to their research. They scattered, each going their own way. But as is often the case, someone found the remnants of this work. Ignoring the dangers, they decided to complete it, which eventually led to the formation of a globally banned terrorist organization called &amp;ldquo;Masquerade.&amp;rdquo; In response, leaders of major corporations launched a large-scale operation to eliminate the individual responsible and eradicate everything related to the research.
+You are a former soldier, unable to bear the guilt of the atrocities committed during the operation. You retreat to a remote location on the edge of the world, a small town cut off from the rest of civilization, where you planned to live a peaceful life with your wife and children, far removed from all the troubles of the past.
+But, as often happens, things do not go according to plan. One day, when your wife goes on a business trip to a certain research institute, she suddenly stops contacting you. In an attempt to find out what happened, you embark on a journey. Days, weeks, months, and years pass&amp;hellip; Eventually, you come to terms with the fact that you may never see your wife again, burying all your emotions deep inside. Then, one day, your son arrives, asking for your help and with a glimmer of hope that not all is lost, that there is still a small chance to restore your peaceful life.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;游戏信息&#34;&gt;游戏信息
+&lt;/h2&gt;&lt;h3 id=&#34;游戏类型&#34;&gt;游戏类型
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;游戏玩法：&lt;strong&gt;视觉小说&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;建模引擎：&lt;strong&gt;Honey Select 2&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;运行引擎：&lt;strong&gt;Ren&amp;rsquo;Py&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;游戏画风：&lt;strong&gt;亚洲风&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;版本信息&#34;&gt;版本信息
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;当前版本：&lt;strong&gt;Chapter 2 - 0.3.5&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;原版发布日：&lt;strong&gt;2025-10-31&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;changelog&#34;&gt;Changelog
+&lt;/h3&gt;&lt;details&gt;
+&lt;summary&gt;更新日志&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;2,216 New Images&lt;/li&gt;
+&lt;li&gt;191 New Animations (40+ Minutes Total)&lt;/li&gt;
+&lt;li&gt;6 New Gallery Scenes&lt;/li&gt;
+&lt;li&gt;50+ New Music Tracks&lt;/li&gt;
+&lt;li&gt;110+ New Sound Effects&lt;/li&gt;
+&lt;li&gt;5 New Hidden Renders&lt;/li&gt;
+&lt;li&gt;Several Render Fixes&lt;/li&gt;
+&lt;li&gt;Several Code Fixes&lt;/li&gt;
+&lt;li&gt;Lots of Typos Fixed&lt;/li&gt;
+&lt;li&gt;New UI (Thanks, Pax)&lt;/li&gt;
+&lt;li&gt;New Main Menu&lt;/li&gt;
+&lt;li&gt;New Replay Gallery (Hints Now Added)&lt;/li&gt;
+&lt;li&gt;Fixed some older gallery scenes not playing the whole scene&lt;/li&gt;
+&lt;li&gt;And Other Small Things&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.patreon.com/Astreon&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Patreon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://noglory.itch.io/astreon&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Itch.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://discord.com/invite/cmF9ayjYUq&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Discord&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;落谦酱便利贴&#34;&gt;落谦酱便利贴
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;评分项&lt;/th&gt;
+          &lt;th&gt;评分&lt;/th&gt;
+          &lt;th&gt;点评&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;建模&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 建模细节丰富，人物设计精美，表情和动作刻画到位。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;渲染&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 渲染效果出色，光影处理细致，纹理清晰，画面流畅。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;SFW剧情（素戏）&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐☆☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 剧情简单，节奏略拖沓，人物关系有些单薄。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;NSFW剧情（荤戏）&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 肉戏刻画细腻，情感自然流露。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;BGM&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 背景音乐与剧情相辅相成，音效增添了氛围，特别是在紧张场景中的表现。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;时长&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 时长合适，剧情推进没有冗余，节奏流畅。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;CG&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- CG质量非常高，细节到位，色彩鲜明，光影效果突出。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;游戏预览图&#34;&gt;游戏预览图
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary&gt;素图&lt;/summary&gt;
+&lt;p&gt;&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/135067354/8dd8665dc7104c0481f5e9c9f2567807/eyJxIjoxMDAsIndlYnAiOjB9/1.png?token-hash=xljpAArcUDf6M7julE4TNMz_3_bDmntdP-F73vrui9w%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/135067354/e960e38c1c894d82bc56bd1e68abcfbc/eyJxIjoxMDAsIndlYnAiOjB9/1.png?token-hash=UDkfM8-du_9_mHyzkL9mH1YXm-51-A85PYLvTqAHEAU%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/135067354/fee4f1027d674bbdbfcd1f94f276304b/eyJxIjoxMDAsIndlYnAiOjB9/1.png?token-hash=7hSPC0ixBOUe4Kv58sCwMXekwv4CI8IrEoadpYxrGT8%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/118350377/05edcbc3260a418384833df5e2c654ae/eyJxIjoxMDAsIndlYnAiOjB9/1.png?token-hash=S9rBe1ZZJBiCJ86c0hIMq7YDc8NyBmVH7e5r17BerBg%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/126870805/cc29ba14d33e4e9cba686b60359b044e/eyJxIjoxMDAsIndlYnAiOjB9/1.png?token-hash=82ajXokp7mKMNWHJr1Sinttanad6oo3e84nD9XlRAH8%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;荤图&lt;/summary&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMjk2MjY4My8yMjQzOTc2OC5qcGc=/original/Oj%2BFXY.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMjk2MjY4My8yMjc0NzcwMi5wbmc=/original/11BfFF.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMjk2MjY4My8yMDgyMjI4Ny5qcGc=/original/PvuviE.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/122556444/48df976c9cd748aaa8a5c19c2e910c4e/eyJxIjoxMDAsIndlYnAiOjB9/1.png?token-hash=sgZTwZ7NNbZZkgcAAFQWpxMrIh0GEb3866Yce4mOkN4%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMjk2MjY4My8yMjc0NzcwMC5wbmc=/original/XYR8QX.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;download官中&#34;&gt;DOWNLOAD（官中）
+&lt;/h2&gt;&lt;h3 id=&#34;winlinuxpc端&#34;&gt;Win/Linux（PC端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载文件：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;官中链接：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/EpTNHp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;下载官中&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载官中链接的文件，如果打不开链接，则需要科学上网，没有梯子可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;解压官中原版&lt;/li&gt;
+&lt;li&gt;启动exe游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;android安卓端&#34;&gt;Android（安卓端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载文件：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;官中链接：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/i6oS7g&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;下载官中&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载官中链接的文件，如果打不开链接，则需要科学上网，没有梯子可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ios苹果端&#34;&gt;iOS（苹果端）
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;根据&lt;strong&gt;PC端&lt;/strong&gt;的步骤操作即可，再使用 Spark 等模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宇宙安全声明&#34;&gt;宇宙安全声明！
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播&lt;/li&gt;
+&lt;li&gt;落谦不对因使用本文所产生的任何问题负责&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Cross Realms 跨界</title>
+        <link>https://luoqian29.github.io/p/crossrealms/</link>
+        <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://luoqian29.github.io/p/crossrealms/</guid>
+        <description>&lt;img src="https://c10.patreonusercontent.com/4/patreon-media/p/campaign/11103838/5828fbc4f24d4174ba1a5c74144f15fd/eyJ3IjoxNjAwLCJ3ZSI6MX0%3D/2.png?token-hash=wMutGBN2l0Ss_zUgIbfW8W4VFppC8QG-w-twOsyZ3JQ%3D&amp;token-time=1764806400" alt="Featured image of post Cross Realms 跨界" /&gt;&lt;h1 id=&#34;cross-realms-v030-public-duskduck&#34;&gt;Cross Realms [v0.3.0 Public] [DuskDuck]
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1nLzIxMTUyMDA4LnBuZw==/original/LHv3Vt.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview
+&lt;/h1&gt;&lt;details&gt;
+&lt;summary&gt;游戏概述&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;On the first day of your college life, you and a group of friends are sucked into a vortex. When you wake up, you realize you&amp;rsquo;re in a foreign place - this is not Earth. As you explore this new world, you discover it&amp;rsquo;s a Qi cultivation realm, where power determines everything.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details&gt;
+&lt;summary&gt;Spoiler&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;There are nine Realms, each controlled by a dominant race: Humans, Demons, Deities, Spiritual Beasts, and more. Each Realm has a &amp;ldquo;spring&amp;rdquo; - a flow of Qi energy harvested from the Void, the space between Realms. Because of these springs, peace between the Realms is fragile and rarely lasts long. You arrive during the longest period of peace ever known, but how long will this so-called &amp;lsquo;peace&amp;rsquo; really last?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;As your journey continues, you uncover more secrets about these Realms. Someone in the shadows has been plotting and orchestrating your arrival. Will you be able to stand up for yourself in a world where many see you as nothing more than a useless ant?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The answer are yours to find.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;游戏信息&#34;&gt;游戏信息
+&lt;/h2&gt;&lt;h3 id=&#34;游戏类型&#34;&gt;游戏类型
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;游戏玩法：&lt;strong&gt;视觉小说&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;建模引擎：&lt;strong&gt;Honey Select 2&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;运行引擎：&lt;strong&gt;Ren&amp;rsquo;Py&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;游戏画风：&lt;strong&gt;亚洲风&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;版本信息&#34;&gt;版本信息
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;当前版本：&lt;strong&gt;0.3.0 Public&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;原版发布日：&lt;strong&gt;2025-05-12&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;changelog&#34;&gt;Changelog
+&lt;/h3&gt;&lt;details&gt;
+&lt;summary&gt;更新日志&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a missing path (+26 images)&lt;/li&gt;
+&lt;li&gt;The character detail menu now updates as the story progresses (Requires a new save or starting at Chapter 3 to work and no mod).&lt;/li&gt;
+&lt;li&gt;40 106 Words&lt;/li&gt;
+&lt;li&gt;4061 images&lt;/li&gt;
+&lt;li&gt;16 videos&lt;/li&gt;
+&lt;li&gt;18 sfx&lt;/li&gt;
+&lt;li&gt;19 music track&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;developer入正地址&#34;&gt;Developer(入正地址)
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.patreon.com/DuskDuck&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Patreon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://duskduck.itch.io/cross-realms&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Itch.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://discord.com/invite/9eSqfgdwJ6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Discord&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;落谦酱便利贴&#34;&gt;落谦酱便利贴
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;评分项&lt;/th&gt;
+          &lt;th&gt;评分&lt;/th&gt;
+          &lt;th&gt;点评&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;建模&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 建模细节丰富，人物设计精美，表情和动作刻画到位。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;渲染&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 渲染效果出色，光影处理细致，纹理清晰，画面流畅。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;SFW剧情（素戏）&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐☆☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 剧情简单，节奏略拖沓，人物关系有些单薄。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;NSFW剧情（荤戏）&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 肉戏刻画细腻，情感自然流露。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;BGM&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 背景音乐与剧情相辅相成，音效增添了氛围，特别是在紧张场景中的表现。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;时长&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 时长合适，剧情推进没有冗余，节奏流畅。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;CG&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- CG质量非常高，细节到位，色彩鲜明，光影效果突出。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;预览图&#34;&gt;预览图
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary&gt;素图&lt;/summary&gt;
+&lt;p&gt;&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/122257120/ad55a4e3b0994b58af77103ba906f58a/eyJxIjoxMDAsIndlYnAiOjB9/1.png?token-hash=HgiayBHcXzgw7iINF1HeEk3kLb9nHnqwUoInjDCfLO0%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/113982601/305d04c936ae447c9e1980a47d69d09b/eyJxIjoxMDAsIndlYnAiOjB9/1.png?token-hash=8Z_5drKNtStDuyZLkXLg_EHIsNd0v9ClGjeoTZ2lpf8%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/119023974/4dc04f31f9534f3b897c01df314b4f08/eyJxIjoxMDAsIndlYnAiOjB9/1.png?token-hash=1ps-4tHCOSo76LdoTfy-CyDVpNtb_vxJIw_ZysP1lz4%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/116396700/131f5edf843f4be7803cd1cae3819f73/eyJxIjoxMDAsIndlYnAiOjB9/1.png?token-hash=5JcWkF4U50h9tQVNaSV_5zCx4wQBomekSTBVnzmFBMg%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/115005664/ccceb9b3ed6b4f46b4b57df787a82360/eyJxIjoxMDAsIndlYnAiOjB9/1.png?token-hash=h1R3sqwsmCXo_KkS714eCRG85mZ0HymPy2vtEpIgcSM%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/104785575/48c15b536c564b089a397a16090fb7e9/eyJxIjoxMDAsIndlYnAiOjB9/1.png?token-hash=tPRlOFpbNWX0Kgs8zZoIKIE6BXMGpYy0LL19n8NE5Bc%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;荤图&lt;/summary&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMjIzODE4NS8xNTIxMTE0OC5wbmc=/original/33b7qO.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMjIzODE4NS8xNTIxMTA4My5wbmc=/original/IJHjA6.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMjIzODE4NS8xNTIxMTA4Ny5wbmc=/original/PPLWsr.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMjIzODE4NS8xNzc1OTA4NC5qcGc=/original/tNtiu3.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;download官中&#34;&gt;DOWNLOAD(官中)
+&lt;/h2&gt;&lt;h3 id=&#34;winlinuxpc端&#34;&gt;Win/Linux(PC端)
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载文件：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;官中链接：&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/file/d/1R9rhDc1jFaAZclsqtETSuf3pJwSBClc_/view&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;下载官中&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载官中链接的文件，如果打不开链接，则需要科学上网，没有梯子可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;解压官中原版&lt;/li&gt;
+&lt;li&gt;启动exe游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;android安卓端&#34;&gt;Android(安卓端)
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载文件：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;官中链接：&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/file/d/1G0gwkwQq47rdZZmZ6zgiPf4NVOcb4g-5/view&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;下载官中&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载官中链接的文件，如果打不开链接，则需要科学上网，没有梯子可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;安装APK文件&lt;/li&gt;
+&lt;li&gt;启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ios苹果端&#34;&gt;iOS(苹果端)
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;根据&lt;strong&gt;PC端&lt;/strong&gt;的步骤操作即可，再使用 Spark 等模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宇宙安全声明&#34;&gt;宇宙安全声明！
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播&lt;/li&gt;
+&lt;li&gt;落谦不对因使用本文所产生的任何问题负责&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Agent17 特工17</title>
+        <link>https://luoqian29.github.io/p/agent17/</link>
+        <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://luoqian29.github.io/p/agent17/</guid>
+        <description>&lt;img src="https://luoqian29.github.io/post/Agent17/%E5%B0%81%E9%9D%A2.png" alt="Featured image of post Agent17 特工17" /&gt;&lt;h1 id=&#34;agent17-v0259-hexatail&#34;&gt;Agent17 [v0.25.9] [HEXATAIL]
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/97216860/91260864922d4803a0d907b0732d0ad9/eyJxIjoxMDAsIndlYnAiOjB9/1.gif?token-hash=1-SRRD3h9OebBl3OPGEd4FTmn2YfBqA4ngvIJGR9z_g%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview
+&lt;/h1&gt;&lt;details&gt;
+&lt;summary&gt;游戏概述&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;You are an ordinary-looking pervert with average grades, blending into the background at school without anyone paying much attention to you. Occasionally, you may face bullying from troublemakers, possibly even being robbed or coerced into doing their bidding. However, one fateful day while heading home, you stumble upon a damaged phone. The phone initiated transformation in your life.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details&gt;
+&lt;summary&gt;Spoiler: More&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This phone has the power to solve all your problems. Contrary to popular belief, an unknown individual called Agent17 obeys the commands of whoever picks up the phone, allowing you to instruct her to carry out any task. Suddenly, your life takes a dramatic turn for the better. You triumph over the bullies who tormented you, and you exact revenge on the teachers and principals who held you in contempt.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The mundane school life that once held no interest for you begins to change as you start interacting with a multitude of talented and captivating individuals. As your connections deepen, you gradually uncover their hidden secrets. With the formidable abilities of Agent17 at your disposal, you also delve into their unknown mysteries. Moreover, you realize that your life is brimming with countless fascinating discoveries awaiting your exploration.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;游戏信息&#34;&gt;游戏信息
+&lt;/h2&gt;&lt;h3 id=&#34;游戏类型&#34;&gt;游戏类型
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;游戏玩法：&lt;strong&gt;沙盒视觉小说&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;建模引擎：&lt;strong&gt;Honey Select 2&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;运行引擎：&lt;strong&gt;Ren&amp;rsquo;Py&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;游戏画风：&lt;strong&gt;亚洲风&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;版本信息&#34;&gt;版本信息
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;当前版本：&lt;strong&gt;0.25.9&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;原版发布日：&lt;strong&gt;2025-04-17&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;changelog&#34;&gt;Changelog
+&lt;/h3&gt;&lt;details&gt;
+&lt;summary&gt;更新日志&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;N/A&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.patreon.com/cw/hexatail&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Patreon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://hexatail.itch.io/agent17&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Itch.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;落谦酱便利贴&#34;&gt;落谦酱便利贴
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;评分项&lt;/th&gt;
+          &lt;th&gt;评分&lt;/th&gt;
+          &lt;th&gt;点评&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;建模&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 建模细节丰富，人物设计精美，表情和动作刻画到位。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;渲染&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 渲染效果出色，光影处理细致，纹理清晰，画面流畅。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;SFW剧情（素戏）&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐☆☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 剧情简单，节奏略拖沓，人物关系有些单薄。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;NSFW剧情（荤戏）&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 肉戏刻画细腻，情感自然流露。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;BGM&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 背景音乐与剧情相辅相成，音效增添了氛围，特别是在紧张场景中的表现。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;时长&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 时长合适，剧情推进没有冗余，节奏流畅。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;CG&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- CG质量非常高，细节到位，色彩鲜明，光影效果突出。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;游戏预览图&#34;&gt;游戏预览图
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary&gt;素图&lt;/summary&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMjEzNDk5Mi8xMjY0Njk2NS5qcGc=/original/H1xcQd.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMjEzNDk5Mi8xMjY0Njk5Ny5wbmc=/original/8OpiHv.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMjEzNDk5Mi8xMjY0Njk1NS5wbmc=/original/oSmdIA.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMjEzNDk5Mi8xMjY0Njk1NC5wbmc=/original/KuDJ2W.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMjEzNDk5Mi8xMjY0Njk1Ni5wbmc=/original/cQ4imm.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;荤图&lt;/summary&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMjEzNDk5Mi8xMjY0NzA1OS5wbmc=/original/vvzZlN.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMjEzNDk5Mi8xMjY0Njk1My5wbmc=/original/YdYnnn.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMjEzNDk5Mi8xMjY0NzA1OS5wbmc=/original/vvzZlN.pngg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMjEzNDk5Mi8xMjY0Njk5Ni5wbmc=/original/W0iUll.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMjEzNDk5Mi8xMjY0NzA2MS5wbmc=/original/BbxYB%2B.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;download官中&#34;&gt;DOWNLOAD（官中）
+&lt;/h2&gt;&lt;h3 id=&#34;winlinuxpc端&#34;&gt;Win/Linux（PC端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载文件：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;官中链接：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/6nXaT4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;下载官中&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载官中链接的文件，如果打不开链接，则需要科学上网，没有梯子可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;解压官中原版&lt;/li&gt;
+&lt;li&gt;启动exe游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;android安卓端&#34;&gt;Android（安卓端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载文件：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;官中链接：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/oGbiYf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;下载官中&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载官中链接的文件，如果打不开链接，则需要科学上网，没有梯子可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ios苹果端&#34;&gt;iOS（苹果端）
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;根据&lt;strong&gt;PC端&lt;/strong&gt;的步骤操作即可，再使用 Spark 等模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宇宙安全声明&#34;&gt;宇宙安全声明！
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播&lt;/li&gt;
+&lt;li&gt;落谦不对因使用本文所产生的任何问题负责&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Apocalypse 2059 启示录2059</title>
+        <link>https://luoqian29.github.io/p/apocalypse2059/</link>
+        <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://luoqian29.github.io/p/apocalypse2059/</guid>
+        <description>&lt;img src="https://c10.patreonusercontent.com/4/patreon-media/p/campaign/12608578/98874576607641198af128a36d81237b/eyJ3IjoxNjAwLCJ3ZSI6MX0%3D/5.png?token-hash=WmZX9Ifyar9G3qejt3ozseAz_U1X0Li7dB27-8ROCdw%3D&amp;token-time=1764806400" alt="Featured image of post Apocalypse 2059 启示录2059" /&gt;&lt;h1 id=&#34;apocalypse-2059-v03-bigh4ndinc&#34;&gt;Apocalypse 2059 [v0.3] [BigH4nd.Inc]
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/141628639/1ab8299ed4de44568edf9af20b1d893e/eyJxIjoxMDAsIndlYnAiOjB9/1.png?token-hash=mbUhH0Eeua836wDseoChHippp5kQ-auNvbG8n-ox2Yo%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;0.3封面图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview
+&lt;/h1&gt;&lt;details&gt;
+&lt;summary&gt;游戏概述&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Apocalypse 2059
+Welcome to the savage world of 2059, where survival is a daily struggle and civilization is nothing but a distant memory.
+The World That Was
+In 2030, an event known as &amp;ldquo;The Cataclysm&amp;rdquo; forever changed the face of Earth. Nuclear weapons claimed lives in an instant, plunging the world into a devastating nuclear winter that lasted over a decade. Civilization, law, and morality crumbled into dust. The surface became an inferno, forcing what little plant life remained to retreat underground. For the few who survived, existence became a constant battle against extinction.
+Twenty years have passed. The pre-war generation grows old, while a new generation rises, knowing nothing of the world that came before.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details&gt;
+&lt;summary&gt;Spoiler&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Your Story Begins
+The story takes place in the year 2059. You, the protagonist, have been living in solitude in a shelter since your birth. These peaceful days are changed by the appearance of a mysterious woman. At her urgent request, you&amp;rsquo;ll embark on a perilous journey across the savage lands of what was once civilization.
+Unforgettable Characters
+Your path will cross with unique survivors, each shaped by the merciless world they inhabit:
+A reckless and confident villain with her own agenda
+A young, sensitive tribal leader struggling to protect her people
+A ruthless warlord carving out her empire silver-tongued treasure hunter seeking fortune in the ruins&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;游戏信息&#34;&gt;游戏信息
+&lt;/h3&gt;&lt;h3 id=&#34;游戏类型&#34;&gt;游戏类型
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;游戏玩法：&lt;strong&gt;视觉小说&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;建模引擎：&lt;strong&gt;Honey Select 2&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;运行引擎：&lt;strong&gt;Ren&amp;rsquo;Py&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;游戏画风：&lt;strong&gt;亚洲风&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;版本信息&#34;&gt;版本信息
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;当前版本：&lt;strong&gt;0.3&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;原版发布日：&lt;strong&gt;2025-10-09&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;changelog&#34;&gt;Changelog
+&lt;/h3&gt;&lt;details&gt;
+&lt;summary&gt;更新日志&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;What&amp;rsquo;s New in Version 0.3?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Massive Content Update:&lt;/li&gt;
+&lt;li&gt;Complete storyline of Chapter Two&lt;/li&gt;
+&lt;li&gt;500+ carefully designed new CGs&lt;/li&gt;
+&lt;li&gt;2000+ lines of new dialog and narrative content&lt;/li&gt;
+&lt;li&gt;One hours of new main storyline gameplay&lt;/li&gt;
+&lt;li&gt;(I didn&amp;rsquo;t actually count that part, I just felt it was about this much :p)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;New Characters:&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;1 important new female characters with unique backstories&lt;/li&gt;
+&lt;li&gt;Deeper development of existing character relationships&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technical Improvements &amp;amp; Enhancements:&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Character Tales CGs - I&amp;rsquo;m excited to introduce the first Character Tales CG featuring Harlie! While my original plan was to complete CGs for all characters in this update, I found myself struggling with thematic direction for the other characters&amp;rsquo; Tales artwork. Rather than rush these important pieces, I&amp;rsquo;ve decided to take a more thoughtful approach. I&amp;rsquo;ll be opening discussions on our Discord server to gather community input on themes and ideas for the remaining Character Tales CGs. Your feedback will help shape these special artworks!&lt;/li&gt;
+&lt;li&gt;Updated Russian localization - v0.25 Russian version now integrated into official release (Thanks to Debios)&lt;/li&gt;
+&lt;li&gt;Continued Chinese language support - Full localization for all new content (Thanks to XerxesBreak)&lt;/li&gt;
+&lt;li&gt;Performance optimizations and bug fixes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;developer入正地址&#34;&gt;Developer(入正地址)
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.patreon.com/biggyh4nd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Patreon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://bigh4ndinc.itch.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Itch.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://discord.com/invite/tMKtW7hFaE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Discord&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;落谦酱便利贴&#34;&gt;落谦酱便利贴
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;评分项&lt;/th&gt;
+          &lt;th&gt;评分&lt;/th&gt;
+          &lt;th&gt;点评&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;建模&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 建模细节丰富，人物设计精美，表情和动作刻画到位。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;渲染&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 渲染效果出色，光影处理细致，纹理清晰，画面流畅。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;SFW剧情（素戏）&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐☆☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 剧情简单，节奏略拖沓，人物关系有些单薄。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;NSFW剧情（荤戏）&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 肉戏刻画细腻，情感自然流露。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;BGM&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 背景音乐与剧情相辅相成，音效增添了氛围，特别是在紧张场景中的表现。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;时长&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 时长合适，剧情推进没有冗余，节奏流畅。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;CG&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- CG质量非常高，细节到位，色彩鲜明，光影效果突出。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;游戏预览图&#34;&gt;游戏预览图
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary&gt;素图&lt;/summary&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMzIwMTM2My8yMTY5NTg0OS5wbmc=/original/iN9Bh4.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMzIwMTM2My8xOTExOTU3MS5wbmc=/original/ntTb%2BJ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;download官中&#34;&gt;DOWNLOAD（官中）
+&lt;/h2&gt;&lt;h3 id=&#34;winlinuxpc端&#34;&gt;Win/Linux（PC端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载文件：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;官中链接：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/z4af9Z&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;下载官中&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载官中链接的文件，如果打不开链接，则需要科学上网，没有梯子可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;解压官中原版&lt;/li&gt;
+&lt;li&gt;启动exe游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;android安卓端&#34;&gt;Android（安卓端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载文件：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;官中链接：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ufeVyx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;下载官中&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载官中链接的文件，如果打不开链接，则需要科学上网，没有梯子可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ios苹果端&#34;&gt;iOS（苹果端）
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;根据&lt;strong&gt;PC端&lt;/strong&gt;的步骤操作即可，再使用 Spark 等模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宇宙安全声明&#34;&gt;宇宙安全声明！
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播&lt;/li&gt;
+&lt;li&gt;落谦不对因使用本文所产生的任何问题负责&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
         <title>FreshWomen 新生也疯狂</title>
         <link>https://luoqian29.github.io/p/freshwomen/</link>
         <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
