@@ -7,14 +7,14 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Tue, 18 Nov 2025 00:08:36 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>City Devil 城市恶魔</title>
-        <link>https://luoqian29.github.io/p/citydevil/</link>
-        <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+        <lastBuildDate>Tue, 18 Nov 2025 00:38:08 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Forbidden Fantasy 禁忌幻想</title>
+        <link>https://luoqian29.github.io/p/forbiddenfantasy/</link>
+        <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://luoqian29.github.io/p/citydevil/</guid>
-        <description>&lt;img src="https://c10.patreonusercontent.com/4/patreon-media/p/campaign/9405242/a59041d7d0d640e391b9903913abcfaa/eyJ3IjoxNjAwLCJ3ZSI6MX0%3D/9.png?token-hash=xhLis38KtDYOnyF46p2blYr6qAWnNzPO6VwjIjBOc6k%3D&amp;token-time=1764806400" alt="Featured image of post City Devil 城市恶魔" /&gt;&lt;h1 id=&#34;city-devil-restart-v040-public-sabirow&#34;&gt;City Devil: Restart [v0.4.0 Public] [Sabirow]
-&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1nLzIzNTcwMTk4LmpwZw==/original/xErtbA.jpg&#34;
+        <guid>https://luoqian29.github.io/p/forbiddenfantasy/</guid>
+        <description>&lt;img src="https://luoqian29.github.io/post/ForbiddenFantasy/%E5%B0%81%E9%9D%A2.jpg" alt="Featured image of post Forbidden Fantasy 禁忌幻想" /&gt;&lt;h1 id=&#34;forbidden-fantasy-completed-supporter-oppaiman&#34;&gt;Forbidden Fantasy [Completed Supporter] [OppaiMan]
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/106569888/1b95393b00d64928a532384240c6ea61/eyJxIjoxMDAsIndlYnAiOjB9/1.jpg?token-hash=V8J1MFeaW2WcZHlLn39qfC0fKN0UBoBczzLRPq3UKpQ%3D&amp;amp;token-time=1764633600&#34;
 	
 	
 	
@@ -23,21 +23,15 @@
 		alt=&#34;封面图&#34;
 	
 	
-&gt;
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe loading=&#34;lazy&#34; 
-            src=&#34;https://www.youtube.com/embed/n-z2Ut_pKc4&#34; 
-            allowfullscreen 
-            title=&#34;YouTube Video&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
+&gt;&lt;/p&gt;
 &lt;h1 id=&#34;overview&#34;&gt;Overview
 &lt;/h1&gt;&lt;details&gt;
 &lt;summary&gt;剧情概要&lt;/summary&gt;
 &lt;ul&gt;
-&lt;li&gt;In a new city, you start a fresh chapter of your life by enrolling in a high school. Embarking on this thrilling journey, you&amp;rsquo;ll encounter a diverse group of friends, including charming and beautiful girls. As you explore the town and its inhabitants, you will realize something mysterious and disturbing is happening here. Strange people and unexplained phenomena seem to haunt you. MC&amp;rsquo;s frequent nightmares add a creepy element to the story. As you interact with various characters, you will also have to make decisions that will affect the game&amp;rsquo;s outcome. Your choices will determine the course of the story and the relationships you form with other characters.&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;re a young male warrior chosen by the sacrificial prophecy.&lt;/li&gt;
+&lt;li&gt;Train with your elf lady master.&lt;/li&gt;
+&lt;li&gt;Save the world from the hands of the demon queen.&lt;/li&gt;
+&lt;li&gt;Romance the mystical women in a world filled with adventure, mystery, and sex.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr&gt;
@@ -45,38 +39,35 @@
 &lt;/h2&gt;&lt;h3 id=&#34;游戏类型&#34;&gt;游戏类型
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;游戏玩法：&lt;strong&gt;视觉小说&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;建模引擎：&lt;strong&gt;Honey Select 2&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;建模引擎：&lt;strong&gt;Daz Studio&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;运行引擎：&lt;strong&gt;Ren&amp;rsquo;Py&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;游戏画风：&lt;strong&gt;亚洲风&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;游戏画风：&lt;strong&gt;欧美风&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;版本信息&#34;&gt;版本信息
 &lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;当前版本：&lt;strong&gt;0.4.0 Public&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;发行日期：&lt;strong&gt;2025-11-14&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;当前版本：&lt;strong&gt;Completed - Supporter&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;发行日期：&lt;strong&gt;2024-11-19&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;changelog&#34;&gt;Changelog
 &lt;/h3&gt;&lt;details&gt;
 &lt;summary&gt;更新日志&lt;/summary&gt;
 &lt;ul&gt;
-&lt;li&gt;2 600+ new images&lt;/li&gt;
-&lt;li&gt;305+ new animations&lt;/li&gt;
-&lt;li&gt;24 900+ new words&lt;/li&gt;
-&lt;li&gt;19 200+ rewritten words from earlier versions&lt;/li&gt;
-&lt;li&gt;90+ new music &amp;amp; ambient tracks&lt;/li&gt;
-&lt;li&gt;215+ new sound effects&lt;/li&gt;
-&lt;li&gt;Updated relationship screen&lt;/li&gt;
-&lt;li&gt;Numerous minor improvements &amp;amp; fixes&lt;/li&gt;
+&lt;li&gt;2-4 hours of content: 6 sex scenes, 171 animations and 1971 images.&lt;/li&gt;
+&lt;li&gt;Voice acting and moans: Captivating voice acting and immersive sounds intensify each scene, including provocative moans and whispers.&lt;/li&gt;
+&lt;li&gt;High-resolution graphics: Options in 720p, 1080p and even 4K for a visual experience that explores every detail.&lt;/li&gt;
+&lt;li&gt;Physics and sweat: Each character comes to life with fluid animation physics and sweat effects, adding to the realism.&lt;/li&gt;
+&lt;li&gt;Interactive content: Your journey, your decisions. With each choice, a new alliance or revelation.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;h3 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
 &lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.patreon.com/sabirow&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.patreon.com/cw/OppaiMan_ForbiddenFantasy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Patreon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://sabirow.itch.io/cdr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://oppaiman.itch.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Itch.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://subscribestar.adult/sabirow&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Subscribestar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://discord.com/invite/sabirow&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://store.steampowered.com/app/2638560/_/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Steam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://discord.com/invite/zVWqPMDYkP&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Discord&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -84,7 +75,7 @@
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;PS&lt;/summary&gt;
 &lt;ul&gt;
-&lt;li&gt;没多少肉戏，挺多动画的，就这样。&lt;/li&gt;
+&lt;li&gt;经典异世界剧情，有CV配音。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
@@ -139,8 +130,8 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;游戏预览图&#34;&gt;游戏预览图
 &lt;/h2&gt;&lt;details&gt;
-&lt;summary&gt;素图&lt;/summary&gt;
-&lt;p&gt;&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/84074549/083e50fdc9724a858eb084ee0af3a50c/eyJxIjoxMDAsIndlYnAiOjB9/1.jpg?token-hash=LAuKu9VNIEQNxcrf4M1NZPU089BER46R3OrtGLHtmm4%3D&amp;amp;token-time=1763337600&#34;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;荤图&lt;/summary&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn-uploads.oppaiman.com/game-page/about/a67adbf9ee18c62d1f37fec1da6b856ff3887b3ef273c972051ca7d3bddfb73c.gif&#34;
 	
 	
 	
@@ -150,7 +141,7 @@
 	
 	
 &gt;
-&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/94393169/eee54d50d7d14c73a268097bde6f93bb/eyJxIjoxMDAsIndlYnAiOjB9/1.jpg?token-hash=ZMLQj1wyZ52MhNkIzKbbmdqbRjScI2woeLobaJe4B7M%3D&amp;amp;token-time=1763337600&#34;
+&lt;img src=&#34;https://cdn-uploads.oppaiman.com/game-page/about/3d7fa72d51e1cd86ec68b215643a02c5f379ddb49abf5851d9054579c6a5fe86.gif&#34;
 	
 	
 	
@@ -160,7 +151,7 @@
 	
 	
 &gt;
-&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/94393169/213b30e84164406fb0f8ba0841da388f/eyJxIjoxMDAsIndlYnAiOjB9/1.jpg?token-hash=-_h5jvLsAdLcKsiuah0lrWQcTefOlraMakkWoqGu9QA%3D&amp;amp;token-time=1763337600&#34;
+&lt;img src=&#34;https://cdn-uploads.oppaiman.com/game-page/about/0be4cb46a400128452c1054bdcbd84c1a052ae909da0211a83ed9af4cfd0cf34.gif&#34;
 	
 	
 	
@@ -170,7 +161,7 @@
 	
 	
 &gt;
-&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/94393169/c26ab5850f1f4f638602b9331d14786c/eyJxIjoxMDAsIndlYnAiOjB9/1.jpg?token-hash=3U-hIzMPLeb7Gof7Gr4Y3Y9IzBEe6615ckpOg_zurDA%3D&amp;amp;token-time=1763337600&#34;
+&lt;img src=&#34;https://cdn-uploads.oppaiman.com/game-page/about/4c1c461b4bd90ffa9d4dfa8689528aa82905736b9db465b9cf4da6c7c39d9f13.gif&#34;
 	
 	
 	
@@ -180,7 +171,7 @@
 	
 	
 &gt;
-&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/94393169/b2d0e2464c144bab847a6c3e7afb54b9/eyJxIjoxMDAsIndlYnAiOjB9/1.jpg?token-hash=VwqqdyAUMvR9n1CvEZIocri1nr6KbTHEQEYa-bzk71o%3D&amp;amp;token-time=1763337600&#34;
+&lt;img src=&#34;https://cdn-uploads.oppaiman.com/game-page/about/22d5f9e98c02a18f24492e6f658e63823a3725c0e9f9b57b45941436cf3ae7b1.gif&#34;
 	
 	
 	
@@ -198,7 +189,7 @@
 &lt;li&gt;下载链接：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/eUH7cW&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/HuoWI6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
@@ -216,7 +207,7 @@
 &lt;li&gt;下载链接：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ql25u6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/tLm4MZ&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
@@ -246,7 +237,7 @@
         <item>
         <title>FreshWomen 新生也疯狂</title>
         <link>https://luoqian29.github.io/p/freshwomen/</link>
-        <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
         
         <guid>https://luoqian29.github.io/p/freshwomen/</guid>
         <description>&lt;img src="https://cdn-public.oppaiman.com/cover-photos/oppaiman.jpg" alt="Featured image of post FreshWomen 新生也疯狂" /&gt;&lt;h1 id=&#34;freshwomen-s2-final-supporter-edition-steam-oppaiman&#34;&gt;FreshWomen [S2 Final Supporter Edition Steam] [OppaiMan]
@@ -545,6 +536,242 @@
 &lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宇宙安全声明&#34;&gt;宇宙安全声明！
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播&lt;/li&gt;
+&lt;li&gt;落谦不对因使用本文所产生的任何问题负责&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>City Devil 城市恶魔</title>
+        <link>https://luoqian29.github.io/p/citydevil/</link>
+        <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://luoqian29.github.io/p/citydevil/</guid>
+        <description>&lt;img src="https://c10.patreonusercontent.com/4/patreon-media/p/campaign/9405242/a59041d7d0d640e391b9903913abcfaa/eyJ3IjoxNjAwLCJ3ZSI6MX0%3D/9.png?token-hash=xhLis38KtDYOnyF46p2blYr6qAWnNzPO6VwjIjBOc6k%3D&amp;token-time=1764806400" alt="Featured image of post City Devil 城市恶魔" /&gt;&lt;h1 id=&#34;city-devil-restart-v040-public-sabirow&#34;&gt;City Devil: Restart [v0.4.0 Public] [Sabirow]
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1nLzIzNTcwMTk4LmpwZw==/original/xErtbA.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/n-z2Ut_pKc4&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview
+&lt;/h1&gt;&lt;details&gt;
+&lt;summary&gt;剧情概要&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;In a new city, you start a fresh chapter of your life by enrolling in a high school. Embarking on this thrilling journey, you&amp;rsquo;ll encounter a diverse group of friends, including charming and beautiful girls. As you explore the town and its inhabitants, you will realize something mysterious and disturbing is happening here. Strange people and unexplained phenomena seem to haunt you. MC&amp;rsquo;s frequent nightmares add a creepy element to the story. As you interact with various characters, you will also have to make decisions that will affect the game&amp;rsquo;s outcome. Your choices will determine the course of the story and the relationships you form with other characters.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;游戏信息&#34;&gt;游戏信息
+&lt;/h2&gt;&lt;h3 id=&#34;游戏类型&#34;&gt;游戏类型
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;游戏玩法：&lt;strong&gt;视觉小说&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;建模引擎：&lt;strong&gt;Honey Select 2&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;运行引擎：&lt;strong&gt;Ren&amp;rsquo;Py&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;游戏画风：&lt;strong&gt;亚洲风&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;版本信息&#34;&gt;版本信息
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;当前版本：&lt;strong&gt;0.4.0 Public&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;发行日期：&lt;strong&gt;2025-11-14&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;changelog&#34;&gt;Changelog
+&lt;/h3&gt;&lt;details&gt;
+&lt;summary&gt;更新日志&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;2 600+ new images&lt;/li&gt;
+&lt;li&gt;305+ new animations&lt;/li&gt;
+&lt;li&gt;24 900+ new words&lt;/li&gt;
+&lt;li&gt;19 200+ rewritten words from earlier versions&lt;/li&gt;
+&lt;li&gt;90+ new music &amp;amp; ambient tracks&lt;/li&gt;
+&lt;li&gt;215+ new sound effects&lt;/li&gt;
+&lt;li&gt;Updated relationship screen&lt;/li&gt;
+&lt;li&gt;Numerous minor improvements &amp;amp; fixes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.patreon.com/sabirow&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Patreon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://sabirow.itch.io/cdr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Itch.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://subscribestar.adult/sabirow&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Subscribestar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://discord.com/invite/sabirow&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Discord&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;落谦酱便利贴&#34;&gt;落谦酱便利贴
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;PS&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;没多少肉戏，挺多动画的，就这样。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;评分项&lt;/th&gt;
+          &lt;th&gt;评分&lt;/th&gt;
+          &lt;th&gt;点评&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;建模&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 建模细节丰富，人物设计精美，表情和动作刻画到位。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;渲染&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 渲染效果出色，光影处理细致，纹理清晰，画面流畅。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;SFW剧情（素戏）&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐☆☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 剧情简单，节奏略拖沓，人物关系有些单薄。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;NSFW剧情（荤戏）&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 肉戏刻画细腻，情感自然流露。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;BGM&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 背景音乐与剧情相辅相成，音效增添了氛围，特别是在紧张场景中的表现。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;时长&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 时长合适，剧情推进没有冗余，节奏流畅。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;CG&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- CG质量非常高，细节到位，色彩鲜明，光影效果突出。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;游戏预览图&#34;&gt;游戏预览图
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary&gt;素图&lt;/summary&gt;
+&lt;p&gt;&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/84074549/083e50fdc9724a858eb084ee0af3a50c/eyJxIjoxMDAsIndlYnAiOjB9/1.jpg?token-hash=LAuKu9VNIEQNxcrf4M1NZPU089BER46R3OrtGLHtmm4%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/94393169/eee54d50d7d14c73a268097bde6f93bb/eyJxIjoxMDAsIndlYnAiOjB9/1.jpg?token-hash=ZMLQj1wyZ52MhNkIzKbbmdqbRjScI2woeLobaJe4B7M%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/94393169/213b30e84164406fb0f8ba0841da388f/eyJxIjoxMDAsIndlYnAiOjB9/1.jpg?token-hash=-_h5jvLsAdLcKsiuah0lrWQcTefOlraMakkWoqGu9QA%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/94393169/c26ab5850f1f4f638602b9331d14786c/eyJxIjoxMDAsIndlYnAiOjB9/1.jpg?token-hash=3U-hIzMPLeb7Gof7Gr4Y3Y9IzBEe6615ckpOg_zurDA%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/94393169/b2d0e2464c144bab847a6c3e7afb54b9/eyJxIjoxMDAsIndlYnAiOjB9/1.jpg?token-hash=VwqqdyAUMvR9n1CvEZIocri1nr6KbTHEQEYa-bzk71o%3D&amp;amp;token-time=1763337600&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;download官中&#34;&gt;DOWNLOAD（官中）
+&lt;/h2&gt;&lt;h3 id=&#34;winlinuxpc端&#34;&gt;Win/Linux（PC端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/eUH7cW&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;解压&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;文件，选择简体中文即可&lt;/li&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;android安卓端&#34;&gt;Android（安卓端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ql25u6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动&lt;strong&gt;游戏&lt;/strong&gt;，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ios苹果端&#34;&gt;iOS（苹果端）
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;根据&lt;strong&gt;PC端&lt;/strong&gt;的步骤操作即可，再使用 Spark 等模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;宇宙安全声明&#34;&gt;宇宙安全声明！
 &lt;/h2&gt;&lt;ul&gt;
