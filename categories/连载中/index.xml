@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Sat, 29 Nov 2025 23:53:20 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E8%BF%9E%E8%BD%BD%E4%B8%AD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 30 Nov 2025 23:41:01 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E8%BF%9E%E8%BD%BD%E4%B8%AD/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Waifu Academy 二次元老婆学院</title>
         <link>https://luoqian29.github.io/p/waifuacademy/</link>
         <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
@@ -43,7 +43,7 @@
 &lt;h3 id=&#34;版本信息&#34;&gt;版本信息
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;当前版本：&lt;strong&gt;0.13.5&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;原版发布日：&lt;strong&gt;2025-11-29&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;发行日期：&lt;strong&gt;2025-11-29&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;changelog&#34;&gt;Changelog
 &lt;/h3&gt;&lt;details&gt;
@@ -70,7 +70,7 @@
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;PS&lt;/summary&gt;
 &lt;ul&gt;
-&lt;li&gt;拖更王，终于更新了，我只修了这次更新的bug，之前版本如果看到漏翻，得人工导入，如果再翻就是直译了，我有时间再修！&lt;/li&gt;
+&lt;li&gt;累死我了，终于把漏导入和漏翻的bug修好了，如果还有英文句子，我也没辙了，文本量太大了，实在不想润色！&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
@@ -78,7 +78,8 @@
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;PS：应该是没有漏翻的句子，有可能部分人名错翻了？（音译问题）最近DeepSeek-V3老是这样，有时候会，有时候不会，但是用其他引擎，跑出来的意译效果没V3的好，落谦实在没时间去逐句意译了，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;制作日期：&lt;strong&gt;2025-11-30&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;PS：可能会出现&lt;strong&gt;极少量&lt;/strong&gt;的&lt;strong&gt;人名翻译误差&lt;/strong&gt;。例如我指定AI将&lt;strong&gt;Rachel&lt;/strong&gt;统一翻译为&lt;strong&gt;瑞秋&lt;/strong&gt;，AI只会在检测到&lt;strong&gt;完全一致&lt;/strong&gt;的&lt;strong&gt;英文单词&lt;/strong&gt;时进行替换。如果原文中存在&lt;strong&gt;拼写错误&lt;/strong&gt;、&lt;strong&gt;缩写格式&lt;/strong&gt;，或&lt;strong&gt;Rachel’s&lt;/strong&gt;这类词形变化（如名词的所有格、复数用法等），就可能被误译成&lt;strong&gt;瑞惠&lt;/strong&gt;，但仍会保持音译形式，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;免死金牌：&lt;/strong&gt; 落谦的汉化补丁，无论是 AI 意译版本还是逐句意译版本，都远不及原文或其他大佬的汉化版本。与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电&lt;/strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class=&#34;blur&#34;&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
@@ -135,7 +136,7 @@
 &lt;h2 id=&#34;游戏预览图&#34;&gt;游戏预览图
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;素图&lt;/summary&gt;
-&lt;p&gt;&lt;img src=&#34;https://luoqian29.github.io/post/WaifuAcademy/%e5%b0%81%e9%9d%a2.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://luoqian29.github.io/post/WaifuAcademy/%e9%a2%84%e8%a7%88%e5%9b%be1.jpg&#34;
 	
 	
 	
@@ -157,7 +158,7 @@
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://vikingfile.com/f/VTfBKyK0il&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/3c99NK&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/v3Yrze&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
@@ -180,7 +181,7 @@
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://vikingfile.com/f/VTfBKyK0il&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/3c99NK&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/v3Yrze&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/pKQmQS&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
@@ -2005,8 +2006,8 @@ Since the death of their Queen and a great apathy seized their king, it fell to 
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;制作时间：&lt;strong&gt;2025-11-19&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;PS：应该是没有漏翻的句子，有可能部分句子的人名错翻了？有时候会，有时候不会，但是用其他引擎，跑出来的意译效果没V3的好，落谦实在没时间去逐句意译了，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;制作日期：&lt;strong&gt;2025-11-19&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;PS：可能会出现&lt;strong&gt;极少量&lt;/strong&gt;的&lt;strong&gt;人名翻译误差&lt;/strong&gt;。例如我指定AI将&lt;strong&gt;Rachel&lt;/strong&gt;统一翻译为&lt;strong&gt;瑞秋&lt;/strong&gt;，AI只会在检测到&lt;strong&gt;完全一致&lt;/strong&gt;的&lt;strong&gt;英文单词&lt;/strong&gt;时进行替换。如果原文中存在&lt;strong&gt;拼写错误&lt;/strong&gt;、&lt;strong&gt;缩写格式&lt;/strong&gt;，或&lt;strong&gt;Rachel’s&lt;/strong&gt;这类词形变化（如名词的所有格、复数用法等），就可能被误译成&lt;strong&gt;瑞惠&lt;/strong&gt;，但仍会保持音译形式，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;免死金牌：&lt;/strong&gt; 落谦的汉化补丁，无论是 AI 意译版本还是逐句意译版本，都远不及原文或其他大佬的汉化版本。与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电&lt;/strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class=&#34;blur&#34;&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
@@ -6887,7 +6888,7 @@ Come and unravel the secrets behind the MC’s missing father and all the unexpe
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;PS：应该是没有漏翻的句子，有可能部分人名错翻了？（音译问题）最近DeepSeek-V3老是这样，有时候会，有时候不会，但是用其他引擎，跑出来的意译效果没V3的好，落谦实在没时间去逐句意译了，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;PS：可能会出现&lt;strong&gt;极少量&lt;/strong&gt;的&lt;strong&gt;人名翻译误差&lt;/strong&gt;。例如我指定AI将&lt;strong&gt;Rachel&lt;/strong&gt;统一翻译为&lt;strong&gt;瑞秋&lt;/strong&gt;，AI只会在检测到&lt;strong&gt;完全一致&lt;/strong&gt;的&lt;strong&gt;英文单词&lt;/strong&gt;时进行替换。如果原文中存在&lt;strong&gt;拼写错误&lt;/strong&gt;、&lt;strong&gt;缩写格式&lt;/strong&gt;，或&lt;strong&gt;Rachel’s&lt;/strong&gt;这类词形变化（如名词的所有格、复数用法等），就可能被误译成&lt;strong&gt;瑞惠&lt;/strong&gt;，但仍会保持音译形式，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;免死金牌：&lt;/strong&gt; 落谦的汉化补丁，无论是 AI 意译版本还是逐句意译版本，都远不及原文或其他大佬的汉化版本。与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电&lt;/strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class=&#34;blur&#34;&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
