@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Mon, 17 Nov 2025 04:28:19 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 06 Jan 2026 21:34:24 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>归档</title>
         <link>https://luoqian29.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
@@ -29,7 +29,14 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://luoqian29.github.io/about/</guid>
-        <description></description>
+        <description>&lt;style&gt;
+    /* 只针对当前页面生效：让标题和副标题居中 */
+    .article-details .article-title,
+    .article-details .article-subtitle {
+        text-align: center;
+    }
+&lt;/style&gt;
+</description>
         </item>
         <item>
         <title>搜索</title>
