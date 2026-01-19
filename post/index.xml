@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Mon, 19 Jan 2026 04:29:37 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 19 Jan 2026 16:17:31 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>2026年博文更新计划</title>
         <link>https://luoqian29.github.io/p/other/</link>
         <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
@@ -971,6 +971,680 @@
 </description>
         </item>
         <item>
+        <title>Cosy Cafe 温馨咖啡馆</title>
+        <link>https://luoqian29.github.io/p/cosycafe/</link>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://luoqian29.github.io/p/cosycafe/</guid>
+        <description>&lt;img src="https://img.itch.zone/aW1nLzE3OTQ3MjkzLmpwZw==/original/TW6%2Byk.jpg" alt="Featured image of post Cosy Cafe 温馨咖啡馆" /&gt;&lt;h1 id=&#34;cosy-cafe-v0131-public-cosy-creator&#34;&gt;Cosy Cafe [v0.13.1 Public] [Cosy Creator]
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/146574655/bdebfe4788f24de9b7e158f144e235ff/eyJxIjoxMDAsIndlYnAiOjB9/1.jpg?token-hash=SKIhN1VoKtsgmHpv817NmKvNgNjs6LytLa1zZ9gLRYs%3D&amp;amp;token-time=1769990400&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview
+&lt;/h1&gt;&lt;details&gt;
+&lt;summary&gt;剧情概要&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Your rough childhood is over, and you stand on the precipice of adulthood with a singular goal in mind: To become an exceptional restaurateur like your grandfather. But for now, you&amp;rsquo;ll settle for building a modest cafe. Money is tight, and challenges abound balancing your dream with your final year of school, but with hard work and determination you know that you can build a life for yourself and the girls you meet along the way.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In Cosy Cafe you will develop romantic and increasingly sexual relationships with a number of girls, culminating in a harem that eventually becomes a family. There will be a particular focus on wholesome maledom, and of course, there will be a lot of loving and kinky sex!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;游戏信息&#34;&gt;游戏信息
+&lt;/h2&gt;&lt;h3 id=&#34;游戏类型&#34;&gt;游戏类型
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;游戏玩法：&lt;strong&gt;视觉小说&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;建模引擎：&lt;strong&gt;Honey Select 2&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;运行引擎：&lt;strong&gt;Ren&amp;rsquo;Py&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;游戏画风：&lt;strong&gt;亚洲风&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;版本信息&#34;&gt;版本信息
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;当前版本：&lt;strong&gt;0.13.1 Public&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;发行日期：&lt;strong&gt;2025-11-28&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;changelog&#34;&gt;Changelog
+&lt;/h3&gt;&lt;details&gt;
+&lt;summary&gt;更新日志&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Multiple typos and a couple of missing dialogue lines that were added back in.&lt;/li&gt;
+&lt;li&gt;Fixed bug where train sounds kept playing after Akatsuki&amp;rsquo;s date&lt;/li&gt;
+&lt;li&gt;Fixed rare crashing problem on the save/load screen (temporarily disabled the save page number bar at the bottom scrolling while I work on a more permanent fix)&lt;/li&gt;
+&lt;li&gt;Fixed Annabelle&amp;rsquo;s page in the replay gallery - this was added in 0.12.1 then accidentally reverted in 0.13.0&lt;/li&gt;
+&lt;li&gt;Fixed related bug on android where the group scenes in the gallery displayed as Annabelle scenes
+Fixed bug in the android version where about a dozen of the videos had weird transparent cropping on the edges&lt;/li&gt;
+&lt;li&gt;Updated the patch version to fix an issue with pre-0.13 videos flashing up a transparency page when patching from 0.12.0 instead of 0.12.1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.patreon.com/cosycreator&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Patreon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://cosy-creator.itch.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Itch.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://subscribestar.adult/cosy-creator&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Subscribestar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://discord.com/invite/U9CwvDf2vV&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Discord&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;落谦酱便利贴&#34;&gt;落谦酱便利贴
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;PS&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;这游戏在外网好火，听说很暖很暧昧？这让我想到了鱼人二代的小说了，目前我自己是没时间玩，所以不知道剧情的底，但是CG的话，都是1-2s重复帧数，对比大作一般吧，就这样。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;汉化补丁更新日志&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2026.01.18 21:30&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;补链，并通过ai意译未提取的文本。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;制作时间：&lt;strong&gt;2026-01-18&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;PS：应该是没有漏翻的句子，有可能部分句子的人名错翻了？有时候会，有时候不会，但是用其他引擎，跑出来的意译效果没V3的好，落谦实在没时间去逐句意译了，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;免死金牌：&lt;/strong&gt; 落谦的汉化补丁，无论是 AI 意译版本还是逐句意译版本，都远不及原文或其他大佬的汉化版本。与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电&lt;/strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class=&#34;blur&#34;&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;评分项&lt;/th&gt;
+          &lt;th&gt;评分&lt;/th&gt;
+          &lt;th&gt;点评&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;建模&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 建模细节丰富，人物设计精美，表情和动作刻画到位。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;渲染&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 渲染效果出色，光影处理细致，纹理清晰，画面流畅。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;SFW剧情（素戏）&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐☆☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 剧情简单，节奏略拖沓，人物关系有些单薄。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;NSFW剧情（荤戏）&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 肉戏刻画细腻，情感自然流露。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;BGM&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 背景音乐与剧情相辅相成，音效增添了氛围，特别是在紧张场景中的表现。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;时长&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 时长合适，剧情推进没有冗余，节奏流畅。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;CG&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- CG质量非常高，细节到位，色彩鲜明，光影效果突出。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;游戏预览图&#34;&gt;游戏预览图
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary&gt;素图&lt;/summary&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMTg2MTI2Ny8xNzk0NjU0MS5qcGc=/original/8Hm5do.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;荤图&lt;/summary&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMTg2MTI2Ny8xMzM2MTEyNS5qcGc=/original/xpaVMz.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMTg2MTI2Ny8xMzM2MTEyNC5qcGc=/original/lWvwFl.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;download汉化补丁&#34;&gt;DOWNLOAD（汉化补丁）
+&lt;/h2&gt;&lt;h3 id=&#34;winlinuxpc端&#34;&gt;Win/Linux（PC端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/F4dscl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/xjJCZH4JyX&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/YFjRzs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/tuVBQj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;，两个英文原版链接都可以下载，哪个能下，就下哪个&lt;/li&gt;
+&lt;li&gt;解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件放入&lt;strong&gt;game&lt;/strong&gt;文件夹中&lt;/li&gt;
+&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;android安卓端&#34;&gt;Android（安卓端）
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span style=&#34;color: red;&#34;&gt;&lt;strong&gt;注意&lt;/strong&gt;&lt;/span&gt;，&lt;span style=&#34;color: red;&#34;&gt;&lt;strong&gt;注意&lt;/strong&gt;&lt;/span&gt;，&lt;span style=&#34;color: red;&#34;&gt;&lt;strong&gt;注意&lt;/strong&gt;&lt;/span&gt;，重要的事情说三遍，作者没打包rpa文件，应该说就没有打包过。
+我也懒得打包上传了，而且这个游戏10g，我的网速就500kb，甚至200kb，所以上传到猴年马月，那安卓还能玩吗？&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: red;&#34;&gt;&lt;strong&gt;能&lt;/strong&gt;&lt;/span&gt;，只要把game文件夹中所有文件及文件夹移动即可。&lt;/li&gt;
+&lt;li&gt;但是有利于也有弊，因为没有打包，所以解压出来的图片，视频，会爆开你的手机相册，所以介意的话，博客出门左转，另找资源了。&lt;/li&gt;
+&lt;li&gt;因为安卓下载的人很少，而Gofile网盘七天内没人下载，就会生效，而Vikingfile网盘会有广告，我怕有些小白点错了，所以就这样了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/F4dscl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/xjJCZH4JyX&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/YFjRzs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/tuVBQj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/jMZDdT&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;、&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;，两个英文原版链接都可以下载，哪个能下，就下哪个&lt;/li&gt;
+&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
+&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
+&lt;li&gt;然后解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将英文原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;和&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件一起移动到以下路径：
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Documents/RenPy_Saves/com.luoqian.CosyCafe/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ios苹果端&#34;&gt;iOS（苹果端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;环境配置：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/F4dscl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/xjJCZH4JyX&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/YFjRzs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/tuVBQj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;，两个英文原版链接都可以下载，哪个能下，就下哪个&lt;/li&gt;
+&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;英文原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
+&lt;li&gt;然后将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件移动到以下路径：
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;我的iPhone/Spark/games/CosyCafe/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;游戏存档及画廊mod&#34;&gt;游戏存档及画廊Mod
+&lt;/h2&gt;&lt;h3 id=&#34;winlinuxpc端-1&#34;&gt;Win/Linux（PC端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;画廊Mod：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/Lq6sOU&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;使用步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;android安卓端-1&#34;&gt;Android（安卓端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;画廊Mod：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/Lq6sOU&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;使用步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Documents/RenPy_Saves/com.luoqian.CosyCafe/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ios苹果端-1&#34;&gt;iOS（苹果端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;环境配置：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;画廊Mod：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/Lq6sOU&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;使用步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;游戏存档&lt;/strong&gt;或&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;我的iPhone/Spark/games/CosyCafe/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宇宙安全声明&#34;&gt;宇宙安全声明！
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播&lt;/li&gt;
+&lt;li&gt;落谦不对因使用本文所产生的任何问题负责&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>V.I.R.T.U.E.S. 美德</title>
+        <link>https://luoqian29.github.io/p/virtues/</link>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://luoqian29.github.io/p/virtues/</guid>
+        <description>&lt;img src="https://img.itch.zone/aW1nLzI3NDEzNTAuanBn/original/f%2FCAgU.jpg" alt="Featured image of post V.I.R.T.U.E.S. 美德" /&gt;&lt;h1 id=&#34;virtues-v17-nomeme&#34;&gt;V.I.R.T.U.E.S. [v17] [NoMeme]
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1nLzI0ODE1MTcuanBn/original/r4J0mZ.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview
+&lt;/h1&gt;&lt;details&gt;
+&lt;summary&gt;剧情概要&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;This is a harem simulator. You, as a young capable college rich kid, versus 7 gorgeous girls with different backgrounds and personalities. The story is not only about sex, but also about romance and love fantasies. Try immerse yourself in the plots, discover more of the girls, and enjoy the feeling of developing your harem.​&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;游戏信息&#34;&gt;游戏信息
+&lt;/h2&gt;&lt;h3 id=&#34;游戏类型&#34;&gt;游戏类型
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;游戏玩法：&lt;strong&gt;沙盒视觉小说&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;建模引擎：&lt;strong&gt;PlayHome&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;运行引擎：&lt;strong&gt;Ren&amp;rsquo;Py&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;游戏画风：&lt;strong&gt;亚洲风&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;版本信息&#34;&gt;版本信息
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;当前版本：&lt;strong&gt;17&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;发行日期：&lt;strong&gt;2023-02-17&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;changelog&#34;&gt;Changelog
+&lt;/h3&gt;&lt;details&gt;
+&lt;summary&gt;更新日志&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;It has been almost 1 year since we released VIRTUES v16. Back then we really thought v16 would be the last major update of VIRTUES. We used 10 weeks to create an insane amount of content (700+ new pictures and 70+ animated scenes) and thought “this is it, we’ve put a good end to the journey of VIRTUES. It is not a perfect end, there are regrets, but it is still a good end. We made it. We finish our first project instead of abandoning it halfway. There may be a v17 at some point in the future, but it will be a minor update, you know, like a DLC kind of stuff.”&lt;/li&gt;
+&lt;li&gt;I kept this thought even until last December, until we really began to develop this v17 update. But as soon as I re-entered the world of VIRTUES, I changed my mind. I realized there were still so many things I want to tell, so many scenes I want to make for those girls, the girls that used to be a big part of my life for more than 2 years.&lt;/li&gt;
+&lt;li&gt;Thus I changed my plan, and I changed it again and again during the last two months. More and more scenes were added, more and more lines were written, and less and less time I slept every day. And in the end, this update became so big that we couldn’t even imagine it. It became even bigger than v16. It has more than 900+ new pictures and 70+ animated scenes, with the greatest amount of text.&lt;/li&gt;
+&lt;li&gt;V17 is the last major update of VIRTUES. It is the biggest update we’ve ever made, and maybe the lewdest one as well. Still, it is not a perfect end and there are regrets, but we have done our best and we hope you will enjoy our hard work.&lt;/li&gt;
+&lt;li&gt;I will write a post as the final summary of the journey of VIRTUES in a few days. As for now, let’s just take a brief look at what’s new in the update:&lt;/li&gt;
+&lt;li&gt;Irene’s solo ending&lt;/li&gt;
+&lt;li&gt;The silver kitten finally got her solo ending. Her ending contains two long branches, and each of them leads to a unique happy end. You will help this girl solve her confusion and decide the path of her future.
+Elisa’s solo ending&lt;/li&gt;
+&lt;li&gt;Just like her little daughter, this blonde milf’s solo ending also contains two long branches. This poor lady was deeply wounded from her previous marriage and she really needs you to take her away from the curse from her past.&lt;/li&gt;
+&lt;li&gt;The afterstory of your harem&lt;/li&gt;
+&lt;li&gt;There will be 4 major parts of your harem’s afterstory: Vera’s college dream, Uno’s real family, Senning’s daily life after her mother left the country, and the Shinyrost mother&amp;amp;daughter’s male worship. Each of them contains a tremendous amount of harem scenes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.patreon.com/cw/NoMeme&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Patreon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://discord.com/invite/F5wXs8C&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Discord&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://nomeme.itch.io/virtues&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Itch.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;落谦酱便利贴&#34;&gt;落谦酱便利贴
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;PS&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;很经典的一个游戏，CG放到现在依旧能打，而且瑟瑟剧情描写的很细腻，好像都有反差的那种，不愧是老艺术家的从容。&lt;/li&gt;
+&lt;li&gt;当然，这游戏是沙盒的，所以会很多不能提取的文本，如果你遇到有些英文句子，影响到你游玩，请在博客留言，并且附上原文句子，我看在vscode上找到源码，再去通过ai汉化。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;汉化补丁更新日志&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2026.01.19 06:00&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;补链，并且统一人名。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026.01.19 16:30&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;修复地名不显示汉化的bug。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;制作日期：&lt;strong&gt;2026-01-19&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;PS：可能会出现&lt;strong&gt;极少量&lt;/strong&gt;的&lt;strong&gt;人名翻译误差&lt;/strong&gt;。例如我指定AI将&lt;strong&gt;Rachel&lt;/strong&gt;统一翻译为&lt;strong&gt;瑞秋&lt;/strong&gt;，AI只会在检测到&lt;strong&gt;完全一致&lt;/strong&gt;的&lt;strong&gt;英文单词&lt;/strong&gt;时进行替换。如果原文中存在&lt;strong&gt;拼写错误&lt;/strong&gt;、&lt;strong&gt;缩写格式&lt;/strong&gt;，或&lt;strong&gt;Rachel’s&lt;/strong&gt;这类词形变化（如名词的所有格、复数用法等），就可能被误译成&lt;strong&gt;瑞穗&lt;/strong&gt;，但仍会保持音译形式，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;免死金牌：&lt;/strong&gt; 落谦的汉化补丁，无论是 AI 意译版本还是逐句意译版本，都远不及原文或其他大佬的汉化版本。与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电&lt;/strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class=&#34;blur&#34;&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;评分项&lt;/th&gt;
+          &lt;th&gt;评分&lt;/th&gt;
+          &lt;th&gt;点评&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;建模&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 建模细节丰富，人物设计精美，表情和动作刻画到位。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;渲染&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 渲染效果出色，光影处理细致，纹理清晰，画面流畅。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;SFW剧情（素戏）&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐☆☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 剧情简单，节奏略拖沓，人物关系有些单薄。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;NSFW剧情（荤戏）&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 肉戏刻画细腻，情感自然流露。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;BGM&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 背景音乐与剧情相辅相成，音效增添了氛围，特别是在紧张场景中的表现。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;时长&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- 时长合适，剧情推进没有冗余，节奏流畅。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;CG&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+          &lt;td&gt;&lt;!-- CG质量非常高，细节到位，色彩鲜明，光影效果突出。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;游戏预览图&#34;&gt;游戏预览图
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;荤图&lt;/summary&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvNDgxNTI3LzI0ODE0NTQucG5n/794x1000/Vgx7Je.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvNDgxNTI3LzI0ODE0NTYuanBn/794x1000/92OFDH.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;download汉化补丁&#34;&gt;DOWNLOAD（汉化补丁）
+&lt;/h2&gt;&lt;h3 id=&#34;winlinuxpc端&#34;&gt;Win/Linux（PC端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/5BKwtb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/iYrNYz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/dhC2oR&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件放入&lt;strong&gt;game&lt;/strong&gt;文件夹中&lt;/li&gt;
+&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;android安卓端&#34;&gt;Android（安卓端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/5BKwtb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/iYrNYz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/dhC2oR&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ob9lH3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;、&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
+&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
+&lt;li&gt;然后解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将英文原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;和&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件一起移动到以下路径：
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Documents/RenPy_Saves/com.luoqian.VIRTUES/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ios苹果端&#34;&gt;iOS（苹果端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;环境配置：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/5BKwtb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/iYrNYz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/dhC2oR&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;英文原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
+&lt;li&gt;然后将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件移动到以下路径：
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;我的iPhone/Spark/games/VIRTUES/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宇宙安全声明&#34;&gt;宇宙安全声明！
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播&lt;/li&gt;
+&lt;li&gt;落谦不对因使用本文所产生的任何问题负责&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
         <title>Bright Lord 光明领主</title>
         <link>https://luoqian29.github.io/p/brightlord/</link>
         <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
@@ -1528,394 +2202,6 @@ Follow the story of a man whose life is changed forever when he meets a paranorm
 </description>
         </item>
         <item>
-        <title>Cosy Cafe 温馨咖啡馆</title>
-        <link>https://luoqian29.github.io/p/cosycafe/</link>
-        <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-        
-        <guid>https://luoqian29.github.io/p/cosycafe/</guid>
-        <description>&lt;img src="https://img.itch.zone/aW1nLzE3OTQ3MjkzLmpwZw==/original/TW6%2Byk.jpg" alt="Featured image of post Cosy Cafe 温馨咖啡馆" /&gt;&lt;h1 id=&#34;cosy-cafe-v0131-public-cosy-creator&#34;&gt;Cosy Cafe [v0.13.1 Public] [Cosy Creator]
-&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://c10.patreonusercontent.com/4/patreon-media/p/post/146574655/bdebfe4788f24de9b7e158f144e235ff/eyJxIjoxMDAsIndlYnAiOjB9/1.jpg?token-hash=SKIhN1VoKtsgmHpv817NmKvNgNjs6LytLa1zZ9gLRYs%3D&amp;amp;token-time=1769990400&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;封面图&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;h1 id=&#34;overview&#34;&gt;Overview
-&lt;/h1&gt;&lt;details&gt;
-&lt;summary&gt;剧情概要&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Your rough childhood is over, and you stand on the precipice of adulthood with a singular goal in mind: To become an exceptional restaurateur like your grandfather. But for now, you&amp;rsquo;ll settle for building a modest cafe. Money is tight, and challenges abound balancing your dream with your final year of school, but with hard work and determination you know that you can build a life for yourself and the girls you meet along the way.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;In Cosy Cafe you will develop romantic and increasingly sexual relationships with a number of girls, culminating in a harem that eventually becomes a family. There will be a particular focus on wholesome maledom, and of course, there will be a lot of loving and kinky sex!&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;游戏信息&#34;&gt;游戏信息
-&lt;/h2&gt;&lt;h3 id=&#34;游戏类型&#34;&gt;游戏类型
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;游戏玩法：&lt;strong&gt;视觉小说&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;建模引擎：&lt;strong&gt;Honey Select 2&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;运行引擎：&lt;strong&gt;Ren&amp;rsquo;Py&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;游戏画风：&lt;strong&gt;亚洲风&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;版本信息&#34;&gt;版本信息
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;当前版本：&lt;strong&gt;0.13.1 Public&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;发行日期：&lt;strong&gt;2025-11-28&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;changelog&#34;&gt;Changelog
-&lt;/h3&gt;&lt;details&gt;
-&lt;summary&gt;更新日志&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;Multiple typos and a couple of missing dialogue lines that were added back in.&lt;/li&gt;
-&lt;li&gt;Fixed bug where train sounds kept playing after Akatsuki&amp;rsquo;s date&lt;/li&gt;
-&lt;li&gt;Fixed rare crashing problem on the save/load screen (temporarily disabled the save page number bar at the bottom scrolling while I work on a more permanent fix)&lt;/li&gt;
-&lt;li&gt;Fixed Annabelle&amp;rsquo;s page in the replay gallery - this was added in 0.12.1 then accidentally reverted in 0.13.0&lt;/li&gt;
-&lt;li&gt;Fixed related bug on android where the group scenes in the gallery displayed as Annabelle scenes
-Fixed bug in the android version where about a dozen of the videos had weird transparent cropping on the edges&lt;/li&gt;
-&lt;li&gt;Updated the patch version to fix an issue with pre-0.13 videos flashing up a transparency page when patching from 0.12.0 instead of 0.12.1&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.patreon.com/cosycreator&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Patreon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://cosy-creator.itch.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Itch.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://subscribestar.adult/cosy-creator&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Subscribestar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://discord.com/invite/U9CwvDf2vV&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Discord&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;落谦酱便利贴&#34;&gt;落谦酱便利贴
-&lt;/h2&gt;&lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;PS&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;这游戏在外网好火，听说很暖很暧昧？这让我想到了鱼人二代的小说了，目前我自己是没时间玩，所以不知道剧情的底，但是CG的话，都是1-2s重复帧数，对比大作一般吧，就这样。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;汉化补丁更新日志&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2026.01.18 21:30&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;补链，并通过ai意译未提取的文本。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;制作时间：&lt;strong&gt;2026-01-18&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;PS：应该是没有漏翻的句子，有可能部分句子的人名错翻了？有时候会，有时候不会，但是用其他引擎，跑出来的意译效果没V3的好，落谦实在没时间去逐句意译了，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;免死金牌：&lt;/strong&gt; 落谦的汉化补丁，无论是 AI 意译版本还是逐句意译版本，都远不及原文或其他大佬的汉化版本。与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电&lt;/strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class=&#34;blur&#34;&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;评分项&lt;/th&gt;
-          &lt;th&gt;评分&lt;/th&gt;
-          &lt;th&gt;点评&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;建模&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
-          &lt;td&gt;&lt;!-- 建模细节丰富，人物设计精美，表情和动作刻画到位。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;渲染&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
-          &lt;td&gt;&lt;!-- 渲染效果出色，光影处理细致，纹理清晰，画面流畅。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;SFW剧情（素戏）&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;⭐⭐⭐☆☆&lt;/td&gt;
-          &lt;td&gt;&lt;!-- 剧情简单，节奏略拖沓，人物关系有些单薄。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;NSFW剧情（荤戏）&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
-          &lt;td&gt;&lt;!-- 肉戏刻画细腻，情感自然流露。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;BGM&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
-          &lt;td&gt;&lt;!-- 背景音乐与剧情相辅相成，音效增添了氛围，特别是在紧张场景中的表现。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;时长&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
-          &lt;td&gt;&lt;!-- 时长合适，剧情推进没有冗余，节奏流畅。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;CG&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
-          &lt;td&gt;&lt;!-- CG质量非常高，细节到位，色彩鲜明，光影效果突出。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;游戏预览图&#34;&gt;游戏预览图
-&lt;/h2&gt;&lt;details&gt;
-&lt;summary&gt;素图&lt;/summary&gt;
-&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMTg2MTI2Ny8xNzk0NjU0MS5qcGc=/original/8Hm5do.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;预览图&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;荤图&lt;/summary&gt;
-&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMTg2MTI2Ny8xMzM2MTEyNS5qcGc=/original/xpaVMz.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;预览图&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMTg2MTI2Ny8xMzM2MTEyNC5qcGc=/original/lWvwFl.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;预览图&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;download汉化补丁&#34;&gt;DOWNLOAD（汉化补丁）
-&lt;/h2&gt;&lt;h3 id=&#34;winlinuxpc端&#34;&gt;Win/Linux（PC端）
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;下载链接：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/F4dscl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/xjJCZH4JyX&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/YFjRzs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/tuVBQj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;安装步骤：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;，两个英文原版链接都可以下载，哪个能下，就下哪个&lt;/li&gt;
-&lt;li&gt;解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件放入&lt;strong&gt;game&lt;/strong&gt;文件夹中&lt;/li&gt;
-&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;android安卓端&#34;&gt;Android（安卓端）
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;span style=&#34;color: red;&#34;&gt;&lt;strong&gt;注意&lt;/strong&gt;&lt;/span&gt;，&lt;span style=&#34;color: red;&#34;&gt;&lt;strong&gt;注意&lt;/strong&gt;&lt;/span&gt;，&lt;span style=&#34;color: red;&#34;&gt;&lt;strong&gt;注意&lt;/strong&gt;&lt;/span&gt;，重要的事情说三遍，作者没打包rpa文件，应该说就没有打包过。
-我也懒得打包上传了，而且这个游戏10g，我的网速就500kb，甚至200kb，所以上传到猴年马月，那安卓还能玩吗？&lt;/li&gt;
-&lt;li&gt;&lt;span style=&#34;color: red;&#34;&gt;&lt;strong&gt;能&lt;/strong&gt;&lt;/span&gt;，只要把game文件夹中所有文件及文件夹移动即可。&lt;/li&gt;
-&lt;li&gt;但是有利于也有弊，因为没有打包，所以解压出来的图片，视频，会爆开你的手机相册，所以介意的话，博客出门左转，另找资源了。&lt;/li&gt;
-&lt;li&gt;因为安卓下载的人很少，而Gofile网盘七天内没人下载，就会生效，而Vikingfile网盘会有广告，我怕有些小白点错了，所以就这样了。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol&gt;
-&lt;li&gt;下载链接：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/F4dscl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/xjJCZH4JyX&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/YFjRzs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/tuVBQj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/jMZDdT&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;安装步骤：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;、&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;，两个英文原版链接都可以下载，哪个能下，就下哪个&lt;/li&gt;
-&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
-&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
-&lt;li&gt;然后解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;将英文原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;和&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件一起移动到以下路径：
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Documents/RenPy_Saves/com.luoqian.CosyCafe/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;ios苹果端&#34;&gt;iOS（苹果端）
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;环境配置：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
-&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;下载链接：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/F4dscl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/xjJCZH4JyX&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/YFjRzs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/tuVBQj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;安装步骤：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;，两个英文原版链接都可以下载，哪个能下，就下哪个&lt;/li&gt;
-&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;英文原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
-&lt;li&gt;然后将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件移动到以下路径：
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;我的iPhone/Spark/games/CosyCafe/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;游戏存档及画廊mod&#34;&gt;游戏存档及画廊Mod
-&lt;/h2&gt;&lt;h3 id=&#34;winlinuxpc端-1&#34;&gt;Win/Linux（PC端）
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;下载链接：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;画廊Mod：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/Lq6sOU&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;使用步骤：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
-&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;android安卓端-1&#34;&gt;Android（安卓端）
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;下载链接：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;画廊Mod：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/Lq6sOU&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;使用步骤：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Documents/RenPy_Saves/com.luoqian.CosyCafe/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;ios苹果端-1&#34;&gt;iOS（苹果端）
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;环境配置：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
-&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;下载链接：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;画廊Mod：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/Lq6sOU&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;使用步骤：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;下载&lt;strong&gt;游戏存档&lt;/strong&gt;或&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;我的iPhone/Spark/games/CosyCafe/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;宇宙安全声明&#34;&gt;宇宙安全声明！
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播&lt;/li&gt;
-&lt;li&gt;落谦不对因使用本文所产生的任何问题负责&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-</description>
-        </item>
-        <item>
         <title>Inanna Revenge 伊南娜的复仇</title>
         <link>https://luoqian29.github.io/p/inannarevenge/</link>
         <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
@@ -2431,7 +2717,7 @@ Fixed bug in the android version where about a dozen of the videos had weird tra
 &lt;li&gt;&lt;strong&gt;2026.01.18 14:30&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;ul&gt;
-&lt;li&gt;修复画廊报错的bug&lt;/li&gt;
+&lt;li&gt;补链。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -3459,285 +3745,6 @@ Fixed bug in the android version where about a dozen of the videos had weird tra
 &lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;官中原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
 &lt;li&gt;然后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;宇宙安全声明&#34;&gt;宇宙安全声明！
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播&lt;/li&gt;
-&lt;li&gt;落谦不对因使用本文所产生的任何问题负责&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-</description>
-        </item>
-        <item>
-        <title>V.I.R.T.U.E.S. 美德</title>
-        <link>https://luoqian29.github.io/p/virtues/</link>
-        <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-        
-        <guid>https://luoqian29.github.io/p/virtues/</guid>
-        <description>&lt;img src="https://img.itch.zone/aW1nLzI3NDEzNTAuanBn/original/f%2FCAgU.jpg" alt="Featured image of post V.I.R.T.U.E.S. 美德" /&gt;&lt;h1 id=&#34;virtues-v17-nomeme&#34;&gt;V.I.R.T.U.E.S. [v17] [NoMeme]
-&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1nLzI0ODE1MTcuanBn/original/r4J0mZ.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;封面图&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;h1 id=&#34;overview&#34;&gt;Overview
-&lt;/h1&gt;&lt;details&gt;
-&lt;summary&gt;剧情概要&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;This is a harem simulator. You, as a young capable college rich kid, versus 7 gorgeous girls with different backgrounds and personalities. The story is not only about sex, but also about romance and love fantasies. Try immerse yourself in the plots, discover more of the girls, and enjoy the feeling of developing your harem.​&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;游戏信息&#34;&gt;游戏信息
-&lt;/h2&gt;&lt;h3 id=&#34;游戏类型&#34;&gt;游戏类型
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;游戏玩法：&lt;strong&gt;沙盒视觉小说&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;建模引擎：&lt;strong&gt;PlayHome&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;运行引擎：&lt;strong&gt;Ren&amp;rsquo;Py&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;游戏画风：&lt;strong&gt;亚洲风&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;版本信息&#34;&gt;版本信息
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;当前版本：&lt;strong&gt;17&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;发行日期：&lt;strong&gt;2023-02-17&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;changelog&#34;&gt;Changelog
-&lt;/h3&gt;&lt;details&gt;
-&lt;summary&gt;更新日志&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;It has been almost 1 year since we released VIRTUES v16. Back then we really thought v16 would be the last major update of VIRTUES. We used 10 weeks to create an insane amount of content (700+ new pictures and 70+ animated scenes) and thought “this is it, we’ve put a good end to the journey of VIRTUES. It is not a perfect end, there are regrets, but it is still a good end. We made it. We finish our first project instead of abandoning it halfway. There may be a v17 at some point in the future, but it will be a minor update, you know, like a DLC kind of stuff.”&lt;/li&gt;
-&lt;li&gt;I kept this thought even until last December, until we really began to develop this v17 update. But as soon as I re-entered the world of VIRTUES, I changed my mind. I realized there were still so many things I want to tell, so many scenes I want to make for those girls, the girls that used to be a big part of my life for more than 2 years.&lt;/li&gt;
-&lt;li&gt;Thus I changed my plan, and I changed it again and again during the last two months. More and more scenes were added, more and more lines were written, and less and less time I slept every day. And in the end, this update became so big that we couldn’t even imagine it. It became even bigger than v16. It has more than 900+ new pictures and 70+ animated scenes, with the greatest amount of text.&lt;/li&gt;
-&lt;li&gt;V17 is the last major update of VIRTUES. It is the biggest update we’ve ever made, and maybe the lewdest one as well. Still, it is not a perfect end and there are regrets, but we have done our best and we hope you will enjoy our hard work.&lt;/li&gt;
-&lt;li&gt;I will write a post as the final summary of the journey of VIRTUES in a few days. As for now, let’s just take a brief look at what’s new in the update:&lt;/li&gt;
-&lt;li&gt;Irene’s solo ending&lt;/li&gt;
-&lt;li&gt;The silver kitten finally got her solo ending. Her ending contains two long branches, and each of them leads to a unique happy end. You will help this girl solve her confusion and decide the path of her future.
-Elisa’s solo ending&lt;/li&gt;
-&lt;li&gt;Just like her little daughter, this blonde milf’s solo ending also contains two long branches. This poor lady was deeply wounded from her previous marriage and she really needs you to take her away from the curse from her past.&lt;/li&gt;
-&lt;li&gt;The afterstory of your harem&lt;/li&gt;
-&lt;li&gt;There will be 4 major parts of your harem’s afterstory: Vera’s college dream, Uno’s real family, Senning’s daily life after her mother left the country, and the Shinyrost mother&amp;amp;daughter’s male worship. Each of them contains a tremendous amount of harem scenes.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.patreon.com/cw/NoMeme&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Patreon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://discord.com/invite/F5wXs8C&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Discord&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://nomeme.itch.io/virtues&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Itch.io&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;落谦酱便利贴&#34;&gt;落谦酱便利贴
-&lt;/h2&gt;&lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;PS&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;很经典的一个游戏，CG放到现在依旧能打，而且瑟瑟剧情描写的很细腻，好像都有反差的那种，不愧是老艺术家的从容。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;汉化补丁更新日志&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2026.01.19 06:00&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;补链，并且统一人名。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;制作日期：&lt;strong&gt;2026-01-19&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;PS：可能会出现&lt;strong&gt;极少量&lt;/strong&gt;的&lt;strong&gt;人名翻译误差&lt;/strong&gt;。例如我指定AI将&lt;strong&gt;Rachel&lt;/strong&gt;统一翻译为&lt;strong&gt;瑞秋&lt;/strong&gt;，AI只会在检测到&lt;strong&gt;完全一致&lt;/strong&gt;的&lt;strong&gt;英文单词&lt;/strong&gt;时进行替换。如果原文中存在&lt;strong&gt;拼写错误&lt;/strong&gt;、&lt;strong&gt;缩写格式&lt;/strong&gt;，或&lt;strong&gt;Rachel’s&lt;/strong&gt;这类词形变化（如名词的所有格、复数用法等），就可能被误译成&lt;strong&gt;瑞穗&lt;/strong&gt;，但仍会保持音译形式，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;免死金牌：&lt;/strong&gt; 落谦的汉化补丁，无论是 AI 意译版本还是逐句意译版本，都远不及原文或其他大佬的汉化版本。与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电&lt;/strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class=&#34;blur&#34;&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;评分项&lt;/th&gt;
-          &lt;th&gt;评分&lt;/th&gt;
-          &lt;th&gt;点评&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;建模&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
-          &lt;td&gt;&lt;!-- 建模细节丰富，人物设计精美，表情和动作刻画到位。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;渲染&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
-          &lt;td&gt;&lt;!-- 渲染效果出色，光影处理细致，纹理清晰，画面流畅。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;SFW剧情（素戏）&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;⭐⭐⭐☆☆&lt;/td&gt;
-          &lt;td&gt;&lt;!-- 剧情简单，节奏略拖沓，人物关系有些单薄。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;NSFW剧情（荤戏）&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
-          &lt;td&gt;&lt;!-- 肉戏刻画细腻，情感自然流露。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;BGM&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;⭐⭐⭐⭐☆&lt;/td&gt;
-          &lt;td&gt;&lt;!-- 背景音乐与剧情相辅相成，音效增添了氛围，特别是在紧张场景中的表现。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;时长&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
-          &lt;td&gt;&lt;!-- 时长合适，剧情推进没有冗余，节奏流畅。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;CG&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
-          &lt;td&gt;&lt;!-- CG质量非常高，细节到位，色彩鲜明，光影效果突出。 --&gt; 待，目前落谦没时间点评，哈哈。&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;游戏预览图&#34;&gt;游戏预览图
-&lt;/h2&gt;&lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;荤图&lt;/summary&gt;
-&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvNDgxNTI3LzI0ODE0NTQucG5n/794x1000/Vgx7Je.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;预览图&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvNDgxNTI3LzI0ODE0NTYuanBn/794x1000/92OFDH.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;预览图&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;download汉化补丁&#34;&gt;DOWNLOAD（汉化补丁）
-&lt;/h2&gt;&lt;h3 id=&#34;winlinuxpc端&#34;&gt;Win/Linux（PC端）
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;下载链接：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/5BKwtb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/0KbaSW&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/yyIsc4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;安装步骤：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件放入&lt;strong&gt;game&lt;/strong&gt;文件夹中&lt;/li&gt;
-&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;android安卓端&#34;&gt;Android（安卓端）
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;下载链接：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/5BKwtb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/0KbaSW&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/yyIsc4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ob9lH3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;安装步骤：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;、&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
-&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
-&lt;li&gt;然后解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;将英文原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;和&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件一起移动到以下路径：
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Documents/RenPy_Saves/com.luoqian.VIRTUES/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;ios苹果端&#34;&gt;iOS（苹果端）
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;环境配置：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
-&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;下载链接：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/5BKwtb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/0KbaSW&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/yyIsc4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;安装步骤：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;英文原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
-&lt;li&gt;然后将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件移动到以下路径：
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;我的iPhone/Spark/games/VIRTUES/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;魔戒&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;

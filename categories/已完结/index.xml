@@ -7,10 +7,10 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Mon, 19 Jan 2026 04:29:37 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E5%B7%B2%E5%AE%8C%E7%BB%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 19 Jan 2026 16:17:31 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E5%B7%B2%E5%AE%8C%E7%BB%93/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>V.I.R.T.U.E.S. 美德</title>
         <link>https://luoqian29.github.io/p/virtues/</link>
-        <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
         
         <guid>https://luoqian29.github.io/p/virtues/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI3NDEzNTAuanBn/original/f%2FCAgU.jpg" alt="Featured image of post V.I.R.T.U.E.S. 美德" /&gt;&lt;h1 id=&#34;virtues-v17-nomeme&#34;&gt;V.I.R.T.U.E.S. [v17] [NoMeme]
@@ -77,6 +77,7 @@ Elisa’s solo ending&lt;/li&gt;
 &lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;PS&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;很经典的一个游戏，CG放到现在依旧能打，而且瑟瑟剧情描写的很细腻，好像都有反差的那种，不愧是老艺术家的从容。&lt;/li&gt;
+&lt;li&gt;当然，这游戏是沙盒的，所以会很多不能提取的文本，如果你遇到有些英文句子，影响到你游玩，请在博客留言，并且附上原文句子，我看在vscode上找到源码，再去通过ai汉化。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
@@ -86,6 +87,12 @@ Elisa’s solo ending&lt;/li&gt;
 &lt;li&gt;
 &lt;ul&gt;
 &lt;li&gt;补链，并且统一人名。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026.01.19 16:30&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;修复地名不显示汉化的bug。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -183,9 +190,9 @@ Elisa’s solo ending&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/5BKwtb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/0KbaSW&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/iYrNYz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/yyIsc4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/dhC2oR&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
@@ -206,9 +213,9 @@ Elisa’s solo ending&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/5BKwtb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/0KbaSW&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/iYrNYz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/yyIsc4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/dhC2oR&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ob9lH3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
@@ -251,9 +258,9 @@ Elisa’s solo ending&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/5BKwtb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/0KbaSW&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/iYrNYz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/yyIsc4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/dhC2oR&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;3&#34;&gt;
