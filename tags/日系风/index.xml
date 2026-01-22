@@ -7,10 +7,10 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Sun, 18 Jan 2026 22:47:30 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/%E6%97%A5%E7%B3%BB%E9%A3%8E/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 22 Jan 2026 20:47:12 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/%E6%97%A5%E7%B3%BB%E9%A3%8E/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>New Family 新家庭</title>
         <link>https://luoqian29.github.io/p/newfamily/</link>
-        <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
         
         <guid>https://luoqian29.github.io/p/newfamily/</guid>
         <description>&lt;img src="https://c10.patreonusercontent.com/4/patreon-media/p/campaign/11523020/29bc37ffe4c54828bdea6145679d0c44/eyJ3IjoxNjAwLCJ3ZSI6MX0%3D/5.png?token-hash=seytFI8DS3hCOA8IrtsVAuS5wLs83criVuEiqLnLPUQ%3D&amp;token-time=1770163200" alt="Featured image of post New Family 新家庭" /&gt;&lt;h1 id=&#34;new-family-v055-king-peanut&#34;&gt;New Family [v0.5.5] [King Peanut]
@@ -43,13 +43,16 @@
 &lt;h3 id=&#34;版本信息&#34;&gt;版本信息
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;当前版本：&lt;strong&gt;0.5.5&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;发行日期：&lt;strong&gt;2025-12-31&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;发行日期：&lt;strong&gt;2026-01-12&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;changelog&#34;&gt;Changelog
 &lt;/h3&gt;&lt;details&gt;
 &lt;summary&gt;更新日志&lt;/summary&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;Rena: The maximum Massage Level has been expanded to Level 6.&lt;/li&gt;
+&lt;li&gt;Yuno: A new feature has been added to the &amp;ldquo;Approach her&amp;rdquo; button in Yuno&amp;rsquo;s room during the morning. Once her Arousal is fully charged, you can meet her in front of her room at night.&lt;/li&gt;
+&lt;li&gt;Miho: A new NSFW scene with Miho has been added in her room at night.&lt;/li&gt;
+&lt;li&gt;Akari: When Akari&amp;rsquo;s Arousal is maxed out, a new menu option will appear on your bed at night. (Akari NSFW scene)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;h3 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
@@ -68,11 +71,22 @@
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
+&lt;summary&gt;汉化补丁更新日志&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2026.01.22 21:00&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;补链&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;details&gt;
 &lt;summary&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;制作日期：&lt;strong&gt;2026-01-04&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;制作日期：&lt;strong&gt;2026-01-22&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;PS：可能会出现&lt;strong&gt;极少量&lt;/strong&gt;的&lt;strong&gt;人名翻译误差&lt;/strong&gt;。例如我指定AI将&lt;strong&gt;Rachel&lt;/strong&gt;统一翻译为&lt;strong&gt;瑞秋&lt;/strong&gt;，AI只会在检测到&lt;strong&gt;完全一致&lt;/strong&gt;的&lt;strong&gt;英文单词&lt;/strong&gt;时进行替换。如果原文中存在&lt;strong&gt;拼写错误&lt;/strong&gt;、&lt;strong&gt;缩写格式&lt;/strong&gt;，或&lt;strong&gt;Rachel’s&lt;/strong&gt;这类词形变化（如名词的所有格、复数用法等），就可能被误译成&lt;strong&gt;瑞穗&lt;/strong&gt;，但仍会保持音译形式，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;免死金牌：&lt;/strong&gt; 落谦的汉化补丁，无论是 AI 意译版本还是逐句意译版本，都远不及原文或其他大佬的汉化版本。与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电&lt;/strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class=&#34;blur&#34;&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -188,15 +202,11 @@
 &lt;li&gt;下载链接：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/iQgDDb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/RJJIp8laLZ&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/NJTiI9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/mZNNG0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;斜圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/H9p3oU&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/uc8kfB&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;行楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/HlDVZG&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/5RSy1G&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
@@ -215,17 +225,13 @@
 &lt;li&gt;下载链接：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/iQgDDb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/RJJIp8laLZ&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/NJTiI9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/mZNNG0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/5RSy1G&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;斜圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/H9p3oU&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/uc8kfB&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;行楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/HlDVZG&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/bnjIUr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/I2sJRu&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
@@ -264,15 +270,11 @@
 &lt;li&gt;下载链接：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/iQgDDb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/RJJIp8laLZ&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/NJTiI9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/mZNNG0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;斜圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/H9p3oU&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/uc8kfB&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;行楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/HlDVZG&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/5RSy1G&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;3&#34;&gt;
