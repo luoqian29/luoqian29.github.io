@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Mon, 02 Feb 2026 12:33:37 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/pc/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 03 Feb 2026 01:07:50 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/pc/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Summer Heat 夏日猎艳记</title>
         <link>https://luoqian29.github.io/p/summerheat/</link>
         <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
@@ -74,6 +74,17 @@ No matter what you choose, you&amp;rsquo;ll feel the heat.​&lt;/li&gt;
 &lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;PS&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;个人感觉这游戏比新生也疯狂好玩，无论是建模还是剧情，仅次于我的大学生活，但是就更新有点慢，本来是要等作者更新，再出这个游戏的汉化的，可惜一眼望不到头，行吧，这游戏代码逻辑…怎么说呢？有点反人类，作者是舒服了，我去找文本源码可就惨咯，难怪这游戏没人搞…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;汉化补丁更新日志&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2026.02.03 01:00&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;修复百分比号%%的报错bug，并且替换VikingFile链接，Gofile反正迟早会失效。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
@@ -159,10 +170,10 @@ No matter what you choose, you&amp;rsquo;ll feel the heat.​&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/wLksgm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/iVI7AG&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/GI0XEg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/M1yh1WYKfv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/98l7vHg8M3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;安装步骤：&lt;/li&gt;
@@ -182,12 +193,12 @@ No matter what you choose, you&amp;rsquo;ll feel the heat.​&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/wLksgm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/iVI7AG&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/GI0XEg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/eTnIwa&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/M1yh1WYKfv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/98l7vHg8M3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/pWvbdvqCcs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;安装步骤：&lt;/li&gt;
@@ -227,10 +238,10 @@ No matter what you choose, you&amp;rsquo;ll feel the heat.​&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/wLksgm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/iVI7AG&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/GI0XEg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/M1yh1WYKfv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/98l7vHg8M3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;安装步骤：&lt;/li&gt;
