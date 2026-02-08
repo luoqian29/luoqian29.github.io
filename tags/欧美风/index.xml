@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Sun, 08 Feb 2026 08:12:30 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/%E6%AC%A7%E7%BE%8E%E9%A3%8E/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 09 Feb 2026 04:15:26 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/%E6%AC%A7%E7%BE%8E%E9%A3%8E/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Game of Hearts 红心游戏</title>
         <link>https://luoqian29.github.io/p/gameofhearts/</link>
         <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
@@ -186,7 +186,21 @@ and you&amp;rsquo;d be dead if it wasn&amp;rsquo;t due to a man who called himse
     &gt;魔戒&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;android安卓端&#34;&gt;Android（安卓端）
-&lt;/h3&gt;&lt;ol&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;因为作者源代码的问题，安卓出现了bug，但是不用担心，我们直接替换一个文件就可以解决&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/eaFIk98VEw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;——将这个rpy文件替换以下路径的同名rpy文件，就可以解决bug了。
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Documents/RenPy_Saves/com.luoqian.GameofHearts/game/scripts/chap2
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
 &lt;li&gt;下载链接：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
@@ -196,8 +210,8 @@ and you&amp;rsquo;d be dead if it wasn&amp;rsquo;t due to a man who called himse
     &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/9xACk1sHSI&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/eRL5zog9qa&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/LzeExw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;安装步骤：&lt;/li&gt;
