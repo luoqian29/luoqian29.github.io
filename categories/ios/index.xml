@@ -7,13 +7,13 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Mon, 16 Feb 2026 15:46:05 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/ios/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Feb 2026 21:15:56 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/ios/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Agent17 特工17</title>
         <link>https://luoqian29.github.io/p/agent17/</link>
         <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
         
         <guid>https://luoqian29.github.io/p/agent17/</guid>
-        <description>&lt;img src="https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4553757/7089259dd1ff40bc93de138e6ad4d73b/eyJxIjoxMDAsIndlYnAiOjB9/6.png?token-hash=ruYYg-Wg33iJoEXGXYQqk7ojI_6WFTLwHa9z6v9S7GE%3D&amp;token-time=1772409600" alt="Featured image of post Agent17 特工17" /&gt;&lt;h1 id=&#34;agent17-v0264-hexatail&#34;&gt;Agent17 [v0.26.4] [HEXATAIL]
+        <description>&lt;img src="https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4553757/7089259dd1ff40bc93de138e6ad4d73b/eyJxIjoxMDAsIndlYnAiOjB9/6.png?token-hash=ruYYg-Wg33iJoEXGXYQqk7ojI_6WFTLwHa9z6v9S7GE%3D&amp;token-time=1772409600" alt="Featured image of post Agent17 特工17" /&gt;&lt;h1 id=&#34;agent17-v0266-hexatail&#34;&gt;Agent17 [v0.26.6] [HEXATAIL]
 &lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1nLzEyNjUxNDU0LnBuZw==/original/fUvxcE.png&#34;
 	
 	
@@ -7338,8 +7338,8 @@ No matter what you choose, you&amp;rsquo;ll feel the heat.​&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;版本信息&#34;&gt;版本信息
 &lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;当前版本：&lt;strong&gt;v0.10&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;发行日期：&lt;strong&gt;2025-07-29&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;当前版本：&lt;strong&gt;0.6.1&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;发行日期：&lt;strong&gt;2024-09-01&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;changelog&#34;&gt;Changelog
 &lt;/h3&gt;&lt;details&gt;
@@ -7371,22 +7371,11 @@ No matter what you choose, you&amp;rsquo;ll feel the heat.​&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;汉化补丁更新日志&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2026.02.03 01:00&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;修复百分比号%%的报错bug，并且替换VikingFile链接，Gofile反正迟早会失效。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;details&gt;
 &lt;summary&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;制作日期：&lt;strong&gt;2026-02-02&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;制作日期：&lt;strong&gt;2026-02-16&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;PS：可能会出现&lt;strong&gt;极少量&lt;/strong&gt;的&lt;strong&gt;人名翻译误差&lt;/strong&gt;。例如我指定AI将&lt;strong&gt;Rachel&lt;/strong&gt;统一翻译为&lt;strong&gt;瑞秋&lt;/strong&gt;，AI只会在检测到&lt;strong&gt;完全一致&lt;/strong&gt;的&lt;strong&gt;英文单词&lt;/strong&gt;时进行替换。如果原文中存在&lt;strong&gt;拼写错误&lt;/strong&gt;、&lt;strong&gt;缩写格式&lt;/strong&gt;，或&lt;strong&gt;Rachel’s&lt;/strong&gt;这类词形变化（如名词的所有格、复数用法等），就可能被误译成&lt;strong&gt;瑞穗&lt;/strong&gt;，但仍会保持音译形式，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;免死金牌：&lt;/strong&gt; 落谦的汉化补丁，无论是 AI 意译版本还是逐句意译版本，都远不及原文或其他大佬的汉化版本。与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电&lt;/strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class=&#34;blur&#34;&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -7464,9 +7453,9 @@ No matter what you choose, you&amp;rsquo;ll feel the heat.​&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/wLksgm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/M1yh1WYKfv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/98l7vHg8M3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/4HVYgO&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/GApUxOORog&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
@@ -7489,10 +7478,12 @@ No matter what you choose, you&amp;rsquo;ll feel the heat.​&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/wLksgm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/M1yh1WYKfv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/4HVYgO&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/GApUxOORog&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/98l7vHg8M3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/FoXwNn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/pWvbdvqCcs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -7536,9 +7527,9 @@ No matter what you choose, you&amp;rsquo;ll feel the heat.​&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/wLksgm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/M1yh1WYKfv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/98l7vHg8M3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/4HVYgO&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/GApUxOORog&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;3&#34;&gt;
