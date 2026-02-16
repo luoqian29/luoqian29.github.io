@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Mon, 16 Feb 2026 21:33:58 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Feb 2026 22:10:33 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>2026年博文更新计划</title>
         <link>https://luoqian29.github.io/p/other/</link>
         <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
@@ -1859,10 +1859,10 @@ and you&amp;rsquo;d be dead if it wasn&amp;rsquo;t due to a man who called himse
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/5luNMDBuni&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ryVX09&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/T7wbMR&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/DrbYzL&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/hucP4mgGN9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;安装步骤：&lt;/li&gt;
@@ -1880,8 +1880,11 @@ and you&amp;rsquo;d be dead if it wasn&amp;rsquo;t due to a man who called himse
 &lt;h3 id=&#34;android安卓端&#34;&gt;Android（安卓端）
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;因为作者源代码的问题，安卓这个对话框显示向左了，但是不用担心，我们直接魔改代码，直接默认成renpy初始的对话框。&lt;/li&gt;
+&lt;li&gt;将screens.rpy替换以下路径的同名rpy文件，就可以解决bug了&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/gfNsxf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;——将这个rpy文件替换以下路径的同名rpy文件，就可以解决bug了。
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/Fvar4gPhzJ&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -1900,12 +1903,14 @@ and you&amp;rsquo;d be dead if it wasn&amp;rsquo;t due to a man who called himse
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/5luNMDBuni&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ryVX09&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/T7wbMR&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/DrbYzL&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/hucP4mgGN9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/vxCX0L&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/BJqk0VDNeB&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;安装步骤：&lt;/li&gt;
@@ -1949,10 +1954,10 @@ and you&amp;rsquo;d be dead if it wasn&amp;rsquo;t due to a man who called himse
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/5luNMDBuni&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正楷字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ryVX09&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/T7wbMR&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁——&lt;strong&gt;正圆字体&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/DrbYzL&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/hucP4mgGN9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;安装步骤：&lt;/li&gt;
