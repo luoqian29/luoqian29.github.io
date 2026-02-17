@@ -7964,7 +7964,10 @@ You&amp;rsquo;ve been living among beautiful girls in the Kingdom, yet, you stil
 &lt;hr&gt;
 &lt;h2 id=&#34;download汉化补丁&#34;&gt;DOWNLOAD（汉化补丁）
 &lt;/h2&gt;&lt;h3 id=&#34;winlinuxpc端&#34;&gt;Win/Linux（PC端）
-&lt;/h3&gt;&lt;ol&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;由于英文原版的文件会与汉化补丁冲突导致报错，需要将原版中game文件夹里的tl文件夹和language.rpa文件删除，这样bug就解决了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
 &lt;li&gt;下载链接：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
@@ -7991,7 +7994,10 @@ You&amp;rsquo;ve been living among beautiful girls in the Kingdom, yet, you stil
     &gt;视频教程&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;android安卓端&#34;&gt;Android（安卓端）
-&lt;/h3&gt;&lt;ol&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;由于英文原版的文件会与汉化补丁冲突导致报错，需要将原版中game文件夹里的tl文件夹和language.rpa文件删除，这样bug就解决了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
 &lt;li&gt;下载链接：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
@@ -8035,7 +8041,10 @@ You&amp;rsquo;ve been living among beautiful girls in the Kingdom, yet, you stil
     &gt;视频教程&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;ios苹果端&#34;&gt;iOS（苹果端）
-&lt;/h3&gt;&lt;ol&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;由于英文原版的文件会与汉化补丁冲突导致报错，需要将原版中game文件夹里的tl文件夹和language.rpa文件删除，这样bug就解决了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
 &lt;li&gt;环境配置：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
