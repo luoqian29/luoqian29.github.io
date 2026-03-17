@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Tue, 17 Mar 2026 09:27:55 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/ios/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 17 Mar 2026 14:06:58 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/ios/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>The Veil 帷幕</title>
         <link>https://luoqian29.github.io/p/theveil/</link>
         <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
@@ -81,7 +81,7 @@
 &lt;details&gt;
 &lt;summary&gt;博文更新日志&lt;/summary&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2026.03.14 14:00&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026.03.17 09:00&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;ul&gt;
 &lt;li&gt;更新0.3.6版本的ai汉化&lt;/li&gt;
@@ -90,6 +90,12 @@
 &lt;li&gt;
 &lt;ul&gt;
 &lt;li&gt;画廊mod。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026.03.17 14:00&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;修复百分比号——%报错的bug&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -152,9 +158,9 @@
     &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;俄文原版：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/Ld5qgUs3os&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/QGMUn7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/qyKPPU&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/WnmtxXWK&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/FEmcDcRH&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
@@ -187,9 +193,9 @@
     &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;俄文原版：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/Ld5qgUs3os&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/QGMUn7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/qyKPPU&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/WnmtxXWK&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/FEmcDcRH&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/YWy8AP&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
@@ -246,9 +252,9 @@
     &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;俄文原版：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/Ld5qgUs3os&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/QGMUn7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/qyKPPU&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/WnmtxXWK&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/FEmcDcRH&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;3&#34;&gt;
