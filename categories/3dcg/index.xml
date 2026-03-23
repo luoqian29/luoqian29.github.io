@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Mon, 23 Mar 2026 23:18:49 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/3dcg/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 23 Mar 2026 23:25:41 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/3dcg/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Strangers on Paper 纸上陌客（纸上陌生人）</title>
         <link>https://luoqian29.github.io/p/strangersonpaper/</link>
         <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
@@ -75,7 +75,12 @@
 &lt;li&gt;&lt;strong&gt;2026.03.23 24:00&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;ul&gt;
-&lt;li&gt;更新0.1的AI意译汉化补丁&lt;/li&gt;
+&lt;li&gt;更新Ch. 2 - 0.2.2的AI意译汉化补丁&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;集成选项mod，作弊mod。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
