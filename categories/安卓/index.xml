@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Tue, 24 Mar 2026 18:12:09 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 24 Mar 2026 18:47:04 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Boundaries of Morality 道德的边界</title>
         <link>https://luoqian29.github.io/p/boundariesofmorality/</link>
         <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
@@ -288,7 +288,7 @@
 &lt;details&gt;
 &lt;summary&gt;博文更新日志&lt;/summary&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2026.03.24 24:00&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026.03.24 18:00&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;ul&gt;
 &lt;li&gt;更新0.12的AI意译汉化补丁&lt;/li&gt;
@@ -297,6 +297,12 @@
 &lt;li&gt;
 &lt;ul&gt;
 &lt;li&gt;集成选项mod，画廊mod。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026.03.24 19:00&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;修复汉化补丁路径缺少文件报错的BUG&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -352,9 +358,9 @@
     &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;俄文原版：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/vca4A9AP&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/pZ6ZZd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ftg8Pk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/MBzDmSdW&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/Z49n1PYf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
@@ -387,9 +393,9 @@
     &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;俄文原版：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/vca4A9AP&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/pZ6ZZd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ftg8Pk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/MBzDmSdW&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/Z49n1PYf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/D22KET&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
@@ -446,9 +452,9 @@
     &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;俄文原版：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/vca4A9AP&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/pZ6ZZd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ftg8Pk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/MBzDmSdW&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/Z49n1PYf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;3&#34;&gt;
