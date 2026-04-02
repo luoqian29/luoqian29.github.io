@@ -1051,7 +1051,7 @@
         <item>
         <title>Imperial Chronicles 帝国编年史</title>
         <link>https://luoqian29.github.io/p/imperialchronicles/</link>
-        <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
         
         <guid>https://luoqian29.github.io/p/imperialchronicles/</guid>
         <description>&lt;img src="https://i.ibb.co/PMWGt8N/213.png" alt="Featured image of post Imperial Chronicles 帝国编年史" /&gt;&lt;h1 id=&#34;imperial-chronicles-v013-lazy-monkey&#34;&gt;Imperial Chronicles [v0.13] [Lazy Monkey]
@@ -1108,7 +1108,9 @@
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;PS&lt;/summary&gt;
 &lt;ul&gt;
-&lt;li&gt;扛不住了，兄弟们，让我歇一会吧，俄文0.13没修人名，英文没修人名，没改old new，所以哪个能玩就玩哪个，明天在优化，实在扛不住了。&lt;/li&gt;
+&lt;li&gt;我复活了，这次添加了个英文的简体中文，非常，十分推荐你玩这个，不要问为什么&lt;/li&gt;
+&lt;li&gt;但是有些小瑕疵，就是作者改了前面一些文本，所以汉化补丁不显示中文了，因为没有对应的文本&lt;/li&gt;
+&lt;li&gt;不过我俄文修了对话文本，英文没修，我找个有空时间再修吧&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
@@ -1135,6 +1137,16 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.04.02 02:00&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;AI意译汉化补丁：添加英文AI&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.04.02 22:00&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI意译汉化补丁：集成选项mod、画廊mod&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.04.02 22:00&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI意译汉化补丁：统一主要角色人名&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
