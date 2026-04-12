@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Sun, 12 Apr 2026 11:37:45 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/%E6%AC%A7%E7%BE%8E%E9%A3%8E/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 12 Apr 2026 12:02:26 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/%E6%AC%A7%E7%BE%8E%E9%A3%8E/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Being a DIK 我的大学生活</title>
         <link>https://luoqian29.github.io/p/beingadik/</link>
         <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
@@ -94,6 +94,16 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.04.12 12:00&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;汉化补丁：集成选项mod、作弊mod、画廊mod&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.04.12 12:00&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;汉化补丁：优化选项mod，设置右上角可以开关&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.04.12 12:00&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;汉化补丁：修复一些不显示汉化的文本&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
