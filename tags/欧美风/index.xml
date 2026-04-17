@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Sat, 18 Apr 2026 03:45:03 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/%E6%AC%A7%E7%BE%8E%E9%A3%8E/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 18 Apr 2026 07:40:25 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/%E6%AC%A7%E7%BE%8E%E9%A3%8E/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Deliverance 峰回路转</title>
         <link>https://luoqian29.github.io/p/deliverance/</link>
         <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
@@ -528,6 +528,11 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.04.18 06:00&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;汉化补丁&lt;/strong&gt;：Scene unlocked - Virtuous Path不显示汉化的bug&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.04.18 08:00&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;汉化补丁&lt;/strong&gt;：修复切换字体显示斜圆字体的bug&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;

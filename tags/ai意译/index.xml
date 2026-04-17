@@ -530,6 +530,11 @@
           &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.04.18 08:00&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;汉化补丁&lt;/strong&gt;：修复切换字体显示斜圆字体的bug&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.04.20 07:00&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;汉化补丁&lt;/strong&gt;：博文公开&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;📢&lt;/td&gt;
