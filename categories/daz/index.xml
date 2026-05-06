@@ -81,7 +81,7 @@
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.04.07 02:00&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;0.6.0p&lt;/strong&gt;：AI意译汉化补丁&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Episode Four.3a&lt;/strong&gt;：AI意译汉化补丁&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -107,7 +107,7 @@
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;制作日期：&lt;strong&gt;2026-05-14&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;制作日期：&lt;strong&gt;2026-05-07&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;PS：可能会出现&lt;strong&gt;极少量&lt;/strong&gt;的&lt;strong&gt;人名翻译误差&lt;/strong&gt;。例如我指定AI将&lt;strong&gt;Rachel&lt;/strong&gt;统一翻译为&lt;strong&gt;瑞秋&lt;/strong&gt;，AI只会在检测到&lt;strong&gt;完全一致&lt;/strong&gt;的&lt;strong&gt;英文单词&lt;/strong&gt;时进行替换。如果原文中存在&lt;strong&gt;拼写错误&lt;/strong&gt;、&lt;strong&gt;缩写格式&lt;/strong&gt;，或&lt;strong&gt;Rachel’s&lt;/strong&gt;这类词形变化（如名词的所有格、复数用法等），就可能被误译成&lt;strong&gt;瑞穗&lt;/strong&gt;，但仍会保持音译形式，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;免死金牌：&lt;/strong&gt; 落谦的汉化补丁，无论是 AI 意译版本还是逐句意译版本，都远不及原文或其他大佬的汉化版本。与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电&lt;/strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class=&#34;blur&#34;&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -281,7 +281,7 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;我的iPhone/Spark/games/Dreamland/game
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;我的iPhone/Spark/games/LeavingDNA/game
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;/li&gt;
