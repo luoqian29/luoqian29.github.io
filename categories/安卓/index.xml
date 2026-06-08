@@ -7,7 +7,1535 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Mon, 08 Jun 2026 19:13:22 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 09 Jun 2026 01:34:31 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Westview Academy 西景学院</title>
+        <link>https://luoqian29.github.io/p/westviewacademy/</link>
+        <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://luoqian29.github.io/p/westviewacademy/</guid>
+        <description>&lt;img src="https://cdn-public.oppaiman.com/cover-photos/takoyuh.png" alt="Featured image of post Westview Academy 西景学院" /&gt;&lt;h1 id=&#34;westview-academy-s2-v070-tako-yuh&#34;&gt;Westview Academy [S2 v0.7.0] [Tako Yuh]
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/Gjn481SXwAATUST?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview
+&lt;/h1&gt;&lt;details&gt;
+&lt;summary&gt;剧情概要&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;一位天赋异禀的年轻人进入了全国顶尖学府之一——西景学院。在西景学院，他将面临艰难的抉择，并将在新朋友与不同环境的影响下获得独特的经历。而你，要如何书写他的故事？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;游戏信息&#34;&gt;游戏信息
+&lt;/h2&gt;&lt;h3 id=&#34;游戏类型&#34;&gt;游戏类型
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;游戏玩法：&lt;strong&gt;视觉小说&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;建模引擎：&lt;strong&gt;Daz Studio&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;运行引擎：&lt;strong&gt;Ren&amp;rsquo;Py&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;游戏画风：&lt;strong&gt;欧美风&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;版本信息&#34;&gt;版本信息
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;当前版本：&lt;strong&gt;Season 2 - 0.7.0&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;发行日期：&lt;strong&gt;2025-09-05&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;changelog&#34;&gt;Changelog
+&lt;/h3&gt;&lt;details&gt;
+&lt;summary&gt;更新日志&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;N/A&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://subscribestar.adult/takoyuh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;SubscribeStar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://store.steampowered.com/app/2275560/Westview_Academy__Season_1/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Steam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://discord.com/invite/5R2NwHBjdX&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Discord&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.patreon.com/cw/TakoYuh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Patreon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://tako-yuh.itch.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Itch.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://x.com/tako_yuh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;落谦酱便利贴&#34;&gt;落谦酱便利贴
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;PS&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;质量很高，不玩白瞎。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;日期&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;更新详情&lt;/th&gt;
+					&lt;th style=&#34;text-align: center&#34;&gt;当前状态&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.06.09 01:01&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Season 2 - 0.7.0&lt;/strong&gt;：AI意译汉化补丁&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.06.09 01:00&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;汉化补丁&lt;/strong&gt;：集成选项mod&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.06.09 01:00&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;汉化补丁&lt;/strong&gt;：道友境订阅&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.06.16 01:00&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;汉化补丁&lt;/strong&gt;：博文公开&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;📢&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.06.09 01:00&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Season 1 - 0.6.4&lt;/strong&gt;：官中原版&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.06.09 01:00&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Season 1 - 0.6.4&lt;/strong&gt;：选项mod&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.06.09 01:00&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;选项mod&lt;/strong&gt;：道友境订阅&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.06.16 01:00&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;选项mod&lt;/strong&gt;：博文公开&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;📢&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;制作日期：&lt;strong&gt;2026-06-08&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;PS：由于AI本身会出现&lt;strong&gt;幻觉&lt;/strong&gt;，那么文本上下文中，偶尔会出现人名&lt;strong&gt;翻译误差&lt;/strong&gt;，以及&lt;strong&gt;中英文&lt;/strong&gt;夹杂的句子。目前落谦也只能统一&lt;strong&gt;主要角色&lt;/strong&gt;的人名，但难免还是会有&lt;strong&gt;个别遗漏&lt;/strong&gt;，毕竟落谦只有&lt;strong&gt;一个人&lt;/strong&gt;，时间和精力确实&lt;strong&gt;有限&lt;/strong&gt;。至于一些&lt;strong&gt;小名&lt;/strong&gt;、&lt;strong&gt;昵称&lt;/strong&gt;、&lt;strong&gt;缩写称呼&lt;/strong&gt;、&lt;strong&gt;称谓&lt;/strong&gt;、&lt;strong&gt;地点&lt;/strong&gt;、&lt;strong&gt;事件&lt;/strong&gt;，以及&lt;strong&gt;专有名词&lt;/strong&gt;，还有类似&lt;strong&gt;sister、brother&lt;/strong&gt;这种&lt;strong&gt;一词多义&lt;/strong&gt;的单词，则需要人工&lt;strong&gt;边玩边修正&lt;/strong&gt;。当然，如果在统一主要角色人名时，发现了&lt;strong&gt;相关专有名词&lt;/strong&gt;，也会&lt;strong&gt;顺手统一&lt;/strong&gt;一下。还请大家多多谅解，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;免死金牌：&lt;/strong&gt; 落谦的汉化补丁，无论是 AI 意译版本还是逐句意译版本，都远不及原文或其他大佬的汉化版本。与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电&lt;/strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class=&#34;blur&#34;&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;游戏预览图&#34;&gt;游戏预览图
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary&gt;素图&lt;/summary&gt;
+&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HC_hKPdaMAQ4kgp?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/HCrpr9wa0AAjOGQ?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/HCcBRxPb0AAb7iH?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/G8KZu2FaAAEsuf5?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GwmjNbLXsAAouV6?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/Gt_e6jUXQAAcv6V?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GtLxA2wWoAIWH0e?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GsEA0dGWYAAPlUv?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GsEA0dGWYAAPlUv?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GrbBs0WWoAAWwgx?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GmUyvtDa4AAHT71?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GljFzFaaEAAOQGg?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GlJkK_sbUAAcsTD?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GeofVc9aEAAs0a9?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/Gd0rg_nbEAAQSPM?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GciduC8aMAATPVP?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GcDjyiCbMAA26N-?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GbzvoAGbwAADIuN?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GYQZ06pbEAAmZb5?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GXDkpgcbEAA6J3G?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GW5ZFarbIAAHDav?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GW0hW4kXoAAblMX?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GU4x9yQaoAEaMVP?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GS3pGpFasAINsP1?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GRBAcUAaoAANLtZ?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GOxP7XuaMAIoe2v?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GLsq5N3a4AAkEQz?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GGZ6JAHagAAgeZj?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GFBitJpakAAWTJH?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GDNEM4OXQAAzJA6?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GCV9RoTa0AAuNkd?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GCDgPvGbgAEHWD9?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/F_4d52QbAAA9Agr?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/F-W6qEiaEAAAfkl?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/F-Fbbrra4AA5keZ?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/F9NpMQBasAA1UAH?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/F6S2dbYbUAA5mkR?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/F4tVDeVaoAA2IlB?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/F3aoF8ebQAAm9S5?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/F2800yHaMAMt0tY?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/F1gAl3VaQAAb35o?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/F1baPIEakAAthRh?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/F0xSEVWaQAIUeqx?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/F0W8RdaakAEe6GU?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/Fz0g02aaAAUUm1l?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FwxJNmIaEAARKKi?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FveFVFwaAAESdQn?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FvTRp5vaMAAIhhS?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/Fu6QDwvaUAI-vgC?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/Fuku6yBXwAELfPx?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/Ft6O_50agAMWrqL?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/Ft29FCtaMAEmLCT?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FrnpRb4agAAQ09L?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/Fp7ntdGaIAEFJ-L?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FpqeKAXaMAACGmI?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FpdBekJaQAAY1yK?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FpVXXHUaUAMmn9K?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/Fo_kUyAaAAAKmcl?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FoPcUIFaQAEns56?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FoFeXygagAAMQrn?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FnbQEwzakAAfTXP?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FmWcwHoaUAIACd7?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FmCO_ePaYAAJpMQ?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FjOqKIlVEAAw_L8?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FfA8ORPVEAAkq5D?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FdR3E7OVUAACcsH?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FcPMuB6aUAUQb6U?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FbhbxhGaIAUGt24?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FbZS0iHUsAILuys?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FZKFm1iVEAITmyS?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FY9J_qjUsAAAP6J?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FXz4bjaVEAMXPU5?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FUM9PWNVsAAdasT?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FTtda36UcAAaH6O?format=jpg&amp;amp;name=large&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;荤图&lt;/summary&gt;
+&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HJwXcigbIAAcblD?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/HHBBZSTaEAAGx45?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/Gtl3cQVXoAAqSJZ?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GpPQYHxXAAAmQUY?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GoAEnTPW4AAAri6?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GoAETuOXcAASUAh?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GiU6dt1a8AAvIKQ?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/Gccbc7cboAAfRL0?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GZocg7BbcAAKSlu?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GWvO2_rakAAsHwd?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GVhpbjybYAEeXPR?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GTCYCSZaIAAcbDG?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GNVeLdZakAAxHeH?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/GFYYju0asAA7gjf?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/F4AOyQsbYAAtyjR?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FsKqT-racAE4RZK?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/Fob0uFGacAAk9XF?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FjJjdSZaUAArjIT?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FjJjeMjaYAI7Z1p?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/FiVJOhOUAAAGkWt?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/Fbq9V1EUIAEZkbl?format=jpg&amp;amp;name=4096x4096&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;download汉化补丁&#34;&gt;DOWNLOAD（汉化补丁）
+&lt;/h2&gt;&lt;h3 id=&#34;winpc端&#34;&gt;Win（PC端）
+&lt;/h3&gt;&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;Season 2 - 0.7.0&lt;/summary&gt;
+&lt;ol&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/dV6437&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/KMF7HUHH&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/p/4e8f0df6635911f18fa452540025c377&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://azz.ee/828097/170057&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱赞助&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件放入&lt;strong&gt;game&lt;/strong&gt;文件夹中&lt;/li&gt;
+&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;温馨提示：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果看不懂安装步骤，可以参考小破站的&lt;strong&gt;教程&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;视频教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;android安卓端&#34;&gt;Android（安卓端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/dV6437&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/KMF7HUHH&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/p/4e8f0df6635911f18fa452540025c377&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://azz.ee/828097/170057&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱赞助&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/RdXE32&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/z5nNQbop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;、&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
+&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
+&lt;li&gt;然后解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将英文原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;和&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件一起移动到以下路径：
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Documents/RenPy_Saves/com.luoqian.WestviewAcademyS2/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;温馨提示：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果看不懂安装步骤，可以参考小破站的&lt;strong&gt;教程&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;视频教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ios苹果端&#34;&gt;iOS（苹果端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;环境配置：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/dV6437&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/KMF7HUHH&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/p/4e8f0df6635911f18fa452540025c377&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://azz.ee/828097/170057&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱赞助&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;英文原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
+&lt;li&gt;然后将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件移动到以下路径：
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;我的iPhone/Spark/games/WestviewAcademyS2/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;温馨提示：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果看不懂安装步骤，可以参考小破站的&lt;strong&gt;教程&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;视频教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;Season 1 - 0.6.4&lt;/summary&gt;
+&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;选项mod、作弊mod&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;选项mod、作弊mod：&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/p/23a05f12635b11f1a99452540025c377&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;选项mod、作弊mod：&lt;a class=&#34;link&#34; href=&#34;https://azz.ee/828097/170058&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱赞助&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;这里提供一个选项mod跟作弊mod。&lt;/li&gt;
+&lt;li&gt;已经修复本体打完mod后，官中有些文本不会被读取到的bug。&lt;/li&gt;
+&lt;li&gt;有需要的水友，解压压缩包解压后，Game文件夹覆盖Game文件夹即可。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;ol&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/YvkRd4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/5bY4nRQS&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;解压&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;文件，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;温馨提示：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果看不懂安装步骤，可以参考小破站的&lt;strong&gt;教程&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;视频教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;android安卓端-1&#34;&gt;Android（安卓端）
+&lt;/h3&gt;&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;选项mod、作弊mod&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;选项mod、作弊mod：&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/p/23a05f12635b11f1a99452540025c377&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;选项mod、作弊mod：&lt;a class=&#34;link&#34; href=&#34;https://azz.ee/828097/170058&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱赞助&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;这里提供一个选项mod跟作弊mod。&lt;/li&gt;
+&lt;li&gt;已经修复本体打完mod后，官中有些文本不会被读取到的bug。&lt;/li&gt;
+&lt;li&gt;有需要的水友，解压压缩包解压后，Game文件夹覆盖Game文件夹即可。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;ol&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/YvkRd4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/5bY4nRQS&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/dMDEry&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/KwFmj1eE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
+&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
+&lt;li&gt;然后解压官中原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将官中原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;移动到以下路径：
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Documents/RenPy_Saves/com.luoqian.WestviewAcademyS1/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;温馨提示：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果看不懂安装步骤，可以参考小破站的&lt;strong&gt;教程&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;视频教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ios苹果端-1&#34;&gt;iOS（苹果端）
+&lt;/h3&gt;&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;选项mod、作弊mod&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;选项mod、作弊mod：&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/p/23a05f12635b11f1a99452540025c377&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;选项mod、作弊mod：&lt;a class=&#34;link&#34; href=&#34;https://azz.ee/828097/170058&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱赞助&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;这里提供一个选项mod跟作弊mod。&lt;/li&gt;
+&lt;li&gt;已经修复本体打完mod后，官中有些文本不会被读取到的bug。&lt;/li&gt;
+&lt;li&gt;有需要的水友，解压压缩包解压后，Game文件夹覆盖Game文件夹即可。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;ol&gt;
+&lt;li&gt;环境配置：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/YvkRd4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/5bY4nRQS&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;官中原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
+&lt;li&gt;然后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;温馨提示：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果看不懂安装步骤，可以参考小破站的&lt;strong&gt;教程&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;视频教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;画廊mod&#34;&gt;画廊Mod
+&lt;/h2&gt;&lt;h3 id=&#34;winlinuxpc端&#34;&gt;Win/Linux（PC端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;画廊Mod：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/GFCv0c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;温馨提示：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果看不懂安装步骤，可以参考小破站的&lt;strong&gt;教程&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;视频教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;android安卓端-2&#34;&gt;Android（安卓端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;画廊Mod：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/GFCv0c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Documents/RenPy_Saves/com.luoqian.WestviewAcademy/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;温馨提示：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果看不懂安装步骤，可以参考小破站的&lt;strong&gt;教程&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;视频教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ios苹果端-2&#34;&gt;iOS（苹果端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;环境配置：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;画廊Mod：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/GFCv0c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;我的iPhone/Spark/games/WestviewAcademy/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;温馨提示：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果看不懂安装步骤，可以参考小破站的&lt;strong&gt;教程&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;视频教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宇宙安全声明&#34;&gt;宇宙安全声明！
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播&lt;/li&gt;
+&lt;li&gt;落谦不对因使用本文所产生的任何问题负责&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
         <title>Hard Lessons 沉痛的教训</title>
         <link>https://luoqian29.github.io/p/hardlessons/</link>
         <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
@@ -102,7 +1630,7 @@
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -406,7 +1934,7 @@ Expect a game rich in story, with complex characters, emotional twists and turns
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -826,7 +2354,7 @@ Expect a game rich in story, with complex characters, emotional twists and turns
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -1812,7 +3340,7 @@ They are not here to be judged. They are here because something inside them answ
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -2087,7 +3615,7 @@ They are not here to be judged. They are here because something inside them answ
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -2548,7 +4076,7 @@ Gameplay trailer&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -3118,7 +4646,7 @@ Gameplay trailer&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -3611,7 +5139,7 @@ Gameplay trailer&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -4159,7 +5687,7 @@ Gameplay trailer&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -4439,7 +5967,7 @@ Gameplay trailer&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -4474,9 +6002,9 @@ Gameplay trailer&lt;/li&gt;
     &gt;爱发电&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;选项mod：&lt;a class=&#34;link&#34; href=&#34;https://azz.ee/828097/169984&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;爱赞助&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;游戏已经有官中了，质量还不错。落谦就不去跑AI了，不过制作了一个选项mod。&lt;/li&gt;
-&lt;li&gt;原先本体打完mod后，官中有些文本不会被读取到，所以我也把那些文本提取出来，也跑了AI，都在压缩包里边。&lt;/li&gt;
-&lt;li&gt;那么把这个压缩包解压后，Game文件夹覆盖Game文件夹即可。&lt;/li&gt;
+&lt;li&gt;这里提供一个选项mod跟作弊mod。&lt;/li&gt;
+&lt;li&gt;已经修复本体打完mod后，官中有些文本不会被读取到的bug。&lt;/li&gt;
+&lt;li&gt;有需要的水友，解压压缩包解压后，Game文件夹覆盖Game文件夹即可。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;ol&gt;
@@ -4516,9 +6044,9 @@ Gameplay trailer&lt;/li&gt;
     &gt;爱发电&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;选项mod：&lt;a class=&#34;link&#34; href=&#34;https://azz.ee/828097/169984&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;爱赞助&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;游戏已经有官中了，质量还不错。落谦就不去跑AI了，不过制作了一个选项mod。&lt;/li&gt;
-&lt;li&gt;原先本体打完mod后，官中有些文本不会被读取到，所以我也把那些文本提取出来，也跑了AI，都在压缩包里边。&lt;/li&gt;
-&lt;li&gt;那么把这个压缩包解压后，Game文件夹覆盖Game文件夹即可。&lt;/li&gt;
+&lt;li&gt;这里提供一个选项mod跟作弊mod。&lt;/li&gt;
+&lt;li&gt;已经修复本体打完mod后，官中有些文本不会被读取到的bug。&lt;/li&gt;
+&lt;li&gt;有需要的水友，解压压缩包解压后，Game文件夹覆盖Game文件夹即可。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;ol&gt;
@@ -4581,9 +6109,9 @@ Gameplay trailer&lt;/li&gt;
     &gt;爱发电&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;选项mod：&lt;a class=&#34;link&#34; href=&#34;https://azz.ee/828097/169984&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;爱赞助&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;游戏已经有官中了，质量还不错。落谦就不去跑AI了，不过制作了一个选项mod。&lt;/li&gt;
-&lt;li&gt;原先本体打完mod后，官中有些文本不会被读取到，所以我也把那些文本提取出来，也跑了AI，都在压缩包里边。&lt;/li&gt;
-&lt;li&gt;那么把这个压缩包解压后，Game文件夹覆盖Game文件夹即可。&lt;/li&gt;
+&lt;li&gt;这里提供一个选项mod跟作弊mod。&lt;/li&gt;
+&lt;li&gt;已经修复本体打完mod后，官中有些文本不会被读取到的bug。&lt;/li&gt;
+&lt;li&gt;有需要的水友，解压压缩包解压后，Game文件夹覆盖Game文件夹即可。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;ol&gt;
@@ -4853,7 +6381,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -5136,7 +6664,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -5581,7 +7109,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -6178,7 +7706,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -6973,7 +8501,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -7403,7 +8931,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -7810,7 +9338,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -8316,7 +9844,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -8855,7 +10383,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -9256,7 +10784,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -9587,7 +11115,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -9993,7 +11521,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -10282,7 +11810,7 @@ And of course, date the girls. It&amp;rsquo;s up to you to become the heartbreak
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -10634,7 +12162,7 @@ And of course, date the girls. It&amp;rsquo;s up to you to become the heartbreak
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -10994,7 +12522,7 @@ And of course, date the girls. It&amp;rsquo;s up to you to become the heartbreak
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -11428,7 +12956,7 @@ And of course, date the girls. It&amp;rsquo;s up to you to become the heartbreak
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -11997,7 +13525,7 @@ And of course, date the girls. It&amp;rsquo;s up to you to become the heartbreak
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -12558,7 +14086,7 @@ And of course, date the girls. It&amp;rsquo;s up to you to become the heartbreak
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -12960,7 +14488,7 @@ And of course, date the girls. It&amp;rsquo;s up to you to become the heartbreak
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -13341,7 +14869,7 @@ And of course, date the girls. It&amp;rsquo;s up to you to become the heartbreak
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -13744,7 +15272,7 @@ What awaits you? What kind of people will you meet? And obviously, how many girl
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -14243,7 +15771,7 @@ What awaits you? What kind of people will you meet? And obviously, how many girl
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -14949,7 +16477,7 @@ What awaits you? What kind of people will you meet? And obviously, how many girl
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -15259,7 +16787,7 @@ And don&amp;rsquo;t forget to explore the town, everywhere you look there&amp;rs
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -15584,7 +17112,7 @@ And don&amp;rsquo;t forget to explore the town, everywhere you look there&amp;rs
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -16058,7 +17586,7 @@ Prepare for a journey of suspense, mystery, and supernatural twists as you delve
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -16601,7 +18129,7 @@ Prepare for a journey of suspense, mystery, and supernatural twists as you delve
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -16905,7 +18433,7 @@ One day, Marcus is a presented with a work opportunity that would have him movin
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -17313,7 +18841,7 @@ More, Teaser and Character Introduction&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -17721,7 +19249,7 @@ More, Teaser and Character Introduction&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -18132,7 +19660,7 @@ More, Teaser and Character Introduction&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -18511,7 +20039,7 @@ Simple, right? But soon, things start to feel&amp;hellip; off. Familiar faces lo
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -18765,7 +20293,7 @@ Simple, right? But soon, things start to feel&amp;hellip; off. Familiar faces lo
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -19455,7 +20983,7 @@ Simple, right? But soon, things start to feel&amp;hellip; off. Familiar faces lo
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -20260,7 +21788,7 @@ Simple, right? But soon, things start to feel&amp;hellip; off. Familiar faces lo
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -20945,7 +22473,7 @@ Simple, right? But soon, things start to feel&amp;hellip; off. Familiar faces lo
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -21231,7 +22759,7 @@ Simple, right? But soon, things start to feel&amp;hellip; off. Familiar faces lo
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -21516,7 +23044,7 @@ Simple, right? But soon, things start to feel&amp;hellip; off. Familiar faces lo
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -21851,7 +23379,7 @@ uncover side characters’ lives, and dive into a world full of action, drama, a
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -22283,7 +23811,7 @@ Discover what you left behind. Rekindle old friendships, start new relationships
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -22768,7 +24296,7 @@ Discover what you left behind. Rekindle old friendships, start new relationships
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -23346,7 +24874,7 @@ Discover what you left behind. Rekindle old friendships, start new relationships
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -23720,7 +25248,7 @@ You will also have to manage the academy and learn a few secrets. Young women ea
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -24117,7 +25645,7 @@ Enjoy the show and remember:&lt;/p&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -24381,7 +25909,7 @@ Enjoy the show and remember:&lt;/p&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -24629,7 +26157,7 @@ Enjoy the show and remember:&lt;/p&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -25052,7 +26580,7 @@ Enjoy the show and remember:&lt;/p&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -25316,7 +26844,7 @@ Enjoy the show and remember:&lt;/p&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -25842,7 +27370,7 @@ Enjoy the show and remember:&lt;/p&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -26342,7 +27870,7 @@ Unable to stay alone, you seek refuge at a childhood friend&amp;rsquo;s house, w
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -26743,7 +28271,7 @@ Unable to stay alone, you seek refuge at a childhood friend&amp;rsquo;s house, w
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -27134,7 +28662,7 @@ Unable to stay alone, you seek refuge at a childhood friend&amp;rsquo;s house, w
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -27399,9 +28927,9 @@ Unable to stay alone, you seek refuge at a childhood friend&amp;rsquo;s house, w
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;选项mod、作弊mod：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/5pNhDkM9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;游戏已经有官中了，质量还不错。落谦就不去跑AI了，不过制作了一个选项mod跟作弊mod。&lt;/li&gt;
-&lt;li&gt;原先本体打完mod后，官中有些文本不会被读取到，所以我也把那些文本提取出来，也跑了AI，都在压缩包里边。&lt;/li&gt;
-&lt;li&gt;那么把这个压缩包解压后，Game文件夹覆盖Game文件夹即可。&lt;/li&gt;
+&lt;li&gt;这里提供一个选项mod跟作弊mod。&lt;/li&gt;
+&lt;li&gt;已经修复本体打完mod后，官中有些文本不会被读取到的bug。&lt;/li&gt;
+&lt;li&gt;有需要的水友，解压压缩包解压后，Game文件夹覆盖Game文件夹即可。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;ol&gt;
@@ -27441,9 +28969,9 @@ Unable to stay alone, you seek refuge at a childhood friend&amp;rsquo;s house, w
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;选项mod、作弊mod：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/5pNhDkM9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;游戏已经有官中了，质量还不错。落谦就不去跑AI了，不过制作了一个选项mod跟作弊mod。&lt;/li&gt;
-&lt;li&gt;原先本体打完mod后，官中有些文本不会被读取到，所以我也把那些文本提取出来，也跑了AI，都在压缩包里边。&lt;/li&gt;
-&lt;li&gt;那么把这个压缩包解压后，Game文件夹覆盖Game文件夹即可。&lt;/li&gt;
+&lt;li&gt;这里提供一个选项mod跟作弊mod。&lt;/li&gt;
+&lt;li&gt;已经修复本体打完mod后，官中有些文本不会被读取到的bug。&lt;/li&gt;
+&lt;li&gt;有需要的水友，解压压缩包解压后，Game文件夹覆盖Game文件夹即可。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;ol&gt;
@@ -27501,9 +29029,9 @@ Unable to stay alone, you seek refuge at a childhood friend&amp;rsquo;s house, w
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;选项mod、作弊mod：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/5pNhDkM9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;游戏已经有官中了，质量还不错。落谦就不去跑AI了，不过制作了一个选项mod跟作弊mod。&lt;/li&gt;
-&lt;li&gt;原先本体打完mod后，官中有些文本不会被读取到，所以我也把那些文本提取出来，也跑了AI，都在压缩包里边。&lt;/li&gt;
-&lt;li&gt;那么把这个压缩包解压后，Game文件夹覆盖Game文件夹即可。&lt;/li&gt;
+&lt;li&gt;这里提供一个选项mod跟作弊mod。&lt;/li&gt;
+&lt;li&gt;已经修复本体打完mod后，官中有些文本不会被读取到的bug。&lt;/li&gt;
+&lt;li&gt;有需要的水友，解压压缩包解压后，Game文件夹覆盖Game文件夹即可。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;ol&gt;
@@ -27762,7 +29290,7 @@ Unable to stay alone, you seek refuge at a childhood friend&amp;rsquo;s house, w
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -28195,7 +29723,7 @@ Unable to stay alone, you seek refuge at a childhood friend&amp;rsquo;s house, w
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -28500,7 +30028,7 @@ Unable to stay alone, you seek refuge at a childhood friend&amp;rsquo;s house, w
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -29059,7 +30587,7 @@ This is a story about temptation, escalation, and the cost of wanting more. Whet
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -29449,7 +30977,7 @@ This is a story about temptation, escalation, and the cost of wanting more. Whet
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -30395,7 +31923,7 @@ The game will be massive with interactions, mini games, quests, college girls, p
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -30738,7 +32266,7 @@ The game will be massive with interactions, mini games, quests, college girls, p
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -31153,7 +32681,7 @@ The game will be massive with interactions, mini games, quests, college girls, p
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -31600,7 +33128,7 @@ The game will be massive with interactions, mini games, quests, college girls, p
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -32545,7 +34073,7 @@ The game will be massive with interactions, mini games, quests, college girls, p
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -32965,7 +34493,7 @@ The game will be massive with interactions, mini games, quests, college girls, p
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -33402,7 +34930,7 @@ He will become obsessed with Yuria the moment he sees her, will Yuria be able to
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -33758,7 +35286,7 @@ He will become obsessed with Yuria the moment he sees her, will Yuria be able to
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -34071,7 +35599,7 @@ He will become obsessed with Yuria the moment he sees her, will Yuria be able to
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -34673,7 +36201,7 @@ But, as often happens, things do not go according to plan. One day, when your wi
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -35073,7 +36601,7 @@ But, as often happens, things do not go according to plan. One day, when your wi
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -35374,7 +36902,7 @@ A guy. A girl. A pair of handcuffs. And a lot of kinky sex.​&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -35774,7 +37302,7 @@ A guy. A girl. A pair of handcuffs. And a lot of kinky sex.​&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -36169,7 +37697,7 @@ However, everything changes when a woman named Sarah visits him and opens up a n
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -36858,7 +38386,7 @@ However, everything changes when a woman named Sarah visits him and opens up a n
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -37276,7 +38804,7 @@ and you&amp;rsquo;d be dead if it wasn&amp;rsquo;t due to a man who called himse
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -37664,7 +39192,7 @@ and you&amp;rsquo;d be dead if it wasn&amp;rsquo;t due to a man who called himse
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -38022,7 +39550,7 @@ and you&amp;rsquo;d be dead if it wasn&amp;rsquo;t due to a man who called himse
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -38433,7 +39961,7 @@ and you&amp;rsquo;d be dead if it wasn&amp;rsquo;t due to a man who called himse
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -38837,7 +40365,7 @@ Elisa’s solo ending&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -39242,7 +40770,7 @@ Elisa’s solo ending&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -39541,7 +41069,7 @@ Because your family is going through a crisis, you need to revive your family, m
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -39965,7 +41493,7 @@ Because your family is going through a crisis, you need to revive your family, m
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -40370,7 +41898,7 @@ The story moves fast with no slow burn: steamy yoga + wine scenes with the hot M
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -40655,7 +42183,7 @@ The story moves fast with no slow burn: steamy yoga + wine scenes with the hot M
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -40924,7 +42452,7 @@ This epic adventure in the Northern lands will let you explore the ancient Norse
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -41389,7 +42917,7 @@ This epic adventure in the Northern lands will let you explore the ancient Norse
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -41786,7 +43314,7 @@ High quality renders with fully animated lewd scenes and immersive gameplay. The
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -42097,7 +43625,7 @@ High quality renders with fully animated lewd scenes and immersive gameplay. The
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -42504,7 +44032,7 @@ High quality renders with fully animated lewd scenes and immersive gameplay. The
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -42824,7 +44352,7 @@ and you&amp;rsquo;d be dead if it wasn&amp;rsquo;t due to a man who called himse
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -43261,7 +44789,7 @@ No matter what you choose, you&amp;rsquo;ll feel the heat.​&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -43661,7 +45189,7 @@ No matter what you choose, you&amp;rsquo;ll feel the heat.​&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -44029,7 +45557,7 @@ However, if you look close enough, you&amp;rsquo;ll discover that Dreamland also
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -44514,7 +46042,7 @@ A storm of emotions crashes into Damian, just as he steps into adulthood, pullin
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -44953,7 +46481,7 @@ Will he make the most of this situation?​&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -45375,7 +46903,7 @@ But one fateful encounter plunges you into the middle of a conspiracy filled wit
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -45979,7 +47507,7 @@ But one fateful encounter plunges you into the middle of a conspiracy filled wit
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -46403,7 +47931,7 @@ But one fateful encounter plunges you into the middle of a conspiracy filled wit
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -46869,7 +48397,7 @@ But one fateful encounter plunges you into the middle of a conspiracy filled wit
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -47269,7 +48797,7 @@ A ruthless warlord carving out her empire silver-tongued treasure hunter seeking
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -47504,7 +49032,7 @@ where casual conversations and accidental glances slowly grow into forbidden tho
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -47822,7 +49350,7 @@ where casual conversations and accidental glances slowly grow into forbidden tho
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -48324,7 +49852,7 @@ where casual conversations and accidental glances slowly grow into forbidden tho
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -48653,7 +50181,7 @@ where casual conversations and accidental glances slowly grow into forbidden tho
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -49041,7 +50569,7 @@ where casual conversations and accidental glances slowly grow into forbidden tho
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -49628,7 +51156,7 @@ where casual conversations and accidental glances slowly grow into forbidden tho
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -51052,7 +52580,7 @@ where casual conversations and accidental glances slowly grow into forbidden tho
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -51457,7 +52985,7 @@ where casual conversations and accidental glances slowly grow into forbidden tho
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -51874,7 +53402,7 @@ where casual conversations and accidental glances slowly grow into forbidden tho
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -52309,7 +53837,7 @@ where casual conversations and accidental glances slowly grow into forbidden tho
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -52736,7 +54264,7 @@ where casual conversations and accidental glances slowly grow into forbidden tho
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -53166,7 +54694,7 @@ where casual conversations and accidental glances slowly grow into forbidden tho
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -53732,7 +55260,7 @@ However, given the way you&amp;rsquo;ve been treated in the past, you decide tha
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -54098,7 +55626,7 @@ However, given the way you&amp;rsquo;ve been treated in the past, you decide tha
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -54634,7 +56162,7 @@ Fucking girls for a living? Sounds fun, ain&amp;rsquo;t it &amp;hellip;?&lt;/li&
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -54906,7 +56434,7 @@ Fucking girls for a living? Sounds fun, ain&amp;rsquo;t it &amp;hellip;?&lt;/li&
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -55306,7 +56834,7 @@ Fucking girls for a living? Sounds fun, ain&amp;rsquo;t it &amp;hellip;?&lt;/li&
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -55746,7 +57274,7 @@ This story focuses on her life after 5 years of divorce, as she battles with the
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -56191,7 +57719,7 @@ This story focuses on her life after 5 years of divorce, as she battles with the
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -56662,7 +58190,7 @@ This story focuses on her life after 5 years of divorce, as she battles with the
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -57237,7 +58765,7 @@ This story focuses on her life after 5 years of divorce, as she battles with the
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -58375,7 +59903,7 @@ An ordinary guy from an ordinary family unexpectedly enters one of the best univ
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -58789,7 +60317,7 @@ An ordinary guy from an ordinary family unexpectedly enters one of the best univ
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -59085,7 +60613,7 @@ Determine to face your new future , you headed to the A.O.A Academy.&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -59564,7 +61092,7 @@ Determine to face your new future , you headed to the A.O.A Academy.&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -59852,7 +61380,7 @@ Determine to face your new future , you headed to the A.O.A Academy.&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -60286,7 +61814,7 @@ This version has been completely rebuilt in Ren&amp;rsquo;Py.&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -60587,7 +62115,7 @@ If you experience an error on launch with &amp;ldquo;File &amp;ldquo;game/defini
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -61019,7 +62547,7 @@ If you experience an error on launch with &amp;ldquo;File &amp;ldquo;game/defini
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -61424,7 +62952,7 @@ If you experience an error on launch with &amp;ldquo;File &amp;ldquo;game/defini
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -62077,7 +63605,7 @@ If you experience an error on launch with &amp;ldquo;File &amp;ldquo;game/defini
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -62349,7 +63877,7 @@ If you experience an error on launch with &amp;ldquo;File &amp;ldquo;game/defini
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -62761,7 +64289,7 @@ This v0.1 introduces the world, the tension, and the first steps into the story.
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -63159,7 +64687,7 @@ And this time your friendship might be put to the test again…&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -63620,7 +65148,7 @@ And this time your friendship might be put to the test again…&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -63999,7 +65527,7 @@ And this time your friendship might be put to the test again…&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -64287,7 +65815,7 @@ And this time your friendship might be put to the test again…&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -64656,7 +66184,7 @@ And this time your friendship might be put to the test again…&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -64860,7 +66388,7 @@ Later, in Mc’s hotel room, he encounter a female ghost named Molly, who has lo
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -65079,7 +66607,7 @@ Later, in Mc’s hotel room, he encounter a female ghost named Molly, who has lo
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -65348,7 +66876,7 @@ Later, in Mc’s hotel room, he encounter a female ghost named Molly, who has lo
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -65508,7 +67036,7 @@ Later, in Mc’s hotel room, he encounter a female ghost named Molly, who has lo
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -65668,7 +67196,7 @@ Later, in Mc’s hotel room, he encounter a female ghost named Molly, who has lo
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -65933,7 +67461,7 @@ Later, in Mc’s hotel room, he encounter a female ghost named Molly, who has lo
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -66134,7 +67662,7 @@ Later, in Mc’s hotel room, he encounter a female ghost named Molly, who has lo
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -66385,7 +67913,7 @@ Later, in Mc’s hotel room, he encounter a female ghost named Molly, who has lo
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -66602,7 +68130,7 @@ Later, in Mc’s hotel room, he encounter a female ghost named Molly, who has lo
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -66876,7 +68404,7 @@ Well&amp;hellip; That’s up to you now.&lt;/li&gt;
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -67403,7 +68931,7 @@ Come and unravel the secrets behind the MC’s missing father and all the unexpe
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -67790,7 +69318,7 @@ You&amp;rsquo;ve been living among beautiful girls in the Kingdom, yet, you stil
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -68061,7 +69589,7 @@ You&amp;rsquo;ve been living among beautiful girls in the Kingdom, yet, you stil
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -68452,7 +69980,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -68645,7 +70173,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -68902,7 +70430,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -69177,7 +70705,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -69429,7 +70957,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -69716,7 +71244,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -69980,7 +71508,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -70221,7 +71749,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -70491,7 +72019,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -70750,7 +72278,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -70986,7 +72514,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
@@ -71310,7 +72838,7 @@ attempting to cover up the heinous crimes they&amp;rsquo;ve committed.&amp;rdquo
 
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ym5f6LEwn&#34;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
             scrolling=&#34;no&#34;
             frameborder=&#34;no&#34;
             framespacing=&#34;0&#34;
