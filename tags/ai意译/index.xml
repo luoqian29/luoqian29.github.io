@@ -7,9 +7,312 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright><atom:link href="https://luoqian29.github.io/tags/ai%E6%84%8F%E8%AF%91/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Phantyx 幻灵</title>
+        <link>https://luoqian29.github.io/p/phantyx/</link>
+        <pubDate>Wed, 10 Jun 2026 00:00:00 +0800</pubDate>
+        
+        <guid>https://luoqian29.github.io/p/phantyx/</guid>
+        <description>&lt;img src="https://img.itch.zone/aW1hZ2UvMzUxNjg4Ni8yNzExNjI0Mi5wbmc=/original/Zi3dUL.png" alt="Featured image of post Phantyx 幻灵" /&gt;&lt;h1 id=&#34;phantyx-v01-velrya&#34;&gt;Phantyx [v0.1] [Velrya]
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMzUxNjg4Ni8yNzExNjIyMC5wbmc=/original/pttYHz.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview
+&lt;/h1&gt;&lt;details&gt;
+&lt;summary&gt;剧情概要&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Humans and demons have shared this world for as long as anyone can remember.
+Their coexistence has been anything but peaceful,
+and many bloody wars have been fought. Then, suddenly, the demons disappeared.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details&gt;
+&lt;summary&gt;剧情概要&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;It looked like everything was slowly returning to normal.
+Then the ghosts appeared.
+That&amp;rsquo;s why Phantyx was created, a special taskforce to deal with this new threat.&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;re a highly ranked ghost hunter who joined Phantyx at fourteen, following in your parents&amp;rsquo; footsteps.
+With eight years of experience under your belt, you&amp;rsquo;re known for being quick and efficient, but most of all.
+Merciless.&lt;/li&gt;
+&lt;li&gt;Because this fight is personal. After your parents were killed, you made a promise:
+To keep fighting.
+Until every last ghost is gone.
+But what will it take to keep that promise?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;游戏信息&#34;&gt;游戏信息
+&lt;/h2&gt;&lt;h3 id=&#34;游戏类型&#34;&gt;游戏类型
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;游戏玩法：&lt;strong&gt;沙盒视觉小说&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;建模引擎：&lt;strong&gt;Honey Select 2&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;运行引擎：&lt;strong&gt;Ren&amp;rsquo;Py&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;游戏画风：&lt;strong&gt;亚洲风&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;版本信息&#34;&gt;版本信息
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;当前版本：&lt;strong&gt;0.1&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;发行日期：&lt;strong&gt;2026-06-09&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;changelog&#34;&gt;Changelog
+&lt;/h3&gt;&lt;details&gt;
+&lt;summary&gt;更新日志&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;N/A&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.patreon.com/cw/Velrya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Patreon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://velrya.itch.io/phantyx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Discord&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;落谦酱便利贴&#34;&gt;落谦酱便利贴
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;PS&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;还行，新作，恐怖元素，有点吓人。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;日期&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;更新详情&lt;/th&gt;
+					&lt;th style=&#34;text-align: center&#34;&gt;当前状态&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.06.10 02:00&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;0.1&lt;/strong&gt;：AI意译汉化补丁&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;制作日期：&lt;strong&gt;2026-06-10&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;PS：由于AI本身会出现&lt;strong&gt;幻觉&lt;/strong&gt;，那么文本上下文中，偶尔会出现人名&lt;strong&gt;翻译误差&lt;/strong&gt;，以及&lt;strong&gt;中英文&lt;/strong&gt;夹杂的句子。目前落谦也只能统一&lt;strong&gt;主要角色&lt;/strong&gt;的人名，但难免还是会有&lt;strong&gt;个别遗漏&lt;/strong&gt;，毕竟落谦只有&lt;strong&gt;一个人&lt;/strong&gt;，时间和精力确实&lt;strong&gt;有限&lt;/strong&gt;。至于一些&lt;strong&gt;小名&lt;/strong&gt;、&lt;strong&gt;昵称&lt;/strong&gt;、&lt;strong&gt;缩写称呼&lt;/strong&gt;、&lt;strong&gt;称谓&lt;/strong&gt;、&lt;strong&gt;地点&lt;/strong&gt;、&lt;strong&gt;事件&lt;/strong&gt;，以及&lt;strong&gt;专有名词&lt;/strong&gt;，还有类似&lt;strong&gt;sister、brother&lt;/strong&gt;这种&lt;strong&gt;一词多义&lt;/strong&gt;的单词，则需要人工&lt;strong&gt;边玩边修正&lt;/strong&gt;。当然，如果在统一主要角色人名时，发现了&lt;strong&gt;相关专有名词&lt;/strong&gt;，也会&lt;strong&gt;顺手统一&lt;/strong&gt;一下。还请大家多多谅解，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;免死金牌：&lt;/strong&gt; 落谦的汉化补丁，无论是 AI 意译版本还是逐句意译版本，都远不及原文或其他大佬的汉化版本。与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电&lt;/strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class=&#34;blur&#34;&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;游戏预览图&#34;&gt;游戏预览图
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;荤图&lt;/summary&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMzUxNjg4Ni8yNzQ3OTk5Ni5naWY=/original/SPLB0a.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMzUxNjg4Ni8yNzQ3OTk4NC5naWY=/original/BBijUi.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;download汉化补丁&#34;&gt;DOWNLOAD（汉化补丁）
+&lt;/h2&gt;&lt;h3 id=&#34;winpc端&#34;&gt;Win（PC端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/u0s29P&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/Ggia3vPu&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/0ICJGY&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/nQi9gLya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件放入&lt;strong&gt;game&lt;/strong&gt;文件夹中&lt;/li&gt;
+&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;温馨提示：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果看不懂安装步骤，可以参考小破站的&lt;strong&gt;教程&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;视频教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;android安卓端&#34;&gt;Android（安卓端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/u0s29P&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/Ggia3vPu&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/0ICJGY&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/nQi9gLya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ajY4gE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/UqMnVsGr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;、&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
+&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
+&lt;li&gt;然后解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将英文原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;和&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件一起移动到以下路径：
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Documents/RenPy_Saves/com.luoqian.Phantyx/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;温馨提示：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果看不懂安装步骤，可以参考小破站的&lt;strong&gt;教程&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;视频教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ios苹果端&#34;&gt;iOS（苹果端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;环境配置：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/u0s29P&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/Ggia3vPu&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/0ICJGY&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/nQi9gLya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;英文原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
+&lt;li&gt;然后将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件移动到以下路径：
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;我的iPhone/Spark/games/Phantyx/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;温馨提示：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果看不懂安装步骤，可以参考小破站的&lt;strong&gt;教程&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;视频教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宇宙安全声明&#34;&gt;宇宙安全声明！
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播&lt;/li&gt;
+&lt;li&gt;落谦不对因使用本文所产生的任何问题负责&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
         <title>In-Security 隐患</title>
         <link>https://luoqian29.github.io/p/insecurity/</link>
-        <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/insecurity/</guid>
         <description>&lt;img src="https://cdn-public.oppaiman.com/cover-photos/ntrbakery.png" alt="Featured image of post In-Security 隐患" /&gt;&lt;h1 id=&#34;in-security-v090-ntr-bakery&#34;&gt;In-Security [v0.9.0] [NTR Bakery]
@@ -447,7 +750,7 @@
         <item>
         <title>Special Harem Class 特殊后宫班</title>
         <link>https://luoqian29.github.io/p/specialharemclass/</link>
-        <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/specialharemclass/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJy1aYNbwAAmyDU?format=jpg&amp;name=large" alt="Featured image of post Special Harem Class 特殊后宫班" /&gt;&lt;h1 id=&#34;special-harem-class-v046-p2-kagetodev&#34;&gt;Special Harem Class [v0.4.6 P2] [KagetoDev]
@@ -777,7 +1080,7 @@ And don&amp;rsquo;t forget to explore the town, everywhere you look there&amp;rs
         <item>
         <title>The Beach House 海滩别墅</title>
         <link>https://luoqian29.github.io/p/thebeachhouse/</link>
-        <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/thebeachhouse/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI1MTY5NDM4LmpwZw==/original/m%2B%2Fjzq.jpg" alt="Featured image of post The Beach House 海滩别墅" /&gt;&lt;h1 id=&#34;the-beach-house-v015-roki&#34;&gt;The Beach House [v0.1.5] [Roki]
@@ -1237,7 +1540,7 @@ And don&amp;rsquo;t forget to explore the town, everywhere you look there&amp;rs
         <item>
         <title>Westview Academy 西景学院</title>
         <link>https://luoqian29.github.io/p/westviewacademy/</link>
-        <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/westviewacademy/</guid>
         <description>&lt;img src="https://cdn-public.oppaiman.com/cover-photos/takoyuh.png" alt="Featured image of post Westview Academy 西景学院" /&gt;&lt;h1 id=&#34;westview-academy-s2-v070-tako-yuh&#34;&gt;Westview Academy [S2 v0.7.0] [Tako Yuh]
@@ -2765,7 +3068,7 @@ And don&amp;rsquo;t forget to explore the town, everywhere you look there&amp;rs
         <item>
         <title>Where It All Began 一切的起源</title>
         <link>https://luoqian29.github.io/p/whereitallbegan/</link>
-        <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/whereitallbegan/</guid>
         <description>&lt;img src="https://clan.fastly.steamstatic.com/images/45004832/332bd33e7e8ce3e53514df66ecd7cfd4926869ef_960x311.png" alt="Featured image of post Where It All Began 一切的起源" /&gt;&lt;h1 id=&#34;where-it-all-began-s1-ch4-fix-1-steam-oceanlab&#34;&gt;Where It All Began [S1 Ch.4 Fix 1 Steam] [Oceanlab]
@@ -3783,7 +4086,7 @@ And don&amp;rsquo;t forget to explore the town, everywhere you look there&amp;rs
         <item>
         <title>Hard Lessons 沉痛的教训</title>
         <link>https://luoqian29.github.io/p/hardlessons/</link>
-        <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/hardlessons/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HKSYF4saQAAFuDU?format=jpg&amp;name=large" alt="Featured image of post Hard Lessons 沉痛的教训" /&gt;&lt;h1 id=&#34;hard-lessons-prologue-adam&#34;&gt;Hard Lessons [Prologue] [ADAM!]
@@ -4053,7 +4356,7 @@ And don&amp;rsquo;t forget to explore the town, everywhere you look there&amp;rs
         <item>
         <title>Long Story Short 长话短说</title>
         <link>https://luoqian29.github.io/p/longstoryshort/</link>
-        <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/longstoryshort/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzEwMTI1NzMzLnBuZw==/original/m%2FeT%2FX.png" alt="Featured image of post Long Story Short 长话短说" /&gt;&lt;h1 id=&#34;long-story-short-v011a01-ttrickgames&#34;&gt;Long Story Short [v0.11a0.1] [TTrickGames]
@@ -4292,7 +4595,7 @@ And don&amp;rsquo;t forget to explore the town, everywhere you look there&amp;rs
         <item>
         <title>Moonlight 月光</title>
         <link>https://luoqian29.github.io/p/moonlight/</link>
-        <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/moonlight/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzIwNDkwNjY1LmpwZw==/original/l8fv94.jpg" alt="Featured image of post Moonlight 月光" /&gt;&lt;h1 id=&#34;moonlight-ep3-v00310-bigbat_productions&#34;&gt;Moonlight [Ep.3 v0.03.10] [BigBat_Productions]
@@ -4716,7 +5019,7 @@ Expect a game rich in story, with complex characters, emotional twists and turns
         <item>
         <title>Artemis 阿尔忒弥斯</title>
         <link>https://luoqian29.github.io/p/artemis/</link>
-        <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 07 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/artemis/</guid>
         <description>&lt;img src="https://clan.fastly.steamstatic.com/images/43238082/3721617a6747b14f2a72552f5e8610b9104b38ae_960x311.jpg" alt="Featured image of post Artemis 阿尔忒弥斯" /&gt;&lt;h1 id=&#34;artemis-v07-digib&#34;&gt;Artemis [v0.7] [digi.B]
@@ -5192,7 +5495,7 @@ Expect a game rich in story, with complex characters, emotional twists and turns
         <item>
         <title>Harem of Ankhutep 安库特普的后宫</title>
         <link>https://luoqian29.github.io/p/haremofankhutep/</link>
-        <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 07 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/haremofankhutep/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI0MzUxOTQzLnBuZw==/original/2DtE%2F1.png" alt="Featured image of post Harem of Ankhutep 安库特普的后宫" /&gt;&lt;h1 id=&#34;harem-of-ankhutep-v03-ahanubis&#34;&gt;Harem of Ankhutep [v0.3] [AhaNubis]
@@ -5759,7 +6062,7 @@ Gameplay trailer&lt;/li&gt;
         <item>
         <title>Move the Chains 决胜锋线</title>
         <link>https://luoqian29.github.io/p/movethechains/</link>
-        <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 07 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/movethechains/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/GR0ELK5acAYz_oz?format=jpg&amp;name=4096x4096" alt="Featured image of post Move the Chains 决胜锋线" /&gt;&lt;h1 id=&#34;move-the-chains-v04-missfortune&#34;&gt;Move the Chains [v0.4] [MissFortune]
@@ -6244,7 +6547,7 @@ Gameplay trailer&lt;/li&gt;
         <item>
         <title>The Big Step 向前一小步，文明一大步</title>
         <link>https://luoqian29.github.io/p/thebigstep/</link>
-        <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 07 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/thebigstep/</guid>
         <description>&lt;img src="https://d3ts7pb9ldoin4.cloudfront.net/uploads_v2/users/1484484/covers/83aed3b0-29ba-49af-95f3-24f51693def1-1240x0_0x0_1240x233.jpg" alt="Featured image of post The Big Step 向前一小步，文明一大步" /&gt;&lt;h1 id=&#34;the-big-step-s2---v02-partedes&#34;&gt;The Big Step [S.2 - v0.2] [Partedes]
@@ -6802,7 +7105,7 @@ Gameplay trailer&lt;/li&gt;
         <item>
         <title>Aurora Protocol 奥萝拉协议</title>
         <link>https://luoqian29.github.io/p/auroraprotocol/</link>
-        <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 06 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/auroraprotocol/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJkIV4ba0AA9x5O?format=jpg&amp;name=large" alt="Featured image of post Aurora Protocol 奥萝拉协议" /&gt;&lt;h1 id=&#34;aurora-protocol-v05-public-astghik&#34;&gt;Aurora Protocol [v0.5 Public] [Astghik]
@@ -7095,7 +7398,7 @@ Gameplay trailer&lt;/li&gt;
         <item>
         <title>Kingdom of Lust 淫欲王国</title>
         <link>https://luoqian29.github.io/p/kingdomoflustr/</link>
-        <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 06 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/kingdomoflustr/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJimqFRaIAAHmYP?format=jpg&amp;name=large" alt="Featured image of post Kingdom of Lust 淫欲王国" /&gt;&lt;h1 id=&#34;kingdom-of-lust-v050-royal-fantasy&#34;&gt;Kingdom of Lust [v0.5.0] [Royal Fantasy]
@@ -7376,7 +7679,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
         <item>
         <title>She Might Be A Cuckqueen 她或许有绿帽癖</title>
         <link>https://luoqian29.github.io/p/shemightbeacuckqueen/</link>
-        <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 06 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/shemightbeacuckqueen/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI2MTY2ODIxLnBuZw==/original/SB8ern.png" alt="Featured image of post She Might Be A Cuckqueen 她或许有绿帽癖" /&gt;&lt;h1 id=&#34;she-might-be-a-cuckqueen-v200-ziglo&#34;&gt;She Might Be A Cuckqueen [v2.0.0] [ziglo]
@@ -7819,7 +8122,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
         <item>
         <title>Sinful Summer 夏日小故事</title>
         <link>https://luoqian29.github.io/p/sinfulsummer/</link>
-        <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 06 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/sinfulsummer/</guid>
         <description>&lt;img src="https://d3ts7pb9ldoin4.cloudfront.net/uploads_v2/users/1502255/covers/1f79794f-3138-48ca-94d8-36272ae4e049-1240x0_0x36_3200x600.jpg" alt="Featured image of post Sinful Summer 夏日小故事" /&gt;&lt;h1 id=&#34;sinful-summer-a-tale-of-forbidden-love-ch36-ruykiru&#34;&gt;Sinful Summer: A Tale of Forbidden Love [Ch.3.6] [Ruykiru]
@@ -8404,7 +8707,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
         <item>
         <title>Companion of Darkness 黑暗伴侣</title>
         <link>https://luoqian29.github.io/p/companionofdarkness/</link>
-        <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/companionofdarkness/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzEzNDg1MzYzLnBuZw==/original/tPulIK.png" alt="Featured image of post Companion of Darkness 黑暗伴侣" /&gt;&lt;h1 id=&#34;companion-of-darkness-s2-ch125-berkili4&#34;&gt;Companion of Darkness [S2 Ch.12.5] [Berkili4]
@@ -9212,7 +9515,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
         <item>
         <title>Driven by Desire 欲望驱动</title>
         <link>https://luoqian29.github.io/p/drivenbydesire/</link>
-        <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/drivenbydesire/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI2NDg1MTM2LnBuZw==/original/mUwNb%2F.png" alt="Featured image of post Driven by Desire 欲望驱动" /&gt;&lt;h1 id=&#34;driven-by-desire-v050-kloppstyle&#34;&gt;Driven by Desire [v0.5.0] [KloppStyle]
@@ -9652,7 +9955,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
         <item>
         <title>What We Left Behind 我们留下的印记</title>
         <link>https://luoqian29.github.io/p/whatweleftbehind/</link>
-        <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/whatweleftbehind/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJf_2p3bUAUGjnn?format=jpg&amp;name=large" alt="Featured image of post What We Left Behind 我们留下的印记" /&gt;&lt;h1 id=&#34;what-we-left-behind-v002-dreamscape-games&#34;&gt;What We Left Behind [v0.0.2] [Dreamscape Games]
@@ -10050,7 +10353,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
         <item>
         <title>DESIRIUM 德里西姆</title>
         <link>https://luoqian29.github.io/p/desirium/</link>
-        <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/desirium/</guid>
         <description>&lt;img src="https://cdn-public.oppaiman.com/cover-photos/elcharlo.png" alt="Featured image of post DESIRIUM 德里西姆" /&gt;&lt;h1 id=&#34;desirium-v0121-elcharlo&#34;&gt;DESIRIUM [v0.12.1] [ElCharlo]
@@ -10381,7 +10684,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
         <item>
         <title>Jury 陪审团</title>
         <link>https://luoqian29.github.io/p/jury/</link>
-        <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/jury/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJaH_LfbwAA0jH-?format=jpg&amp;name=large" alt="Featured image of post Jury 陪审团" /&gt;&lt;h1 id=&#34;jury-ep3-p2-nickle3dart&#34;&gt;Jury [Ep.3 P2] [Nickle3DArt]
@@ -10792,7 +11095,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
         <item>
         <title>Kingdom of Lust 春心荡漾王国</title>
         <link>https://luoqian29.github.io/p/kingdomoflust/</link>
-        <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/kingdomoflust/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJasfWObUAA7ART?format=jpg&amp;name=large" alt="Featured image of post Kingdom of Lust 春心荡漾王国" /&gt;&lt;h1 id=&#34;kingdom-of-lust-v085-alienguy&#34;&gt;Kingdom of Lust [v0.85] [Alienguy]
@@ -11078,7 +11381,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
         <item>
         <title>Mystery of MILFs 熟不可测</title>
         <link>https://luoqian29.github.io/p/mysteryofmilfs/</link>
-        <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/mysteryofmilfs/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/GEOV99RbAAM8G13?format=jpg&amp;name=large" alt="Featured image of post Mystery of MILFs 熟不可测" /&gt;&lt;h1 id=&#34;mystery-of-milfs-v0171-red-lighthouse&#34;&gt;Mystery of MILFs [v0.1.7.1] [Red LightHouse]
@@ -11446,7 +11749,7 @@ And of course, date the girls. It&amp;rsquo;s up to you to become the heartbreak
         <item>
         <title>Milfylicious 遗产继承人</title>
         <link>https://luoqian29.github.io/p/milfylicious/</link>
-        <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/milfylicious/</guid>
         <description>&lt;img src="https://pbs.twimg.com/profile_banners/1601624025431769089/1726317782/1500x500" alt="Featured image of post Milfylicious 遗产继承人" /&gt;&lt;h1 id=&#34;milfylicious-chii-remaster-p1-fix-maximus&#34;&gt;Milfylicious [Ch.II Remaster P1 Fix] [Maximus]
@@ -12018,7 +12321,7 @@ And of course, date the girls. It&amp;rsquo;s up to you to become the heartbreak
         <item>
         <title>My Bully Is My Lover 我的爱人是恶女</title>
         <link>https://luoqian29.github.io/p/mybullyismylover/</link>
-        <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/mybullyismylover/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI3NTQ4NTM0LnBuZw==/original/wLPqZd.png" alt="Featured image of post My Bully Is My Lover 我的爱人是恶女" /&gt;&lt;h1 id=&#34;my-bully-is-my-lover-ch2-ep2-niichan&#34;&gt;My Bully Is My Lover [Ch.2 Ep.2] [NiiChan]
@@ -12597,7 +12900,7 @@ And of course, date the girls. It&amp;rsquo;s up to you to become the heartbreak
         <item>
         <title>Rent a Boyfriend 租借男友</title>
         <link>https://luoqian29.github.io/p/rentaboyfriend/</link>
-        <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/rentaboyfriend/</guid>
         <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4511770/08ad5f7ffa30de6e59f6f3dbe367f7339668b187/ss_08ad5f7ffa30de6e59f6f3dbe367f7339668b187.1920x1080.jpg?t=1780435858" alt="Featured image of post Rent a Boyfriend 租借男友" /&gt;&lt;h1 id=&#34;rent-a-boyfriend-prologue-blerry-vn&#34;&gt;Rent a Boyfriend [Prologue] [Blerry VN]
@@ -12993,7 +13296,7 @@ And of course, date the girls. It&amp;rsquo;s up to you to become the heartbreak
         <item>
         <title>The Cabin 小屋</title>
         <link>https://luoqian29.github.io/p/thecabin/</link>
-        <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/thecabin/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJ4y81xbAAAKMVa?format=jpg&amp;name=large" alt="Featured image of post The Cabin 小屋" /&gt;&lt;h1 id=&#34;the-cabin---summer-vacation-ep-10-cellstudios&#34;&gt;The Cabin - Summer Vacation [Ep. 10] [CellStudios]
@@ -13394,7 +13697,7 @@ And of course, date the girls. It&amp;rsquo;s up to you to become the heartbreak
         <item>
         <title>Goddesses&#39; Whim 女神的心血来潮</title>
         <link>https://luoqian29.github.io/p/goddesseswhim/</link>
-        <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 02 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/goddesseswhim/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzIxODg3NTczLnBuZw==/original/oJfF3S.png" alt="Featured image of post Goddesses&#39; Whim 女神的心血来潮" /&gt;&lt;h1 id=&#34;goddesses-whim-v046b-ncrow&#34;&gt;Goddesses&amp;rsquo; Whim [v0.4.6b] [Ncrow]
@@ -13912,7 +14215,7 @@ What awaits you? What kind of people will you meet? And obviously, how many girl
         <item>
         <title>Heart Problems 情感问题</title>
         <link>https://luoqian29.github.io/p/heartproblems/</link>
-        <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 02 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/heartproblems/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJzBkwGbIAABbkU?format=jpg&amp;name=4096x4096" alt="Featured image of post Heart Problems 情感问题" /&gt;&lt;h1 id=&#34;heart-problems-v010-xenorav&#34;&gt;Heart Problems [v0.10] [Xenorav]
@@ -14591,7 +14894,7 @@ What awaits you? What kind of people will you meet? And obviously, how many girl
         <item>
         <title>LA: Streets of Sorcery 魔法之街</title>
         <link>https://luoqian29.github.io/p/streetsofsorcery/</link>
-        <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 02 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/streetsofsorcery/</guid>
         <description>&lt;img src="https://clan.akamai.steamstatic.com/images/45802008/af90142b4da3a60879b8e5534047ec0068adc0f1_960x311.png" alt="Featured image of post LA: Streets of Sorcery 魔法之街" /&gt;&lt;h1 id=&#34;la-streets-of-sorcery-v18b-bear-in-the-night&#34;&gt;LA: Streets of Sorcery [v1.8b] [Bear in the Night]
@@ -14902,7 +15205,7 @@ What awaits you? What kind of people will you meet? And obviously, how many girl
         <item>
         <title>Ethereal Ties 虚幻的羁绊</title>
         <link>https://luoqian29.github.io/p/etherealties/</link>
-        <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/etherealties/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJJeubCboAAc8Jy?format=jpg&amp;name=large" alt="Featured image of post Ethereal Ties 虚幻的羁绊" /&gt;&lt;h1 id=&#34;ethereal-ties-holiday-special-v10-nevenvn&#34;&gt;Ethereal Ties [Holiday Special v1.0] [NevenVN]
@@ -15466,7 +15769,7 @@ Prepare for a journey of suspense, mystery, and supernatural twists as you delve
         <item>
         <title>Genesis Proyect 创世计划</title>
         <link>https://luoqian29.github.io/p/genesisproject/</link>
-        <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/genesisproject/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJIwuuEaAAAoQTo?format=jpg&amp;name=large" alt="Featured image of post Genesis Proyect 创世计划" /&gt;&lt;h1 id=&#34;genesis-proyect-v02-artoriasrey&#34;&gt;Genesis Proyect [v0.2] [ArtoriasRey]
@@ -15754,7 +16057,7 @@ Prepare for a journey of suspense, mystery, and supernatural twists as you delve
         <item>
         <title>Studio Hearts 心之工作室：公车上锁</title>
         <link>https://luoqian29.github.io/p/studiohearts/</link>
-        <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/studiohearts/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI0Mzc4Njk4LnBuZw==/original/7OE5GA.png" alt="Featured image of post Studio Hearts 心之工作室：公车上锁" /&gt;&lt;h1 id=&#34;studio-hearts-v03-atemsiel&#34;&gt;Studio Hearts [v0.3] [Atemsiel]
@@ -16178,7 +16481,7 @@ One day, Marcus is a presented with a work opportunity that would have him movin
         <item>
         <title>Apocalust 天欲启示录</title>
         <link>https://luoqian29.github.io/p/apocalust/</link>
-        <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/apocalust/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJEkjfqawAAJKl6?format=jpg&amp;name=4096x4096" alt="Featured image of post Apocalust 天欲启示录" /&gt;&lt;h1 id=&#34;apocalust-v009-psychodelusional&#34;&gt;Apocalust [v0.09] [Psychodelusional]
@@ -16586,7 +16889,7 @@ More, Teaser and Character Introduction&lt;/li&gt;
         <item>
         <title>Broken Dreams 破碎之梦</title>
         <link>https://luoqian29.github.io/p/brokendreams/</link>
-        <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/brokendreams/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJFlolsbMAA2JPe?format=jpg&amp;name=large" alt="Featured image of post Broken Dreams 破碎之梦" /&gt;&lt;h1 id=&#34;broken-dreams-v051-biggering&#34;&gt;Broken Dreams [v0.5.1] [Biggering]
@@ -16994,7 +17297,7 @@ More, Teaser and Character Introduction&lt;/li&gt;
         <item>
         <title>If Love Had Found Us First 如果爱先找到我们</title>
         <link>https://luoqian29.github.io/p/iflovehadfoundusfirst/</link>
-        <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/iflovehadfoundusfirst/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJD5ib_bQAA8fsD?format=jpg&amp;name=4096x4096" alt="Featured image of post If Love Had Found Us First 如果爱先找到我们" /&gt;&lt;h1 id=&#34;if-love-had-found-us-first-part-1-orborigin&#34;&gt;If Love Had Found Us First [Part 1] [OrbOrigin]
@@ -17395,7 +17698,7 @@ More, Teaser and Character Introduction&lt;/li&gt;
         <item>
         <title>Shadows of Desire 欲望之影（福臭者联盟）</title>
         <link>https://luoqian29.github.io/p/shadowsofdesire/</link>
-        <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/shadowsofdesire/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJFvsXFaUAEnyKC?format=jpg&amp;name=4096x4096" alt="Featured image of post Shadows of Desire 欲望之影（福臭者联盟）" /&gt;&lt;h1 id=&#34;shadows-of-desire-v095-shamantr&#34;&gt;Shadows of Desire [v0.9.5] [Shamantr]
@@ -18068,7 +18371,7 @@ More, Teaser and Character Introduction&lt;/li&gt;
         <item>
         <title>xxxFiles 开心超人</title>
         <link>https://luoqian29.github.io/p/xxxfiles/</link>
-        <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/xxxfiles/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HDtuk5Ua0AAd8Rd?format=jpg&amp;name=4096x4096" alt="Featured image of post xxxFiles 开心超人" /&gt;&lt;h1 id=&#34;xxxfiles-v022-cainetotallysane&#34;&gt;xxxFiles [v0.2.2] [Caine.Totally.Sane]
@@ -18864,7 +19167,7 @@ More, Teaser and Character Introduction&lt;/li&gt;
         <item>
         <title>Seeds of Chaos 混沌之种</title>
         <link>https://luoqian29.github.io/p/seedsofchaos/</link>
-        <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 30 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/seedsofchaos/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI5MTc4MjAucG5n/original/hNn09R.png" alt="Featured image of post Seeds of Chaos 混沌之种" /&gt;&lt;h1 id=&#34;seeds-of-chaos-v0415-vénus-noire&#34;&gt;Seeds of Chaos [v0.4.15] [Vénus Noire]
@@ -19566,7 +19869,7 @@ More, Teaser and Character Introduction&lt;/li&gt;
         <item>
         <title>The Headmaster 校长先生</title>
         <link>https://luoqian29.github.io/p/theheadmaster/</link>
-        <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 30 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/theheadmaster/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJF1mNYbEAA4Jec?format=jpg&amp;name=large" alt="Featured image of post The Headmaster 校长先生" /&gt;&lt;h1 id=&#34;the-headmaster-v01732-altos-and-herdone&#34;&gt;The Headmaster [v0.17.3.2] [Altos and Herdone]
@@ -19851,7 +20154,7 @@ More, Teaser and Character Introduction&lt;/li&gt;
         <item>
         <title>After Dark 夜幕降临</title>
         <link>https://luoqian29.github.io/p/afterdark/</link>
-        <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/afterdark/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzIzNjIyODQxLmpwZw==/original/yoZX9y.jpg" alt="Featured image of post After Dark 夜幕降临" /&gt;&lt;h1 id=&#34;after-dark-v0252-bozavest&#34;&gt;After Dark [v0.25.2] [Bozavest]
@@ -20137,7 +20440,7 @@ More, Teaser and Character Introduction&lt;/li&gt;
         <item>
         <title>Kamogawa Island 鸭川岛</title>
         <link>https://luoqian29.github.io/p/kamogawaisland/</link>
-        <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/kamogawaisland/</guid>
         <description>&lt;img src="https://pbs.twimg.com/profile_banners/1962469373290909696/1767696415/1500x500" alt="Featured image of post Kamogawa Island 鸭川岛" /&gt;&lt;h1 id=&#34;kamogawa-island-v02-fragolina-studio&#34;&gt;Kamogawa Island [v0.2] [Fragolina Studio]
@@ -20462,7 +20765,7 @@ More, Teaser and Character Introduction&lt;/li&gt;
         <item>
         <title>Lustful College 春心荡漾学院</title>
         <link>https://luoqian29.github.io/p/lustfulcollege/</link>
-        <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/lustfulcollege/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/G-tjn1kW0AAmI5k?format=jpg&amp;name=4096x4096" alt="Featured image of post Lustful College 春心荡漾学院" /&gt;&lt;h1 id=&#34;lustful-college-v045-tinkel-studios&#34;&gt;Lustful College [v0.45] [Tinkel Studios]
@@ -20897,7 +21200,7 @@ uncover side characters’ lives, and dive into a world full of action, drama, a
         <item>
         <title>Intertwined 情意绵绵</title>
         <link>https://luoqian29.github.io/p/intertwined/</link>
-        <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/intertwined/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJF0JcZa0AAlf3T?format=jpg&amp;name=4096x4096" alt="Featured image of post Intertwined 情意绵绵" /&gt;&lt;h1 id=&#34;intertwined-v0154-nyx&#34;&gt;Intertwined [v0.15.4] [Nyx]
@@ -21377,7 +21680,7 @@ Discover what you left behind. Rekindle old friendships, start new relationships
         <item>
         <title>ToxiCity 毒性</title>
         <link>https://luoqian29.github.io/p/toxicity/</link>
-        <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/toxicity/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzE4ODU3MDg2LmpwZw==/original/jlnzN2.jpg" alt="Featured image of post ToxiCity 毒性" /&gt;&lt;h1 id=&#34;toxicity-v0180-ilsproductions&#34;&gt;ToxiCity [v0.18.0] [ILSProductions]
@@ -21969,7 +22272,7 @@ Discover what you left behind. Rekindle old friendships, start new relationships
         <item>
         <title>AIRevolution AI革命</title>
         <link>https://luoqian29.github.io/p/airevolution/</link>
-        <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/airevolution/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzE3NjEwNjM0LnBuZw==/original/IKYpec.png" alt="Featured image of post AIRevolution AI革命" /&gt;&lt;h1 id=&#34;airevolution-v038-akaime&#34;&gt;AIRevolution [v0.3.8] [Akaime]
@@ -22332,7 +22635,7 @@ Discover what you left behind. Rekindle old friendships, start new relationships
         <item>
         <title>All Things Change 万物皆变</title>
         <link>https://luoqian29.github.io/p/allthingschange/</link>
-        <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/allthingschange/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/Gtl3cQVXoAAqSJZ?format=jpg&amp;name=4096x4096" alt="Featured image of post All Things Change 万物皆变" /&gt;&lt;h1 id=&#34;all-things-change-v0198rp-aldor&#34;&gt;All Things Change [v0.1.98RP] [ALDOR]
@@ -22736,7 +23039,7 @@ You will also have to manage the academy and learn a few secrets. Young women ea
         <item>
         <title>Our Red String 我们的红线</title>
         <link>https://luoqian29.github.io/p/ourredstring/</link>
-        <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/ourredstring/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzUzMzUzNTkuanBn/original/963SN0.jpg" alt="Featured image of post Our Red String 我们的红线" /&gt;&lt;h1 id=&#34;our-red-string-ch1423-eva-kiss&#34;&gt;Our Red String [Ch.14.2.3] [Eva Kiss]
@@ -23196,7 +23499,7 @@ You will also have to manage the academy and learn a few secrets. Young women ea
         <item>
         <title>So Much to Love 如此多值得爱</title>
         <link>https://luoqian29.github.io/p/somuchtolove/</link>
-        <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/somuchtolove/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/Gd0rg_nbEAAQSPM?format=jpg&amp;name=4096x4096" alt="Featured image of post So Much to Love 如此多值得爱" /&gt;&lt;h1 id=&#34;so-much-to-love-034b-aldor&#34;&gt;So Much to Love [0.3.4b] [ALDOR]
@@ -23599,7 +23902,7 @@ Unable to stay alone, you seek refuge at a childhood friend&amp;rsquo;s house, w
         <item>
         <title>Starstruck City 星光迷城</title>
         <link>https://luoqian29.github.io/p/starstruckcity/</link>
-        <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/starstruckcity/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzE4NTIxOTk1LnBuZw==/original/X4d64l.png" alt="Featured image of post Starstruck City 星光迷城" /&gt;&lt;h1 id=&#34;starstruck-city-v03-desire-dice-games&#34;&gt;Starstruck City [v0.3] [Desire Dice Games]
@@ -24000,7 +24303,7 @@ Unable to stay alone, you seek refuge at a childhood friend&amp;rsquo;s house, w
         <item>
         <title>DickmonX Remake 多啦A梦同人</title>
         <link>https://luoqian29.github.io/p/dickmon/</link>
-        <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 25 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/dickmon/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzE5MDUwNDE4LnBuZw==/original/SXbDUK.png" alt="Featured image of post DickmonX Remake 多啦A梦同人" /&gt;&lt;h1 id=&#34;dickmonx-remake-v13d-mayonnaisee&#34;&gt;DickmonX Remake [v1.3d] [mayonnaisee]
@@ -24414,7 +24717,7 @@ Unable to stay alone, you seek refuge at a childhood friend&amp;rsquo;s house, w
         <item>
         <title>Rock the Rim 篮板狂潮</title>
         <link>https://luoqian29.github.io/p/rocktherim/</link>
-        <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 24 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/rocktherim/</guid>
         <description>&lt;img src="https://cdn-public.oppaiman.com/cover-photos/waifuzstudio.jpg" alt="Featured image of post Rock the Rim 篮板狂潮" /&gt;&lt;h1 id=&#34;rock-the-rim-s1-ep1-p1-rwa-studios&#34;&gt;Rock the Rim [S1 Ep.1 P1] [RWA Studios]
@@ -24719,7 +25022,7 @@ Unable to stay alone, you seek refuge at a childhood friend&amp;rsquo;s house, w
         <item>
         <title>Cosy Cafe 温馨咖啡馆</title>
         <link>https://luoqian29.github.io/p/cosycafe/</link>
-        <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 23 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/cosycafe/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzE3OTQ3MjkzLmpwZw==/original/TW6%2Byk.jpg" alt="Featured image of post Cosy Cafe 温馨咖啡馆" /&gt;&lt;h1 id=&#34;cosy-cafe-v0141-cosy-creator&#34;&gt;Cosy Cafe [v0.14.1] [Cosy Creator]
@@ -25285,7 +25588,7 @@ Unable to stay alone, you seek refuge at a childhood friend&amp;rsquo;s house, w
         <item>
         <title>Finding Cloud 9 寻找极乐</title>
         <link>https://luoqian29.github.io/p/findingcloud9/</link>
-        <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 23 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/findingcloud9/</guid>
         <description>&lt;img src="https://i.imgur.com/0uDWglK.jpeg" alt="Featured image of post Finding Cloud 9 寻找极乐" /&gt;&lt;h1 id=&#34;finding-cloud-9-v096-onyx-decadence&#34;&gt;Finding Cloud 9 [v0.9.6] [Onyx Decadence]
@@ -25693,7 +25996,7 @@ This is a story about temptation, escalation, and the cost of wanting more. Whet
         <item>
         <title>Good Luke 攻略豆包:开局先拿下邻居</title>
         <link>https://luoqian29.github.io/p/goodluke/</link>
-        <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 23 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/goodluke/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJFs49vboAAtZY7?format=jpg&amp;name=large" alt="Featured image of post Good Luke 攻略豆包:开局先拿下邻居" /&gt;&lt;h1 id=&#34;good-luke-alpha-v110-good-luke&#34;&gt;Good Luke [Alpha v1.1.0] [Good Luke]
@@ -26038,7 +26341,7 @@ The game will be massive with interactions, mini games, quests, college girls, p
         <item>
         <title>Him 他</title>
         <link>https://luoqian29.github.io/p/him/</link>
-        <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 23 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/him/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI0OTA1NzYxLmpwZw==/original/K57%2BBL.jpg" alt="Featured image of post Him 他" /&gt;&lt;h1 id=&#34;him-v042-kabuki&#34;&gt;Him [v0.4.2] [Kabuki]
@@ -26446,7 +26749,7 @@ The game will be massive with interactions, mini games, quests, college girls, p
         <item>
         <title>Eruption Imminent 喷发在即</title>
         <link>https://luoqian29.github.io/p/eruptionimminent/</link>
-        <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 22 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/eruptionimminent/</guid>
         <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4307450/extras/40034b1b4ffbbe69e9d780d3d1a80ebc.avif?t=1778365141" alt="Featured image of post Eruption Imminent 喷发在即" /&gt;&lt;h1 id=&#34;eruption-imminent-v07-morriganrae&#34;&gt;Eruption Imminent [v0.7] [MorriganRae]
@@ -26871,7 +27174,7 @@ The game will be massive with interactions, mini games, quests, college girls, p
         <item>
         <title>Law School 法学院</title>
         <link>https://luoqian29.github.io/p/lawschool/</link>
-        <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 21 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/lawschool/</guid>
         <description>&lt;img src="https://clan.fastly.steamstatic.com/images/45329292/c28e2ef62fcab22fcd9bc0cbb29ffbd0f79d28e8_960x311.png" alt="Featured image of post Law School 法学院" /&gt;&lt;h1 id=&#34;law-school-s2-ep4-v4-mistermaya&#34;&gt;Law School [S2 Ep.4 v4] [MisterMaya]
@@ -27840,7 +28143,7 @@ The game will be massive with interactions, mini games, quests, college girls, p
         <item>
         <title>Leaving DNA DNA罪证</title>
         <link>https://luoqian29.github.io/p/leavingdna/</link>
-        <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 21 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/leavingdna/</guid>
         <description>&lt;img src="https://clan.akamai.steamstatic.com/images/44081649/67dee12648e386989cf9aa0c4380bfd0897846d6_960x311.png" alt="Featured image of post Leaving DNA DNA罪证" /&gt;&lt;h1 id=&#34;leaving-dna-ep-5-impious-monk&#34;&gt;Leaving DNA [Ep. 5] [Impious Monk]
@@ -28256,7 +28559,7 @@ The game will be massive with interactions, mini games, quests, college girls, p
         <item>
         <title>Lesson in Loyalty 忠诚的教训</title>
         <link>https://luoqian29.github.io/p/lessoninloyalty/</link>
-        <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 21 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/lessoninloyalty/</guid>
         <description>&lt;img src="https://pbs.twimg.com/profile_banners/1693304160869838849/1692550465/1500x500" alt="Featured image of post Lesson in Loyalty 忠诚的教训" /&gt;&lt;h1 id=&#34;lesson-in-loyalty-ch7-fix-rwa-studios&#34;&gt;Lesson in Loyalty [Ch.7 Fix] [RWA Studios]
@@ -28703,7 +29006,7 @@ The game will be massive with interactions, mini games, quests, college girls, p
         <item>
         <title>Between Shadows: Yuria&#39;s Passion 尤莉娅的激情</title>
         <link>https://luoqian29.github.io/p/yuriaspassion/</link>
-        <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 20 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/yuriaspassion/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJFwWdebQAAbVEf?format=png&amp;name=900x900" alt="Featured image of post Between Shadows: Yuria&#39;s Passion 尤莉娅的激情" /&gt;&lt;h1 id=&#34;between-shadows-yurias-passion-ch4-shamantr&#34;&gt;Between Shadows: Yuria&amp;rsquo;s Passion [Ch.4] [Shamantr]
@@ -29095,7 +29398,7 @@ He will become obsessed with Yuria the moment he sees her, will Yuria be able to
         <item>
         <title>Yesterday&#39;s Crossroads 昨日的十字路口</title>
         <link>https://luoqian29.github.io/p/yesterdayscrossroads/</link>
-        <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 20 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/yesterdayscrossroads/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/FTPHrkcXEAA0bBb?format=jpg&amp;name=4096x4096" alt="Featured image of post Yesterday&#39;s Crossroads 昨日的十字路口" /&gt;&lt;h1 id=&#34;yesterdays-crossroads-ch3-v041a-chaquinn0&#34;&gt;Yesterday&amp;rsquo;s Crossroads [Ch.3 v0.4.1a] [CHAQUINN0]
@@ -29691,7 +29994,7 @@ He will become obsessed with Yuria the moment he sees her, will Yuria be able to
         <item>
         <title>Familiar Circumstances 熟悉的情境</title>
         <link>https://luoqian29.github.io/p/familiarcircumstances/</link>
-        <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 18 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/familiarcircumstances/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI3MTYzNDA5LnBuZw==/original/4KZJfK.png" alt="Featured image of post Familiar Circumstances 熟悉的情境" /&gt;&lt;h1 id=&#34;familiar-circumstances-v12-babyface&#34;&gt;Familiar Circumstances [v1.2] [Babyface]
@@ -29991,7 +30294,7 @@ He will become obsessed with Yuria the moment he sees her, will Yuria be able to
         <item>
         <title>My Girl Loves Handcuffs 我的女孩爱手铐</title>
         <link>https://luoqian29.github.io/p/mygirlloveshandcuffs/</link>
-        <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 18 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/mygirlloveshandcuffs/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzIzNzUyMDI4LmpwZw==/original/O7rv6L.jpg" alt="Featured image of post My Girl Loves Handcuffs 我的女孩爱手铐" /&gt;&lt;h1 id=&#34;my-girl-loves-handcuffs-v06-395games&#34;&gt;My Girl Loves Handcuffs [v0.6] [395games]
@@ -30392,7 +30695,7 @@ A guy. A girl. A pair of handcuffs. And a lot of kinky sex.​&lt;/li&gt;
         <item>
         <title>Stuck in My Game 苟在3d区同人游戏开后宫</title>
         <link>https://luoqian29.github.io/p/stuckinmygame/</link>
-        <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 18 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/stuckinmygame/</guid>
         <description>&lt;img src="https://pbs.twimg.com/profile_banners/1546424831033458688/1741559613/1500x500" alt="Featured image of post Stuck in My Game 苟在3d区同人游戏开后宫" /&gt;&lt;h1 id=&#34;stuck-in-my-game-v0100-niinko&#34;&gt;Stuck in My Game [v0.10.0] [Niinko]
@@ -30742,7 +31045,7 @@ A guy. A girl. A pair of handcuffs. And a lot of kinky sex.​&lt;/li&gt;
         <item>
         <title>Love and Temptation 爱与诱惑</title>
         <link>https://luoqian29.github.io/p/loveandtemptation/</link>
-        <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 15 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/loveandtemptation/</guid>
         <description>&lt;img src="https://i.postimg.cc/76rSzt7h/A01.png" alt="Featured image of post Love and Temptation 爱与诱惑" /&gt;&lt;h1 id=&#34;love-and-temptation-s2-ep10-gruboop&#34;&gt;Love and Temptation [S2 Ep.10] [GruBoop]
@@ -31474,7 +31777,7 @@ However, everything changes when a woman named Sarah visits him and opens up a n
         <item>
         <title>Time Heals 时间会治愈一切</title>
         <link>https://luoqian29.github.io/p/timeheals/</link>
-        <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 15 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/timeheals/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJF4D1oa4AAMWla?format=jpg&amp;name=large" alt="Featured image of post Time Heals 时间会治愈一切" /&gt;&lt;h1 id=&#34;time-heals-ch1-p2-owls&#34;&gt;Time Heals [Ch.1 P2] [Owl&amp;rsquo;s]
@@ -31886,7 +32189,7 @@ However, everything changes when a woman named Sarah visits him and opens up a n
         <item>
         <title>Game of Hearts 红心游戏</title>
         <link>https://luoqian29.github.io/p/gameofhearts/</link>
-        <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 14 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/gameofhearts/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJF6zjfbIAAhecg?format=jpg&amp;name=4096x4096" alt="Featured image of post Game of Hearts 红心游戏" /&gt;&lt;h1 id=&#34;game-of-hearts-steam-r1-sparkhg&#34;&gt;Game of Hearts [Steam R1] [SparkHG]
@@ -32302,7 +32605,7 @@ and you&amp;rsquo;d be dead if it wasn&amp;rsquo;t due to a man who called himse
         <item>
         <title>Projekt: Passion 激情星动</title>
         <link>https://luoqian29.github.io/p/projektpassion/</link>
-        <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 14 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/projektpassion/</guid>
         <description>&lt;img src="https://cdn-public.oppaiman.com/cover-photos/classy_lemon.jpg" alt="Featured image of post Projekt: Passion 激情星动" /&gt;&lt;h1 id=&#34;projekt-passion-s3-v017-classy-lemon&#34;&gt;Projekt: Passion [S3 v0.17] [Classy Lemon]
@@ -32722,7 +33025,7 @@ and you&amp;rsquo;d be dead if it wasn&amp;rsquo;t due to a man who called himse
         <item>
         <title>The Office 办公室潜规则</title>
         <link>https://luoqian29.github.io/p/theoffice/</link>
-        <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 14 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/theoffice/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJF6mvbaQAIxR6N?format=jpg&amp;name=large" alt="Featured image of post The Office 办公室潜规则" /&gt;&lt;h1 id=&#34;the-office-episode-4-v01-beta-fixed-damaged-coda&#34;&gt;The Office [Episode 4 v0.1 Beta Fixed] [Damaged Coda]
@@ -33113,7 +33416,7 @@ and you&amp;rsquo;d be dead if it wasn&amp;rsquo;t due to a man who called himse
         <item>
         <title>V.I.R.T.U.E.S. 美德</title>
         <link>https://luoqian29.github.io/p/virtues/</link>
-        <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 14 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/virtues/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI3NDEzNTAuanBn/original/f%2FCAgU.jpg" alt="Featured image of post V.I.R.T.U.E.S. 美德" /&gt;&lt;h1 id=&#34;virtues-v17-nomeme&#34;&gt;V.I.R.T.U.E.S. [v17] [NoMeme]
@@ -33527,7 +33830,7 @@ Elisa’s solo ending&lt;/li&gt;
         <item>
         <title>Beach Glass 海滩玻璃</title>
         <link>https://luoqian29.github.io/p/beachglass/</link>
-        <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 13 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/beachglass/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzE5MDc4NjY1LnBuZw==/original/g6QPlD.png" alt="Featured image of post Beach Glass 海滩玻璃" /&gt;&lt;h1 id=&#34;beach-glass-prologue-v10-otterfly&#34;&gt;Beach Glass [Prologue v1.0] [OtterFly]
@@ -33812,7 +34115,7 @@ Elisa’s solo ending&lt;/li&gt;
         <item>
         <title>Milfy Day 蜜桃成熟时</title>
         <link>https://luoqian29.github.io/p/milfyday/</link>
-        <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 13 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/milfyday/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJF7GfxaAAEgYRL?format=jpg&amp;name=large" alt="Featured image of post Milfy Day 蜜桃成熟时" /&gt;&lt;h1 id=&#34;milfy-day-v095-red-lighthouse&#34;&gt;Milfy Day [v0.9.5] [Red Lighthouse]
@@ -34235,7 +34538,7 @@ Because your family is going through a crisis, you need to revive your family, m
         <item>
         <title>Tainted Harmony: A Succubus`s Embrace 污秽的和谐：魅魔之拥</title>
         <link>https://luoqian29.github.io/p/taintedharmony/</link>
-        <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 13 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/taintedharmony/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI0NDIzODI2LnBuZw==/original/%2BWE2o9.png" alt="Featured image of post Tainted Harmony: A Succubus`s Embrace 污秽的和谐：魅魔之拥" /&gt;&lt;h1 id=&#34;tainted-harmony-a-succubuss-embrace-v065-ea-ravedev&#34;&gt;Tainted Harmony: A Succubus`s Embrace [v0.6.5 EA] [RaveDev]
@@ -34561,7 +34864,7 @@ Because your family is going through a crisis, you need to revive your family, m
         <item>
         <title>Package Perfect 完美身体</title>
         <link>https://luoqian29.github.io/p/packageperfect/</link>
-        <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 12 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/packageperfect/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJF75TsaUAAKh6f?format=jpg&amp;name=large" alt="Featured image of post Package Perfect 完美身体" /&gt;&lt;h1 id=&#34;package-perfect-v10-ch1-lewtopia&#34;&gt;Package Perfect [v1.0 Ch.1] [Lewtopia]
@@ -34991,7 +35294,7 @@ Because your family is going through a crisis, you need to revive your family, m
         <item>
         <title>The Creditor&#39;s Wife 债主之妻</title>
         <link>https://luoqian29.github.io/p/thecreditorswife/</link>
-        <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 12 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/thecreditorswife/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJF7dP8a0AA1qlI?format=jpg&amp;name=large" alt="Featured image of post The Creditor&#39;s Wife 债主之妻" /&gt;&lt;h1 id=&#34;the-creditors-wife-v01d3polypa&#34;&gt;The Creditor&amp;rsquo;s Wife [v0.1d3][PolyPA]
@@ -35266,7 +35569,7 @@ The story moves fast with no slow burn: steamy yoga + wine scenes with the hot M
         <item>
         <title>Inanna Revenge 伊南娜的复仇</title>
         <link>https://luoqian29.github.io/p/inannarevenge/</link>
-        <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 10 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/inannarevenge/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJF8758aIAAoE2u?format=jpg&amp;name=large" alt="Featured image of post Inanna Revenge 伊南娜的复仇" /&gt;&lt;h1 id=&#34;inanna-revenge-v033-atemx-games&#34;&gt;Inanna Revenge [v0.3.3] [AtemX Games]
@@ -35519,7 +35822,7 @@ The story moves fast with no slow burn: steamy yoga + wine scenes with the hot M
         <item>
         <title>SnowStorm 雪暴（芝士雪豹）</title>
         <link>https://luoqian29.github.io/p/snowstorm/</link>
-        <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 10 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/snowstorm/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzE2Mjg3MDc3LnBuZw==/original/D34mbk.png" alt="Featured image of post SnowStorm 雪暴（芝士雪豹）" /&gt;&lt;h1 id=&#34;snowstorm-v012-gleenx-studio&#34;&gt;SnowStorm [v0.12] [GleenX Studio]
@@ -35990,7 +36293,7 @@ This epic adventure in the Northern lands will let you explore the ancient Norse
         <item>
         <title>A Mother&#39;s Love 母亲的爱</title>
         <link>https://luoqian29.github.io/p/amotherslove/</link>
-        <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 09 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/amotherslove/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJEVM5DaIAA_sIi?format=jpg&amp;name=large" alt="Featured image of post A Mother&#39;s Love 母亲的爱" /&gt;&lt;h1 id=&#34;a-mothers-love-part-1-16-plus-orborigin&#34;&gt;A Mother&amp;rsquo;s Love [Part 1-16 Plus] [OrbOrigin]
@@ -36388,7 +36691,7 @@ This epic adventure in the Northern lands will let you explore the ancient Norse
         <item>
         <title>Deviant Anomalies 极度异常</title>
         <link>https://luoqian29.github.io/p/deviantanomalies/</link>
-        <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 09 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/deviantanomalies/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzIyNDM5NjUxLnBuZw==/original/6WxrZL.png" alt="Featured image of post Deviant Anomalies 极度异常" /&gt;&lt;h1 id=&#34;deviant-anomalies-v095-moolahmilk&#34;&gt;Deviant Anomalies [v0.9.5] [MoolahMilk]
@@ -36702,7 +37005,7 @@ High quality renders with fully animated lewd scenes and immersive gameplay. The
         <item>
         <title>Domino Beach 多米诺海滩</title>
         <link>https://luoqian29.github.io/p/dominobeach/</link>
-        <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 08 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/dominobeach/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJF90LlaMAAp568?format=jpg&amp;name=large" alt="Featured image of post Domino Beach 多米诺海滩" /&gt;&lt;h1 id=&#34;domino-beach-ep3-beta-mr-jet&#34;&gt;Domino Beach [Ep.3 Beta] [Mr Jet]
@@ -37103,7 +37406,7 @@ High quality renders with fully animated lewd scenes and immersive gameplay. The
         <item>
         <title>Echoes of 2990 2990的回声</title>
         <link>https://luoqian29.github.io/p/echoesof2990/</link>
-        <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 08 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/echoesof2990/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzIyMzMxMjcxLmpwZw==/original/JwJrBM.jpg" alt="Featured image of post Echoes of 2990 2990的回声" /&gt;&lt;h1 id=&#34;echoes-of-2990-ch2-023-aadev&#34;&gt;Echoes of 2990 [Ch.2 0.2.3] [AADev]
@@ -37410,7 +37713,7 @@ High quality renders with fully animated lewd scenes and immersive gameplay. The
         <item>
         <title>House of Hearts 红心之屋</title>
         <link>https://luoqian29.github.io/p/houseofhearts/</link>
-        <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 08 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/houseofhearts/</guid>
         <description>&lt;img src="https://pbs.twimg.com/profile_banners/1944027318391099392/1752348809/1500x500" alt="Featured image of post House of Hearts 红心之屋" /&gt;&lt;h1 id=&#34;house-of-hearts-ep2-p1-sparkhg&#34;&gt;House of Hearts [Ep.2 P.1] [SparkHG]
@@ -37857,7 +38160,7 @@ and you&amp;rsquo;d be dead if it wasn&amp;rsquo;t due to a man who called himse
         <item>
         <title>Step Sis Is Kinda Horny?! 继妹有点欲？！</title>
         <link>https://luoqian29.github.io/p/stepsisiskindahorny/</link>
-        <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 08 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/stepsisiskindahorny/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI0NDI1ODIwLnBuZw==/original/%2B%2Fyxa9.png" alt="Featured image of post Step Sis Is Kinda Horny?! 继妹有点欲？！" /&gt;&lt;h1 id=&#34;step-sis-is-kinda-horny-v03-digitalewd&#34;&gt;Step Sis Is Kinda Horny?! [v0.3] [DIGITALEWD]
@@ -38230,7 +38533,7 @@ and you&amp;rsquo;d be dead if it wasn&amp;rsquo;t due to a man who called himse
         <item>
         <title>Summer Heat 夏日猎艳记</title>
         <link>https://luoqian29.github.io/p/summerheat/</link>
-        <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 08 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/summerheat/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzE3NTM3MDQ2LnBuZw==/original/NArmSk.png" alt="Featured image of post Summer Heat 夏日猎艳记" /&gt;&lt;h1 id=&#34;summer-heat-v061-naughty-fox-games&#34;&gt;Summer Heat [v0.6.1] [Naughty Fox Games]
@@ -38640,7 +38943,7 @@ No matter what you choose, you&amp;rsquo;ll feel the heat.​&lt;/li&gt;
         <item>
         <title>Clown Squad 哥谭市</title>
         <link>https://luoqian29.github.io/p/clownsquad/</link>
-        <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 07 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/clownsquad/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI0MTc5MzIyLnBuZw==/original/Q%2Ffv%2FA.png" alt="Featured image of post Clown Squad 哥谭市" /&gt;&lt;h1 id=&#34;clown-squad-prologue-noglory&#34;&gt;Clown Squad [Prologue] [NoGlory]
@@ -39000,7 +39303,7 @@ No matter what you choose, you&amp;rsquo;ll feel the heat.​&lt;/li&gt;
         <item>
         <title>Dreamland 梦幻镇</title>
         <link>https://luoqian29.github.io/p/dreamland/</link>
-        <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 07 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/dreamland/</guid>
         <description>&lt;img src="https://pbs.twimg.com/profile_banners/1568776684777652224/1666142989/1500x500" alt="Featured image of post Dreamland 梦幻镇" /&gt;&lt;h1 id=&#34;dreamland-v060p-dokiden&#34;&gt;Dreamland [v0.6.0p] [Dokiden]
@@ -39481,7 +39784,7 @@ However, if you look close enough, you&amp;rsquo;ll discover that Dreamland also
         <item>
         <title>Milfheim: The Twisted 熟女之乡</title>
         <link>https://luoqian29.github.io/p/milfheim/</link>
-        <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 07 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/milfheim/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJGAH_eakAALNeK?format=jpg&amp;name=large" alt="Featured image of post Milfheim: The Twisted 熟女之乡" /&gt;&lt;h1 id=&#34;milfheim-the-twisted-v03-bittersweet3d&#34;&gt;Milfheim: The Twisted [v0.3] [Bittersweet3D]
@@ -39923,7 +40226,7 @@ A storm of emotions crashes into Damian, just as he steps into adulthood, pullin
         <item>
         <title>Sunset Rose 暮色玫瑰（阳光玫瑰）</title>
         <link>https://luoqian29.github.io/p/sunsetrose/</link>
-        <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 07 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/sunsetrose/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJF-9kgbsAAir6v?format=jpg&amp;name=large" alt="Featured image of post Sunset Rose 暮色玫瑰（阳光玫瑰）" /&gt;&lt;h1 id=&#34;sunset-rose-v01-elite-lewdlab&#34;&gt;Sunset Rose [v0.1 Elite] [Lewdlab]
@@ -40332,7 +40635,7 @@ Will he make the most of this situation?​&lt;/li&gt;
         <item>
         <title>The Arson Betrayal 纵火背叛</title>
         <link>https://luoqian29.github.io/p/thearsonbetrayal/</link>
-        <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 07 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/thearsonbetrayal/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzEzMDc2MzE2LnBuZw==/original/DBrrD8.png" alt="Featured image of post The Arson Betrayal 纵火背叛" /&gt;&lt;h1 id=&#34;the-arson-betrayal-v080-crispy-chicken-productions&#34;&gt;The Arson Betrayal [v0.8.0] [Crispy Chicken Productions]
@@ -40954,7 +41257,7 @@ But one fateful encounter plunges you into the middle of a conspiracy filled wit
         <item>
         <title>What a Legend! 这是个传奇！</title>
         <link>https://luoqian29.github.io/p/whatalegend/</link>
-        <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 07 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/whatalegend/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzM0MTU3MDIuanBn/original/1p3tPf.jpg" alt="Featured image of post What a Legend! 这是个传奇！" /&gt;&lt;h1 id=&#34;what-a-legend-v0705-magicnuts&#34;&gt;What a Legend! [v0.7.05] [MagicNuts]
@@ -41381,7 +41684,7 @@ But one fateful encounter plunges you into the middle of a conspiracy filled wit
         <item>
         <title>My Best Deal 女神的最佳交易</title>
         <link>https://luoqian29.github.io/p/mybestdeal/</link>
-        <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 05 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/mybestdeal/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzExNDk5NTQzLnBuZw==/original/gvTvGH.png" alt="Featured image of post My Best Deal 女神的最佳交易" /&gt;&lt;h1 id=&#34;my-best-deal-v455-pirot-king&#34;&gt;My Best Deal [v4.5.5] [Pirot King]
@@ -41845,7 +42148,7 @@ But one fateful encounter plunges you into the middle of a conspiracy filled wit
         <item>
         <title>Summer Scent 夏日芬芳</title>
         <link>https://luoqian29.github.io/p/summerscent/</link>
-        <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 05 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/summerscent/</guid>
         <description>&lt;img src="https://clan.fastly.steamstatic.com/images/45101244/fc61226d1097803d53618e4482c07d6b115243e7_960x311.png" alt="Featured image of post Summer Scent 夏日芬芳" /&gt;&lt;h1 id=&#34;summer-scent-v067ra-steam-the-naughty-captain&#34;&gt;Summer Scent [v0.6.7Ra Steam] [The Naughty Captain]
@@ -42254,7 +42557,7 @@ But one fateful encounter plunges you into the middle of a conspiracy filled wit
         <item>
         <title>Chasing Sunsets 追逐落日</title>
         <link>https://luoqian29.github.io/p/chasingsunsets/</link>
-        <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 02 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/chasingsunsets/</guid>
         <description>&lt;img src="https://clan.akamai.steamstatic.com/images/41719348/03f6c45367aa8ec3f7e143d7fa61c713f409f0f9_960x311.png" alt="Featured image of post Chasing Sunsets 追逐落日" /&gt;&lt;h1 id=&#34;chasing-sunsets-v110a-stone-fox-studios&#34;&gt;Chasing Sunsets [v1.10a] [Stone Fox Studios]
@@ -42591,7 +42894,7 @@ But one fateful encounter plunges you into the middle of a conspiracy filled wit
         <item>
         <title>Isekai Paradise 异世界天堂</title>
         <link>https://luoqian29.github.io/p/isekaiparadise/</link>
-        <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 02 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/isekaiparadise/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI3MTQxNzQxLnBuZw==/original/BoZ7oM.png" alt="Featured image of post Isekai Paradise 异世界天堂" /&gt;&lt;h1 id=&#34;isekai-paradise-v08-patreon-soultice&#34;&gt;Isekai Paradise [v0.8 Patreon] [Soultice]
@@ -43102,7 +43405,7 @@ But one fateful encounter plunges you into the middle of a conspiracy filled wit
         <item>
         <title>New Family 新家庭</title>
         <link>https://luoqian29.github.io/p/newfamily/</link>
-        <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 30 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/newfamily/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzE4OTM0Mzk5LnBuZw==/original/AmO%2Bkq.png" alt="Featured image of post New Family 新家庭" /&gt;&lt;h1 id=&#34;new-family-v070-king-peanut&#34;&gt;New Family [v0.7.0] [King Peanut]
@@ -43428,7 +43731,7 @@ But one fateful encounter plunges you into the middle of a conspiracy filled wit
         <item>
         <title>Golden Mean 中庸之道</title>
         <link>https://luoqian29.github.io/p/goldenmean/</link>
-        <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 29 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/goldenmean/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJGA8NZbEAE91rF?format=jpg&amp;name=large" alt="Featured image of post Golden Mean 中庸之道" /&gt;&lt;h1 id=&#34;golden-mean-v06-drmolly&#34;&gt;Golden Mean [v0.6] [DrMolly]
@@ -43833,7 +44136,7 @@ But one fateful encounter plunges you into the middle of a conspiracy filled wit
         <item>
         <title>Third Crisis Neon Nights 第三次危机：霓虹之夜</title>
         <link>https://luoqian29.github.io/p/thirdcrisisneonnights/</link>
-        <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 29 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/thirdcrisisneonnights/</guid>
         <description>&lt;img src="https://pbs.twimg.com/profile_banners/1704184589260857344/1769832537/1500x500" alt="Featured image of post Third Crisis Neon Nights 第三次危机：霓虹之夜" /&gt;&lt;h1 id=&#34;third-crisis-neon-nights-v048-sr-anduo-games&#34;&gt;Third Crisis Neon Nights [v0.4.8-sr] [Anduo Games]
@@ -44059,7 +44362,7 @@ But one fateful encounter plunges you into the middle of a conspiracy filled wit
         <item>
         <title>Ripples 涟漪</title>
         <link>https://luoqian29.github.io/p/ripples/</link>
-        <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 27 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/ripples/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI3MjI2MjMxLnBuZw==/original/yib84r.png" alt="Featured image of post Ripples 涟漪" /&gt;&lt;h1 id=&#34;ripples-v0922-jestur&#34;&gt;Ripples [v0.9.22] [Jestur]
@@ -44606,7 +44909,7 @@ But one fateful encounter plunges you into the middle of a conspiracy filled wit
         <item>
         <title>Out of Touch! 触不可及</title>
         <link>https://luoqian29.github.io/p/outoftouch/</link>
-        <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 26 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/outoftouch/</guid>
         <description>&lt;img src="https://pbs.twimg.com/profile_banners/1269038531046830082/1617433842/1500x500" alt="Featured image of post Out of Touch! 触不可及" /&gt;&lt;h1 id=&#34;out-of-touch-v4081-story-anon&#34;&gt;Out of Touch! [v4.08.1] [Story Anon]
@@ -44827,7 +45130,7 @@ At its heart is our hero CJ, who reunites with his childhood friends after years
         <item>
         <title>The Seven Realms 七界</title>
         <link>https://luoqian29.github.io/p/thesevenrealms/</link>
-        <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 26 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/thesevenrealms/</guid>
         <description>&lt;img src="https://cdn-public.oppaiman.com/cover-photos/septcloudgames.jpg" alt="Featured image of post The Seven Realms 七界" /&gt;&lt;h1 id=&#34;the-seven-realms-r3-v103-septcloudgames&#34;&gt;The Seven Realms [R3 v1.03] [SeptCloudGames]
@@ -46271,7 +46574,7 @@ At its heart is our hero CJ, who reunites with his childhood friends after years
         <item>
         <title>My Cute Roommate 我的可爱表姐</title>
         <link>https://luoqian29.github.io/p/mycuteroommate/</link>
-        <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 25 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/mycuteroommate/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJGCMzUaYAAfaMF?format=jpg&amp;name=large" alt="Featured image of post My Cute Roommate 我的可爱表姐" /&gt;&lt;h1 id=&#34;my-cute-roommate-v161-ex-beta-astaros3d&#34;&gt;My Cute Roommate [v1.6.1 Ex Beta] [Astaros3D]
@@ -46683,7 +46986,7 @@ At its heart is our hero CJ, who reunites with his childhood friends after years
         <item>
         <title>Futa&#39;s World of NTR 我是吕子乔</title>
         <link>https://luoqian29.github.io/p/futasworldofntr/</link>
-        <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 22 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/futasworldofntr/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzEzMjgyNDA1LnBuZw==/original/9fy72K.png" alt="Featured image of post Futa&#39;s World of NTR 我是吕子乔" /&gt;&lt;h1 id=&#34;futas-world-of-ntr-v151-scarletgames&#34;&gt;Futa&amp;rsquo;s World of NTR [v1.5.1] [ScarletGames]
@@ -47088,7 +47391,7 @@ At its heart is our hero CJ, who reunites with his childhood friends after years
         <item>
         <title>City of Broken Dreamers 破碎梦之城</title>
         <link>https://luoqian29.github.io/p/cityofbrokendreamers/</link>
-        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/cityofbrokendreamers/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/DzYlFr1X0AEkIhV?format=jpg&amp;name=large" alt="Featured image of post City of Broken Dreamers 破碎梦之城" /&gt;&lt;h1 id=&#34;city-of-broken-dreamers-v1150-ch-15-phillygames&#34;&gt;City of Broken Dreamers [v1.15.0 Ch. 15] [PhillyGames]
@@ -47518,7 +47821,7 @@ At its heart is our hero CJ, who reunites with his childhood friends after years
         <item>
         <title>Cybernetic Seduction 赛博情迷（特工猎艳记）</title>
         <link>https://luoqian29.github.io/p/cyberneticseduction/</link>
-        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/cyberneticseduction/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzE2ODAwNzQ1LnBuZw==/original/YVZTrj.png" alt="Featured image of post Cybernetic Seduction 赛博情迷（特工猎艳记）" /&gt;&lt;h1 id=&#34;cybernetic-seduction-ep8-p2-1thousand&#34;&gt;Cybernetic Seduction [Ep.8 P2] [1Thousand]
@@ -47940,7 +48243,7 @@ At its heart is our hero CJ, who reunites with his childhood friends after years
         <item>
         <title>Deliverance 峰回路转</title>
         <link>https://luoqian29.github.io/p/deliverance/</link>
-        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/deliverance/</guid>
         <description>&lt;img src="https://pbs.twimg.com/profile_banners/1601184342125993987/1707391707/1500x500" alt="Featured image of post Deliverance 峰回路转" /&gt;&lt;h1 id=&#34;deliverance-final-1thousand&#34;&gt;Deliverance [Final] [1Thousand]
@@ -48357,7 +48660,7 @@ At its heart is our hero CJ, who reunites with his childhood friends after years
         <item>
         <title>Getting Intimate 亲密无间</title>
         <link>https://luoqian29.github.io/p/gettingintimate/</link>
-        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/gettingintimate/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzE1MjQ0MTEwLnBuZw==/original/ahAJRf.png" alt="Featured image of post Getting Intimate 亲密无间" /&gt;&lt;h1 id=&#34;getting-intimate-ch2-part-c-mangoworks&#34;&gt;Getting Intimate [Ch.2 Part C] [MangoWorks]
@@ -48952,7 +49255,7 @@ At its heart is our hero CJ, who reunites with his childhood friends after years
         <item>
         <title>Life&#39;s Payback 生命的回报</title>
         <link>https://luoqian29.github.io/p/lifespayback/</link>
-        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/lifespayback/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzIwMzU1MjkxLnBuZw==/original/b2QhKG.png" alt="Featured image of post Life&#39;s Payback 生命的回报" /&gt;&lt;h1 id=&#34;lifes-payback-v24-vinkawa&#34;&gt;Life&amp;rsquo;s Payback [v2.4] [Vinkawa]
@@ -49274,7 +49577,7 @@ However, given the way you&amp;rsquo;ve been treated in the past, you decide tha
         <item>
         <title>Origin Story 起源故事（嘿炮纠插队）</title>
         <link>https://luoqian29.github.io/p/originstory/</link>
-        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/originstory/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI1NDI4NjU2LnBuZw==/original/Ov6jrE.png" alt="Featured image of post Origin Story 起源故事（嘿炮纠插队）" /&gt;&lt;h1 id=&#34;origin-story-s2-v093-jdor&#34;&gt;Origin Story [S2 v0.9.3] [JDOR]
@@ -49874,7 +50177,7 @@ However, given the way you&amp;rsquo;ve been treated in the past, you decide tha
         <item>
         <title>Being a DIK 我的大学生活</title>
         <link>https://luoqian29.github.io/p/beingadik/</link>
-        <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 17 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/beingadik/</guid>
         <description>&lt;img src="https://pbs.twimg.com/profile_banners/1016925862141325313/1616170152/1500x500" alt="Featured image of post Being a DIK 我的大学生活" /&gt;&lt;h1 id=&#34;being-a-dik-v083-drpinkcake&#34;&gt;Being a DIK [v0.8.3] [DrPinkCake]
@@ -50320,7 +50623,7 @@ However, given the way you&amp;rsquo;ve been treated in the past, you decide tha
         <item>
         <title>Ms.Denvers 丹弗斯女士（毕加索女士）</title>
         <link>https://luoqian29.github.io/p/msdenvers/</link>
-        <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 14 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/msdenvers/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/F1aHeAXXoAAKded?format=jpg&amp;name=4096x4096" alt="Featured image of post Ms.Denvers 丹弗斯女士（毕加索女士）" /&gt;&lt;h1 id=&#34;msdenvers-v0126-pop-toc&#34;&gt;Ms.Denvers [v0.1.2.6] [Pop Toc]
@@ -50763,7 +51066,7 @@ This story focuses on her life after 5 years of divorce, as she battles with the
         <item>
         <title>Realm Invader 领域入侵者</title>
         <link>https://luoqian29.github.io/p/realminvader/</link>
-        <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 14 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/realminvader/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzEyMjM1Mzk2LmpwZw==/original/ox%2BQ5%2B.jpg" alt="Featured image of post Realm Invader 领域入侵者" /&gt;&lt;h1 id=&#34;realm-invader-ep2-p2-invader-gary&#34;&gt;Realm Invader [Ep.2 P2] [Invader Gary]
@@ -51257,7 +51560,7 @@ This story focuses on her life after 5 years of divorce, as she battles with the
         <item>
         <title>Summer&#39;s Gone 夏日已逝</title>
         <link>https://luoqian29.github.io/p/summersgone/</link>
-        <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 12 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/summersgone/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzYyOTkxNDAucG5n/original/QDFocs.png" alt="Featured image of post Summer&#39;s Gone 夏日已逝" /&gt;&lt;h1 id=&#34;summers-gone-s2-ch1-3-oceanlab&#34;&gt;Summer&amp;rsquo;s Gone [S2 Ch.1-3] [Oceanlab]
@@ -52427,7 +52730,7 @@ This story focuses on her life after 5 years of divorce, as she battles with the
         <item>
         <title>University of Problems 学院情缘</title>
         <link>https://luoqian29.github.io/p/universityofproblems/</link>
-        <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 09 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/universityofproblems/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzEwOTcxNzcxLmpwZw==/original/fnL5%2Fv.jpg" alt="Featured image of post University of Problems 学院情缘" /&gt;&lt;h1 id=&#34;university-of-problems-v185-extended-dreamnow&#34;&gt;University of Problems [v1.8.5 Extended] [DreamNow]
@@ -52824,7 +53127,7 @@ An ordinary guy from an ordinary family unexpectedly enters one of the best univ
         <item>
         <title>Imperial Chronicles 帝国编年史</title>
         <link>https://luoqian29.github.io/p/imperialchronicles/</link>
-        <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 05 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/imperialchronicles/</guid>
         <description>&lt;img src="https://i.ibb.co/PMWGt8N/213.png" alt="Featured image of post Imperial Chronicles 帝国编年史" /&gt;&lt;h1 id=&#34;imperial-chronicles-v013-lazy-monkey&#34;&gt;Imperial Chronicles [v0.13] [Lazy Monkey]
@@ -53128,7 +53431,7 @@ An ordinary guy from an ordinary family unexpectedly enters one of the best univ
         <item>
         <title>A.O.A. Academy AOA学院</title>
         <link>https://luoqian29.github.io/p/aoaacademy/</link>
-        <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 04 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/aoaacademy/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/FbLgjWQaIAEJMnB?format=jpg&amp;name=4096x4096" alt="Featured image of post A.O.A. Academy AOA学院" /&gt;&lt;h1 id=&#34;aoa-academy-ch5-gold-tlggames&#34;&gt;A.O.A. Academy [Ch.5 Gold] [TLGGAMES]
@@ -53634,7 +53937,7 @@ Determine to face your new future , you headed to the A.O.A Academy.&lt;/li&gt;
         <item>
         <title>Spornbob: Deep in Bikini Bottom 海绵宝宝同人</title>
         <link>https://luoqian29.github.io/p/spornbob/</link>
-        <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 04 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/spornbob/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI2NDk4MjgxLnBuZw==/original/N6vAAT.png" alt="Featured image of post Spornbob: Deep in Bikini Bottom 海绵宝宝同人" /&gt;&lt;h1 id=&#34;spornbob-deep-in-bikini-bottom-v0013-public-franktopia-gamestudio&#34;&gt;Spornbob: Deep in Bikini Bottom [v0.0.13 Public] [FRANKTOPIA GAMESTUDIO]
@@ -53903,7 +54206,7 @@ Determine to face your new future , you headed to the A.O.A Academy.&lt;/li&gt;
         <item>
         <title>Fog of War 战争迷雾</title>
         <link>https://luoqian29.github.io/p/fogofwar/</link>
-        <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 02 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/fogofwar/</guid>
         <description>&lt;img src="https://pbs.twimg.com/profile_banners/1507405353180225536/1669880765/1500x500" alt="Featured image of post Fog of War 战争迷雾" /&gt;&lt;h1 id=&#34;fog-of-war-v051-story-machine-studios&#34;&gt;Fog of War [v0.5.1] [Story Machine Studios]
@@ -54331,7 +54634,7 @@ Determine to face your new future , you headed to the A.O.A Academy.&lt;/li&gt;
         <item>
         <title>I Was a Teenage Vampire Rebuild 我是少年吸血鬼</title>
         <link>https://luoqian29.github.io/p/iwasateenagevampire/</link>
-        <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 02 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/iwasateenagevampire/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJGGQLmagAAwIkY?format=jpg&amp;name=large" alt="Featured image of post I Was a Teenage Vampire Rebuild 我是少年吸血鬼" /&gt;&lt;h1 id=&#34;i-was-a-teenage-vampire-rebuild-v081b-fatalmasterpiece&#34;&gt;I Was a Teenage Vampire Rebuild [v0.8.1b] [FatalMasterpiece]
@@ -54632,7 +54935,7 @@ This version has been completely rebuilt in Ren&amp;rsquo;Py.&lt;/li&gt;
         <item>
         <title>Murmur 低语</title>
         <link>https://luoqian29.github.io/p/murmur/</link>
-        <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 02 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/murmur/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzUwMjI0MDUuanBn/original/j1UT1x.jpg" alt="Featured image of post Murmur 低语" /&gt;&lt;h1 id=&#34;murmur-v07-hotfix-devils-dad&#34;&gt;Murmur [v0.7 Hotfix] [Devil&amp;rsquo;s Dad]
@@ -55063,7 +55366,7 @@ If you experience an error on launch with &amp;ldquo;File &amp;ldquo;game/defini
         <item>
         <title>Waifu Academy 二次元老婆学院</title>
         <link>https://luoqian29.github.io/p/waifuacademy/</link>
-        <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 02 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/waifuacademy/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJGEuYja4AAEcsW?format=jpg&amp;name=large" alt="Featured image of post Waifu Academy 二次元老婆学院" /&gt;&lt;h1 id=&#34;waifu-academy-v0135-irphaeus&#34;&gt;Waifu Academy [v0.13.5] [Irphaeus]
@@ -55468,7 +55771,7 @@ If you experience an error on launch with &amp;ldquo;File &amp;ldquo;game/defini
         <item>
         <title>Race of Life 绝命竞速</title>
         <link>https://luoqian29.github.io/p/raceoflife/</link>
-        <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 28 Mar 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/raceoflife/</guid>
         <description>&lt;img src="https://pbs.twimg.com/profile_banners/1414517592916643840/1714729106/1500x500" alt="Featured image of post Race of Life 绝命竞速" /&gt;&lt;h1 id=&#34;race-of-life-act-2-ep4-fix-4-underground-studio&#34;&gt;Race of Life [Act 2 Ep.4 Fix 4] [Underground Studio]
@@ -56146,7 +56449,7 @@ If you experience an error on launch with &amp;ldquo;File &amp;ldquo;game/defini
         <item>
         <title>Zenless Zeal Zones 绝区零同人</title>
         <link>https://luoqian29.github.io/p/zenlesszealzones/</link>
-        <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 28 Mar 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/zenlesszealzones/</guid>
         <description>&lt;img src="https://pbs.twimg.com/profile_banners/1668919172016013312/1766837441/1500x500" alt="Featured image of post Zenless Zeal Zones 绝区零同人" /&gt;&lt;h1 id=&#34;futas-world-of-ntr-v151-scarletgames&#34;&gt;Futa&amp;rsquo;s World of NTR [v1.5.1] [ScarletGames]
@@ -56416,7 +56719,7 @@ If you experience an error on launch with &amp;ldquo;File &amp;ldquo;game/defini
         <item>
         <title>Strangers on Paper 纸上陌客（纸上陌生人）</title>
         <link>https://luoqian29.github.io/p/strangersonpaper/</link>
-        <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 23 Mar 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/strangersonpaper/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzEyMjY5MDg1LnBuZw==/original/5J0Ldj.png" alt="Featured image of post Strangers on Paper 纸上陌客（纸上陌生人）" /&gt;&lt;h1 id=&#34;strangers-on-paper-ch2-v022-gloomy-ghost-studio&#34;&gt;Strangers on Paper [Ch.2 v0.2.2] [Gloomy Ghost Studio]
@@ -56835,7 +57138,7 @@ If you experience an error on launch with &amp;ldquo;File &amp;ldquo;game/defini
         <item>
         <title>MILF Secrets 熟不可言</title>
         <link>https://luoqian29.github.io/p/milfsecrets/</link>
-        <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 22 Mar 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/milfsecrets/</guid>
         <description>&lt;img src="https://pbs.twimg.com/profile_banners/844634591147315201/1700418161/1500x500" alt="Featured image of post MILF Secrets 熟不可言" /&gt;&lt;h1 id=&#34;milf-secrets-v01-astaros-3d&#34;&gt;MILF Secrets [v0.1] [Astaros 3D]
@@ -57217,7 +57520,7 @@ This v0.1 introduces the world, the tension, and the first steps into the story.
         <item>
         <title>The Veil 帷幕</title>
         <link>https://luoqian29.github.io/p/theveil/</link>
-        <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 17 Mar 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/theveil/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI1ODQ3NDUwLnBuZw==/original/6%2Bw0EH.png" alt="Featured image of post The Veil 帷幕" /&gt;&lt;h1 id=&#34;the-veil-v036-mrshaxy&#34;&gt;The Veil [v0.3.6] [Mr.Shaxy]
@@ -57617,7 +57920,7 @@ This v0.1 introduces the world, the tension, and the first steps into the story.
         <item>
         <title>Contagion Crisis 传染危机</title>
         <link>https://luoqian29.github.io/p/contagioncrisis/</link>
-        <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 08 Mar 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/contagioncrisis/</guid>
         <description>&lt;img src="https://pbs.twimg.com/profile_banners/1748878231879532545/1712152687/1500x500" alt="Featured image of post Contagion Crisis 传染危机" /&gt;&lt;h1 id=&#34;contagion-crisis-v060-welovemonsters&#34;&gt;Contagion Crisis [v0.6.0] [WeLoveMonsters]
@@ -58007,7 +58310,7 @@ This v0.1 introduces the world, the tension, and the first steps into the story.
         <item>
         <title>Photo Hunt 猎艳逐影</title>
         <link>https://luoqian29.github.io/p/photohunt/</link>
-        <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 01 Mar 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/photohunt/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJGGz4sXoAAwpP-?format=jpg&amp;name=large" alt="Featured image of post Photo Hunt 猎艳逐影" /&gt;&lt;h1 id=&#34;photo-hunt-v0202-extra-moochie&#34;&gt;Photo Hunt [v0.20.2 Extra] [Moochie]
@@ -58288,7 +58591,7 @@ This v0.1 introduces the world, the tension, and the first steps into the story.
         <item>
         <title>Eternum 永恒世界</title>
         <link>https://luoqian29.github.io/p/eternum/</link>
-        <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 09 Feb 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/eternum/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzEzNjcyOTIzLnBuZw==/original/o2OCWe.png" alt="Featured image of post Eternum 永恒世界" /&gt;&lt;h1 id=&#34;eternum-v095-public-caribdis&#34;&gt;Eternum [v0.9.5 Public] [Caribdis]
@@ -58833,7 +59136,7 @@ Well&amp;hellip; That’s up to you now.&lt;/li&gt;
         <item>
         <title>Dark Magic 黑魔法</title>
         <link>https://luoqian29.github.io/p/darkmagic/</link>
-        <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 30 Jan 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/darkmagic/</guid>
         <description>&lt;img src="https://d3ts7pb9ldoin4.cloudfront.net/uploads/users/39604/covers/26f3688f-b448-4d21-8eb4-9fa30ea65e91-1240x0_1x46_1600x300.png" alt="Featured image of post Dark Magic 黑魔法" /&gt;&lt;h1 id=&#34;dark-magic-v0210-f-lord&#34;&gt;Dark Magic [v0.21.0] [F. Lord]
@@ -59155,7 +59458,7 @@ You&amp;rsquo;ve been living among beautiful girls in the Kingdom, yet, you stil
         <item>
         <title>Pale Carnations 康乃馨俱乐部</title>
         <link>https://luoqian29.github.io/p/palecarnations/</link>
-        <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 25 Jan 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/palecarnations/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJGFJbDacAEpF-t?format=jpg&amp;name=large" alt="Featured image of post Pale Carnations 康乃馨俱乐部" /&gt;&lt;h1 id=&#34;pale-carnations-ch4-up6-public-mutt--jeff&#34;&gt;Pale Carnations [Ch.4 Up.6 Public] [Mutt &amp;amp; Jeff]

@@ -7,9 +7,312 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright><atom:link href="https://luoqian29.github.io/categories/hs/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Phantyx 幻灵</title>
+        <link>https://luoqian29.github.io/p/phantyx/</link>
+        <pubDate>Wed, 10 Jun 2026 00:00:00 +0800</pubDate>
+        
+        <guid>https://luoqian29.github.io/p/phantyx/</guid>
+        <description>&lt;img src="https://img.itch.zone/aW1hZ2UvMzUxNjg4Ni8yNzExNjI0Mi5wbmc=/original/Zi3dUL.png" alt="Featured image of post Phantyx 幻灵" /&gt;&lt;h1 id=&#34;phantyx-v01-velrya&#34;&gt;Phantyx [v0.1] [Velrya]
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMzUxNjg4Ni8yNzExNjIyMC5wbmc=/original/pttYHz.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;封面图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview
+&lt;/h1&gt;&lt;details&gt;
+&lt;summary&gt;剧情概要&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Humans and demons have shared this world for as long as anyone can remember.
+Their coexistence has been anything but peaceful,
+and many bloody wars have been fought. Then, suddenly, the demons disappeared.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details&gt;
+&lt;summary&gt;剧情概要&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;It looked like everything was slowly returning to normal.
+Then the ghosts appeared.
+That&amp;rsquo;s why Phantyx was created, a special taskforce to deal with this new threat.&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;re a highly ranked ghost hunter who joined Phantyx at fourteen, following in your parents&amp;rsquo; footsteps.
+With eight years of experience under your belt, you&amp;rsquo;re known for being quick and efficient, but most of all.
+Merciless.&lt;/li&gt;
+&lt;li&gt;Because this fight is personal. After your parents were killed, you made a promise:
+To keep fighting.
+Until every last ghost is gone.
+But what will it take to keep that promise?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;游戏信息&#34;&gt;游戏信息
+&lt;/h2&gt;&lt;h3 id=&#34;游戏类型&#34;&gt;游戏类型
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;游戏玩法：&lt;strong&gt;沙盒视觉小说&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;建模引擎：&lt;strong&gt;Honey Select 2&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;运行引擎：&lt;strong&gt;Ren&amp;rsquo;Py&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;游戏画风：&lt;strong&gt;亚洲风&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;版本信息&#34;&gt;版本信息
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;当前版本：&lt;strong&gt;0.1&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;发行日期：&lt;strong&gt;2026-06-09&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;changelog&#34;&gt;Changelog
+&lt;/h3&gt;&lt;details&gt;
+&lt;summary&gt;更新日志&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;N/A&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.patreon.com/cw/Velrya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Patreon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://velrya.itch.io/phantyx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Discord&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;落谦酱便利贴&#34;&gt;落谦酱便利贴
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;PS&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;还行，新作，恐怖元素，有点吓人。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;日期&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;更新详情&lt;/th&gt;
+					&lt;th style=&#34;text-align: center&#34;&gt;当前状态&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.06.10 02:00&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;0.1&lt;/strong&gt;：AI意译汉化补丁&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;制作日期：&lt;strong&gt;2026-06-10&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;PS：由于AI本身会出现&lt;strong&gt;幻觉&lt;/strong&gt;，那么文本上下文中，偶尔会出现人名&lt;strong&gt;翻译误差&lt;/strong&gt;，以及&lt;strong&gt;中英文&lt;/strong&gt;夹杂的句子。目前落谦也只能统一&lt;strong&gt;主要角色&lt;/strong&gt;的人名，但难免还是会有&lt;strong&gt;个别遗漏&lt;/strong&gt;，毕竟落谦只有&lt;strong&gt;一个人&lt;/strong&gt;，时间和精力确实&lt;strong&gt;有限&lt;/strong&gt;。至于一些&lt;strong&gt;小名&lt;/strong&gt;、&lt;strong&gt;昵称&lt;/strong&gt;、&lt;strong&gt;缩写称呼&lt;/strong&gt;、&lt;strong&gt;称谓&lt;/strong&gt;、&lt;strong&gt;地点&lt;/strong&gt;、&lt;strong&gt;事件&lt;/strong&gt;，以及&lt;strong&gt;专有名词&lt;/strong&gt;，还有类似&lt;strong&gt;sister、brother&lt;/strong&gt;这种&lt;strong&gt;一词多义&lt;/strong&gt;的单词，则需要人工&lt;strong&gt;边玩边修正&lt;/strong&gt;。当然，如果在统一主要角色人名时，发现了&lt;strong&gt;相关专有名词&lt;/strong&gt;，也会&lt;strong&gt;顺手统一&lt;/strong&gt;一下。还请大家多多谅解，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;免死金牌：&lt;/strong&gt; 落谦的汉化补丁，无论是 AI 意译版本还是逐句意译版本，都远不及原文或其他大佬的汉化版本。与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电&lt;/strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class=&#34;blur&#34;&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1g7Ea6dE2o&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;游戏预览图&#34;&gt;游戏预览图
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;荤图&lt;/summary&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMzUxNjg4Ni8yNzQ3OTk5Ni5naWY=/original/SPLB0a.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvMzUxNjg4Ni8yNzQ3OTk4NC5naWY=/original/BBijUi.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;download汉化补丁&#34;&gt;DOWNLOAD（汉化补丁）
+&lt;/h2&gt;&lt;h3 id=&#34;winpc端&#34;&gt;Win（PC端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/u0s29P&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/Ggia3vPu&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/0ICJGY&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/nQi9gLya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件放入&lt;strong&gt;game&lt;/strong&gt;文件夹中&lt;/li&gt;
+&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;温馨提示：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果看不懂安装步骤，可以参考小破站的&lt;strong&gt;教程&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;视频教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;android安卓端&#34;&gt;Android（安卓端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/u0s29P&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/Ggia3vPu&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/0ICJGY&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/nQi9gLya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ajY4gE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;主体APK：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/UqMnVsGr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;、&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
+&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
+&lt;li&gt;然后解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将英文原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;和&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件一起移动到以下路径：
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Documents/RenPy_Saves/com.luoqian.Phantyx/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;温馨提示：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果看不懂安装步骤，可以参考小破站的&lt;strong&gt;教程&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;视频教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ios苹果端&#34;&gt;iOS（苹果端）
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;环境配置：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;下载链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/u0s29P&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/Ggia3vPu&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/0ICJGY&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/nQi9gLya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;安装步骤：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;英文原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
+&lt;li&gt;然后将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件移动到以下路径：
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;我的iPhone/Spark/games/Phantyx/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;li&gt;PS：&lt;span style=&#34;color: red;&#34;&gt;移动端如果看不全路径，请&lt;strong&gt;向左滑动&lt;/strong&gt;代码块。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;温馨提示：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;如果打不开链接，则需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考此处——&lt;a class=&#34;link&#34; href=&#34;https://mojie.app/register?aff=TNPhuQNv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;魔戒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果看不懂安装步骤，可以参考小破站的&lt;strong&gt;教程&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;视频教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宇宙安全声明&#34;&gt;宇宙安全声明！
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播&lt;/li&gt;
+&lt;li&gt;落谦不对因使用本文所产生的任何问题负责&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
         <title>Arcanamesis 奥术</title>
         <link>https://luoqian29.github.io/p/arcanamesis/</link>
-        <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 07 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/arcanamesis/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HKN0O4fa0AAKrRT?format=jpg&amp;name=large" alt="Featured image of post Arcanamesis 奥术" /&gt;&lt;h1 id=&#34;arcanamesis-v02-bezdargames&#34;&gt;Arcanamesis [v0.2] [BezdarGames]
@@ -250,7 +553,7 @@ They are not here to be judged. They are here because something inside them answ
         <item>
         <title>Sinful Summer 夏日小故事</title>
         <link>https://luoqian29.github.io/p/sinfulsummer/</link>
-        <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 06 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/sinfulsummer/</guid>
         <description>&lt;img src="https://d3ts7pb9ldoin4.cloudfront.net/uploads_v2/users/1502255/covers/1f79794f-3138-48ca-94d8-36272ae4e049-1240x0_0x36_3200x600.jpg" alt="Featured image of post Sinful Summer 夏日小故事" /&gt;&lt;h1 id=&#34;sinful-summer-a-tale-of-forbidden-love-ch36-ruykiru&#34;&gt;Sinful Summer: A Tale of Forbidden Love [Ch.3.6] [Ruykiru]
@@ -835,7 +1138,7 @@ They are not here to be judged. They are here because something inside them answ
         <item>
         <title>Companion of Darkness 黑暗伴侣</title>
         <link>https://luoqian29.github.io/p/companionofdarkness/</link>
-        <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/companionofdarkness/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzEzNDg1MzYzLnBuZw==/original/tPulIK.png" alt="Featured image of post Companion of Darkness 黑暗伴侣" /&gt;&lt;h1 id=&#34;companion-of-darkness-s2-ch125-berkili4&#34;&gt;Companion of Darkness [S2 Ch.12.5] [Berkili4]
@@ -1643,7 +1946,7 @@ They are not here to be judged. They are here because something inside them answ
         <item>
         <title>Driven by Desire 欲望驱动</title>
         <link>https://luoqian29.github.io/p/drivenbydesire/</link>
-        <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/drivenbydesire/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI2NDg1MTM2LnBuZw==/original/mUwNb%2F.png" alt="Featured image of post Driven by Desire 欲望驱动" /&gt;&lt;h1 id=&#34;driven-by-desire-v050-kloppstyle&#34;&gt;Driven by Desire [v0.5.0] [KloppStyle]
@@ -2083,7 +2386,7 @@ They are not here to be judged. They are here because something inside them answ
         <item>
         <title>Confined and Horny 禁足中的欲火</title>
         <link>https://luoqian29.github.io/p/confinedandhorny/</link>
-        <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/confinedandhorny/</guid>
         <description>&lt;img src="https://pbs.twimg.com/profile_banners/1608405332958535680/1699618742/1500x500" alt="Featured image of post Confined and Horny 禁足中的欲火" /&gt;&lt;h1 id=&#34;confined-and-horny-v0271-tukann&#34;&gt;Confined and Horny [v0.27.1] [Tukann]
@@ -2430,7 +2733,7 @@ They are not here to be judged. They are here because something inside them answ
         <item>
         <title>My Bully Is My Lover 我的爱人是恶女</title>
         <link>https://luoqian29.github.io/p/mybullyismylover/</link>
-        <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/mybullyismylover/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI3NTQ4NTM0LnBuZw==/original/wLPqZd.png" alt="Featured image of post My Bully Is My Lover 我的爱人是恶女" /&gt;&lt;h1 id=&#34;my-bully-is-my-lover-ch2-ep2-niichan&#34;&gt;My Bully Is My Lover [Ch.2 Ep.2] [NiiChan]
@@ -3009,7 +3312,7 @@ They are not here to be judged. They are here because something inside them answ
         <item>
         <title>Studio Hearts 心之工作室：公车上锁</title>
         <link>https://luoqian29.github.io/p/studiohearts/</link>
-        <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/studiohearts/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI0Mzc4Njk4LnBuZw==/original/7OE5GA.png" alt="Featured image of post Studio Hearts 心之工作室：公车上锁" /&gt;&lt;h1 id=&#34;studio-hearts-v03-atemsiel&#34;&gt;Studio Hearts [v0.3] [Atemsiel]
@@ -3433,7 +3736,7 @@ One day, Marcus is a presented with a work opportunity that would have him movin
         <item>
         <title>The Headmaster 校长先生</title>
         <link>https://luoqian29.github.io/p/theheadmaster/</link>
-        <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 30 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/theheadmaster/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJF1mNYbEAA4Jec?format=jpg&amp;name=large" alt="Featured image of post The Headmaster 校长先生" /&gt;&lt;h1 id=&#34;the-headmaster-v01732-altos-and-herdone&#34;&gt;The Headmaster [v0.17.3.2] [Altos and Herdone]
@@ -3718,7 +4021,7 @@ One day, Marcus is a presented with a work opportunity that would have him movin
         <item>
         <title>ToxiCity 毒性</title>
         <link>https://luoqian29.github.io/p/toxicity/</link>
-        <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/toxicity/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzE4ODU3MDg2LmpwZw==/original/jlnzN2.jpg" alt="Featured image of post ToxiCity 毒性" /&gt;&lt;h1 id=&#34;toxicity-v0180-ilsproductions&#34;&gt;ToxiCity [v0.18.0] [ILSProductions]
@@ -4310,7 +4613,7 @@ One day, Marcus is a presented with a work opportunity that would have him movin
         <item>
         <title>Artifice 诡计</title>
         <link>https://luoqian29.github.io/p/artifice/</link>
-        <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/artifice/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzIxNzc5MTg5LnBuZw==/original/usY4oZ.png" alt="Featured image of post Artifice 诡计" /&gt;&lt;h1 id=&#34;artifice-v01-duve&#34;&gt;Artifice [v0.1] [Duve]
@@ -4585,7 +4888,7 @@ Enjoy the show and remember:&lt;/p&gt;
         <item>
         <title>Cosy Cafe 温馨咖啡馆</title>
         <link>https://luoqian29.github.io/p/cosycafe/</link>
-        <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 23 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/cosycafe/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzE3OTQ3MjkzLmpwZw==/original/TW6%2Byk.jpg" alt="Featured image of post Cosy Cafe 温馨咖啡馆" /&gt;&lt;h1 id=&#34;cosy-cafe-v0141-cosy-creator&#34;&gt;Cosy Cafe [v0.14.1] [Cosy Creator]
@@ -5151,7 +5454,7 @@ Enjoy the show and remember:&lt;/p&gt;
         <item>
         <title>Oppai Odyssey 欧派奥德赛</title>
         <link>https://luoqian29.github.io/p/oppaiodyssey/</link>
-        <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 20 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/oppaiodyssey/</guid>
         <description>&lt;img src="https://d3ts7pb9ldoin4.cloudfront.net/uploads_v2/users/473665/covers/18911606-d133-4211-ad38-2a3de43464e8-1240x0_0x150_2560x480.png" alt="Featured image of post Oppai Odyssey 欧派奥德赛" /&gt;&lt;h1 id=&#34;oppai-odyssey-v051q-cryoxxx&#34;&gt;Oppai Odyssey [v0.5.1q] [Cryoxxx]
@@ -5420,7 +5723,7 @@ Enjoy the show and remember:&lt;/p&gt;
         <item>
         <title>Astreon 星宿</title>
         <link>https://luoqian29.github.io/p/astreon/</link>
-        <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 18 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/astreon/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzE5MTc2MDE0LnBuZw==/original/xJcJpZ.png" alt="Featured image of post Astreon 星宿" /&gt;&lt;h1 id=&#34;astreon-ch2-v045-noglory&#34;&gt;Astreon [Ch.2 v0.4.5] [NoGlory]
@@ -5831,7 +6134,7 @@ But, as often happens, things do not go according to plan. One day, when your wi
         <item>
         <title>V.I.R.T.U.E.S. 美德</title>
         <link>https://luoqian29.github.io/p/virtues/</link>
-        <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 14 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/virtues/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI3NDEzNTAuanBn/original/f%2FCAgU.jpg" alt="Featured image of post V.I.R.T.U.E.S. 美德" /&gt;&lt;h1 id=&#34;virtues-v17-nomeme&#34;&gt;V.I.R.T.U.E.S. [v17] [NoMeme]
@@ -6245,7 +6548,7 @@ Elisa’s solo ending&lt;/li&gt;
         <item>
         <title>Milfy Day 蜜桃成熟时</title>
         <link>https://luoqian29.github.io/p/milfyday/</link>
-        <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 13 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/milfyday/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJF7GfxaAAEgYRL?format=jpg&amp;name=large" alt="Featured image of post Milfy Day 蜜桃成熟时" /&gt;&lt;h1 id=&#34;milfy-day-v095-red-lighthouse&#34;&gt;Milfy Day [v0.9.5] [Red Lighthouse]
@@ -6668,7 +6971,7 @@ Because your family is going through a crisis, you need to revive your family, m
         <item>
         <title>Inanna Revenge 伊南娜的复仇</title>
         <link>https://luoqian29.github.io/p/inannarevenge/</link>
-        <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 10 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/inannarevenge/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJF8758aIAAoE2u?format=jpg&amp;name=large" alt="Featured image of post Inanna Revenge 伊南娜的复仇" /&gt;&lt;h1 id=&#34;inanna-revenge-v033-atemx-games&#34;&gt;Inanna Revenge [v0.3.3] [AtemX Games]
@@ -6921,7 +7224,7 @@ Because your family is going through a crisis, you need to revive your family, m
         <item>
         <title>Deviant Anomalies 极度异常</title>
         <link>https://luoqian29.github.io/p/deviantanomalies/</link>
-        <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 09 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/deviantanomalies/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzIyNDM5NjUxLnBuZw==/original/6WxrZL.png" alt="Featured image of post Deviant Anomalies 极度异常" /&gt;&lt;h1 id=&#34;deviant-anomalies-v095-moolahmilk&#34;&gt;Deviant Anomalies [v0.9.5] [MoolahMilk]
@@ -7235,7 +7538,7 @@ High quality renders with fully animated lewd scenes and immersive gameplay. The
         <item>
         <title>Clown Squad 哥谭市</title>
         <link>https://luoqian29.github.io/p/clownsquad/</link>
-        <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 07 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/clownsquad/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI0MTc5MzIyLnBuZw==/original/Q%2Ffv%2FA.png" alt="Featured image of post Clown Squad 哥谭市" /&gt;&lt;h1 id=&#34;clown-squad-prologue-noglory&#34;&gt;Clown Squad [Prologue] [NoGlory]
@@ -7595,7 +7898,7 @@ High quality renders with fully animated lewd scenes and immersive gameplay. The
         <item>
         <title>The Arson Betrayal 纵火背叛</title>
         <link>https://luoqian29.github.io/p/thearsonbetrayal/</link>
-        <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 07 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/thearsonbetrayal/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzEzMDc2MzE2LnBuZw==/original/DBrrD8.png" alt="Featured image of post The Arson Betrayal 纵火背叛" /&gt;&lt;h1 id=&#34;the-arson-betrayal-v080-crispy-chicken-productions&#34;&gt;The Arson Betrayal [v0.8.0] [Crispy Chicken Productions]
@@ -8217,7 +8520,7 @@ But one fateful encounter plunges you into the middle of a conspiracy filled wit
         <item>
         <title>Apocalypse 2059 启示录2059</title>
         <link>https://luoqian29.github.io/p/apocalypse2059/</link>
-        <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 03 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/apocalypse2059/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzE5MTE5ODEzLnBuZw==/original/27uEPU.png" alt="Featured image of post Apocalypse 2059 启示录2059" /&gt;&lt;h1 id=&#34;apocalypse-2059-v03-special-bigh4ndinc&#34;&gt;Apocalypse 2059 [v0.3 Special] [BigH4nd.Inc]
@@ -8469,7 +8772,7 @@ A ruthless warlord carving out her empire silver-tongued treasure hunter seeking
         <item>
         <title>Isekai Paradise 异世界天堂</title>
         <link>https://luoqian29.github.io/p/isekaiparadise/</link>
-        <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 02 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/isekaiparadise/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI3MTQxNzQxLnBuZw==/original/BoZ7oM.png" alt="Featured image of post Isekai Paradise 异世界天堂" /&gt;&lt;h1 id=&#34;isekai-paradise-v08-patreon-soultice&#34;&gt;Isekai Paradise [v0.8 Patreon] [Soultice]
@@ -8980,7 +9283,7 @@ A ruthless warlord carving out her empire silver-tongued treasure hunter seeking
         <item>
         <title>Ripples 涟漪</title>
         <link>https://luoqian29.github.io/p/ripples/</link>
-        <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 27 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/ripples/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI3MjI2MjMxLnBuZw==/original/yib84r.png" alt="Featured image of post Ripples 涟漪" /&gt;&lt;h1 id=&#34;ripples-v0922-jestur&#34;&gt;Ripples [v0.9.22] [Jestur]
@@ -9527,7 +9830,7 @@ A ruthless warlord carving out her empire silver-tongued treasure hunter seeking
         <item>
         <title>Industry Baby 工业宝贝</title>
         <link>https://luoqian29.github.io/p/industrybaby/</link>
-        <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 19 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/industrybaby/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI1ODA2NDI5LnBuZw==/original/JuPPza.png" alt="Featured image of post Industry Baby 工业宝贝" /&gt;&lt;h1 id=&#34;industry-baby-v03-ekko&#34;&gt;Industry Baby [v0.3] [Ekko]
@@ -9796,7 +10099,7 @@ Fucking girls for a living? Sounds fun, ain&amp;rsquo;t it &amp;hellip;?&lt;/li&
         <item>
         <title>Between Humanity 人类之间</title>
         <link>https://luoqian29.github.io/p/betweenhumanity/</link>
-        <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 18 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/betweenhumanity/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzIxMjU5ODA1LnBuZw==/original/ONUjc%2F.png" alt="Featured image of post Between Humanity 人类之间" /&gt;&lt;h1 id=&#34;between-humanity-v033-debatingpanda&#34;&gt;Between Humanity [v0.3.3] [DebatingPanda]
@@ -10161,7 +10464,7 @@ Fucking girls for a living? Sounds fun, ain&amp;rsquo;t it &amp;hellip;?&lt;/li&
         <item>
         <title>Realm Invader 领域入侵者</title>
         <link>https://luoqian29.github.io/p/realminvader/</link>
-        <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 14 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/realminvader/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzEyMjM1Mzk2LmpwZw==/original/ox%2BQ5%2B.jpg" alt="Featured image of post Realm Invader 领域入侵者" /&gt;&lt;h1 id=&#34;realm-invader-ep2-p2-invader-gary&#34;&gt;Realm Invader [Ep.2 P2] [Invader Gary]
@@ -10655,7 +10958,7 @@ Fucking girls for a living? Sounds fun, ain&amp;rsquo;t it &amp;hellip;?&lt;/li&
         <item>
         <title>Murmur 低语</title>
         <link>https://luoqian29.github.io/p/murmur/</link>
-        <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 02 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/murmur/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzUwMjI0MDUuanBn/original/j1UT1x.jpg" alt="Featured image of post Murmur 低语" /&gt;&lt;h1 id=&#34;murmur-v07-hotfix-devils-dad&#34;&gt;Murmur [v0.7 Hotfix] [Devil&amp;rsquo;s Dad]
@@ -11086,7 +11389,7 @@ If you experience an error on launch with &amp;ldquo;File &amp;ldquo;game/defini
         <item>
         <title>Waifu Academy 二次元老婆学院</title>
         <link>https://luoqian29.github.io/p/waifuacademy/</link>
-        <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 02 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/waifuacademy/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJGEuYja4AAEcsW?format=jpg&amp;name=large" alt="Featured image of post Waifu Academy 二次元老婆学院" /&gt;&lt;h1 id=&#34;waifu-academy-v0135-irphaeus&#34;&gt;Waifu Academy [v0.13.5] [Irphaeus]
@@ -11491,7 +11794,7 @@ If you experience an error on launch with &amp;ldquo;File &amp;ldquo;game/defini
         <item>
         <title>The Veil 帷幕</title>
         <link>https://luoqian29.github.io/p/theveil/</link>
-        <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 17 Mar 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/theveil/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI1ODQ3NDUwLnBuZw==/original/6%2Bw0EH.png" alt="Featured image of post The Veil 帷幕" /&gt;&lt;h1 id=&#34;the-veil-v036-mrshaxy&#34;&gt;The Veil [v0.3.6] [Mr.Shaxy]
@@ -11891,7 +12194,7 @@ If you experience an error on launch with &amp;ldquo;File &amp;ldquo;game/defini
         <item>
         <title>Agent17 特工17</title>
         <link>https://luoqian29.github.io/p/agent17/</link>
-        <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 16 Mar 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/agent17/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzEyNjUxNDU0LnBuZw==/original/fUvxcE.png" alt="Featured image of post Agent17 特工17" /&gt;&lt;h1 id=&#34;agent17-v02610-hexatail&#34;&gt;Agent17 [v0.26.10] [HEXATAIL]
@@ -12178,7 +12481,7 @@ If you experience an error on launch with &amp;ldquo;File &amp;ldquo;game/defini
         <item>
         <title>Contagion Crisis 传染危机</title>
         <link>https://luoqian29.github.io/p/contagioncrisis/</link>
-        <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 08 Mar 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/contagioncrisis/</guid>
         <description>&lt;img src="https://pbs.twimg.com/profile_banners/1748878231879532545/1712152687/1500x500" alt="Featured image of post Contagion Crisis 传染危机" /&gt;&lt;h1 id=&#34;contagion-crisis-v060-welovemonsters&#34;&gt;Contagion Crisis [v0.6.0] [WeLoveMonsters]
@@ -12568,7 +12871,7 @@ If you experience an error on launch with &amp;ldquo;File &amp;ldquo;game/defini
         <item>
         <title>Phoenixes 凤凰</title>
         <link>https://luoqian29.github.io/p/phoenixes/</link>
-        <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 12 Feb 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/phoenixes/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzkxNTM5NjcucG5n/original/8Ed6Ot.png" alt="Featured image of post Phoenixes 凤凰" /&gt;&lt;h1 id=&#34;phoenixes-v1600-nomeme&#34;&gt;Phoenixes [v16.0.0] [NoMeme]
@@ -12832,7 +13135,7 @@ If you experience an error on launch with &amp;ldquo;File &amp;ldquo;game/defini
         <item>
         <title>Fleeting Memories 流连忆往昔</title>
         <link>https://luoqian29.github.io/p/fleetingmemories/</link>
-        <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 11 Feb 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/fleetingmemories/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzE2NDc2NDQ5LmpwZw==/original/6jXf5o.jpg" alt="Featured image of post Fleeting Memories 流连忆往昔" /&gt;&lt;h1 id=&#34;fleeting-memories-v046-lyrical-artistry&#34;&gt;Fleeting Memories [v0.4.6] [Lyrical Artistry]
@@ -13034,7 +13337,7 @@ If you experience an error on launch with &amp;ldquo;File &amp;ldquo;game/defini
         <item>
         <title>Cross Realms 跨界</title>
         <link>https://luoqian29.github.io/p/crossrealms/</link>
-        <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 10 Feb 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/crossrealms/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzI1NDg0MTA1LmpwZw==/original/1XYDpF.jpg" alt="Featured image of post Cross Realms 跨界" /&gt;&lt;h1 id=&#34;cross-realms-v04public-duskduck&#34;&gt;Cross Realms [v0.4Public] [DuskDuck]
@@ -13295,7 +13598,7 @@ If you experience an error on launch with &amp;ldquo;File &amp;ldquo;game/defini
         <item>
         <title>Eternum 永恒世界</title>
         <link>https://luoqian29.github.io/p/eternum/</link>
-        <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 09 Feb 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/eternum/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzEzNjcyOTIzLnBuZw==/original/o2OCWe.png" alt="Featured image of post Eternum 永恒世界" /&gt;&lt;h1 id=&#34;eternum-v095-public-caribdis&#34;&gt;Eternum [v0.9.5 Public] [Caribdis]
@@ -13840,7 +14143,7 @@ Well&amp;hellip; That’s up to you now.&lt;/li&gt;
         <item>
         <title>New Horizon 新天域</title>
         <link>https://luoqian29.github.io/p/newhorizon/</link>
-        <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 01 Feb 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/newhorizon/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzE1MzY4OTY0LmpwZw==/original/0EtD%2B8.jpg" alt="Featured image of post New Horizon 新天域" /&gt;&lt;h1 id=&#34;new-horizon-v04-early-kawaiisukebe&#34;&gt;New Horizon [v0.4 Early] [KawaiiSukebe]
@@ -14157,7 +14460,7 @@ Come and unravel the secrets behind the MC’s missing father and all the unexpe
         <item>
         <title>Dark Magic 黑魔法</title>
         <link>https://luoqian29.github.io/p/darkmagic/</link>
-        <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 30 Jan 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/darkmagic/</guid>
         <description>&lt;img src="https://d3ts7pb9ldoin4.cloudfront.net/uploads/users/39604/covers/26f3688f-b448-4d21-8eb4-9fa30ea65e91-1240x0_1x46_1600x300.png" alt="Featured image of post Dark Magic 黑魔法" /&gt;&lt;h1 id=&#34;dark-magic-v0210-f-lord&#34;&gt;Dark Magic [v0.21.0] [F. Lord]
@@ -14479,7 +14782,7 @@ You&amp;rsquo;ve been living among beautiful girls in the Kingdom, yet, you stil
         <item>
         <title>Pale Carnations 康乃馨俱乐部</title>
         <link>https://luoqian29.github.io/p/palecarnations/</link>
-        <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 25 Jan 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/palecarnations/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HJGFJbDacAEpF-t?format=jpg&amp;name=large" alt="Featured image of post Pale Carnations 康乃馨俱乐部" /&gt;&lt;h1 id=&#34;pale-carnations-ch4-up6-public-mutt--jeff&#34;&gt;Pale Carnations [Ch.4 Up.6 Public] [Mutt &amp;amp; Jeff]
@@ -14889,7 +15192,7 @@ You&amp;rsquo;ve been living among beautiful girls in the Kingdom, yet, you stil
         <item>
         <title>Bloody Anomaly 血腥异常</title>
         <link>https://luoqian29.github.io/p/bloodyanomaly/</link>
-        <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 21 Jan 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/bloodyanomaly/</guid>
         <description>&lt;img src="https://cdn-public.oppaiman.com/cover-photos/dejavugames.png" alt="Featured image of post Bloody Anomaly 血腥异常" /&gt;&lt;h1 id=&#34;bloody-anomaly-v01-dejavu&#34;&gt;Bloody Anomaly [v0.1] [Dejavu]
@@ -15081,7 +15384,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
         <item>
         <title>Harem Hotel 后宫酒店</title>
         <link>https://luoqian29.github.io/p/haremhotel/</link>
-        <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 21 Jan 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/haremhotel/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzg1MzE4NjIucG5n/original/CL3tF7.png" alt="Featured image of post Harem Hotel 后宫酒店" /&gt;&lt;h1 id=&#34;harem-hotel-v0191-runey&#34;&gt;Harem Hotel [v0.19.1] [Runey]
@@ -15354,7 +15657,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
         <item>
         <title>That New Teacher 那位新老师</title>
         <link>https://luoqian29.github.io/p/thatnewteacher/</link>
-        <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 18 Jan 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/thatnewteacher/</guid>
         <description>&lt;img src="https://d3ts7pb9ldoin4.cloudfront.net/uploads_v2/users/1884113/covers/362ed84a-d723-4655-a78b-e0d10f485378-1240x0_0x47_2000x375.png" alt="Featured image of post That New Teacher 那位新老师" /&gt;&lt;h1 id=&#34;that-new-teacher-v080-rogueone&#34;&gt;That New Teacher [v0.8.0] [RogueOne]
@@ -15619,7 +15922,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
         <item>
         <title>Dawnfall 黎明之秋</title>
         <link>https://luoqian29.github.io/p/dawnfall/</link>
-        <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 19 Dec 2025 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/dawnfall/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzIyMDkyNzMzLnBuZw==/original/uj4MEU.png" alt="Featured image of post Dawnfall 黎明之秋" /&gt;&lt;h1 id=&#34;dawnfall-v02-zebual&#34;&gt;Dawnfall [v0.2] [Zebual]
@@ -15878,7 +16181,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
         <item>
         <title>Cradle Beyond the Veil 异界摇篮</title>
         <link>https://luoqian29.github.io/p/cradlebeyondtheveil/</link>
-        <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 03 Dec 2025 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/cradlebeyondtheveil/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzE5NjM1NTE3LnBuZw==/original/EYole%2B.png" alt="Featured image of post Cradle Beyond the Veil 异界摇篮" /&gt;&lt;h1 id=&#34;city-devil-restart-v040-public-sabirow&#34;&gt;City Devil: Restart [v0.4.0 Public] [Sabirow]
@@ -16103,7 +16406,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
         <item>
         <title>Wild Cats 野猫</title>
         <link>https://luoqian29.github.io/p/wildcats/</link>
-        <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 26 Nov 2025 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/wildcats/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzE2ODcwMjA3LnBuZw==/original/KI9V%2FI.png" alt="Featured image of post Wild Cats 野猫" /&gt;&lt;h1 id=&#34;wild-cats-v03-public-lopaphi&#34;&gt;Wild Cats [v0.3 Public] [LopaPhi]
@@ -16391,7 +16694,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
         <item>
         <title>City Devil 城市恶魔</title>
         <link>https://luoqian29.github.io/p/citydevil/</link>
-        <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 16 Nov 2025 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/citydevil/</guid>
         <description>&lt;img src="https://d3ts7pb9ldoin4.cloudfront.net/uploads_v2/users/1371718/covers/6836daa2-e1ce-48b0-ace8-f40ae0b9c02c-1240x0_0x50_1600x300.png" alt="Featured image of post City Devil 城市恶魔" /&gt;&lt;h1 id=&#34;city-devil-restart-v040-public-sabirow&#34;&gt;City Devil: Restart [v0.4.0 Public] [Sabirow]
@@ -16640,7 +16943,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
         <item>
         <title>Heliorise 曦升之城</title>
         <link>https://luoqian29.github.io/p/heliorise/</link>
-        <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 16 Nov 2025 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/heliorise/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzIxMjM1MTQ3LnBuZw==/original/%2Buea33.png" alt="Featured image of post Heliorise 曦升之城" /&gt;&lt;h1 id=&#34;heliorise-v021-jbreverse&#34;&gt;Heliorise [v0.2.1] [JBReverse]
@@ -16929,7 +17232,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
         <item>
         <title>Mayfly 蜉蝣</title>
         <link>https://luoqian29.github.io/p/mayfly/</link>
-        <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 27 Oct 2025 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/mayfly/</guid>
         <description>&lt;img src="https://img.itch.zone/aW1nLzIzODI0NDYyLnBuZw==/original/51jKBT.png" alt="Featured image of post Mayfly 蜉蝣" /&gt;&lt;h1 id=&#34;mayfly-v02-reset-jasonton&#34;&gt;Mayfly [v0.2 Reset] [JasonTon]
