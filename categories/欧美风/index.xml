@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Mon, 15 Jun 2026 18:45:03 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E6%AC%A7%E7%BE%8E%E9%A3%8E/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 15 Jun 2026 21:45:02 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E6%AC%A7%E7%BE%8E%E9%A3%8E/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Heaven&#39;s Door 天堂之门</title>
         <link>https://luoqian29.github.io/p/heavensdoor/</link>
         <pubDate>Sat, 06 Jun 2026 00:00:00 +0800</pubDate>
@@ -159,13 +159,13 @@
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;通用焚诀UImod：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/3gVpbVuc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;有学友反馈，右下角的焚诀显示不出来了&lt;/li&gt;
-&lt;li&gt;原因是因为mod打在本体的问题&lt;/li&gt;
-&lt;li&gt;其实也挺好修复&lt;/li&gt;
-&lt;li&gt;先打补丁，然后开游戏，右下角就有焚诀了，然后再把mod打到本体上，这样就解决了。&lt;/li&gt;
-&lt;li&gt;如果嫌麻烦的话，直接打一个上面优化好的UI mod&lt;/li&gt;
+&lt;li&gt;有水友反馈，右下角的焚诀显示不出来了&lt;/li&gt;
+&lt;li&gt;罪魁祸首是选项mod打在游戏本体的问题&lt;/li&gt;
+&lt;li&gt;其实也挺好修复的，先打补丁，再开游戏，右下角就有焚诀了，再把mod打到本体上，这样就解决了。&lt;/li&gt;
+&lt;li&gt;如果嫌麻烦的话，可以直接打一个上面优化好的UI mod&lt;/li&gt;
 &lt;li&gt;其实没有焚诀也无伤大雅，就是有的补丁会有双语，就一直显示双语，没有那个按钮可以关掉，这样就挺反人类的。&lt;/li&gt;
-&lt;li&gt;所以有需要的话，可以优化一下。落谦就偷个小懒，就不去重新打包上传了，等下次或者出现什么bug之后，会顺带优化的&lt;/li&gt;
+&lt;li&gt;所以有需要的话，可以优化一下。&lt;/li&gt;
+&lt;li&gt;落谦这里偷个小懒，就不去重新打包上传了，等下次或者出现什么bug之后，会顺带优化的&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;ol&gt;
@@ -217,13 +217,13 @@
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;通用焚诀UImod：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/3gVpbVuc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;有学友反馈，右下角的焚诀显示不出来了&lt;/li&gt;
-&lt;li&gt;原因是因为mod打在本体的问题&lt;/li&gt;
-&lt;li&gt;其实也挺好修复&lt;/li&gt;
-&lt;li&gt;先打补丁，然后开游戏，右下角就有焚诀了，然后再把mod打到本体上，这样就解决了。&lt;/li&gt;
-&lt;li&gt;如果嫌麻烦的话，直接打一个上面优化好的UI mod&lt;/li&gt;
+&lt;li&gt;有水友反馈，右下角的焚诀显示不出来了&lt;/li&gt;
+&lt;li&gt;罪魁祸首是选项mod打在游戏本体的问题&lt;/li&gt;
+&lt;li&gt;其实也挺好修复的，先打补丁，再开游戏，右下角就有焚诀了，再把mod打到本体上，这样就解决了。&lt;/li&gt;
+&lt;li&gt;如果嫌麻烦的话，可以直接打一个上面优化好的UI mod&lt;/li&gt;
 &lt;li&gt;其实没有焚诀也无伤大雅，就是有的补丁会有双语，就一直显示双语，没有那个按钮可以关掉，这样就挺反人类的。&lt;/li&gt;
-&lt;li&gt;所以有需要的话，可以优化一下。落谦就偷个小懒，就不去重新打包上传了，等下次或者出现什么bug之后，会顺带优化的&lt;/li&gt;
+&lt;li&gt;所以有需要的话，可以优化一下。&lt;/li&gt;
+&lt;li&gt;落谦这里偷个小懒，就不去重新打包上传了，等下次或者出现什么bug之后，会顺带优化的&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;ol&gt;
@@ -298,13 +298,13 @@
     &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;通用焚诀UImod：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/3gVpbVuc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;有学友反馈，右下角的焚诀显示不出来了&lt;/li&gt;
-&lt;li&gt;原因是因为mod打在本体的问题&lt;/li&gt;
-&lt;li&gt;其实也挺好修复&lt;/li&gt;
-&lt;li&gt;先打补丁，然后开游戏，右下角就有焚诀了，然后再把mod打到本体上，这样就解决了。&lt;/li&gt;
-&lt;li&gt;如果嫌麻烦的话，直接打一个上面优化好的UI mod&lt;/li&gt;
+&lt;li&gt;有水友反馈，右下角的焚诀显示不出来了&lt;/li&gt;
+&lt;li&gt;罪魁祸首是选项mod打在游戏本体的问题&lt;/li&gt;
+&lt;li&gt;其实也挺好修复的，先打补丁，再开游戏，右下角就有焚诀了，再把mod打到本体上，这样就解决了。&lt;/li&gt;
+&lt;li&gt;如果嫌麻烦的话，可以直接打一个上面优化好的UI mod&lt;/li&gt;
 &lt;li&gt;其实没有焚诀也无伤大雅，就是有的补丁会有双语，就一直显示双语，没有那个按钮可以关掉，这样就挺反人类的。&lt;/li&gt;
-&lt;li&gt;所以有需要的话，可以优化一下。落谦就偷个小懒，就不去重新打包上传了，等下次或者出现什么bug之后，会顺带优化的&lt;/li&gt;
+&lt;li&gt;所以有需要的话，可以优化一下。&lt;/li&gt;
+&lt;li&gt;落谦这里偷个小懒，就不去重新打包上传了，等下次或者出现什么bug之后，会顺带优化的&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;ol&gt;
