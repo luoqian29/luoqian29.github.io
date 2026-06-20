@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Sat, 20 Jun 2026 09:51:15 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/%E6%AC%A7%E7%BE%8E%E9%A3%8E/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 20 Jun 2026 14:35:05 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/%E6%AC%A7%E7%BE%8E%E9%A3%8E/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Leap of Faith 信仰之跃</title>
         <link>https://luoqian29.github.io/p/leapoffaith/</link>
         <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
@@ -68,11 +68,11 @@
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;PS&lt;/summary&gt;
 &lt;ul&gt;
-&lt;li&gt;还行，这游戏也是能玩的，其实这游戏是有关中的，但是基本上但官中不支持DLC，打了DLC会报错，所以的话我就跑了一个，&lt;/li&gt;
+&lt;li&gt;还行，这游戏也是能玩的，其实这游戏是有关中的，但是Steam上官中不支持DLC，打了DLC会报错，所以我就跑了一个AI&lt;/li&gt;
 &lt;li&gt;而且这游戏是自带攻略的，就在DLC那边可以开关。&lt;/li&gt;
-&lt;li&gt;还有就是这个游戏跟U4iaI也是一样，每一章结束会有结束语。但是结束语是通过RPy引擎自己去计算的。&lt;/li&gt;
-&lt;li&gt;尽管我已经把所有文本提取出来了，但TL没有这个计算的机制。所以的话，我又没有时间玩。等有空再修复吧。&lt;/li&gt;
-&lt;li&gt;应该就一两句话是显示英文的，还有一些变量文本啊，也是显示英文。总之就这样子吧，有空就修复。&lt;/li&gt;
+&lt;li&gt;还有这个游戏跟U4iaI一样，每一章结束会有结束语。但是结束语是通过引擎去计算的。&lt;/li&gt;
+&lt;li&gt;尽管已经把所有文本提取出来了，但TL没有这个计算的机制。所以应该有几句文本是显示不了汉化的，得自己手动拼接计算然后贴上去。&lt;/li&gt;
+&lt;li&gt;但是我又没有时间玩。等有空再修复吧，还有一些变量文本啊，也是显示英文。总之就这样子吧，有空就修复。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
