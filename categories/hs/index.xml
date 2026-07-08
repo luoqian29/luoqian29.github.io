@@ -9,7 +9,7 @@
         <copyright>一落归谦</copyright><atom:link href="https://luoqian29.github.io/categories/hs/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>The Nature of Magic 魔法的本质</title>
         <link>https://luoqian29.github.io/p/thenatureofmagic/</link>
-        <pubDate>Wed, 08 Jul 2026 00:00:00 +0800</pubDate>
+        <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/thenatureofmagic/</guid>
         <description>&lt;img src="https://pbs.twimg.com/media/HMt0bx9b0AAvEHm?format=jpg&amp;name=large" alt="Featured image of post The Nature of Magic 魔法的本质" /&gt;&lt;h1 id=&#34;the-nature-of-magic-part-4-slate-interactive&#34;&gt;The Nature of Magic [Part 4] [Slate Interactive]
@@ -101,6 +101,11 @@ Will you discover The Nature of Magic?&lt;/li&gt;
 					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;汉化补丁&lt;/strong&gt;：集成选项mod、作弊mod&lt;/td&gt;
 					&lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
 			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.07.09 05:00&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Part 4&lt;/strong&gt;：角色bio汉化修复mod&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+			&lt;/tr&gt;
 	&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/details&gt;
@@ -166,15 +171,44 @@ Will you discover The Nature of Magic?&lt;/li&gt;
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;PS&lt;/summary&gt;
 &lt;ul&gt;
-&lt;li&gt;晚点上传一个修复mod啊，就是修复角色日志那里不显示汉化的bug啊。&lt;/li&gt;
-&lt;li&gt;因为文本量有点多，要一个一个复制，一个一个查。还在弄啊，看晚点有没有空。&lt;/li&gt;
-&lt;li&gt;还有就是会出一个AI简润版本啊，就是修复一些出现幻觉句子，以及一些专有名词特定的句子啊。&lt;/li&gt;
-&lt;li&gt;因为这游戏专有名词还是比较多的，尽管我已经全部统一修正了，但还是有些是不符合词义的。&lt;/li&gt;
-&lt;li&gt;到时候会出一个，看这两天有没有空吧&lt;/li&gt;
+&lt;li&gt;修复mod已更新。&lt;/li&gt;
+&lt;li&gt;至于我们的AI简润补丁可能要推迟了。&lt;/li&gt;
+&lt;li&gt;短则两三天，长则一个星期啊。&lt;/li&gt;
+&lt;li&gt;因为润色需要花费很多时间，但现在唯一的问题就是时间，我没有时间&lt;/li&gt;
+&lt;li&gt;而且我还得再跑两次AI，一共是三次啊。为什么还要跑呢？&lt;/li&gt;
+&lt;li&gt;之前也说过，AI是会出现幻觉的。那我跑三次，总有一次是不会出现幻觉的。&lt;/li&gt;
+&lt;li&gt;那我只要把不会出现幻觉的句子东拼西凑，就能拼凑出一些金句&lt;/li&gt;
+&lt;li&gt;但如果三次都出现幻觉怎么办？只能再花两三倍的token让Codex修复这些出现幻觉的句子&lt;/li&gt;
+&lt;li&gt;因为没有时间，只能用金钱来解决了&lt;/li&gt;
+&lt;li&gt;这也就是说我为什么每次只上AI意译版本，然后再使用一些脚本，统一一下专有名词，还有一些人名，再提取一些文本，而没有精润或者是简润&lt;/li&gt;
+&lt;li&gt;因为是真没有时间啊，做补丁其实很快的，一两个小时就能做一两个。&lt;/li&gt;
+&lt;li&gt;如果是文本量比较少的，代码没有那么奇怪的，没有那么反人类的。&lt;/li&gt;
+&lt;li&gt;如果反人类的话，可能要两个小时一个补丁&lt;/li&gt;
+&lt;li&gt;跑AI的话更简单了，挂在后台跑就行了。&lt;/li&gt;
+&lt;li&gt;然后再烧点token让Codex盯着&lt;/li&gt;
+&lt;li&gt;但是Codex又不是万能的，而且每一次提示词都需要烧token，这都是钱包在出血。&lt;/li&gt;
+&lt;li&gt;而且简润的话需要通过人工来，那么这个时间可能会耗上一个星期或者是半个月那样子，具体还是看这个文本量，&lt;/li&gt;
+&lt;li&gt;至于精润的话，可能要在这个原先的基础上，费用精力时间乘以七&lt;/li&gt;
+&lt;li&gt;所以我觉得这些都是非常多此一举的，因为这些视觉小说，既不是名著，又不是神作。花这么大精力、花这么多钱去做这个，我觉得非常不必要&lt;/li&gt;
+&lt;li&gt;而且大部分都是抄日漫、国漫、韩漫、美漫的，而且还是半成品，随时可以跑路。那我为什么不直接去看日漫、国漫、韩漫、美漫呢？&lt;/li&gt;
+&lt;li&gt;所以，花百来块钱，再加上半个多月的时间。去做一个补丁，我是接受不了的，是付出跟收入是不成正比的。&lt;/li&gt;
+&lt;li&gt;我只能接受我花十几块钱，跑两三个AI，然后我简单打个画廊mod看一下画廊剧情就下机了。&lt;/li&gt;
+&lt;li&gt;况且平心而论，大家玩这种难登大雅的下九流，大多数都是奔着CG来的，谁又是正人君子呢？对吧？&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;h3 id=&#34;winpc端&#34;&gt;Win（PC端）
-&lt;/h3&gt;&lt;ol&gt;
+&lt;/h3&gt;&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;角色bio汉化修复mod&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;角色bio汉化修复mod：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/5w5uHj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;角色bio汉化修复mod：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/uPdSMGKj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;我这里是使用replace代码来解决这些不显示汉化的句子啊，因为作者太反人类了，换用了很多换位符啊。&lt;/li&gt;
+&lt;li&gt;但TL的机制又没有这种功能，哎，烦死了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;ol&gt;
 &lt;li&gt;下载链接：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
@@ -209,7 +243,18 @@ Will you discover The Nature of Magic?&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;android安卓端&#34;&gt;Android（安卓端）
-&lt;/h3&gt;&lt;ol&gt;
+&lt;/h3&gt;&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;角色bio汉化修复mod&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;角色bio汉化修复mod：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/5w5uHj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;角色bio汉化修复mod：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/uPdSMGKj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;我这里是使用replace代码来解决这些不显示汉化的句子啊，因为作者太反人类了，换用了很多换位符啊。&lt;/li&gt;
+&lt;li&gt;但TL的机制又没有这种功能，哎，烦死了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;ol&gt;
 &lt;li&gt;下载链接：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
@@ -261,7 +306,18 @@ Will you discover The Nature of Magic?&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;ios苹果端&#34;&gt;iOS（苹果端）
-&lt;/h3&gt;&lt;ol&gt;
+&lt;/h3&gt;&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;角色bio汉化修复mod&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;角色bio汉化修复mod：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/5w5uHj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;角色bio汉化修复mod：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/uPdSMGKj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;我这里是使用replace代码来解决这些不显示汉化的句子啊，因为作者太反人类了，换用了很多换位符啊。&lt;/li&gt;
+&lt;li&gt;但TL的机制又没有这种功能，哎，烦死了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;ol&gt;
 &lt;li&gt;环境配置：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
