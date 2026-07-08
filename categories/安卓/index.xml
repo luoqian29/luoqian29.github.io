@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Wed, 08 Jul 2026 01:32:40 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 08 Jul 2026 15:18:27 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Survivor Strain 幸存者</title>
         <link>https://luoqian29.github.io/p/survivorstrain/</link>
         <pubDate>Wed, 08 Jul 2026 00:00:00 +0800</pubDate>
@@ -28,7 +28,7 @@
 &lt;/h1&gt;&lt;details&gt;
 &lt;summary&gt;剧情概要&lt;/summary&gt;
 &lt;ul&gt;
-&lt;li&gt;在这款以剧情为核心的成人向视觉小说中，您将在末日世界中挣扎求生，建立并守护属于你的幸存者阵营，直面恐怖的感染者、体验浪漫的邂逅，与其他派系交锋，竭尽所能保护你的同伴，在这片废土之上谱写属于你的传奇。&lt;/li&gt;
+&lt;li&gt;在这款以剧情为核心的成人向视觉小说中，您将在末日世界中挣扎求生，建立并守护属于你的幸存者阵营，直面恐怖的感染者、体验浪漫的邂逅，与其他派系交锋，竭尽所能保护你的同伴，在这片废土之上谱写属于你的传奇&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr&gt;
@@ -85,6 +85,11 @@
 			&lt;tr&gt;
 					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.07.08 01:00&lt;/strong&gt;&lt;/td&gt;
 					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;S1 v0.9.9.8&lt;/strong&gt;：官中原版&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2026.07.08 15:00&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;S1 v0.9.9.8&lt;/strong&gt;：官中修复mod&lt;/td&gt;
 					&lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
 			&lt;/tr&gt;
 	&lt;/tbody&gt;
@@ -160,7 +165,26 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;download官中&#34;&gt;DOWNLOAD（官中）
 &lt;/h2&gt;&lt;h3 id=&#34;winpc端&#34;&gt;Win（PC端）
-&lt;/h3&gt;&lt;ol&gt;
+&lt;/h3&gt;&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;官中修复mod&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;官中修复mod：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/21R0z1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;官中修复mod：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/u5kp56dR&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;这里提供一个官中修复mod啊，有需要的打在Game文件夹里就即可&lt;/li&gt;
+&lt;li&gt;有水友反馈啊，这中补丁打完之后不显示汉化，我的问题啊。&lt;/li&gt;
+&lt;li&gt;我上次用AI跑完之后自己玩了一遍，然后我找一位水友拿了官中，但官中的版本是对应不上的，你们也看到游戏名字叫Somewhere I Belong，但Steam上的名字叫幸存者，所以对应不上。&lt;/li&gt;
+&lt;li&gt;然后我那里又有存档，我没有删存档去测试这个官中，所以就直接显示汉化了。&lt;/li&gt;
+&lt;li&gt;但是有些水友没有玩过，他是不会显示汉化的。&lt;/li&gt;
+&lt;li&gt;那这里的话，我就重新去抽取了官中的文本，然后做了一个修复mod。&lt;/li&gt;
+&lt;li&gt;好像有一共有3000多句吧，3000多句是不显示汉化的，我就修复了2700多句，直接抽取，然后300多句是原官中里没有的。&lt;/li&gt;
+&lt;li&gt;不要问为什么没有啊，没有的原因就是因为版本对不上，刚刚说了。那对不上怎么办呢？&lt;/li&gt;
+&lt;li&gt;我就拿我之前的AI啊，因为剩下都是一些短句啊，我拿AI抽取了一遍。总之就这样子了啊。&lt;/li&gt;
+&lt;li&gt;等下次游戏更新了就会内置官中汉化了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;ol&gt;
 &lt;li&gt;下载链接：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
@@ -195,7 +219,26 @@
 &lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;android安卓端&#34;&gt;Android（安卓端）
-&lt;/h3&gt;&lt;ol&gt;
+&lt;/h3&gt;&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;官中修复mod&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;官中修复mod：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/21R0z1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;官中修复mod：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/u5kp56dR&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;这里提供一个官中修复mod啊，有需要的打在Game文件夹里就即可&lt;/li&gt;
+&lt;li&gt;有水友反馈啊，这中补丁打完之后不显示汉化，我的问题啊。&lt;/li&gt;
+&lt;li&gt;我上次用AI跑完之后自己玩了一遍，然后我找一位水友拿了官中，但官中的版本是对应不上的，你们也看到游戏名字叫Somewhere I Belong，但Steam上的名字叫幸存者，所以对应不上。&lt;/li&gt;
+&lt;li&gt;然后我那里又有存档，我没有删存档去测试这个官中，所以就直接显示汉化了。&lt;/li&gt;
+&lt;li&gt;但是有些水友没有玩过，他是不会显示汉化的。&lt;/li&gt;
+&lt;li&gt;那这里的话，我就重新去抽取了官中的文本，然后做了一个修复mod。&lt;/li&gt;
+&lt;li&gt;好像有一共有3000多句吧，3000多句是不显示汉化的，我就修复了2700多句，直接抽取，然后300多句是原官中里没有的。&lt;/li&gt;
+&lt;li&gt;不要问为什么没有啊，没有的原因就是因为版本对不上，刚刚说了。那对不上怎么办呢？&lt;/li&gt;
+&lt;li&gt;我就拿我之前的AI啊，因为剩下都是一些短句啊，我拿AI抽取了一遍。总之就这样子了啊。&lt;/li&gt;
+&lt;li&gt;等下次游戏更新了就会内置官中汉化了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;ol&gt;
 &lt;li&gt;下载链接：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
@@ -247,7 +290,26 @@
 &lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;ios苹果端&#34;&gt;iOS（苹果端）
-&lt;/h3&gt;&lt;ol&gt;
+&lt;/h3&gt;&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;官中修复mod&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;官中修复mod：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/21R0z1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;官中修复mod：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/u5kp56dR&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;这里提供一个官中修复mod啊，有需要的打在Game文件夹里就即可&lt;/li&gt;
+&lt;li&gt;有水友反馈啊，这中补丁打完之后不显示汉化，我的问题啊。&lt;/li&gt;
+&lt;li&gt;我上次用AI跑完之后自己玩了一遍，然后我找一位水友拿了官中，但官中的版本是对应不上的，你们也看到游戏名字叫Somewhere I Belong，但Steam上的名字叫幸存者，所以对应不上。&lt;/li&gt;
+&lt;li&gt;然后我那里又有存档，我没有删存档去测试这个官中，所以就直接显示汉化了。&lt;/li&gt;
+&lt;li&gt;但是有些水友没有玩过，他是不会显示汉化的。&lt;/li&gt;
+&lt;li&gt;那这里的话，我就重新去抽取了官中的文本，然后做了一个修复mod。&lt;/li&gt;
+&lt;li&gt;好像有一共有3000多句吧，3000多句是不显示汉化的，我就修复了2700多句，直接抽取，然后300多句是原官中里没有的。&lt;/li&gt;
+&lt;li&gt;不要问为什么没有啊，没有的原因就是因为版本对不上，刚刚说了。那对不上怎么办呢？&lt;/li&gt;
+&lt;li&gt;我就拿我之前的AI啊，因为剩下都是一些短句啊，我拿AI抽取了一遍。总之就这样子了啊。&lt;/li&gt;
+&lt;li&gt;等下次游戏更新了就会内置官中汉化了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;ol&gt;
 &lt;li&gt;环境配置：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
