@@ -7,13 +7,13 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Thu, 09 Jul 2026 06:52:30 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>2026年博文更新计划</title>
+        <lastBuildDate>Tue, 14 Jul 2026 08:18:59 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>2026年七月中旬至十月初的博文更新计划</title>
         <link>https://luoqian29.github.io/p/update/</link>
         <pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/update/</guid>
-        <description>&lt;img src="https://pbs.twimg.com/media/HMHZIy8b0AADdpo?format=jpg&amp;name=large" alt="Featured image of post 2026年博文更新计划" /&gt;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHZPKqaUAAoXvv?format=jpg&amp;amp;name=large&#34;
+        <description>&lt;img src="https://pbs.twimg.com/media/HNJbuBhbsAA0iq-?format=jpg&amp;name=4096x4096" alt="Featured image of post 2026年七月中旬至十月初的博文更新计划" /&gt;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HNJbt_3aEAAT55S?format=jpg&amp;amp;name=large&#34;
 	
 	
 	
@@ -24,35 +24,63 @@
 	
 &gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;更新计划&#34;&gt;更新计划
-&lt;/h2&gt;&lt;h3 id=&#34;进度&#34;&gt;进度
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;目前进度我也不清楚，但大概有七七八八了吧。&lt;/li&gt;
-&lt;li&gt;AI已经跑了不少，应该还有几十个补丁要做，大部分都是水友推荐的。&lt;/li&gt;
-&lt;li&gt;现在因为小破站被抬走了，就暂时不做视频了。&lt;/li&gt;
-&lt;li&gt;做一个视频其实制作两个补丁，所以还是把精力放在补丁上吧。&lt;/li&gt;
-&lt;li&gt;至于要先做哪几个游戏的补丁，其实我也忘了，哈哈。&lt;/li&gt;
-&lt;li&gt;那么有需要优先做的，可以通过telegram联系我，或者在博客底下GitHub评论区留言。&lt;/li&gt;
-&lt;li&gt;之前有几位水友推荐了一些“硬茬子”游戏，文本量特别大，比如有的游戏就烧了四五十大洋的token。&lt;/li&gt;
-&lt;li&gt;这几天我会先做这几个，做完再处理其他水友推荐的补丁。&lt;/li&gt;
-&lt;li&gt;遗憾的是，B站每次更新都会被抬走，所以我不打算开新号了。好像又被抬走封了一年，整整关了小黑屋一年。&lt;/li&gt;
+&lt;h2 id=&#34;关于进度&#34;&gt;关于进度
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;闲话少叙，简单说一下最近以及接下来的更新安排吧。&lt;/li&gt;
+&lt;li&gt;现在是7月中旬嘛，距离10月初，也就是大陆的国庆，还有两个半月，哈哈，这里真没玩梗啊，刚刚好两个半月。&lt;/li&gt;
+&lt;li&gt;那么按照之前的计划，就是这段时间内我会把剩下的AI意译补丁全部做完，应该有四五十个吧。&lt;/li&gt;
+&lt;li&gt;具体可以看这篇博文——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/p/other/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;且玩且珍惜&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;杂谈&#34;&gt;杂谈
-&lt;/h2&gt;&lt;h3 id=&#34;关于汉化补丁&#34;&gt;关于汉化补丁
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;目前博客上更新的都是AI意译补丁。&lt;/li&gt;
-&lt;li&gt;至于在AI版本基础上的人工简润，落谦暂时没时间，所以先放一放吧。&lt;/li&gt;
-&lt;li&gt;我的计划是先把之前跑好的AI制作成补丁，这样大家就能有一个可玩的版本，不至于去啃生肉之类的。&lt;/li&gt;
-&lt;li&gt;总之就这样吧，等所有补丁都做完，再去做简润。&lt;/li&gt;
+&lt;h2 id=&#34;关于汉化补丁&#34;&gt;关于汉化补丁
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;然后就是之前答应一些水友制作的补丁，因为时间隔得有点久，现在我自己也差不多快忘记了。&lt;/li&gt;
+&lt;li&gt;如果你的游戏补丁还没有制作，或者你有想做的游戏补丁，都可以再提醒一，可以在TG群或者是GitHub评论区留言&lt;/li&gt;
+&lt;li&gt;因为我制作补丁并不是严格按照列表顺序来的，基本就是想到哪个游戏、看到哪个游戏适合，就做哪个。&lt;/li&gt;
+&lt;li&gt;所以如果没有提醒，而我刚好又遗漏了，那这个补丁可能真的就会被遗忘。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;关于订阅制&#34;&gt;关于订阅制
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;目前是道友境订阅制，每个月10块大洋。&lt;/li&gt;
-&lt;li&gt;之前测试过公测，也就是小友境，每月5块大洋。&lt;/li&gt;
-&lt;li&gt;小友境是3天后公开，道友境是7天后公开。&lt;/li&gt;
-&lt;li&gt;我觉得还是比较人性化的，毕竟跑AI需要费用，制作补丁也需要精力，还要修复bug、移植安卓，以及在补丁里集成一些mod，比如选项mod、画廊mod、作弊 mod等等。&lt;/li&gt;
-&lt;li&gt;总之就这样吧，也不会再提档之类的，看各位水友的需求就好。有能力的可以支持一下落谦，没能力的就捧个人场也行。毕竟补丁也会公开的，而且我也不是为爱发电。这只是大家对我劳动成果的一种认可，仅此而已。&lt;/li&gt;
+&lt;h2 id=&#34;关于订阅制&#34;&gt;关于订阅制
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;然后说一下之前的订阅制。&lt;/li&gt;
+&lt;li&gt;之前部分AI意译补丁会采用订阅制，也就是发布后7天左右再公开。&lt;/li&gt;
+&lt;li&gt;不过接下来这段时间的大部分补丁，就不再添加订阅限制了。&lt;/li&gt;
+&lt;li&gt;当然，具体还是要看游戏情况。如果有些游戏比较麻烦，文本量比较大，制作耗时比较久，那可能还是会考虑加入订阅制。&lt;/li&gt;
+&lt;li&gt;毕竟制作汉化补丁也是需要投入时间和精力的，如果能获得一点支持，也算是一种鼓励嘛。&lt;/li&gt;
+&lt;li&gt;主要原因还是订阅制本身会额外增加不少流程。&lt;/li&gt;
+&lt;li&gt;每次发布补丁，除了写文章、push到GitHub，还需要去爱发电和爱赞助分别开帖子，然后再把链接贴到博文里，一个星期后还得修改博文公开补丁，这些流程来来回回确实会占用不少时间。&lt;/li&gt;
+&lt;li&gt;所以后续大部分比较简单的游戏补丁，应该都会直接公开发布。&lt;/li&gt;
+&lt;li&gt;当然，如果有条件的水友，也可以投喂支持一下，当然，也可以捧个人场，哈哈。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;关于汉化教程&#34;&gt;关于汉化教程
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;那么在接下来的两个半月内，除了继续制作汉化补丁之外，也会整理之前答应大家的汉化教程。&lt;/li&gt;
+&lt;li&gt;首先会推出一个Unity引擎的汉化教程。&lt;/li&gt;
+&lt;li&gt;这个教程相对来说会比较简单，不需要大家拥有编程基础。&lt;/li&gt;
+&lt;li&gt;基本流程就是安装工具、配置环境、调用API，然后实现游戏内实时翻译。&lt;/li&gt;
+&lt;li&gt;整个过程会尽量做到简单易懂，即使完全不会代码，也可以跟着教程完成。&lt;/li&gt;
+&lt;li&gt;其实这个 Unity 汉化教程，我原本计划在5月底就开始写图文教程并发布博文。&lt;/li&gt;
+&lt;li&gt;但是最近补丁数量确实比较多，一直没有抽出时间。&lt;/li&gt;
+&lt;li&gt;如果顺利的话，希望可以在7月底左右推出。&lt;/li&gt;
+&lt;li&gt;至于 Ren&amp;rsquo;Py 引擎的汉化教程，可能会稍微复杂一些。&lt;/li&gt;
+&lt;li&gt;因为需要一定的代码基础，而且不同作者的代码习惯差异非常大，有些作者的代码写法确实比较“反人类”。&lt;/li&gt;
+&lt;li&gt;所以这个教程可能会放到后面，预计10月初之后再慢慢整理。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;关于十月之后&#34;&gt;关于十月之后
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;关于10月之后的博客更新计划，其实整体会轻松不少。&lt;/li&gt;
+&lt;li&gt;后续还是会制作一些简润补丁，比如我自己经常玩的游戏。&lt;/li&gt;
+&lt;li&gt;但是其他大部分游戏，可能不会再投入大量时间去制作精润或者简润补丁。&lt;/li&gt;
+&lt;li&gt;主要原因还是产出比例的问题，一个简润补丁投入的时间，可能已经可以制作好几个AI意译补丁了。&lt;/li&gt;
+&lt;li&gt;所以与其花大量时间制作少量高质量补丁，不如把汉化教程整理出来，让大家自己掌握汉化方法。&lt;/li&gt;
+&lt;li&gt;毕竟现在AI汉化成本已经越来越低。&lt;/li&gt;
+&lt;li&gt;如果追求更高质量，可以选择更强的模型；&lt;/li&gt;
+&lt;li&gt;如果只是普通游玩需求，也可以选择一些性价比较高的模型。&lt;/li&gt;
+&lt;li&gt;所以后续大家可以根据自己的需求，自行选择适合自己的汉化方式。&lt;/li&gt;
+&lt;li&gt;授人以鱼不如授人以渔。&lt;/li&gt;
+&lt;li&gt;总之，接下来这两个半月，主要目标就是把剩余补丁完成，同时更新汉化教程。&lt;/li&gt;
+&lt;li&gt;至于10月之后，博客更新频率可能会有所降低，不会再保持现在这种高频更新状态。&lt;/li&gt;
+&lt;li&gt;感谢大家一直以来的支持和陪伴。&lt;/li&gt;
+&lt;li&gt;还是那句话：且玩且珍惜。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;联系方式&#34;&gt;联系方式
 &lt;/h3&gt;&lt;ul&gt;
