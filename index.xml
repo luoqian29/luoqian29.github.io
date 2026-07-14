@@ -111,7 +111,8 @@
         <pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/other/</guid>
-        <description>&lt;img src="https://pbs.twimg.com/media/HMvYNbGaMAADuqC?format=jpg&amp;name=4096x4096" alt="Featured image of post 且玩且珍惜" /&gt;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMvYNa8bwAANkTw?format=jpg&amp;amp;name=large&#34;
+        <description>&lt;img src="https://pbs.twimg.com/media/HMvYNbGaMAADuqC?format=jpg&amp;name=4096x4096" alt="Featured image of post 且玩且珍惜" /&gt;&lt;h2 id=&#34;且玩且珍惜&#34;&gt;且玩且珍惜
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMvYNa8bwAANkTw?format=jpg&amp;amp;name=large&#34;
 	
 	
 	
@@ -122,16 +123,15 @@
 	
 &gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;且玩且珍惜&#34;&gt;且玩且珍惜
-&lt;/h2&gt;&lt;h3 id=&#34;关于后续补丁更新的一些说明&#34;&gt;关于后续补丁更新的一些说明
-&lt;/h3&gt;&lt;ul&gt;
+&lt;h2 id=&#34;关于后续补丁更新的一些说明&#34;&gt;关于后续补丁更新的一些说明
+&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;先说结论吧：&lt;strong&gt;且玩且珍惜。&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;按照目前的情况来看，可能到了今年 &lt;strong&gt;10月1日国庆节之后&lt;/strong&gt;，博客的更新频率会明显降低，会进入一个&lt;strong&gt;半停更状态&lt;/strong&gt;。&lt;/li&gt;
 &lt;li&gt;为什么会这样？&lt;/li&gt;
 &lt;li&gt;主要还是因为时间和精力的问题。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;博客一周年与剩余更新计划&#34;&gt;博客一周年与剩余更新计划
-&lt;/h3&gt;&lt;ul&gt;
+&lt;h2 id=&#34;博客一周年与剩余更新计划&#34;&gt;博客一周年与剩余更新计划
+&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;现在是7月中旬，距离博客一周年，也就是大陆的国庆节，其实已经不远了。&lt;/li&gt;
 &lt;li&gt;回头看，从今年2、3月份开始，到现在7月份，差不多过去了5个月左右。&lt;/li&gt;
 &lt;li&gt;这期间已经累计制作了大量补丁，数量应该超过七八十个。&lt;/li&gt;
@@ -147,16 +147,16 @@
 &lt;li&gt;所以呢，接下来这段时间，我会尽量把剩下的一些补丁完成吧。&lt;/li&gt;
 &lt;li&gt;如果顺利的话，可能在10月初左右，就能够顺利撒花完结了，然后进入半停更状态&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;为什么要进入半停更的状态&#34;&gt;为什么要进入半停更的状态？
-&lt;/h3&gt;&lt;ul&gt;
+&lt;h2 id=&#34;为什么要进入半停更的状态&#34;&gt;为什么要进入半停更的状态？
+&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;那为什么要进入半停更的状态呢？继续更新不行吗？&lt;/li&gt;
 &lt;li&gt;因为基本到那时候该做的游戏补丁都做了，剩下的只能干嘛呢？&lt;/li&gt;
 &lt;li&gt;只能把之前做的补丁拿出来简润或者精润一下。&lt;/li&gt;
 &lt;li&gt;不是不想做好，而是付出和收入不成正比。也不能说不成正比吧，从始至终都是在付出啊，收入是寥寥无几。&lt;/li&gt;
 &lt;li&gt;而且简单做AI补丁跟做简润或者是精润，完全是两个概念来着&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;简润和精润需要投入多少&#34;&gt;简润和精润需要投入多少？
-&lt;/h3&gt;&lt;ul&gt;
+&lt;h2 id=&#34;简润和精润需要投入多少&#34;&gt;简润和精润需要投入多少？
+&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;那为什么会进入半停更状态呢？&lt;/li&gt;
 &lt;li&gt;难道就不能继续更新了？&lt;/li&gt;
 &lt;li&gt;其实原因很简单，因为到那个时候基本能做的补丁都做了。&lt;/li&gt;
@@ -187,8 +187,8 @@
 &lt;li&gt;哪怕我用Codex、我用Claude Code、我用反重力、我多烧点token，但这些agent也会出现幻觉，到最后还得人工去修正， token没了、精力没了、时间也没了。&lt;/li&gt;
 &lt;li&gt;这也就是为什么我宁愿多跑几个AI补丁，也不愿意去做这些简润、精润，这也是为什么之后会逐渐进入半停更状态的主要原因&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;关于我的汉化标准&#34;&gt;关于我的汉化标准
-&lt;/h3&gt;&lt;ul&gt;
+&lt;h2 id=&#34;关于我的汉化标准&#34;&gt;关于我的汉化标准
+&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;这也和我的汉化要求有关。&lt;/li&gt;
 &lt;li&gt;其实我玩这些视觉小说，对要求汉化并没有那么高，我是觉得基本能看懂就行了&lt;/li&gt;
 &lt;li&gt;而且平心而论，大家玩这些难登大雅的下九流，不就是为了CG而来的吗？只要CG剧情看得懂，那不久ok了 ？&lt;/li&gt;
@@ -196,8 +196,8 @@
 &lt;li&gt;每个人对汉化质量要求不同，有人希望能达到官中水准，也有人像我一样，能够正常理解剧情即可。&lt;/li&gt;
 &lt;li&gt;这些不同的要求我也能够理解&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;关于最近的一些争议&#34;&gt;关于最近的一些争议
-&lt;/h3&gt;&lt;ul&gt;
+&lt;h2 id=&#34;关于最近的一些争议&#34;&gt;关于最近的一些争议
+&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;关于一些争议，最近我也看到有关于我的评论。&lt;/li&gt;
 &lt;li&gt;当然我自己是没有加那些群的，是一些水友告诉我的，就是一直在吐槽我汉化质量不好。&lt;/li&gt;
 &lt;li&gt;这些问题我也心知肚明，AI是会出现幻觉的，不可能说啊100%非常的完美&lt;/li&gt;
@@ -209,8 +209,8 @@
 &lt;li&gt;我做个AI补丁都有这么多闲言杂语，那如果去做简润、做精润，投入那么大，那回报肯定…&lt;/li&gt;
 &lt;li&gt;所以我觉得没必要，多此一举而已&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;关于圈米&#34;&gt;关于“圈米”
-&lt;/h3&gt;&lt;ul&gt;
+&lt;h2 id=&#34;关于圈米&#34;&gt;关于“圈米”
+&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;还有关于圈米的，这个是最难绷的。&lt;/li&gt;
 &lt;li&gt;我开爱发电、开爱赞助，一共两年了，收到的打赏和投喂只有两三千。&lt;/li&gt;
 &lt;li&gt;其实说句不好听的话，这些钱啊，连跑AI的本都没有回回来。&lt;/li&gt;
@@ -220,8 +220,8 @@
 &lt;li&gt;以前有时间我可以出去走走、骑骑车、跑跑步。&lt;/li&gt;
 &lt;li&gt;但现在每天都花在这些闲杂碎事上面，再加上一些争议和压力，确实是产生一些疲惫感，哪怕我最初很有热情，到现在已经也消磨光了&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;为什么最开始会做这些补丁&#34;&gt;为什么最开始会做这些补丁？
-&lt;/h3&gt;&lt;ul&gt;
+&lt;h2 id=&#34;为什么最开始会做这些补丁&#34;&gt;为什么最开始会做这些补丁？
+&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;其实最初的原因非常简单，就是帮一些有需要的水友仅此而已。&lt;/li&gt;
 &lt;li&gt;以前在抖音直播的时候，跟水友们聊天，都说没有汉化，没有资源，看不懂英文。&lt;/li&gt;
 &lt;li&gt;所以想着，既然自己也跑了那么多个游戏，毕竟有上百个了，那么就顺便帮这些水友制作一下补丁吧。&lt;/li&gt;
@@ -229,8 +229,8 @@
 &lt;li&gt;如果没有开始做些补丁啊，或许我不会接触这些AI啊，也不能说不会接触吧，可能是会往后一点点接触而已。&lt;/li&gt;
 &lt;li&gt;从某种意义上来讲，这段经历也算是值得的&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;关于热门游戏更新&#34;&gt;关于热门游戏更新
-&lt;/h3&gt;&lt;ul&gt;
+&lt;h2 id=&#34;关于热门游戏更新&#34;&gt;关于热门游戏更新
+&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;关于一些热门游戏的更新，就7月中旬到10月初还是有一段时间的。&lt;/li&gt;
 &lt;li&gt;那么肯定也会有一些热门游戏更新啊，但以后不可能会第一时间做AI补丁了。&lt;/li&gt;
 &lt;li&gt;原因比较复杂，但也有可能是等一些mod作者更新后，会做这些补丁。&lt;/li&gt;
@@ -240,8 +240,8 @@
 &lt;li&gt;虽然很多评论我自己没有亲眼见到，但是都是一些水友转述给我的。&lt;/li&gt;
 &lt;li&gt;所以长期下来确实会影响心情。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;最后&#34;&gt;最后
-&lt;/h3&gt;&lt;ul&gt;
+&lt;h2 id=&#34;最后&#34;&gt;最后
+&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;一路走下来啊，博客最初只有七八个自己喜欢玩的游戏的补丁，到现在的上百个啊。&lt;/li&gt;
 &lt;li&gt;其实已经超过当初的想象了。&lt;/li&gt;
 &lt;li&gt;感谢一直支持我的水友，愿意使用补丁，愿意反馈问题，愿意提出意见的水友。&lt;/li&gt;
