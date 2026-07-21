@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Mon, 06 Apr 2026 21:35:02 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 22 Jul 2026 03:35:41 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>归档</title>
         <link>https://luoqian29.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0800</pubDate>
@@ -37,54 +37,38 @@
         
         <guid>https://luoqian29.github.io/about/</guid>
         <description>&lt;style&gt;
-    /* 只针对当前页面生效：让标题和副标题居中 */
+    /* 针对当前页面生效：让标题和副标题居中 */
     .article-details .article-title,
     .article-details .article-subtitle {
         text-align: center;
     }
+    
+    /* 单独将主标题的字体放大 */
+    .article-details .article-title {
+        font-size: 5.0rem !important;
+    }
 &lt;/style&gt;
-&lt;h1 id=&#34;关于如何制作汉化补丁&#34;&gt;关于如何制作汉化补丁
-&lt;/h1&gt;
-
-
-
-
-
-    
-
-
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1btzwBJE99&#34;
-            scrolling=&#34;no&#34;
-            frameborder=&#34;no&#34;
-            framespacing=&#34;0&#34;
-            allowfullscreen=&#34;true&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;教程文件：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/MkEPbT3S&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;关于如何汉化补丁及官中如何下载三端教程&#34;&gt;关于如何汉化补丁及官中如何下载（三端教程）
-&lt;/h1&gt;
-
-
-
-
-
-    
-
-
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1k2Foz7Ees&#34;
-            scrolling=&#34;no&#34;
-            frameborder=&#34;no&#34;
-            framespacing=&#34;0&#34;
-            allowfullscreen=&#34;true&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
+&lt;h1 id=&#34;关于博客&#34;&gt;关于博客
+&lt;/h1&gt;&lt;p&gt;其实也没什么好说的，一开始我就是来发一些自己喜欢的文章而已。&lt;/p&gt;
+&lt;p&gt;因为这里&lt;strong&gt;不用审核&lt;/strong&gt;嘛，我自己就是审核员，我想发什么就发什么。之前在国内发一些视频，无论是在音符还是在小破站，都会被抬走，甚至我的公众号都被封了…… 哎，太缺德了他们，我不知道谁举报的。然后现在部署在 &lt;strong&gt;GitHub&lt;/strong&gt; 上，基本是没有审核啊，嘿嘿。&lt;/p&gt;
+&lt;p&gt;不知不觉，这博客就变成&lt;strong&gt;资源站&lt;/strong&gt;了。妈的，一堆补丁，一堆游戏资源。虽然我自己没上传那些游戏本体（都是贴 F95，或者是从作者官网自己贴过来的），但除了一些补丁我会自己上传。原本只想发发日常，没想到搞了两三百个，累死我了。&lt;/p&gt;
+&lt;h1 id=&#34;关于订阅制&#34;&gt;关于订阅制
+&lt;/h1&gt;&lt;p&gt;其实之前是会给一些汉化补丁加上订阅制的，一个星期后公开，费用是一个月 10 RMB。但是我不知道为什么一堆人喷我，所以&lt;strong&gt;我就不加了&lt;/strong&gt;，导致现在的更新速度就变成了&lt;strong&gt;随缘更新&lt;/strong&gt;：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;有的话我会搬运几个官中；没的话，看到喜欢的游戏更新了，或者有水友推荐，也会顺手做一下汉化补丁。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;一般我会做一些博客没有的。因为有些游戏更新了就是挤牙膏，做了也是浪费时间，还不如不做，毕竟做了还会挨骂，对吧？哈哈。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;那不加订阅制之后，博客有没有收益啊？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;其实收益非常少。以前不加订阅制寥寥无几，一个月就三四十块钱赞助。加了之后，最高一个月拿到过 700 多，最少也有 300 多，确实挺杯水车薪。除了大家投喂的收益，还有一个魔法推广佣金，一般也有几百块。&lt;/p&gt;
+&lt;p&gt;总之就是这样子吧，运营博客也没收多少费用，一个月跑 AI 大概就百来块，毕竟我自己也要玩一点。加上部署在 GitHub 上，费用也是挺少的，就当交点网费和电费而已~&lt;/p&gt;
+&lt;h1 id=&#34;关于汉化教程&#34;&gt;关于汉化教程
+&lt;/h1&gt;&lt;p&gt;之前在小破站上是有出过 Renpy 引擎的汉化教程，不过呢，又被人举报抬走了。&lt;/p&gt;
+&lt;p&gt;因为最近确实是一直没空，不过后续的&lt;strong&gt;更新计划&lt;/strong&gt;大概是这样的：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;优先更新：&lt;/strong&gt; Unity 引擎的图文教程。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;后续安排：&lt;/strong&gt; RPG 和 Renpy 引擎教程，以及一些奇奇怪怪的干货。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;优先出图文是因为就像上面说的，在博客发博文&lt;strong&gt;不需要审核&lt;/strong&gt;，我想加什么就加什么，嘿嘿嘿。当然，更新的速度取决于我自己有没有时间。毕竟我也不是纯“为爱发电”，天天给你们更这些，确实是挺仁至义尽啦！&lt;/p&gt;
 </description>
         </item>
         <item>
