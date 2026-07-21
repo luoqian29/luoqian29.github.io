@@ -251,11 +251,6 @@
             e.stopPropagation(); 
         });
 
-        toggleButton.addEventListener('mouseover', function() {
-            if (window.innerWidth <= 768 && tocContainer) {
-                tocContainer.style.display = 'block';
-            }
-        });
     }
 
     document.addEventListener('click', function(event) {
