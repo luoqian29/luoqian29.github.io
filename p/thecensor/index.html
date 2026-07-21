@@ -216,19 +216,22 @@
     desktopRestore.innerText = '目录';
     
     
-    desktopRestore.style.cssText = 'display: none; position: fixed; right: 30px; bottom: 105px; padding: 12px 20px; border-radius: 30px; border: none; background-color: var(--card-background); color: var(--card-text-color-main); box-shadow: var(--shadow-l2); z-index: 9999; cursor: pointer; font-size: 14px; font-weight: 600; transition: all 0.3s ease; text-align: center;';
+    desktopRestore.style.cssText = 'display: none; position: fixed; right: 60px; bottom: 95px; padding: 10px 22px; border-radius: 30px; border: 1px solid rgba(128, 128, 128, 0.1); background-color: var(--card-background); opacity: 0.95; color: var(--card-text-color-main); box-shadow: 0 4px 12px rgba(0,0,0,0.08); z-index: 9999; cursor: pointer; font-size: 14px; font-weight: 600; transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);';
     
     
     desktopRestore.onmouseover = function() {
-        this.style.transform = 'translateY(-5px)';
+        this.style.transform = 'translateY(-4px)';
+        this.style.opacity = '1';
+        this.style.boxShadow = '0 8px 20px rgba(0,0,0,0.15)';
         this.style.color = 'var(--primary-color)';
-        this.style.boxShadow = 'var(--shadow-l3)';
     };
     desktopRestore.onmouseout = function() {
         this.style.transform = 'translateY(0)';
+        this.style.opacity = '0.95';
+        this.style.boxShadow = '0 4px 12px rgba(0,0,0,0.08)';
         this.style.color = 'var(--card-text-color-main)';
-        this.style.boxShadow = 'var(--shadow-l2)';
     };
+    
     
     document.body.appendChild(desktopRestore);
 
