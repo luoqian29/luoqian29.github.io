@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Wed, 22 Jul 2026 03:35:41 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 22 Jul 2026 05:43:13 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>归档</title>
         <link>https://luoqian29.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0800</pubDate>
@@ -61,6 +61,20 @@
 &lt;p&gt;&lt;strong&gt;那不加订阅制之后，博客有没有收益啊？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;其实收益非常少。以前不加订阅制寥寥无几，一个月就三四十块钱赞助。加了之后，最高一个月拿到过 700 多，最少也有 300 多，确实挺杯水车薪。除了大家投喂的收益，还有一个魔法推广佣金，一般也有几百块。&lt;/p&gt;
 &lt;p&gt;总之就是这样子吧，运营博客也没收多少费用，一个月跑 AI 大概就百来块，毕竟我自己也要玩一点。加上部署在 GitHub 上，费用也是挺少的，就当交点网费和电费而已~&lt;/p&gt;
+&lt;h1 id=&#34;关于资源与网盘&#34;&gt;关于资源与网盘
+&lt;/h1&gt;&lt;p&gt;博客里的游戏资源本体，基本都是我从作者官网、Patreon、Itch 或者 F95 贴过来的海外网盘链接（比如 Gofile、Vikingfile、Mega 等）。有些网盘是可以裸连的（比如我在广东，基本能有个四五兆的下载速度）；但有些则过不了审，必须得挂&lt;strong&gt;魔法&lt;/strong&gt;科学上网（也就是梯子/VPN）。&lt;/p&gt;
+&lt;p&gt;至于我自己上传的&lt;strong&gt;汉化补丁&lt;/strong&gt;和 &lt;strong&gt;Mod&lt;/strong&gt;，一般会上传到 &lt;strong&gt;GoFile&lt;/strong&gt; 和 &lt;strong&gt;Pixeldrain&lt;/strong&gt; 作为双重保障：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GoFile&lt;/strong&gt;：部分地区（如广东）不需要科学上网就能访问。但它的机制是 &lt;strong&gt;7天内没人下载就会自动失效&lt;/strong&gt;（并非资源被举报）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pixeldrain&lt;/strong&gt;：比较稳定，但百分百需要&lt;strong&gt;魔法&lt;/strong&gt;。它是只要有两个月内有人下载，文件就不会失效。基本除了官网崩掉，资源都应该在的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;为什么不像其他圈内群一样用 QQ 群文件、百度网盘或者迅雷？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一是因为我本身没有资源本体，二是因为&lt;strong&gt;国内审核太严，太麻烦了&lt;/strong&gt;。用国内盘还得搞什么多次压缩、解压，乱七八糟的我不会弄，也没那闲工夫。&lt;/p&gt;
+&lt;p&gt;毕竟上面也说了，我只是简简单单为了帮助一些水友，不是“为爱发电”，&lt;strong&gt;不可能事事都喂到你嘴里&lt;/strong&gt;。能用就用，用不了就算了，我也不强求，不靠这个满虚荣心。你有需要我就给，不需要就算了，就这么简单。大家看自己的需求吧。&lt;/p&gt;
+&lt;p&gt;另外，这些海外网盘不会像国内网盘那样有恶心的“会员限速”。下载速度完全取决于你的梯子质量和本地带宽（好的梯子跑到 20MB/s 也很正常）。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;下载防坑提示&lt;/strong&gt;：这些海外盘因为不收会员费，基本都会有广告。弹出的广告页面直接关掉就行。点击下载时，&lt;strong&gt;务必核对一下文件大小和文件名&lt;/strong&gt;（一般压缩版三四个 G，原版可能十几 G），确认无误后再下，别下错成广告文件了。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h1 id=&#34;关于汉化教程&#34;&gt;关于汉化教程
 &lt;/h1&gt;&lt;p&gt;之前在小破站上是有出过 Renpy 引擎的汉化教程，不过呢，又被人举报抬走了。&lt;/p&gt;
 &lt;p&gt;因为最近确实是一直没空，不过后续的&lt;strong&gt;更新计划&lt;/strong&gt;大概是这样的：&lt;/p&gt;

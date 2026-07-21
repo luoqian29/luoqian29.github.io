@@ -10,7 +10,7 @@
 <meta property='og:description' content="2026年6月爱发电爱赞助投喂感谢页">
 <meta property='og:url' content='https://luoqian29.github.io/p/support/'>
 <meta property='og:site_name' content='一落归谦'>
-<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='碎碎念' /><meta property='article:published_time' content='2026-07-01T00:00:00&#43;08:00'/><meta property='article:modified_time' content='2026-07-09T06:52:30&#43;08:00'/><meta property='og:image' content='https://pbs.twimg.com/media/HMHZkWKacAAUCd6?format=jpg&amp;name=4096x4096' />
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='碎碎念' /><meta property='article:published_time' content='2026-07-01T00:00:00&#43;08:00'/><meta property='article:modified_time' content='2026-07-22T05:43:13&#43;08:00'/><meta property='og:image' content='https://pbs.twimg.com/media/HMHZkWKacAAUCd6?format=jpg&amp;name=4096x4096' />
 <meta name="twitter:title" content="爱发电爱赞助投喂感谢页">
 <meta name="twitter:description" content="2026年6月爱发电爱赞助投喂感谢页"><meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content='https://pbs.twimg.com/media/HMHZkWKacAAUCd6?format=jpg&amp;name=4096x4096' />
@@ -63,10 +63,10 @@
         
             
                 
-   
 
     
     <button id="toggle-toc" class="mobile-only">目录</button>
+    
     <section class="widget archives" id="toc-container">
         <div class="widget-icon">
             <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -80,7 +80,11 @@
 
 
         </div>
-        <h2 class="widget-title section-title">目录</h2>
+        
+        <h2 class="widget-title section-title" style="display: flex; justify-content: space-between; align-items: center;">
+            <span>目录</span>
+            <span id="desktop-toc-toggle" class="desktop-only" style="cursor: pointer; font-size: 13px; font-weight: normal; opacity: 0.6; transition: 0.3s;">[ 收起 ]</span>
+        </h2>
 
         <div class="widget--toc">
             <nav id="TableOfContents">
@@ -99,7 +103,14 @@
     <li><a href="#杂谈">杂谈</a>
       <ol>
         <li><a href="#感谢">感谢</a></li>
-        <li><a href="#碎碎念">碎碎念</a></li>
+        <li><a href="#碎碎念那些不得不吐的槽">碎碎念：那些不得不吐的槽</a>
+          <ol>
+            <li><a href="#关于圈米的无稽之谈">关于“圈米”的无稽之谈</a></li>
+            <li><a href="#关于-bug-反馈与背后的闲言碎语">关于 Bug 反馈与背后的闲言碎语</a></li>
+            <li><a href="#关于造谣与喝茶">关于造谣与“喝茶”</a></li>
+            <li><a href="#关于倒狗与接官中的节奏">关于“倒狗”与接官中的节奏</a></li>
+          </ol>
+        </li>
       </ol>
     </li>
   </ol>
@@ -111,7 +122,6 @@
 <style>
     .container {
         .right-sidebar {
-             
             display: flex;
         }
     }
@@ -121,46 +131,38 @@
         display: none !important;
     }
 
+     
+    .force-hide-sidebar { display: none !important; }
+
     #toc-container {
-         
-         
         position: fixed;
-         
         bottom: 21%;
-         
         right: 60px;
-         
         background-color: var(--card-background);
-         
         padding: 10px;
-         
         border: 1px solid #96979a50;
         border-radius: var(--card-border-radius);
-         
         box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
-         
         z-index: 9998 !important;
-         
         max-height: 75vh;
         overflow-y: auto;
-         
         width: auto;
         max-width: 290px;
     }
 
+     
     #toggle-toc {
         position: fixed;
         bottom: 22%;
         right: 20px;
-        padding: 10px 10px;
+        padding: 10px 14px;
         z-index: 9998 !important;
-        border: 0px solid #96979a50;
+        border: 1px solid var(--card-background);
         border-radius: 7px;
-        box-shadow: var(--shadow-l1);
-        background-color: #00640010;
-        color: #34495e;
-         
-        display: none;  
+        box-shadow: var(--shadow-l2);
+        background-color: var(--card-background);
+        color: var(--card-text-color-main);
+        display: none;
         margin-bottom: -20px;
         cursor: pointer;
         font-size: 1.2rem;
@@ -172,76 +174,121 @@
         width: auto;
     }
 
+     
+    #desktop-toc-toggle:hover {
+        opacity: 1;
+        color: var(--primary-color);
+    }
+
+     
     @media screen and (max-width: 768px) {
-        .mobile-only {
-            display: block !important;  
-        }
-
-        #toc-container {
-            display: none;  
-        }
-
+        .mobile-only { display: block !important; }
+        .desktop-only { display: none !important; }
+        #toc-container { display: none; }
         #toggle-toc {
-            display: block;  
-            bottom: 100px;  
+            display: block; 
+            bottom: 100px; 
         }
     }
 
      
     @media screen and (min-width: 769px) {
         #toc-container {
-            display: block !important;  
-            position: static;  
-            border: none;  
-            box-shadow: none;  
-            max-height: none;  
-            overflow-y: visible;  
-            margin-top: 20px;  
-            right: auto;  
-            bottom: auto;  
-            width: auto;  
-            max-width: 100%;  
-            background-color: transparent;  
-            padding: 0;  
+            display: block !important; 
+            position: static; 
+            border: none; 
+            box-shadow: none; 
+            max-height: none; 
+            overflow-y: visible; 
+            margin-top: 20px; 
+            right: auto; 
+            bottom: auto; 
+            width: auto; 
+            max-width: 100%; 
+            background-color: transparent; 
+            padding: 0; 
         }
-
-        #toggle-toc {
-            display: none !important;  
-        }
+        #toggle-toc { display: none !important; }
     }
 </style>
+
 <script>
-    var toggleButton = document.getElementById('toggle-toc');
+    var toggleButton = document.getElementById('toggle-toc'); 
     var tocContainer = document.getElementById('toc-container');
+    var desktopToggle = document.getElementById('desktop-toc-toggle'); 
+    var rightSidebar = document.querySelector('.main-container .right-sidebar') || document.querySelector('.right-sidebar');
 
     
-    toggleButton.addEventListener('click', function() {
-        if (tocContainer.style.display === 'none' || tocContainer.style.display === '') {
-            tocContainer.style.display = 'block';
-        } else {
-            tocContainer.style.display = 'none';
+    var desktopRestore = document.createElement('button');
+    desktopRestore.id = 'desktop-restore-toc';
+    desktopRestore.innerText = '目录';
+    
+    
+    desktopRestore.style.cssText = 'display: none; position: fixed; right: 30px; bottom: 105px; padding: 12px 20px; border-radius: 30px; border: none; background-color: var(--card-background); color: var(--card-text-color-main); box-shadow: var(--shadow-l2); z-index: 9999; cursor: pointer; font-size: 14px; font-weight: 600; transition: all 0.3s ease; text-align: center;';
+    
+    
+    desktopRestore.onmouseover = function() {
+        this.style.transform = 'translateY(-5px)';
+        this.style.color = 'var(--primary-color)';
+        this.style.boxShadow = 'var(--shadow-l3)';
+    };
+    desktopRestore.onmouseout = function() {
+        this.style.transform = 'translateY(0)';
+        this.style.color = 'var(--card-text-color-main)';
+        this.style.boxShadow = 'var(--shadow-l2)';
+    };
+    
+    document.body.appendChild(desktopRestore);
+
+
+    
+    if (toggleButton) {
+        toggleButton.addEventListener('click', function(e) {
+            if (window.innerWidth <= 768) {
+                if (tocContainer.style.display === 'none' || tocContainer.style.display === '') {
+                    tocContainer.style.display = 'block';
+                } else {
+                    tocContainer.style.display = 'none';
+                }
+            }
+            e.stopPropagation(); 
+        });
+
+        toggleButton.addEventListener('mouseover', function() {
+            if (window.innerWidth <= 768 && tocContainer) {
+                tocContainer.style.display = 'block';
+            }
+        });
+    }
+
+    document.addEventListener('click', function(event) {
+        if (window.innerWidth <= 768 && tocContainer) {
+            if (!tocContainer.contains(event.target) && event.target !== toggleButton) {
+                tocContainer.style.display = 'none';
+            }
         }
     });
 
-    
-    toggleButton.addEventListener('mouseover', function() {
-        
-            tocContainer.style.display = 'block';
-        
-    });
 
     
-    document.addEventListener('click', function(event) {
-        
+    
+    if (desktopToggle && rightSidebar) {
+        desktopToggle.addEventListener('click', function() {
             
-            if (!tocContainer.contains(event.target) && event.target !== toggleButton) {
-                
-                tocContainer.style.display = 'none';
-            }
+            rightSidebar.classList.add('force-hide-sidebar'); 
+            
+            desktopRestore.style.display = 'block'; 
+        });
+    }
+
+    
+    desktopRestore.addEventListener('click', function() {
         
+        rightSidebar.classList.remove('force-hide-sidebar'); 
+        
+        this.style.display = 'none'; 
     });
 </script>
-
             
         
     </aside>
@@ -316,7 +363,7 @@
 
 
                 <time>
-                    2026年07月09日 06:52
+                    2026年07月22日 05:43
                 </time>
             </div>
         <div id="viewCount">
@@ -646,65 +693,42 @@
 	
 ></p>
 <hr>
+<hr>
 <h2 id="杂谈">杂谈
 </h2><h3 id="感谢">感谢
-</h3><p>由衷感谢以上所有投喂过的水友啊，特别感谢啊，虽然钱财不多，但是心意满满啊。
-落谦也不会辜负大家的诚意啊，会尽量更新啊，尽量更新，哈哈。</p>
+</h3><p>由衷感谢以上所有投喂过的水友啊！特别感谢！虽然钱财不多，但是心意满满。落谦也不会辜负大家的诚意，后续会尽量为大家更新的，哈哈。</p>
 <br>
 <div style="text-align: right;">
   落谦 敬上<br>
   2026年7月1日
 </div>
-<h3 id="碎碎念">碎碎念
-</h3><ul>
-<li>感谢完了就顺便，嗯，吐槽一下吧</li>
-<li>怎么说呢？其实开爱发电也有两年半了，是真的两年半，这真没玩梗啊，哈哈</li>
-<li>那么要吐槽什么呢？其实就是有些人啊，就是某些圈内人说我圈米啊，肯定是圈得盆满钵满了</li>
-<li>在音符那么大的流量，跑到B站上去也有几万播放量，肯定是月入过万了</li>
-<li>其实我看到这种阴阳怪气啊，我还能说什么呀？已经无话可说了</li>
-<li>大家投喂我两年半，也就两三千。说的好听就投喂，说的不好听就是圈米</li>
-<li>这个费用连跑AI的费用都没有圈回来。而且仅仅是跑AI的费用，不包含人工、时间以及其他乱七八糟的</li>
-<li>可想而知，我看到这些阴阳怪气，其实我是不想再继续更新下去了</li>
-<li>但看到之前，跑了百来个AI，跑都跑了，还是顺便做一下吧，不做也挺可惜的，对吧？</li>
-<li>所以呢，基本我就跑完，该做补丁的做补丁，该优化的优化，该修bug的修bug，该做mod的做mod</li>
-<li>基本写完博文上传完就不管了，除非有人反馈，我才去啊修复优化</li>
-<li>反正我是不玩的，毕竟我哪来的时间去玩，对吧？是一个很简单的逻辑啊，对吧？</li>
-<li>那为什么要提这一点呢？其实啊，就是有些人啊，我不知道是从GitHub上下的补丁，还是在哪里啊？就发现补丁里有些边角料文本啊、短信文本没汉化，第一时间不是向我来反馈，而是跑到某些什么圈子的大群里，疯狂地吐槽我，阴阳怪气我 这是何意味啊？哈哈</li>
-<li>要知道每个作者的代码习惯就是千奇百怪。像这种常见的短信文本，很多种都是缩写格式，不仅很难提取，就算提取出来了，也是显示不了汉化的，得去改一些源代码才能显示。</li>
-<li>说到底，很多问题都是必须我自己打一遍啊，才能遇到。除非你们自己反馈之后，给我原文我去定位，然后我去优化，才可能实现，对吧？</li>
-<li>而且我前面也说了，一天只有24个小时，光是跑AI、修bug、修人名、写博文、上传文件，做完一个补丁起码要耗费两三个小时以上。那么这两三个小时，而且还是我从工作之余抽出来的，你觉得我有时间去玩一遍吗？</li>
-<li>还有就是有些文本跑出来是会出现幻觉的，我已经在每篇博文的落谦酱便利贴的关于汉化补丁那里写明白了，AI是出现幻觉的，会出现翻译误差、中英夹带以及突兀文风，甚至有一些乱七八糟的什么bug都有。白纸黑字，写得清清楚楚，如果介意还请勿玩，我已经非常诚恳了。</li>
-<li>说句实在话，我觉得我已经仁至义尽了。一开始啊，我的GitHub就只有我几个喜欢玩的游戏。后来有水友投稿，我就帮忙跑AI，对吧？</li>
-<li>后续想加一些mod，比如选项mod、画廊mod、作弊mod，好，可以安排。但有些mod集成了有小瑕疵，那么我就再提供一个完整mod，把对应的文本汉化bug也优化了，对不对？</li>
-<li>甚至有些有官中的，我都给你做mod，而且为了修复那些打完mod有些句子不显示汉化的bug，我专门写几个脚本，去抽取原有汉化文本，去优化这些没有上下文关系的bug文本，而不是再去跑一次AI。</li>
-<li>有问题你可以向我反馈，我抽空有空肯定会优化的。甚至我在补丁的设置右上角也留了GitHub的logo，就是为了能让大家联系到我，可以向我反馈问题。</li>
-<li>合着我在设置右上角留下的GitHub logo是白留的对吧？真以为是像某些圈内人留下来的圈米logo对吧？那是给你让你反馈的，甚至有人说能不能把这logo删掉？他妈的logo删掉你怎么向我反馈问题呢？</li>
-<li>那你都能自己修bug了。合着有这种能力，为什么还要我的补丁啊？你自己跑一个不就行了吗？何必要让我多此一举删掉logo呢？</li>
-<li>如果你只会修这些bug，不会跑AI。我之前也不是出过一期汉化教程吗？虽然被不知道哪些人给举报，连号都没了。但是还有马老师的教程在啊，你自己跑一个不就好了吗？少则七八块钱，多则几十块钱而已。那何必每个月要送10块钱给我？而且还要等我更新、等我优化bug、等我集成mod，这样不就是你好我好大家好，皆大欢喜嘛？</li>
-<li>说到底，我真不欠你们什么。做这些只是帮一把有需要的水友，仅此而已。但是这种在背后吐槽的行为确实挺没意思的，我只能说一句，何意味啊？你只要跟我提一嘴，我有空抽空肯定会更新一下，不就好了吗？</li>
-<li>还有更加离谱的，就是前阵子啊，我那个小破站的号就被抬走了，就开始造谣我进去喝茶了。你说这何意味啊？真的何意味？</li>
-<li>甚至有图有真相啊，我不知道是真有人真进去，还是拿GPT生成的，这直接把我CPU干烧了，我不知道说些什么好。</li>
-<li>我自问没惹到你们，也没得罪到你们。如果非要说得罪，可能就之前的几件事，对吧？</li>
-<li>首先是说你们所谓的倒狗标签，2024年我搞了一个几十个人的AI群，对不对？</li>
-<li>那时候Deepseek还没有横空出世，那只能用ChatGPT呀。我去某宝买那些token，不仅有汇率，而且又贵，跑出来质量不好。</li>
-<li>那么我在音符发那些图文，有的人跟我说现在都是一些谷歌精翻，能不能说跑一下AI呢？费用问题的话，大家一起出一下，非常合理一件事情，对吧？</li>
-<li>然后怎么滴呢？把我打上道狗的标签，合着我自己盗我自己的？</li>
-<li>仅仅只是因为什么？因为我跑完AI之后，会整理一个表格。那表格里面肯定会整理一些值得一玩的游戏。</li>
-<li>那有些游戏质量过高，肯定是有人去做官中的。然后因为这里面有官中，就被某些圈内人打上了盗狗的标签。我靠！我这个，这里又让我CPU给干烧了。</li>
-<li>我非常不理解啊，你们自己圈内大佬啊，靠着什么充电进群，拿着谷歌精翻设门槛的比比皆是，而我却因为这事甚至被声讨。</li>
-<li>行啊，你们青出于蓝胜于蓝，那我该解散的解散，该道歉的道歉，对吧？</li>
-<li>这也导致为什么我现在GitHub里边，我宁愿多花时间优化代码、修复bug，集成mod去做补丁，我都不愿去整体打包给你们，就怕加到爱发电、爱赞助里边，又被某些人拿来阴阳怪气的，又给我直接打上盗狗标签，又来讨伐我了。说真的，再来一次我就删库跑路了，怕了真的，不按套路出牌的。</li>
-<li>而且因为这事，甚至还有人贴脸开大，阴阳怪气我，给你百八十块，能不能拉我进群啊？</li>
-<li>其实啊，怎么说呢？有钱不赚王八蛋。其实我是啊想开群的，但奈何实力不够啊，不像某些圈内人纯靠手搓，我没那个精力。我的英语就简单的口语水平，只能正常交流，润色一两句污言秽语的文本，几句就开始头痛了</li>
-<li>而且我也只会玩一些烂梗啊，萝卜青菜各有所爱，我觉得这也没什么不好之类的。</li>
-<li>这里又要提到之前的异世界天堂的翻译了。那时我在音符午夜直播，为了玩这游戏能过审，我只能把那些文本翻译的比较文绉绉的。说到底文绉绉，我就是仿照翻的那个凡人修仙传的文风，这不是正常的古言文风吗？只不过加了一些梗进去而已，而且我当时直播上千个人，也没有说别人不好之类的。</li>
-<li>不过那确实是我旁观者清，当局者迷了。那你也不至于说我毁了这个游戏吧？那有问题，你应该和我说，反馈一下，能不能出一个正常文风的文本？这不很简单的事情吗？跑一个AI，然后简润修一下专有名词之类的，原汁原味。</li>
-<li>特别简单的事情啊，何必要这样咄咄逼人呢？甚至我说一句话都要阴阳怪气十几句反驳回去。你是反驳型人格吗？甚至有的说，你接官中为什么不向我们圈内人打报告？你凭什么接官中？你有什么资格？我们都有圈子了，何需你一个外人呢？</li>
-<li>行，那我该道歉的道歉，该推掉官中推掉官中，而且你们圈内大佬也看我态度诚恳，说到这事到此为止，从那之后啊，关于有关HS2官中的事情，我再也没有碰过对吧？</li>
-<li>但是啊，有句话我还是得说啊。什么话呢？就是我不知道是不是你们圈内人说的啊，反正那时候特别多串子啊。</li>
-<li>有一句很经典的话，你不翻啊，有的是人翻。我只能说牛逼啊。</li>
-<li>其实啊，你们不尊重啊，我一个整活的AI汉化，其实也挺正常的，对吧？因为毕竟啊，萝卜青菜各有所爱。但你们至少得尊重你们圈内认真做翻译的大佬吧，而别人花精力啊，花时间汉化，结果你来一句你不翻，有的是人翻，我只能说牛逼！</li>
-</ul>
+<hr>
+<h3 id="碎碎念那些不得不吐的槽">碎碎念：那些不得不吐的槽
+</h3><p>感谢完了，顺便来吐个槽吧。怎么说呢，开爱发电也有两年半了（真没玩梗，哈哈），有些压在心里的陈年旧账，干脆借这个机会敞开说了。</p>
+<h4 id="关于圈米的无稽之谈">关于“圈米”的无稽之谈
+</h4><p>圈内总有人阴阳怪气，说我“圈米”肯定圈得盆满钵满了：在音符那么大的流量，跑到 B 站也有几万播放，肯定月入过万了。</p>
+<p>说真的，看到这些话我已经无语了。大家投喂我两年半，总共也就两三千块。这笔钱，<strong>连我跑 AI 烧掉的本金都没收回来</strong>，更别提搭进去的人工、时间以及其他乱七八糟的精力了。说得好听叫投喂，在他们嘴里就是圈米。</p>
+<p>看到这些阴阳怪气，我无数次想过直接停更。但回头看看手里那百来个跑好的 AI 文本，跑都跑了，半途而废挺可惜的，所以还是硬着头皮继续做。该做补丁做补丁，该修 Bug 修 Bug，写完博文上传后基本就不管了——因为我每天光搞这些都要两三个小时，根本没时间自己去玩，这是一个很简单的逻辑，对吧？</p>
+<h4 id="关于-bug-反馈与背后的闲言碎语">关于 Bug 反馈与背后的闲言碎语
+</h4><p>有些人下了补丁，发现里头有些边角料或者短信文本没汉化，第一时间不是来向我反馈，而是跑到某些圈子的大群里疯狂地吐槽我、阴阳怪气我。这究竟是何意味啊？哈哈。</p>
+<p>每个游戏作者的代码习惯千奇百怪。像那种常见的短信文本，很多是缩写格式，很难提取，就算提取了也要改源代码才能显示汉化。我不自己打一遍通关，根本遇不到这些问题。</p>
+<p><strong>AI 汉化本来就会有幻觉、错译、中英夹杂。</strong> 我在每篇博文的<strong>落谦酱便利贴</strong>里白纸黑字写得清清楚楚：如果介意请勿游玩。我已经非常诚恳、仁至义尽了。为了解决瑕疵，我还专门写脚本去提取原文本修复 Bug，给有官中的游戏做完整 Mod。</p>
+<p>我甚至在补丁右上角特意留了 GitHub 的 Logo，就是为了方便大家联系我反馈。结果有人嫌弃，问能不能把 Logo 删掉？他妈的删了你怎么向我反馈问题？既然有自己修 Bug 的能力，干嘛还用我的补丁？何必要让我多此一举？如果嫌弃，马老师的汉化教程在那摆着，自己花十几块钱跑个 AI 不好吗？大家皆大欢喜。</p>
+<p>说到底，<strong>我真不欠你们什么</strong>，做这些只是帮一把有需要的水友而已。背后吐槽真的挺没意思的，你提一嘴，我有空肯定会更新。</p>
+<h4 id="关于造谣与喝茶">关于造谣与“喝茶”
+</h4><p>前阵子我 B 站号被抬走，最离谱的事情来了：居然有人造谣我进去喝茶了。</p>
+<p>甚至还搞出了<strong>有图有真相</strong>，把我的 CPU 都干烧了，我都不知道那是真有人进去了还是拿 GPT 生成的。这又是何意味啊？我自问没惹你们，也没得罪你们。</p>
+<h4 id="关于倒狗与接官中的节奏">关于“倒狗”与接官中的节奏
+</h4><p>如果非要说得罪，可能就是以前那几档子事。</p>
+<p>2024 年，那时候还没 Deepseek，只有 ChatGPT，某宝买 Token 又贵质量又一般。我在音符发图文时，有水友提议大家一起凑点费用跑 AI。结果呢？我直接被打上了“倒狗”的标签。合着我盗我自己的？
+仅仅因为我跑完 AI 整理了个游戏表格，恰好有圈内大佬做的官中，我就成了众矢之的。我很不理解，你们圈内大佬靠充电进群、拿谷歌精翻设门槛的比比皆是，我却因此被声讨。行，你们青出于蓝，我解散、我道歉。</p>
+<p>这就是为什么我现在宁愿花大把时间自己修 Bug，都不愿意把补丁整体打包丢进爱发电里。我怕了，怕又被拿来阴阳怪气，怕又被打上倒狗标签。说真的，再来一次我直接删库跑路。</p>
+<p>更难绷的是，有人贴脸开大阴阳怪气：“给你百八十块，能不能拉我进群？”
+有钱不赚王八蛋，我也想开群，但我没那个精力纯靠手搓翻译。我英语就简单口语水平，润色几句污言秽语就开始头痛，平时也就爱玩点烂梗。</p>
+<p>这也牵扯到之前《异世界天堂》的节奏了。当时为了午夜直播过审，我仿照《凡人修仙传》搞了点文绉绉的古言翻译加烂梗。确实是当局者迷，但你觉得不合适大可跟我反馈，我跑个正常文风的版本不就完了？特别简单的事，何必咄咄逼人？甚至质问我：“你接官中为什么不向我们打报告？凭什么接官中？我们都有圈子了，何需你一个外人？”</p>
+<p>行，我推掉官中，并且从那之后，关于官中的事我再也没碰过。
+但有一句话我至今记得，那些串子说：<strong>“你不翻，有的是人翻。”</strong></p>
+<p>我只能说，牛逼。你们可以不尊重我一个整活的 AI 汉化，但至少得尊重你们圈内认真花时间翻译的大佬吧。对着别人的心血来一句<strong>你不翻有的是人翻</strong>，我只能说牛逼！</p>
 
 </section>
 
@@ -731,7 +755,7 @@
 
 
         <span>
-            最后更新于 2026年07月09日 06:52
+            最后更新于 2026年07月22日 05:43
         </span>
     </section>
 <div class="reward-container">
@@ -815,10 +839,10 @@
     
     <div class="pre-next">
        
-        <a class="pre-next-btn bg" href="https://luoqian29.github.io/p/other/">&lt;&lt; 且玩且珍惜</a>
+        <a class="pre-next-btn bg" href="https://luoqian29.github.io/p/sunsetrose/">&lt;&lt; Sunset Rose 暮色玫瑰（阳光玫瑰）</a>
        
        
-        <a class="pre-next-btn bg" href="https://luoqian29.github.io/p/fashionbusiness/">Fashion Business 时尚女王莫妮卡 >> </a>
+        <a class="pre-next-btn bg" href="https://luoqian29.github.io/p/vpn/">高质量高性价比VPN魔法推荐 >> </a>
        
     </div>
 
@@ -1498,10 +1522,12 @@
         
         
         
+        
+        
         共发表
-        293
+        294
         篇文章 · 总计
-        579.78k
+        576.29k
         字
     </div>
 

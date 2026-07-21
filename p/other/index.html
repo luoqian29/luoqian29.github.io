@@ -10,7 +10,7 @@
 <meta property='og:description' content="关于后续补丁更新的一些说明">
 <meta property='og:url' content='https://luoqian29.github.io/p/other/'>
 <meta property='og:site_name' content='一落归谦'>
-<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='碎碎念' /><meta property='article:published_time' content='2026-01-01T00:00:00&#43;08:00'/><meta property='article:modified_time' content='2026-07-14T08:23:36&#43;08:00'/><meta property='og:image' content='https://pbs.twimg.com/media/HMvYNbGaMAADuqC?format=jpg&amp;name=4096x4096' />
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='碎碎念' /><meta property='article:published_time' content='2026-01-01T00:00:00&#43;08:00'/><meta property='article:modified_time' content='2026-07-22T05:43:13&#43;08:00'/><meta property='og:image' content='https://pbs.twimg.com/media/HMvYNbGaMAADuqC?format=jpg&amp;name=4096x4096' />
 <meta name="twitter:title" content="且玩且珍惜">
 <meta name="twitter:description" content="关于后续补丁更新的一些说明"><meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content='https://pbs.twimg.com/media/HMvYNbGaMAADuqC?format=jpg&amp;name=4096x4096' />
@@ -63,10 +63,10 @@
         
             
                 
-   
 
     
     <button id="toggle-toc" class="mobile-only">目录</button>
+    
     <section class="widget archives" id="toc-container">
         <div class="widget-icon">
             <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -80,7 +80,11 @@
 
 
         </div>
-        <h2 class="widget-title section-title">目录</h2>
+        
+        <h2 class="widget-title section-title" style="display: flex; justify-content: space-between; align-items: center;">
+            <span>目录</span>
+            <span id="desktop-toc-toggle" class="desktop-only" style="cursor: pointer; font-size: 13px; font-weight: normal; opacity: 0.6; transition: 0.3s;">[ 收起 ]</span>
+        </h2>
 
         <div class="widget--toc">
             <nav id="TableOfContents">
@@ -88,13 +92,12 @@
     <li><a href="#且玩且珍惜">且玩且珍惜</a></li>
     <li><a href="#关于后续补丁更新的一些说明">关于后续补丁更新的一些说明</a></li>
     <li><a href="#博客一周年与剩余更新计划">博客一周年与剩余更新计划</a></li>
-    <li><a href="#为什么要进入半停更的状态">为什么要进入半停更的状态？</a></li>
-    <li><a href="#简润和精润需要投入多少">简润和精润需要投入多少？</a></li>
+    <li><a href="#为什么要进入半停更状态">为什么要进入半停更状态？</a></li>
     <li><a href="#关于我的汉化标准">关于我的汉化标准</a></li>
     <li><a href="#关于最近的一些争议">关于最近的一些争议</a></li>
     <li><a href="#关于圈米">关于“圈米”</a></li>
     <li><a href="#为什么最开始会做这些补丁">为什么最开始会做这些补丁？</a></li>
-    <li><a href="#关于热门游戏更新">关于热门游戏更新</a></li>
+    <li><a href="#关于后续的热门游戏">关于后续的热门游戏</a></li>
     <li><a href="#最后">最后</a></li>
   </ol>
 </nav>
@@ -105,7 +108,6 @@
 <style>
     .container {
         .right-sidebar {
-             
             display: flex;
         }
     }
@@ -115,46 +117,38 @@
         display: none !important;
     }
 
+     
+    .force-hide-sidebar { display: none !important; }
+
     #toc-container {
-         
-         
         position: fixed;
-         
         bottom: 21%;
-         
         right: 60px;
-         
         background-color: var(--card-background);
-         
         padding: 10px;
-         
         border: 1px solid #96979a50;
         border-radius: var(--card-border-radius);
-         
         box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
-         
         z-index: 9998 !important;
-         
         max-height: 75vh;
         overflow-y: auto;
-         
         width: auto;
         max-width: 290px;
     }
 
+     
     #toggle-toc {
         position: fixed;
         bottom: 22%;
         right: 20px;
-        padding: 10px 10px;
+        padding: 10px 14px;
         z-index: 9998 !important;
-        border: 0px solid #96979a50;
+        border: 1px solid var(--card-background);
         border-radius: 7px;
-        box-shadow: var(--shadow-l1);
-        background-color: #00640010;
-        color: #34495e;
-         
-        display: none;  
+        box-shadow: var(--shadow-l2);
+        background-color: var(--card-background);
+        color: var(--card-text-color-main);
+        display: none;
         margin-bottom: -20px;
         cursor: pointer;
         font-size: 1.2rem;
@@ -166,76 +160,121 @@
         width: auto;
     }
 
+     
+    #desktop-toc-toggle:hover {
+        opacity: 1;
+        color: var(--primary-color);
+    }
+
+     
     @media screen and (max-width: 768px) {
-        .mobile-only {
-            display: block !important;  
-        }
-
-        #toc-container {
-            display: none;  
-        }
-
+        .mobile-only { display: block !important; }
+        .desktop-only { display: none !important; }
+        #toc-container { display: none; }
         #toggle-toc {
-            display: block;  
-            bottom: 100px;  
+            display: block; 
+            bottom: 100px; 
         }
     }
 
      
     @media screen and (min-width: 769px) {
         #toc-container {
-            display: block !important;  
-            position: static;  
-            border: none;  
-            box-shadow: none;  
-            max-height: none;  
-            overflow-y: visible;  
-            margin-top: 20px;  
-            right: auto;  
-            bottom: auto;  
-            width: auto;  
-            max-width: 100%;  
-            background-color: transparent;  
-            padding: 0;  
+            display: block !important; 
+            position: static; 
+            border: none; 
+            box-shadow: none; 
+            max-height: none; 
+            overflow-y: visible; 
+            margin-top: 20px; 
+            right: auto; 
+            bottom: auto; 
+            width: auto; 
+            max-width: 100%; 
+            background-color: transparent; 
+            padding: 0; 
         }
-
-        #toggle-toc {
-            display: none !important;  
-        }
+        #toggle-toc { display: none !important; }
     }
 </style>
+
 <script>
-    var toggleButton = document.getElementById('toggle-toc');
+    var toggleButton = document.getElementById('toggle-toc'); 
     var tocContainer = document.getElementById('toc-container');
+    var desktopToggle = document.getElementById('desktop-toc-toggle'); 
+    var rightSidebar = document.querySelector('.main-container .right-sidebar') || document.querySelector('.right-sidebar');
 
     
-    toggleButton.addEventListener('click', function() {
-        if (tocContainer.style.display === 'none' || tocContainer.style.display === '') {
-            tocContainer.style.display = 'block';
-        } else {
-            tocContainer.style.display = 'none';
+    var desktopRestore = document.createElement('button');
+    desktopRestore.id = 'desktop-restore-toc';
+    desktopRestore.innerText = '目录';
+    
+    
+    desktopRestore.style.cssText = 'display: none; position: fixed; right: 30px; bottom: 105px; padding: 12px 20px; border-radius: 30px; border: none; background-color: var(--card-background); color: var(--card-text-color-main); box-shadow: var(--shadow-l2); z-index: 9999; cursor: pointer; font-size: 14px; font-weight: 600; transition: all 0.3s ease; text-align: center;';
+    
+    
+    desktopRestore.onmouseover = function() {
+        this.style.transform = 'translateY(-5px)';
+        this.style.color = 'var(--primary-color)';
+        this.style.boxShadow = 'var(--shadow-l3)';
+    };
+    desktopRestore.onmouseout = function() {
+        this.style.transform = 'translateY(0)';
+        this.style.color = 'var(--card-text-color-main)';
+        this.style.boxShadow = 'var(--shadow-l2)';
+    };
+    
+    document.body.appendChild(desktopRestore);
+
+
+    
+    if (toggleButton) {
+        toggleButton.addEventListener('click', function(e) {
+            if (window.innerWidth <= 768) {
+                if (tocContainer.style.display === 'none' || tocContainer.style.display === '') {
+                    tocContainer.style.display = 'block';
+                } else {
+                    tocContainer.style.display = 'none';
+                }
+            }
+            e.stopPropagation(); 
+        });
+
+        toggleButton.addEventListener('mouseover', function() {
+            if (window.innerWidth <= 768 && tocContainer) {
+                tocContainer.style.display = 'block';
+            }
+        });
+    }
+
+    document.addEventListener('click', function(event) {
+        if (window.innerWidth <= 768 && tocContainer) {
+            if (!tocContainer.contains(event.target) && event.target !== toggleButton) {
+                tocContainer.style.display = 'none';
+            }
         }
     });
 
-    
-    toggleButton.addEventListener('mouseover', function() {
-        
-            tocContainer.style.display = 'block';
-        
-    });
 
     
-    document.addEventListener('click', function(event) {
-        
+    
+    if (desktopToggle && rightSidebar) {
+        desktopToggle.addEventListener('click', function() {
             
-            if (!tocContainer.contains(event.target) && event.target !== toggleButton) {
-                
-                tocContainer.style.display = 'none';
-            }
+            rightSidebar.classList.add('force-hide-sidebar'); 
+            
+            desktopRestore.style.display = 'block'; 
+        });
+    }
+
+    
+    desktopRestore.addEventListener('click', function() {
         
+        rightSidebar.classList.remove('force-hide-sidebar'); 
+        
+        this.style.display = 'none'; 
     });
 </script>
-
             
         
     </aside>
@@ -306,7 +345,7 @@
 
 
                 <time>
-                    2026年07月14日 08:23
+                    2026年07月22日 05:43
                 </time>
             </div>
         <div id="viewCount">
@@ -344,130 +383,55 @@
 ></p>
 <hr>
 <h2 id="关于后续补丁更新的一些说明">关于后续补丁更新的一些说明
-</h2><ul>
-<li>先说结论吧：<strong>且玩且珍惜。</strong></li>
-<li>按照目前的情况来看，可能到了今年 <strong>10月1日国庆节之后</strong>，博客的更新频率会明显降低，会进入一个<strong>半停更状态</strong>。</li>
-<li>为什么会这样？</li>
-<li>主要还是因为时间和精力的问题。</li>
-</ul>
+</h2><p>先说结论吧：<strong>且玩且珍惜</strong>。</p>
+<p>按照目前的情况来看，大概到了今年 <strong>10月1日国庆节之后</strong>，博客的更新频率会明显降低，正式进入一个<strong>半停更状态</strong>。为什么会这样？主要还是因为时间和精力实在难以支撑了。</p>
 <h2 id="博客一周年与剩余更新计划">博客一周年与剩余更新计划
-</h2><ul>
-<li>现在是7月中旬，距离博客一周年，也就是大陆的国庆节，其实已经不远了。</li>
-<li>回头看，从今年2、3月份开始，到现在7月份，差不多过去了5个月左右。</li>
-<li>这期间已经累计制作了大量补丁，数量应该超过七八十个。</li>
-<li>这些补丁能够持续更新下来，很大程度上得益于AI。</li>
-<li>因为26年初，大概跑了上百个AI吧，那么我手底下剩下少则二三十个，多则四五十个的补丁需要制作。</li>
-<li>按照这个进度，确实到国庆那段日子就能够完成了。</li>
-<li>按照一天一个，状态好的时候，一天能做两三个的速度</li>
-<li>但实际情况还得看游戏的文本量。</li>
-<li>如果文本量比较多，代码比较反人类，可能一个小时只能做个一个，有可能要花两个小时。</li>
-<li>如果文本量比较少，代码也比较简单，而且也不需要做mod之类的，那么一个小时能做两三个，甚至两个小时能出五六个，都是很有可能的。</li>
-<li>毕竟我们的AI已经跑好了，我们只需要做补丁即可。</li>
-<li>哪怕有更新的游戏或者是没有跑过的AI，都可以挂在后台跑就行了，这不会影响我们制作补丁的，我们只需让Codex去盯着就行</li>
-<li>所以呢，接下来这段时间，我会尽量把剩下的一些补丁完成吧。</li>
-<li>如果顺利的话，可能在10月初左右，就能够顺利撒花完结了，然后进入半停更状态</li>
+</h2><p>现在是 7 月中旬，距离博客一周年（也就是国庆节）其实已经不远了。回头看，从今年 2、3 月份到现在，差不多 5 个月的时间里，我已经累计制作了超过七八十个补丁。</p>
+<p>这些补丁能高频更新，很大程度上得益于年初我用 AI 跑了上百个游戏。目前手里还剩下大概三四十个补丁需要制作。按照状态好时“一天两三个”的速度，到国庆节前后，这批存货应该就能全部清完。</p>
+<p>当然，实际进度还得看游戏的文本量和代码结构：</p>
+<ul>
+<li><strong>文本量大、代码反人类：</strong> 可能一两个小时只能做一个。</li>
+<li><strong>文本量小、代码简单、无需额外做 Mod：</strong> 一个小时做两三个，甚至出五六个都是有可能的。</li>
 </ul>
-<h2 id="为什么要进入半停更的状态">为什么要进入半停更的状态？
-</h2><ul>
-<li>那为什么要进入半停更的状态呢？继续更新不行吗？</li>
-<li>因为基本到那时候该做的游戏补丁都做了，剩下的只能干嘛呢？</li>
-<li>只能把之前做的补丁拿出来简润或者精润一下。</li>
-<li>不是不想做好，而是付出和收入不成正比。也不能说不成正比吧，从始至终都是在付出啊，收入是寥寥无几。</li>
-<li>而且简单做AI补丁跟做简润或者是精润，完全是两个概念来着</li>
-</ul>
-<h2 id="简润和精润需要投入多少">简润和精润需要投入多少？
-</h2><ul>
-<li>那为什么会进入半停更状态呢？</li>
-<li>难道就不能继续更新了？</li>
-<li>其实原因很简单，因为到那个时候基本能做的补丁都做了。</li>
-<li>那剩下能干嘛呢？</li>
-<li>只能把之前做好的AI补丁进行简润或者精润优化</li>
-<li>但问题在于，不是我不想把质量做好，而是这个付出跟收入是真不成正比。</li>
-<li>说句不好听的，做这个补丁是一直在亏损，收入其实非常有限。</li>
-<li>大家可以看之前发过的一篇感谢页，就知道了。</li>
-<li>两年的收入只有两三千，唉…</li>
-<li>而且，简单制作AI补丁，和制作简润、精润补丁，完全是两个不同的工作量。</li>
-<li>就拿简润来举例子吧，需要跑两三次AI，为什么要跑两三次呢？</li>
-<li>原因很简单，众所周知，AI是会出现幻觉的。</li>
-<li>同一句文本，不同的模型，不同次数跑出来的结果都可能完全不同。</li>
-<li>其实这和一些AI生成视频啊、AI生成图片啊，都是一样的，都是抽卡的一个原理</li>
-<li>那么token、时间、精力，这些都要乘以3，这还是在非常理想，一切顺利的情况下的。</li>
-<li>如果遇到请求失败、Token限制、网络问题、模型异常，实际的消耗还是远大于3倍的。</li>
-<li>但烧的token只是这其中最最最小的问题，最大的问题是时间和精力。</li>
-<li>因为简润不像是做AI补丁一样，用Python脚本简单统一一下人名、专有名词，修一下bug就可以出炉了。</li>
-<li>而是需要投入大量的精力。要分析哪一句话更自然，哪个表达更符合中文习惯，哪些地方需要修正，哪些专有名词需要统一，哪些专幻觉句子需要优化。</li>
-<li>如果文本量比较少，可能短则两三天，长则一个星期就可以解决。</li>
-<li>如果文本量比较大。那么可能需要短则一个星期，长则半个月甚至更久。</li>
-<li>这里说的两三天，不是说我一天花费两个小时就算一天，而是按照实际的总时间。</li>
-<li>那么简润都已经这么麻烦了，精润的工作量只会更多，因为有的时候可能需要跑6次AI、跑9次AI，甚至更多。</li>
-<li>这样成本下来自然会大幅度增加。</li>
-<li>但最大的问题并不是token，而是时间</li>
-<li>因为最后依然需要人工一句一句去检索，比如哪一句表达更自然，哪一种语气更符合角色，哪个版本更贴合剧情。</li>
-<li>这些东西即使投入再多的token也无法完全交给AI处理</li>
-<li>哪怕我用Codex、我用Claude Code、我用反重力、我多烧点token，但这些agent也会出现幻觉，到最后还得人工去修正， token没了、精力没了、时间也没了。</li>
-<li>这也就是为什么我宁愿多跑几个AI补丁，也不愿意去做这些简润、精润，这也是为什么之后会逐渐进入半停更状态的主要原因</li>
-</ul>
+<p>接下来的这段时间，我会尽量把剩下的存货清空。哪怕有更新的游戏或者是没有跑过的AI，都可以挂在后台跑就行了，这不会影响制作补丁的速度，可以让Codex去盯着。顺利的话，10 月初就能顺利撒花完结，然后进入半停更。</p>
+<h2 id="为什么要进入半停更状态">为什么要进入半停更状态？
+</h2><p>肯定有人会问：继续更新不行吗？</p>
+<p>因为到了那个时候，基本能做的 AI 补丁都做完了。剩下的时间如果继续折腾，只能去把之前做好的补丁拿出来做<strong>简润</strong>或<strong>精润</strong>。</p>
+<p>但问题在于：不是我不想把质量做好，而是<strong>付出与收入真的一点都不成正比</strong>。或者说，从始至终都是在单方面付出，收入寥寥无几。</p>
+<p>大家可能不知道，做 AI 跑出来的初版补丁，跟做人工简润/精润，完全是两个维度的概念。</p>
+<p>就拿<strong>简润</strong>来说，众所周知 AI 是会有幻觉的，同一句话不同模型、不同次数跑出来的结果完全不同（就像 AI 画图抽卡一样）。为了对比效果，我需要跑两三次甚至更多次 AI。</p>
+<blockquote>
+<p>遇到请求失败、Token 限制、网络问题，消耗的资源远大于 3 倍。但烧 Token 只是最小的代价，<strong>最大的代价是时间和精力</strong>。</p>
+</blockquote>
+<p>简润不能像做初版补丁那样，用个 Python 脚本统一一下名词就完事了。它需要人工一句句去检索：哪句话更自然？哪个语气更符合角色？哪些是 AI 幻觉需要修正？
+文本量少，需要两三天（是实际耗时的两三天，不是每天两小时）；文本量大，长则半个月。</p>
+<p>简润尚且如此，精润需要跑 6 次、9 次甚至更多次 AI，成本呈指数级上升。哪怕我用 Codex、Claude Code、反重力，烧再多 Token，Agent 依然会有幻觉。最后还是得人工修。<strong>Token 没了，精力没了，时间也没了。</strong></p>
+<p>这就是为什么我宁愿多跑几个 AI 补丁，也不愿意去做简润精润的主要原因。</p>
 <h2 id="关于我的汉化标准">关于我的汉化标准
-</h2><ul>
-<li>这也和我的汉化要求有关。</li>
-<li>其实我玩这些视觉小说，对要求汉化并没有那么高，我是觉得基本能看懂就行了</li>
-<li>而且平心而论，大家玩这些难登大雅的下九流，不就是为了CG而来的吗？只要CG剧情看得懂，那不久ok了 ？</li>
-<li>当然，萝卜青菜，各有所爱。</li>
-<li>每个人对汉化质量要求不同，有人希望能达到官中水准，也有人像我一样，能够正常理解剧情即可。</li>
-<li>这些不同的要求我也能够理解</li>
-</ul>
+</h2><p>平心而论，大家玩这些难登大雅的“下九流”视觉小说，不就是冲着 CG 来的吗？只要剧情能看懂，CG 能看到，不就 OK 了？</p>
+<p>对我自己而言，基本能看懂就行。当然，萝卜青菜各有所爱，有人希望达到官中水准，这些要求我也能理解，但我确实精力有限。</p>
 <h2 id="关于最近的一些争议">关于最近的一些争议
-</h2><ul>
-<li>关于一些争议，最近我也看到有关于我的评论。</li>
-<li>当然我自己是没有加那些群的，是一些水友告诉我的，就是一直在吐槽我汉化质量不好。</li>
-<li>这些问题我也心知肚明，AI是会出现幻觉的，不可能说啊100%非常的完美</li>
-<li>其实该怎么说呢？有bug、有问题、有瑕疵，我已经在每篇博文都叠好甲了。</li>
-<li>做这些补丁只是为了帮助一些水友而已，我自己是不玩的。我前面已经说过了，我是没有时间的，所以我哪来的时间去玩？对吧？</li>
-<li>其实啊，出现问题也是非常正常的。有问题啊，可以向我反馈，像那几位水友一样，出现bug了或者是错译啊，出现幻觉了。</li>
-<li>我有空啊，肯定会修复，只是时间问题，没必要再这样子背后一直吐槽我，阴阳怪气我，我真不欠你们</li>
-<li>这也就是为什么我不愿意去做简润、精润啊。</li>
-<li>我做个AI补丁都有这么多闲言杂语，那如果去做简润、做精润，投入那么大，那回报肯定…</li>
-<li>所以我觉得没必要，多此一举而已</li>
-</ul>
+</h2><p>最近我也从水友那里听到了一些关于我的争议，一直有人在背后吐槽我汉化质量不好。</p>
+<p>这些问题我心知肚明，AI 会有幻觉，不可能 100% 完美。我已经在每篇博文里都把<strong>甲</strong>叠好了：<strong>做这些补丁只是为了帮助有需要的水友，我自己根本没时间玩。</strong></p>
+<p>出现 Bug 或错译很正常，有空我肯定会修。但真没必要在背后一直阴阳怪气我，<strong>我真不欠你们的</strong>。这也侧面印证了为什么我不愿意做精润——我做个AI意译补丁都有这么多闲言碎语，要是花大精力做精润，那回报简直不敢想，纯属多此一举。</p>
 <h2 id="关于圈米">关于“圈米”
-</h2><ul>
-<li>还有关于圈米的，这个是最难绷的。</li>
-<li>我开爱发电、开爱赞助，一共两年了，收到的打赏和投喂只有两三千。</li>
-<li>其实说句不好听的话，这些钱啊，连跑AI的本都没有回回来。</li>
-<li>如果单纯为了赚钱。其实我不会坚持这么久</li>
-<li>因为以前不做补丁的时候，我玩游戏就单纯玩游戏啊</li>
-<li>不用每天工作之余去学代码、研究AI，修复bug。</li>
-<li>以前有时间我可以出去走走、骑骑车、跑跑步。</li>
-<li>但现在每天都花在这些闲杂碎事上面，再加上一些争议和压力，确实是产生一些疲惫感，哪怕我最初很有热情，到现在已经也消磨光了</li>
-</ul>
+</h2><p>这是最让我难绷的。</p>
+<p>我开爱发电和爱赞助两年了，收到的打赏和投喂<strong>总共只有两三千块</strong>。</p>
+<p>具体可以看这篇博文：<a class="link" href="https://luoqian29.github.io/p/support/"  target="_blank" rel="noopener"
+    >感谢页</a></p>
+<p>说句不好听的，这些钱连我跑 AI 烧的电费和 Token 本金都没回本。如果单纯为了赚钱，我根本坚持不到今天。</p>
+<p>以前不做补丁的时候，我闲下来可以出去走走、骑骑车、跑跑步。现在每天工作之余还要学代码、研究 AI、修复 Bug。花大把时间处理这些琐事，还要承受一些莫名其妙的争议和压力，最初的热情确实已经被消磨得差不多了。</p>
 <h2 id="为什么最开始会做这些补丁">为什么最开始会做这些补丁？
-</h2><ul>
-<li>其实最初的原因非常简单，就是帮一些有需要的水友仅此而已。</li>
-<li>以前在抖音直播的时候，跟水友们聊天，都说没有汉化，没有资源，看不懂英文。</li>
-<li>所以想着，既然自己也跑了那么多个游戏，毕竟有上百个了，那么就顺便帮这些水友制作一下补丁吧。</li>
-<li>其实也非常感谢这些水友的陪伴啊，因为这个，我也慢慢学会了一些编程语言啊、Python、Java、还有一些游戏文件的结构，以及AI的使用，还有一些GitHub上的skill跟agent之类的。</li>
-<li>如果没有开始做些补丁啊，或许我不会接触这些AI啊，也不能说不会接触吧，可能是会往后一点点接触而已。</li>
-<li>从某种意义上来讲，这段经历也算是值得的</li>
-</ul>
-<h2 id="关于热门游戏更新">关于热门游戏更新
-</h2><ul>
-<li>关于一些热门游戏的更新，就7月中旬到10月初还是有一段时间的。</li>
-<li>那么肯定也会有一些热门游戏更新啊，但以后不可能会第一时间做AI补丁了。</li>
-<li>原因比较复杂，但也有可能是等一些mod作者更新后，会做这些补丁。</li>
-<li>因为有些VN是有人做精翻的，我就没必要去掺和了，就拿自己的AI补丁去献丑了。</li>
-<li>因为继续跟进可能会产生一些不必要的误会啊，有些水友是了解的，就是之前的异世界天堂的差不多吧。</li>
-<li>因为这些事还是会遇到很多不必要的问题，会有些人一直喷我，吐槽我阴阳怪气我。</li>
-<li>虽然很多评论我自己没有亲眼见到，但是都是一些水友转述给我的。</li>
-<li>所以长期下来确实会影响心情。</li>
-</ul>
+</h2><p>最初的原因很简单：<strong>帮一些看不懂英文的水友而已</strong>。</p>
+<p>以前在抖音直播时，大家总说没资源、看不懂。想着既然自己手里跑了上百个游戏，就顺手做成补丁发出来吧。也很感谢这些水友的陪伴，因为这段经历，我慢慢学会了 Python、Java、游戏文件结构、AI 部署以及 GitHub 的各种玩法。</p>
+<p>从某种意义上来讲，这段经历是值得的。</p>
+<h2 id="关于后续的热门游戏">关于后续的热门游戏
+</h2><p>7 月中旬到 10 月初，肯定还会有热门游戏更新。但以后我<strong>不可能再第一时间去做 AI 补丁了</strong>。</p>
+<p>一方面是有些热门 VN 已经有大佬在做精翻，我没必要拿 AI 补丁去献丑；另一方面，也是为了避免不必要的误会和节奏（懂异世界天堂那波节奏的水友应该都懂）。长期被喷、被阴阳怪气，确实很影响心情，多一事不如少一事。</p>
 <h2 id="最后">最后
-</h2><ul>
-<li>一路走下来啊，博客最初只有七八个自己喜欢玩的游戏的补丁，到现在的上百个啊。</li>
-<li>其实已经超过当初的想象了。</li>
-<li>感谢一直支持我的水友，愿意使用补丁，愿意反馈问题，愿意提出意见的水友。</li>
-<li>接下来会尽量完成剩余想做的内容，之后更新可能会慢很多，有可能进入，长期的维护状态</li>
-<li>但无论如何，且玩且珍惜啊，感谢大家的一路支持！</li>
-</ul>
+</h2><p>一路走下来，博客从最初只有七八个补丁，到现在积累了上百个，其实已经远超我当初的想象了。</p>
+<p>感谢一直支持我、愿意使用补丁、积极反馈问题和提出意见的真实水友们。接下来我会尽量把剩下的坑填完，之后就会放慢脚步，进入长期的佛系维护状态。</p>
+<p>无论如何，<strong>且玩且珍惜，感谢大家的一路陪伴！</strong></p>
 
 </section>
 
@@ -494,7 +458,7 @@
 
 
         <span>
-            最后更新于 2026年07月14日 08:23
+            最后更新于 2026年07月22日 05:43
         </span>
     </section>
 <div class="reward-container">
@@ -581,7 +545,7 @@
         <a class="pre-next-btn bg" href="https://luoqian29.github.io/p/update/">&lt;&lt; 2026年七月中旬至十月初的博文更新计划</a>
        
        
-        <a class="pre-next-btn bg" href="https://luoqian29.github.io/p/support/">爱发电爱赞助投喂感谢页 >> </a>
+        <a class="pre-next-btn bg" href="https://luoqian29.github.io/p/fashionbusiness/">Fashion Business 时尚女王莫妮卡 >> </a>
        
     </div>
 
@@ -1261,10 +1225,12 @@
         
         
         
+        
+        
         共发表
-        293
+        294
         篇文章 · 总计
-        579.78k
+        576.29k
         字
     </div>
 
