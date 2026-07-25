@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='https://luoqian29.github.io/p/theneverwheretales/'>
 
-<link rel="stylesheet" href="/scss/style.min.001112f49dce1e6eb8e4d370c0d407bb21876b546760cc01d09aa003f843f009.css"><meta property='og:title' content="The Neverwhere Tales 虚域传说">
+<link rel="stylesheet" href="/scss/style.min.6301af9d81ca24a89f8cd69f06e59a05453a1fe333e01b112dfe84adc77f0660.css"><meta property='og:title' content="The Neverwhere Tales 虚域传说">
 <meta property='og:description' content="The Neverwhere Tales [v0.7.0.3] [Ceolag]">
 <meta property='og:url' content='https://luoqian29.github.io/p/theneverwheretales/'>
 <meta property='og:site_name' content='一落归谦'>
@@ -1692,7 +1692,7 @@
         共发表
         302
         篇文章 · 总计
-        595.15k
+        593.04k
         字
     </div>
 
@@ -2115,6 +2115,120 @@
   }
 </style>
 
+
+
+
+<div id="reading-progress-bar"></div>
+<style>
+  #reading-progress-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 3px;
+    background: var(--accent-color);
+    width: 0%;
+    z-index: 99999;
+    transition: width 0.1s ease-out;
+    box-shadow: 0 0 5px var(--accent-color);
+  }
+</style>
+<script>
+  window.addEventListener('scroll', function() {
+    let scrollTop = window.scrollY || document.documentElement.scrollTop;
+    let scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    let progress = (scrollTop / scrollHeight) * 100;
+    let bar = document.getElementById('reading-progress-bar');
+    if (bar) {
+      if (scrollHeight > 50) {
+        bar.style.width = progress + '%';
+        bar.style.opacity = '1';
+      } else {
+        bar.style.opacity = '0';
+      }
+    }
+  });
+</script>
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('revealed');
+                
+                setTimeout(() => {
+                    entry.target.style.transitionDelay = '0s';
+                }, 500);
+            }
+        });
+    }, {
+        threshold: 0.1, 
+        rootMargin: "0px 0px -50px 0px" 
+    });
+
+    const cards = document.querySelectorAll('.article-list article, .article-list--tile article, .article-list--compact article');
+    cards.forEach((card, index) => {
+        card.classList.add('scroll-reveal');
+        
+        if(index < 8) {
+            card.style.transitionDelay = (index * 0.08) + 's';
+        }
+        observer.observe(card);
+    });
+});
+</script>
+
+
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const subtitleElement = document.querySelector('.site-description');
+    if (subtitleElement && subtitleElement.textContent.trim().length > 0) {
+        const originalText = subtitleElement.textContent.trim();
+        subtitleElement.textContent = ''; 
+        
+        
+        subtitleElement.style.borderRight = '2px solid var(--card-text-color-main)';
+        subtitleElement.style.whiteSpace = 'nowrap';
+        subtitleElement.style.display = 'inline-block';
+        subtitleElement.style.paddingRight = '2px';
+        
+        
+        const cursorStyle = document.createElement('style');
+        cursorStyle.innerHTML = `
+            @keyframes blinkCursor {
+                0%, 100% { border-right-color: transparent; }
+                50% { border-right-color: var(--card-text-color-main); }
+            }
+            .site-description {
+                animation: blinkCursor 0.8s step-end infinite;
+            }
+        `;
+        document.head.appendChild(cursorStyle);
+
+        let i = 0;
+        function typeWriter() {
+            if (i < originalText.length) {
+                subtitleElement.textContent += originalText.charAt(i);
+                i++;
+                
+                let speed = Math.random() * 50 + 80;
+                setTimeout(typeWriter, speed); 
+            } else {
+                
+                subtitleElement.style.borderRight = 'none';
+                subtitleElement.style.animation = 'none';
+            }
+        }
+        
+        setTimeout(typeWriter, 800); 
+    }
+});
+</script>
 
     </body>
 </html>

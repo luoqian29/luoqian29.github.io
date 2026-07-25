@@ -7,13 +7,13 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Fri, 24 Jul 2026 08:09:11 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>2026年七月中旬至十月初的博文更新计划</title>
+        <lastBuildDate>Sun, 26 Jul 2026 00:45:30 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>博文更新计划与路线图</title>
         <link>https://luoqian29.github.io/p/update/</link>
         <pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/update/</guid>
-        <description>&lt;img src="https://pbs.twimg.com/media/HNJbuBhbsAA0iq-?format=jpg&amp;name=4096x4096" alt="Featured image of post 2026年七月中旬至十月初的博文更新计划" /&gt;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HNJbt_3aEAAT55S?format=jpg&amp;amp;name=large&#34;
+        <description>&lt;img src="https://pbs.twimg.com/media/HNJbuBhbsAA0iq-?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HNJbt_3aEAAT55S?format=jpg&amp;amp;name=large&#34;
 	
 	
 	
@@ -24,43 +24,84 @@
 	
 &gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;关于进度&#34;&gt;关于进度
-&lt;/h2&gt;&lt;p&gt;闲话少叙，简单说一下最近以及接下来的更新安排吧。&lt;/p&gt;
-&lt;p&gt;现在是 7 月中旬嘛，距离 10 月初（也就是国庆），刚刚好还有&lt;strong&gt;两个半月&lt;/strong&gt;（哈哈，这里真没玩梗啊，刚刚好两个半月）。按照之前的计划，这段时间内我会把剩下的 AI 意译补丁全部做完，估计有四五十个吧。&lt;/p&gt;
-&lt;p&gt;具体可以看这篇博文：&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/p/other/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;且玩且珍惜&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;关于汉化补丁&#34;&gt;关于汉化补丁
-&lt;/h2&gt;&lt;p&gt;然后就是之前答应一些水友制作的补丁。因为时间隔得有点久，现在我自己也差不多快忘记了。如果你的游戏补丁还没有制作，或者你有想做的游戏，都可以再提醒我一下，在 &lt;strong&gt;TG 群&lt;/strong&gt;或者是 &lt;strong&gt;GitHub 评论区&lt;/strong&gt;留言就行。&lt;/p&gt;
+&lt;p&gt;闲话少叙，简单说一下最近以及接下来的更新安排。距离 10 月初（也就是国庆），刚刚好还有&lt;strong&gt;两个半月&lt;/strong&gt;。这段时间内我会把剩下的 AI 意译补丁全部做完，估计还有四五十个。&lt;/p&gt;
+&lt;h2 id=&#34;-博客路线图-roadmap&#34;&gt;🗺️ 博客路线图 (Roadmap)
+&lt;/h2&gt;&lt;div class=&#34;mac-timeline&#34;&gt;
+    
+
+&lt;div class=&#34;mac-timeline-item&#34;&gt;
+    &lt;div class=&#34;mac-timeline-date&#34;&gt;补丁制作计划&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-content&#34;&gt;
+        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;遗漏补丁提醒机制 🔔&lt;/h3&gt;
+        &lt;div class=&#34;mac-timeline-desc&#34;&gt;&lt;p&gt;之前答应一些水友制作的补丁，因为时间隔得久，我自己也快忘记了。如果你的游戏补丁还没做，或者你有想做的，都可以在 &lt;strong&gt;TG 群&lt;/strong&gt; 或 &lt;strong&gt;GitHub 评论区&lt;/strong&gt; 留言提醒我。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;💡 &lt;strong&gt;小提醒&lt;/strong&gt;：我制作补丁并不是严格按照列表顺序来的，基本就是想到哪个、看到哪个适合就做哪个。所以如果没有提醒，刚好我又遗漏了，那这个补丁可能真的就会被遗忘啦。&lt;/p&gt;
+&lt;p&gt;💡 &lt;strong&gt;小提醒&lt;/strong&gt;：我制作补丁不是严格按列表顺序来的，想到哪个就做哪个。所以如果没有提醒，刚好我又遗漏了，那这个补丁可能真的就会被遗忘啦。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&#34;关于订阅制&#34;&gt;关于订阅制
-&lt;/h2&gt;&lt;p&gt;之前部分 AI 意译补丁会采用订阅制（发布后 7 天左右再公开）。不过接下来这段时间的大部分补丁，&lt;strong&gt;就不再添加订阅限制了&lt;/strong&gt;，都会直接公开发布。&lt;/p&gt;
-&lt;p&gt;主要原因还是订阅制本身会额外增加不少流程。每次发布补丁，除了写文章、Push 到 GitHub，还需要去爱发电和爱赞助分别开帖子，然后再把链接贴到博文里，一个星期后还得修改博文公开补丁…… 这些流程来来回回确实太占用时间了。&lt;/p&gt;
-&lt;p&gt;当然，具体还是要看游戏情况。如果有些游戏比较麻烦、文本量大、制作耗时久，可能还是会考虑加一下订阅制。毕竟制作补丁也需要投入时间和精力，如果能获得一点支持，也算是种鼓励嘛。有条件的水友可以投喂支持一下，没条件的话捧个人场也行，哈哈。&lt;/p&gt;
-&lt;h2 id=&#34;关于汉化教程&#34;&gt;关于汉化教程
-&lt;/h2&gt;&lt;p&gt;在接下来的两个半月内，除了继续制作补丁，我也会把之前答应大家的汉化教程整理出来。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;🎮 Unity 引擎汉化教程（预计 7 月底）&lt;/strong&gt;
-这个相对简单，不需要大家拥有编程基础。基本流程就是：安装工具 -&amp;gt; 配置环境 -&amp;gt; 调用 API -&amp;gt; 实现游戏内实时翻译。过程会尽量做到通俗易懂，即使完全不懂代码也能跟着图文搞定。其实这篇教程我原本计划 5 月底就写的，但最近补丁实在太多，一直没抽出空。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;💻 Ren&amp;rsquo;Py 引擎汉化教程（预计 10 月初之后）&lt;/strong&gt;
-这个会稍微复杂点，需要一定的代码基础。加上不同作者的代码习惯差异非常大，有些写法简直“反人类”，所以这个教程会放到后面慢慢整理。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;关于十月之后&#34;&gt;关于十月之后
-&lt;/h2&gt;&lt;p&gt;10 月之后的博客更新计划，整体会轻松不少，&lt;strong&gt;博客更新频率也会有所降低&lt;/strong&gt;，不会再保持现在这种高频状态了。&lt;/p&gt;
-&lt;p&gt;后续还是会制作一些简润补丁（比如我自己经常玩的游戏），但其他大部分游戏，可能不会再投入大量时间去搞精润或简润了。主要还是产出比例的问题：打磨一个简润补丁的时间，都已经够做四五个 AI 意译补丁了。&lt;/p&gt;
-&lt;p&gt;所以，与其花大量时间制作少量高质量补丁，不如把汉化教程整理出来，让大家自己掌握汉化方法。毕竟现在 AI 汉化成本越来越低：追求质量可以选择强力模型，只求能玩也有高性价比模型。大家可以根据需求自行选择，&lt;strong&gt;授人以鱼不如授人以渔&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;总之，接下来的主要目标就是完成剩余补丁 + 更新汉化教程。感谢大家一直以来的支持和陪伴。&lt;/p&gt;
-&lt;p&gt;还是那句话：&lt;strong&gt;且玩且珍惜&lt;/strong&gt;。&lt;/p&gt;
-&lt;h2 id=&#34;关于联系方式&#34;&gt;关于联系方式
-&lt;/h2&gt;&lt;p&gt;考虑到一部分水友没有 GitHub 或 Telegram，这里提供一个绿泡泡联系方式。&lt;/p&gt;
-&lt;p&gt;我不怎么玩企鹅（QQ），主要是企鹅的信息不怎么通知，绿泡泡提醒比较及时。毕竟我的小破站已经进小黑屋了，音符上又不能发图片，有些水友反馈 bug 或推荐游戏需要发截图，绿泡泡会方便些。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;⚠️ 注意&lt;/strong&gt;：加好友后可以直接发问题截图，但&lt;strong&gt;千万别发一些奇奇怪怪的内容&lt;/strong&gt;（比如色图之类的），不然号又被抬走了！我之前的号就是这么没的，现在只能看不能发，心累。&lt;/p&gt;
-&lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;cursor:pointer;&#34;&gt;绿泡泡&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;微信号&lt;/strong&gt;：&lt;code&gt;luoqian292929&lt;/code&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/HN85nl4aoAAKp3l?format=jpg&amp;amp;name=large&#34;
+&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;mac-timeline-item&#34;&gt;
+    &lt;div class=&#34;mac-timeline-date&#34;&gt;7月中旬至月底&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-content&#34;&gt;
+        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;取消强制订阅制 🔓&lt;/h3&gt;
+        &lt;div class=&#34;mac-timeline-desc&#34;&gt;&lt;p&gt;接下来这段时间的大部分补丁，&lt;strong&gt;就不再添加订阅限制了&lt;/strong&gt;，都会直接公开发布。
+主要原因是订阅制流程太繁琐：每次发布除了写文章、Push，还得去爱发电开帖子、贴链接，一个星期后还得再修改博文公开…… 真的太占时间。&lt;/p&gt;
+&lt;p&gt;当然，如果遇到极其麻烦、文本量大、耗时久的游戏，可能还是会考虑加一下订阅制。毕竟制作也需要精力，有条件的水友可以投喂支持一下，没条件捧个人场也行。&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;mac-timeline-item&#34;&gt;
+    &lt;div class=&#34;mac-timeline-date&#34;&gt;7月底&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-content&#34;&gt;
+        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;🎮 Unity 引擎汉化教程&lt;/h3&gt;
+        &lt;div class=&#34;mac-timeline-desc&#34;&gt;&lt;strong&gt;不需要编程基础&lt;/strong&gt;。基本流程：安装工具 -&amp;gt; 配置环境 -&amp;gt; 调用 API -&amp;gt; 实现游戏内实时翻译。
+过程会尽量做到通俗易懂，即使完全不懂代码也能跟着图文搞定。这篇教程原本计划 5 月底就写，最近补丁太多一直没抽出空。&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;mac-timeline-item&#34;&gt;
+    &lt;div class=&#34;mac-timeline-date&#34;&gt;10月初&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-content&#34;&gt;
+        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;💻 Ren&amp;#39;Py 引擎汉化教程&lt;/h3&gt;
+        &lt;div class=&#34;mac-timeline-desc&#34;&gt;这个会稍微复杂点，&lt;strong&gt;需要一定的代码基础&lt;/strong&gt;。加上不同作者的代码习惯差异非常大，有些写法简直“反人类”，所以这部分硬骨头会放到十月之后慢慢整理。&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;mac-timeline-item&#34;&gt;
+    &lt;div class=&#34;mac-timeline-date&#34;&gt;10月之后&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-content&#34;&gt;
+        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;佛系更新与简润权衡 🎣&lt;/h3&gt;
+        &lt;div class=&#34;mac-timeline-desc&#34;&gt;10 月之后的博客整体会轻松不少，&lt;strong&gt;更新频率会降低&lt;/strong&gt;。
+后续还是会做一些简润补丁（我自己常玩的游戏），但其他大部分游戏不会投入大量时间搞精润了。毕竟产出比例在那：打磨一个简润的时间，够做四五个 AI 意译补丁了。与其花大量时间制作少量高质量补丁，不如把汉化教程整理出来，让大家自己掌握汉化方法，&lt;strong&gt;授人以鱼不如授人以渔&lt;/strong&gt;。&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-关于联系方式-新增绿泡泡&#34;&gt;💬 关于联系方式 (新增绿泡泡)
+&lt;/h2&gt;&lt;p&gt;考虑到一部分水友没有 GitHub 或 Telegram，这里提供一个绿泡泡联系方式。我不怎么玩企鹅（QQ），主要是企鹅信息不通知，绿泡泡提醒比较及时。毕竟我的小破站已经进小黑屋了，音符上又不能发图片，大家反馈 bug 或推荐游戏发截图，绿泡泡会方便些。&lt;/p&gt;
+&lt;div class=&#34;mac-grid&#34;&gt;
+    
+&lt;div class=&#34;mac-card&#34;&gt;
+    &lt;div class=&#34;mac-card-icon&#34;&gt;💬&lt;/div&gt;
+    &lt;h3 class=&#34;mac-card-title&#34;&gt;微信联系&lt;/h3&gt;
+    &lt;div class=&#34;mac-card-desc&#34;&gt;&lt;p&gt;&lt;strong&gt;微信号&lt;/strong&gt;：&lt;code&gt;luoqian292929&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⚠️ 注意&lt;/strong&gt;：加好友后直接发问题截图即可，但&lt;strong&gt;千万别发奇奇怪怪的内容（比如色图）&lt;/strong&gt;，不然号又被抬走了！我之前的号就是这么没的，现在只能看不能发，心累。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;details style=&#34;margin-top: 20px;&#34;&gt;
+&lt;summary style=&#34;color:var(--accent-color);font-weight:600;cursor:pointer;font-size:1.2rem;&#34;&gt;点击扫码添加聊天群&lt;/summary&gt;
+&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HN85nl4aoAAKp3l?format=jpg&amp;amp;name=large&#34;
 	
 	
 	
@@ -69,9 +110,9 @@
 		alt=&#34;聊天群&#34;
 	
 	
-&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;</description>
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+</description>
         </item>
         
     </channel>

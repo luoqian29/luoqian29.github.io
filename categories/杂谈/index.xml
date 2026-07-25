@@ -7,13 +7,13 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Fri, 24 Jul 2026 08:09:11 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>2026年七月中旬至十月初的博文更新计划</title>
+        <lastBuildDate>Sun, 26 Jul 2026 00:45:30 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>博文更新计划与路线图</title>
         <link>https://luoqian29.github.io/p/update/</link>
         <pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/update/</guid>
-        <description>&lt;img src="https://pbs.twimg.com/media/HNJbuBhbsAA0iq-?format=jpg&amp;name=4096x4096" alt="Featured image of post 2026年七月中旬至十月初的博文更新计划" /&gt;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HNJbt_3aEAAT55S?format=jpg&amp;amp;name=large&#34;
+        <description>&lt;img src="https://pbs.twimg.com/media/HNJbuBhbsAA0iq-?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HNJbt_3aEAAT55S?format=jpg&amp;amp;name=large&#34;
 	
 	
 	
@@ -24,43 +24,84 @@
 	
 &gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;关于进度&#34;&gt;关于进度
-&lt;/h2&gt;&lt;p&gt;闲话少叙，简单说一下最近以及接下来的更新安排吧。&lt;/p&gt;
-&lt;p&gt;现在是 7 月中旬嘛，距离 10 月初（也就是国庆），刚刚好还有&lt;strong&gt;两个半月&lt;/strong&gt;（哈哈，这里真没玩梗啊，刚刚好两个半月）。按照之前的计划，这段时间内我会把剩下的 AI 意译补丁全部做完，估计有四五十个吧。&lt;/p&gt;
-&lt;p&gt;具体可以看这篇博文：&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/p/other/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;且玩且珍惜&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;关于汉化补丁&#34;&gt;关于汉化补丁
-&lt;/h2&gt;&lt;p&gt;然后就是之前答应一些水友制作的补丁。因为时间隔得有点久，现在我自己也差不多快忘记了。如果你的游戏补丁还没有制作，或者你有想做的游戏，都可以再提醒我一下，在 &lt;strong&gt;TG 群&lt;/strong&gt;或者是 &lt;strong&gt;GitHub 评论区&lt;/strong&gt;留言就行。&lt;/p&gt;
+&lt;p&gt;闲话少叙，简单说一下最近以及接下来的更新安排。距离 10 月初（也就是国庆），刚刚好还有&lt;strong&gt;两个半月&lt;/strong&gt;。这段时间内我会把剩下的 AI 意译补丁全部做完，估计还有四五十个。&lt;/p&gt;
+&lt;h2 id=&#34;-博客路线图-roadmap&#34;&gt;🗺️ 博客路线图 (Roadmap)
+&lt;/h2&gt;&lt;div class=&#34;mac-timeline&#34;&gt;
+    
+
+&lt;div class=&#34;mac-timeline-item&#34;&gt;
+    &lt;div class=&#34;mac-timeline-date&#34;&gt;补丁制作计划&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-content&#34;&gt;
+        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;遗漏补丁提醒机制 🔔&lt;/h3&gt;
+        &lt;div class=&#34;mac-timeline-desc&#34;&gt;&lt;p&gt;之前答应一些水友制作的补丁，因为时间隔得久，我自己也快忘记了。如果你的游戏补丁还没做，或者你有想做的，都可以在 &lt;strong&gt;TG 群&lt;/strong&gt; 或 &lt;strong&gt;GitHub 评论区&lt;/strong&gt; 留言提醒我。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;💡 &lt;strong&gt;小提醒&lt;/strong&gt;：我制作补丁并不是严格按照列表顺序来的，基本就是想到哪个、看到哪个适合就做哪个。所以如果没有提醒，刚好我又遗漏了，那这个补丁可能真的就会被遗忘啦。&lt;/p&gt;
+&lt;p&gt;💡 &lt;strong&gt;小提醒&lt;/strong&gt;：我制作补丁不是严格按列表顺序来的，想到哪个就做哪个。所以如果没有提醒，刚好我又遗漏了，那这个补丁可能真的就会被遗忘啦。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&#34;关于订阅制&#34;&gt;关于订阅制
-&lt;/h2&gt;&lt;p&gt;之前部分 AI 意译补丁会采用订阅制（发布后 7 天左右再公开）。不过接下来这段时间的大部分补丁，&lt;strong&gt;就不再添加订阅限制了&lt;/strong&gt;，都会直接公开发布。&lt;/p&gt;
-&lt;p&gt;主要原因还是订阅制本身会额外增加不少流程。每次发布补丁，除了写文章、Push 到 GitHub，还需要去爱发电和爱赞助分别开帖子，然后再把链接贴到博文里，一个星期后还得修改博文公开补丁…… 这些流程来来回回确实太占用时间了。&lt;/p&gt;
-&lt;p&gt;当然，具体还是要看游戏情况。如果有些游戏比较麻烦、文本量大、制作耗时久，可能还是会考虑加一下订阅制。毕竟制作补丁也需要投入时间和精力，如果能获得一点支持，也算是种鼓励嘛。有条件的水友可以投喂支持一下，没条件的话捧个人场也行，哈哈。&lt;/p&gt;
-&lt;h2 id=&#34;关于汉化教程&#34;&gt;关于汉化教程
-&lt;/h2&gt;&lt;p&gt;在接下来的两个半月内，除了继续制作补丁，我也会把之前答应大家的汉化教程整理出来。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;🎮 Unity 引擎汉化教程（预计 7 月底）&lt;/strong&gt;
-这个相对简单，不需要大家拥有编程基础。基本流程就是：安装工具 -&amp;gt; 配置环境 -&amp;gt; 调用 API -&amp;gt; 实现游戏内实时翻译。过程会尽量做到通俗易懂，即使完全不懂代码也能跟着图文搞定。其实这篇教程我原本计划 5 月底就写的，但最近补丁实在太多，一直没抽出空。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;💻 Ren&amp;rsquo;Py 引擎汉化教程（预计 10 月初之后）&lt;/strong&gt;
-这个会稍微复杂点，需要一定的代码基础。加上不同作者的代码习惯差异非常大，有些写法简直“反人类”，所以这个教程会放到后面慢慢整理。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;关于十月之后&#34;&gt;关于十月之后
-&lt;/h2&gt;&lt;p&gt;10 月之后的博客更新计划，整体会轻松不少，&lt;strong&gt;博客更新频率也会有所降低&lt;/strong&gt;，不会再保持现在这种高频状态了。&lt;/p&gt;
-&lt;p&gt;后续还是会制作一些简润补丁（比如我自己经常玩的游戏），但其他大部分游戏，可能不会再投入大量时间去搞精润或简润了。主要还是产出比例的问题：打磨一个简润补丁的时间，都已经够做四五个 AI 意译补丁了。&lt;/p&gt;
-&lt;p&gt;所以，与其花大量时间制作少量高质量补丁，不如把汉化教程整理出来，让大家自己掌握汉化方法。毕竟现在 AI 汉化成本越来越低：追求质量可以选择强力模型，只求能玩也有高性价比模型。大家可以根据需求自行选择，&lt;strong&gt;授人以鱼不如授人以渔&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;总之，接下来的主要目标就是完成剩余补丁 + 更新汉化教程。感谢大家一直以来的支持和陪伴。&lt;/p&gt;
-&lt;p&gt;还是那句话：&lt;strong&gt;且玩且珍惜&lt;/strong&gt;。&lt;/p&gt;
-&lt;h2 id=&#34;关于联系方式&#34;&gt;关于联系方式
-&lt;/h2&gt;&lt;p&gt;考虑到一部分水友没有 GitHub 或 Telegram，这里提供一个绿泡泡联系方式。&lt;/p&gt;
-&lt;p&gt;我不怎么玩企鹅（QQ），主要是企鹅的信息不怎么通知，绿泡泡提醒比较及时。毕竟我的小破站已经进小黑屋了，音符上又不能发图片，有些水友反馈 bug 或推荐游戏需要发截图，绿泡泡会方便些。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;⚠️ 注意&lt;/strong&gt;：加好友后可以直接发问题截图，但&lt;strong&gt;千万别发一些奇奇怪怪的内容&lt;/strong&gt;（比如色图之类的），不然号又被抬走了！我之前的号就是这么没的，现在只能看不能发，心累。&lt;/p&gt;
-&lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;cursor:pointer;&#34;&gt;绿泡泡&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;微信号&lt;/strong&gt;：&lt;code&gt;luoqian292929&lt;/code&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/HN85nl4aoAAKp3l?format=jpg&amp;amp;name=large&#34;
+&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;mac-timeline-item&#34;&gt;
+    &lt;div class=&#34;mac-timeline-date&#34;&gt;7月中旬至月底&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-content&#34;&gt;
+        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;取消强制订阅制 🔓&lt;/h3&gt;
+        &lt;div class=&#34;mac-timeline-desc&#34;&gt;&lt;p&gt;接下来这段时间的大部分补丁，&lt;strong&gt;就不再添加订阅限制了&lt;/strong&gt;，都会直接公开发布。
+主要原因是订阅制流程太繁琐：每次发布除了写文章、Push，还得去爱发电开帖子、贴链接，一个星期后还得再修改博文公开…… 真的太占时间。&lt;/p&gt;
+&lt;p&gt;当然，如果遇到极其麻烦、文本量大、耗时久的游戏，可能还是会考虑加一下订阅制。毕竟制作也需要精力，有条件的水友可以投喂支持一下，没条件捧个人场也行。&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;mac-timeline-item&#34;&gt;
+    &lt;div class=&#34;mac-timeline-date&#34;&gt;7月底&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-content&#34;&gt;
+        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;🎮 Unity 引擎汉化教程&lt;/h3&gt;
+        &lt;div class=&#34;mac-timeline-desc&#34;&gt;&lt;strong&gt;不需要编程基础&lt;/strong&gt;。基本流程：安装工具 -&amp;gt; 配置环境 -&amp;gt; 调用 API -&amp;gt; 实现游戏内实时翻译。
+过程会尽量做到通俗易懂，即使完全不懂代码也能跟着图文搞定。这篇教程原本计划 5 月底就写，最近补丁太多一直没抽出空。&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;mac-timeline-item&#34;&gt;
+    &lt;div class=&#34;mac-timeline-date&#34;&gt;10月初&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-content&#34;&gt;
+        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;💻 Ren&amp;#39;Py 引擎汉化教程&lt;/h3&gt;
+        &lt;div class=&#34;mac-timeline-desc&#34;&gt;这个会稍微复杂点，&lt;strong&gt;需要一定的代码基础&lt;/strong&gt;。加上不同作者的代码习惯差异非常大，有些写法简直“反人类”，所以这部分硬骨头会放到十月之后慢慢整理。&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;mac-timeline-item&#34;&gt;
+    &lt;div class=&#34;mac-timeline-date&#34;&gt;10月之后&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-content&#34;&gt;
+        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;佛系更新与简润权衡 🎣&lt;/h3&gt;
+        &lt;div class=&#34;mac-timeline-desc&#34;&gt;10 月之后的博客整体会轻松不少，&lt;strong&gt;更新频率会降低&lt;/strong&gt;。
+后续还是会做一些简润补丁（我自己常玩的游戏），但其他大部分游戏不会投入大量时间搞精润了。毕竟产出比例在那：打磨一个简润的时间，够做四五个 AI 意译补丁了。与其花大量时间制作少量高质量补丁，不如把汉化教程整理出来，让大家自己掌握汉化方法，&lt;strong&gt;授人以鱼不如授人以渔&lt;/strong&gt;。&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-关于联系方式-新增绿泡泡&#34;&gt;💬 关于联系方式 (新增绿泡泡)
+&lt;/h2&gt;&lt;p&gt;考虑到一部分水友没有 GitHub 或 Telegram，这里提供一个绿泡泡联系方式。我不怎么玩企鹅（QQ），主要是企鹅信息不通知，绿泡泡提醒比较及时。毕竟我的小破站已经进小黑屋了，音符上又不能发图片，大家反馈 bug 或推荐游戏发截图，绿泡泡会方便些。&lt;/p&gt;
+&lt;div class=&#34;mac-grid&#34;&gt;
+    
+&lt;div class=&#34;mac-card&#34;&gt;
+    &lt;div class=&#34;mac-card-icon&#34;&gt;💬&lt;/div&gt;
+    &lt;h3 class=&#34;mac-card-title&#34;&gt;微信联系&lt;/h3&gt;
+    &lt;div class=&#34;mac-card-desc&#34;&gt;&lt;p&gt;&lt;strong&gt;微信号&lt;/strong&gt;：&lt;code&gt;luoqian292929&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⚠️ 注意&lt;/strong&gt;：加好友后直接发问题截图即可，但&lt;strong&gt;千万别发奇奇怪怪的内容（比如色图）&lt;/strong&gt;，不然号又被抬走了！我之前的号就是这么没的，现在只能看不能发，心累。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;details style=&#34;margin-top: 20px;&#34;&gt;
+&lt;summary style=&#34;color:var(--accent-color);font-weight:600;cursor:pointer;font-size:1.2rem;&#34;&gt;点击扫码添加聊天群&lt;/summary&gt;
+&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HN85nl4aoAAKp3l?format=jpg&amp;amp;name=large&#34;
 	
 	
 	
@@ -69,9 +110,9 @@
 		alt=&#34;聊天群&#34;
 	
 	
-&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;</description>
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+</description>
         </item>
         <item>
         <title>且玩且珍惜</title>
@@ -79,8 +120,7 @@
         <pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/other/</guid>
-        <description>&lt;img src="https://pbs.twimg.com/media/HMvYNbGaMAADuqC?format=jpg&amp;name=4096x4096" alt="Featured image of post 且玩且珍惜" /&gt;&lt;h2 id=&#34;且玩且珍惜&#34;&gt;且玩且珍惜
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMvYNa8bwAANkTw?format=jpg&amp;amp;name=large&#34;
+        <description>&lt;img src="https://pbs.twimg.com/media/HMvYNbGaMAADuqC?format=jpg&amp;name=4096x4096" alt="Featured image of post 且玩且珍惜" /&gt;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMvYNa8bwAANkTw?format=jpg&amp;amp;name=large&#34;
 	
 	
 	
@@ -91,56 +131,76 @@
 	
 &gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;关于后续补丁更新的一些说明&#34;&gt;关于后续补丁更新的一些说明
-&lt;/h2&gt;&lt;p&gt;先说结论吧：&lt;strong&gt;且玩且珍惜&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;先说结论吧：&lt;strong&gt;且玩且珍惜&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;按照目前的情况来看，大概到了今年 &lt;strong&gt;10月1日国庆节之后&lt;/strong&gt;，博客的更新频率会明显降低，正式进入一个&lt;strong&gt;半停更状态&lt;/strong&gt;。为什么会这样？主要还是因为时间和精力实在难以支撑了。&lt;/p&gt;
-&lt;h2 id=&#34;博客一周年与剩余更新计划&#34;&gt;博客一周年与剩余更新计划
-&lt;/h2&gt;&lt;p&gt;现在是 7 月中旬，距离博客一周年（也就是国庆节）其实已经不远了。回头看，从今年 2、3 月份到现在，差不多 5 个月的时间里，我已经累计制作了超过七八十个补丁。&lt;/p&gt;
-&lt;p&gt;这些补丁能高频更新，很大程度上得益于年初我用 AI 跑了上百个游戏。目前手里还剩下大概三四十个补丁需要制作。按照状态好时“一天两三个”的速度，到国庆节前后，这批存货应该就能全部清完。&lt;/p&gt;
-&lt;p&gt;当然，实际进度还得看游戏的文本量和代码结构：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;文本量大、代码反人类：&lt;/strong&gt; 可能一两个小时只能做一个。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;文本量小、代码简单、无需额外做 Mod：&lt;/strong&gt; 一个小时做两三个，甚至出五六个都是有可能的。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;接下来的这段时间，我会尽量把剩下的存货清空。哪怕有更新的游戏或者是没有跑过的AI，都可以挂在后台跑就行了，这不会影响制作补丁的速度，可以让Codex去盯着。顺利的话，10 月初就能顺利撒花完结，然后进入半停更。&lt;/p&gt;
-&lt;h2 id=&#34;为什么要进入半停更状态&#34;&gt;为什么要进入半停更状态？
-&lt;/h2&gt;&lt;p&gt;肯定有人会问：继续更新不行吗？&lt;/p&gt;
-&lt;p&gt;因为到了那个时候，基本能做的 AI 补丁都做完了。剩下的时间如果继续折腾，只能去把之前做好的补丁拿出来做&lt;strong&gt;简润&lt;/strong&gt;或&lt;strong&gt;精润&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;但问题在于：不是我不想把质量做好，而是&lt;strong&gt;付出与收入真的一点都不成正比&lt;/strong&gt;。或者说，从始至终都是在单方面付出，收入寥寥无几。&lt;/p&gt;
-&lt;p&gt;大家可能不知道，做 AI 跑出来的初版补丁，跟做人工简润/精润，完全是两个维度的概念。&lt;/p&gt;
-&lt;p&gt;就拿&lt;strong&gt;简润&lt;/strong&gt;来说，众所周知 AI 是会有幻觉的，同一句话不同模型、不同次数跑出来的结果完全不同（就像 AI 画图抽卡一样）。为了对比效果，我需要跑两三次甚至更多次 AI。&lt;/p&gt;
+&lt;h2 id=&#34;-心路历程与停更原因&#34;&gt;⏳ 心路历程与停更原因
+&lt;/h2&gt;&lt;div class=&#34;mac-timeline&#34;&gt;
+    
+
+&lt;div class=&#34;mac-timeline-item&#34;&gt;
+    &lt;div class=&#34;mac-timeline-date&#34;&gt;最初的起点&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-content&#34;&gt;
+        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;帮看不懂英文的水友 🌍&lt;/h3&gt;
+        &lt;div class=&#34;mac-timeline-desc&#34;&gt;&lt;p&gt;为什么最开始会做这些补丁？最初的原因很简单：&lt;strong&gt;帮一些看不懂英文的水友而已&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;以前在抖音直播时，大家总说没资源、看不懂。想着既然自己手里跑了上百个游戏，就顺手做成补丁发出来吧。也很感谢这些水友的陪伴，因为这段经历，我慢慢学会了 Python、Java、游戏文件结构、AI 部署以及 GitHub 的各种玩法。从某种意义上来讲，这段经历是值得的。&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;mac-timeline-item&#34;&gt;
+    &lt;div class=&#34;mac-timeline-date&#34;&gt;博客一周年&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-content&#34;&gt;
+        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;五个月七八十个补丁 📦&lt;/h3&gt;
+        &lt;div class=&#34;mac-timeline-desc&#34;&gt;&lt;p&gt;现在距离博客一周年（也就是国庆节）其实已经不远了。从今年2、3月份到现在，5个月的时间里我已经累计制作了超过七八十个补丁。这得益于年初我用 AI 跑了上百个游戏。目前手里还剩下大概三四十个存货，接下来会尽量把存货清空。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;遇到请求失败、Token 限制、网络问题，消耗的资源远大于 3 倍。但烧 Token 只是最小的代价，&lt;strong&gt;最大的代价是时间和精力&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关于汉化标准&lt;/strong&gt;：平心而论，大家玩这些难登大雅的“下九流”视觉小说，不就是冲着 CG 来的吗？只要剧情能看懂，CG 能看到，不就 OK 了？当然，萝卜青菜各有所爱，有人希望达到官中水准，但我确实精力有限。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;简润不能像做初版补丁那样，用个 Python 脚本统一一下名词就完事了。它需要人工一句句去检索：哪句话更自然？哪个语气更符合角色？哪些是 AI 幻觉需要修正？
-文本量少，需要两三天（是实际耗时的两三天，不是每天两小时）；文本量大，长则半个月。&lt;/p&gt;
-&lt;p&gt;简润尚且如此，精润需要跑 6 次、9 次甚至更多次 AI，成本呈指数级上升。哪怕我用 Codex、Claude Code、反重力，烧再多 Token，Agent 依然会有幻觉。最后还是得人工修。&lt;strong&gt;Token 没了，精力没了，时间也没了。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这就是为什么我宁愿多跑几个 AI 补丁，也不愿意去做简润精润的主要原因。&lt;/p&gt;
-&lt;h2 id=&#34;关于我的汉化标准&#34;&gt;关于我的汉化标准
-&lt;/h2&gt;&lt;p&gt;平心而论，大家玩这些难登大雅的“下九流”视觉小说，不就是冲着 CG 来的吗？只要剧情能看懂，CG 能看到，不就 OK 了？&lt;/p&gt;
-&lt;p&gt;对我自己而言，基本能看懂就行。当然，萝卜青菜各有所爱，有人希望达到官中水准，这些要求我也能理解，但我确实精力有限。&lt;/p&gt;
-&lt;h2 id=&#34;关于最近的一些争议&#34;&gt;关于最近的一些争议
-&lt;/h2&gt;&lt;p&gt;最近我也从水友那里听到了一些关于我的争议，一直有人在背后吐槽我汉化质量不好。&lt;/p&gt;
-&lt;p&gt;这些问题我心知肚明，AI 会有幻觉，不可能 100% 完美。我已经在每篇博文里都把&lt;strong&gt;甲&lt;/strong&gt;叠好了：&lt;strong&gt;做这些补丁只是为了帮助有需要的水友，我自己根本没时间玩。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;出现 Bug 或错译很正常，有空我肯定会修。但真没必要在背后一直阴阳怪气我，&lt;strong&gt;我真不欠你们的&lt;/strong&gt;。这也侧面印证了为什么我不愿意做精润——我做个AI意译补丁都有这么多闲言碎语，要是花大精力做精润，那回报简直不敢想，纯属多此一举。&lt;/p&gt;
-&lt;h2 id=&#34;关于圈米&#34;&gt;关于“圈米”
-&lt;/h2&gt;&lt;p&gt;这是最让我难绷的。&lt;/p&gt;
-&lt;p&gt;我开爱发电和爱赞助两年了，收到的打赏和投喂&lt;strong&gt;总共只有两三千块&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;具体可以看这篇博文：&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/p/support/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;感谢页&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;说句不好听的，这些钱连我跑 AI 烧的电费和 Token 本金都没回本。如果单纯为了赚钱，我根本坚持不到今天。&lt;/p&gt;
-&lt;p&gt;以前不做补丁的时候，我闲下来可以出去走走、骑骑车、跑跑步。现在每天工作之余还要学代码、研究 AI、修复 Bug。花大把时间处理这些琐事，还要承受一些莫名其妙的争议和压力，最初的热情确实已经被消磨得差不多了。&lt;/p&gt;
-&lt;h2 id=&#34;为什么最开始会做这些补丁&#34;&gt;为什么最开始会做这些补丁？
-&lt;/h2&gt;&lt;p&gt;最初的原因很简单：&lt;strong&gt;帮一些看不懂英文的水友而已&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;以前在抖音直播时，大家总说没资源、看不懂。想着既然自己手里跑了上百个游戏，就顺手做成补丁发出来吧。也很感谢这些水友的陪伴，因为这段经历，我慢慢学会了 Python、Java、游戏文件结构、AI 部署以及 GitHub 的各种玩法。&lt;/p&gt;
-&lt;p&gt;从某种意义上来讲，这段经历是值得的。&lt;/p&gt;
-&lt;h2 id=&#34;关于后续的热门游戏&#34;&gt;关于后续的热门游戏
-&lt;/h2&gt;&lt;p&gt;7 月中旬到 10 月初，肯定还会有热门游戏更新。但以后我&lt;strong&gt;不可能再第一时间去做 AI 补丁了&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;一方面是有些热门 VN 已经有大佬在做精翻，我没必要拿 AI 补丁去献丑；另一方面，也是为了避免不必要的误会和节奏（懂异世界天堂那波节奏的水友应该都懂）。长期被喷、被阴阳怪气，确实很影响心情，多一事不如少一事。&lt;/p&gt;
-&lt;h2 id=&#34;最后&#34;&gt;最后
-&lt;/h2&gt;&lt;p&gt;一路走下来，博客从最初只有七八个补丁，到现在积累了上百个，其实已经远超我当初的想象了。&lt;/p&gt;
-&lt;p&gt;感谢一直支持我、愿意使用补丁、积极反馈问题和提出意见的真实水友们。接下来我会尽量把剩下的坑填完，之后就会放慢脚步，进入长期的佛系维护状态。&lt;/p&gt;
-&lt;p&gt;无论如何，&lt;strong&gt;且玩且珍惜，感谢大家的一路陪伴！&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;mac-timeline-item&#34;&gt;
+    &lt;div class=&#34;mac-timeline-date&#34;&gt;精力的耗尽&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-content&#34;&gt;
+        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;为什么不继续做精润？ ⚠️&lt;/h3&gt;
+        &lt;div class=&#34;mac-timeline-desc&#34;&gt;&lt;p&gt;肯定有人会问：剩下的时间把之前做好的拿出来做简润或精润不行吗？&lt;/p&gt;
+&lt;p&gt;大家可能不知道，做 AI 初版补丁和做人工简润/精润，完全是两个维度的概念。&lt;strong&gt;简润&lt;/strong&gt;不能像做初版那样用 Python 脚本统一名词就完事，它需要人工一句句去检索。遇到网络问题、幻觉问题，消耗的资源巨大。文本量少需两三天，多则半个月。
+如果是&lt;strong&gt;精润&lt;/strong&gt;，需要跑 6 次、9 次甚至更多次 AI，成本呈指数级上升。哪怕烧再多 Token，Agent 依然有幻觉，最后还得人工修。Token 没了，精力没了，时间也没了。付出与收入真的一点都不成正比。&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;mac-timeline-item&#34;&gt;
+    &lt;div class=&#34;mac-timeline-date&#34;&gt;闲言碎语&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-content&#34;&gt;
+        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;争议与“圈米”的委屈 💔&lt;/h3&gt;
+        &lt;div class=&#34;mac-timeline-desc&#34;&gt;&lt;p&gt;一直有人在背后吐槽我汉化质量不好，甚至说我在“圈米”。这是最让我难绷的。&lt;/p&gt;
+&lt;p&gt;我开爱发电两年了，收到的打赏&lt;strong&gt;总共只有两三千块&lt;/strong&gt;。说句不好听的，连跑 AI 烧的电费和 Token 本金都没回本！如果单纯为了赚钱，我根本坚持不到今天。
+以前闲下来可以出去走走、骑骑车，现在每天工作之余还要学代码、修 Bug，还要承受莫名其妙的阴阳怪气。我已经在博客里叠好甲了，我做意译补丁只是为了帮人，我自己根本没时间玩。&lt;strong&gt;我真不欠你们的&lt;/strong&gt;，最初的热情已经被消磨得差不多了。&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;mac-timeline-item&#34;&gt;
+    &lt;div class=&#34;mac-timeline-date&#34;&gt;10月之后&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-content&#34;&gt;
+        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;佛系维护，避开节奏 🍂&lt;/h3&gt;
+        &lt;div class=&#34;mac-timeline-desc&#34;&gt;&lt;p&gt;10月初存货清完后，就能顺利撒花完结，进入半停更。&lt;/p&gt;
+&lt;p&gt;以后我&lt;strong&gt;不可能再第一时间去做热门游戏的 AI 补丁了&lt;/strong&gt;。一方面是有大佬在做精翻，我没必要去献丑；另一方面也是为了避免不必要的误会和节奏（懂异世界天堂那波节奏的水友应该都懂）。多一事不如少一事。&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;p&gt;一路走下来，博客从最初只有七八个补丁，到现在积累了上百个，其实已经远超我当初的想象了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后，感谢一直支持我、愿意使用补丁、积极反馈问题和提出意见的真实水友们。无论如何，且玩且珍惜，感谢大家的一路陪伴！&lt;/strong&gt;&lt;/p&gt;
 </description>
         </item>
         <item>

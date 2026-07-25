@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Wed, 22 Jul 2026 05:43:13 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 26 Jul 2026 00:45:30 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>归档</title>
         <link>https://luoqian29.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0800</pubDate>
@@ -39,50 +39,91 @@
         <description>&lt;style&gt;
     /* 针对当前页面生效：让标题和副标题居中 */
     .article-details .article-title,
-    .article-details .article-subtitle {
+    .main-article .article-details .article-subtitle {
         text-align: center;
     }
     
-    /* 单独将主标题的字体放大 */
-    .article-details .article-title {
+    /* 单独将主标题的字体放大并赋予果味质感 */
+    .main-article .article-details .article-title {
         font-size: 5.0rem !important;
+        font-weight: 800;
+        letter-spacing: -2px;
     }
 &lt;/style&gt;
-&lt;h1 id=&#34;关于博客&#34;&gt;关于博客
-&lt;/h1&gt;&lt;p&gt;其实也没什么好说的，一开始我就是来发一些自己喜欢的文章而已。&lt;/p&gt;
-&lt;p&gt;因为这里&lt;strong&gt;不用审核&lt;/strong&gt;嘛，我自己就是审核员，我想发什么就发什么。之前在国内发一些视频，无论是在音符还是在小破站，都会被抬走，甚至我的公众号都被封了…… 哎，太缺德了他们，我不知道谁举报的。然后现在部署在 &lt;strong&gt;GitHub&lt;/strong&gt; 上，基本是没有审核啊，嘿嘿。&lt;/p&gt;
-&lt;p&gt;不知不觉，这博客就变成&lt;strong&gt;资源站&lt;/strong&gt;了。妈的，一堆补丁，一堆游戏资源。虽然我自己没上传那些游戏本体（都是贴 F95，或者是从作者官网自己贴过来的），但除了一些补丁我会自己上传。原本只想发发日常，没想到搞了两三百个，累死我了。&lt;/p&gt;
-&lt;h1 id=&#34;关于订阅制&#34;&gt;关于订阅制
-&lt;/h1&gt;&lt;p&gt;其实之前是会给一些汉化补丁加上订阅制的，一个星期后公开，费用是一个月 10 RMB。但是我不知道为什么一堆人喷我，所以&lt;strong&gt;我就不加了&lt;/strong&gt;，导致现在的更新速度就变成了&lt;strong&gt;随缘更新&lt;/strong&gt;：&lt;/p&gt;
-&lt;blockquote&gt;
+&lt;h2 id=&#34;-博客时间线&#34;&gt;⏳ 博客时间线
+&lt;/h2&gt;&lt;div class=&#34;mac-timeline&#34;&gt;
+    
+
+&lt;div class=&#34;mac-timeline-item&#34;&gt;
+    &lt;div class=&#34;mac-timeline-date&#34;&gt;2026 &amp;amp; 未来&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-content&#34;&gt;
+        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;汉化教程 🚀&lt;/h3&gt;
+        &lt;div class=&#34;mac-timeline-desc&#34;&gt;&lt;p&gt;由于在国内平台发布容易“被抬走”，接下来的重点干货将全面转移至此：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;优先更新&lt;/strong&gt;：Unity 引擎的图文硬核教程。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;后续安排&lt;/strong&gt;：RPG 与 Renpy 引擎教程，以及各种奇奇怪怪的干货。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;优先出图文就是因为这里&lt;strong&gt;不需要审核&lt;/strong&gt;。当然，更新速度得看我有没有时间。&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;mac-timeline-item&#34;&gt;
+    &lt;div class=&#34;mac-timeline-date&#34;&gt;2025 - 2026&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-content&#34;&gt;
+        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;不知不觉成了资源站 📦&lt;/h3&gt;
+        &lt;div class=&#34;mac-timeline-desc&#34;&gt;&lt;p&gt;原本只想发发日常，没想到顺手搬运游戏、制作汉化补丁，搞了两三百个资源，妈的，累死我了。&lt;/p&gt;
+&lt;p&gt;其实之前是会给一些汉化补丁加上订阅制的，一个星期后公开，费用是一个月 10 RMB。但是我不知道为什么一堆人喷我，所以我就不加了，导致现在的更新速度就变成了随缘更新：&lt;/p&gt;
 &lt;p&gt;有的话我会搬运几个官中；没的话，看到喜欢的游戏更新了，或者有水友推荐，也会顺手做一下汉化补丁。&lt;/p&gt;
-&lt;/blockquote&gt;
 &lt;p&gt;一般我会做一些博客没有的。因为有些游戏更新了就是挤牙膏，做了也是浪费时间，还不如不做，毕竟做了还会挨骂，对吧？哈哈。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;那不加订阅制之后，博客有没有收益啊？&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;mac-timeline-item&#34;&gt;
+    &lt;div class=&#34;mac-timeline-date&#34;&gt;2024 - 2025&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;mac-timeline-content&#34;&gt;
+        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;我想发就发&lt;/h3&gt;
+        &lt;div class=&#34;mac-timeline-desc&#34;&gt;&lt;p&gt;其实也没什么好说的，一开始我就是来发一些自己喜欢的文章而已。&lt;/p&gt;
+&lt;p&gt;因为这里不用审核嘛，我自己就是审核员，我想发什么就发什么。之前在国内发一些视频，无论是在音符还是在小破站，都会被抬走，甚至我的公众号都被封了…… 哎，太缺德了他们，我不知道谁举报的。然后现在部署在 GitHub 上，基本是没有审核啊，嘿嘿。&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;关于资源与网盘&#34;&gt;关于资源与网盘
+&lt;/h2&gt;&lt;p&gt;博客里的游戏资源本体，基本源自作者官网、Patreon、Itch 或 F95。海外网盘（如 Gofile、Vikingfile、Mega 等）不会有国内网盘那种恶心的“会员限速”，下载速度完全取决于你的&lt;strong&gt;魔法&lt;/strong&gt;质量和本地带宽（好的梯子跑到 20MB/s 也很正常）。&lt;/p&gt;
+&lt;p&gt;至于我自己上传得 &lt;strong&gt;汉化补丁&lt;/strong&gt; 和 &lt;strong&gt;Mod&lt;/strong&gt;，一般会上传到 GoFile 和 Pixeldrain 作为双重保障：&lt;/p&gt;
+&lt;div class=&#34;mac-grid&#34;&gt;
+    
+&lt;div class=&#34;mac-card&#34;&gt;
+    &lt;div class=&#34;mac-card-icon&#34;&gt;⚡&lt;/div&gt;
+    &lt;h3 class=&#34;mac-card-title&#34;&gt;GoFile&lt;/h3&gt;
+    &lt;div class=&#34;mac-card-desc&#34;&gt;部分地区（如广东）不需要科学上网就能访问。但它的机制是 7天内没人下载就会自动失效（并非资源被举报）。&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;mac-card&#34;&gt;
+    &lt;div class=&#34;mac-card-icon&#34;&gt;🛡️&lt;/div&gt;
+    &lt;h3 class=&#34;mac-card-title&#34;&gt;Pixeldrain&lt;/h3&gt;
+    &lt;div class=&#34;mac-card-desc&#34;&gt;比较稳定，但百分百需要魔法。它是只要有两个月内有人下载，文件就不会失效。基本除了官网崩掉，资源都应该在的。&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;为什么不用 QQ群文件、百度网盘或迅雷？&lt;/strong&gt;
+一是因为我本身没有资源本体，二是因为国内审核太严，太麻烦了。用国内盘还得搞什么多次压缩、解压，乱七八糟的我不会弄，也没那闲工夫。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;毕竟上面也说了，我只是简简单单为了帮助一些水友，不是“为爱发电”，不可能事事都喂到你嘴里。能用就用，用不了就算了，我也不强求，不靠这个满虚荣心。你有需要我就给，不需要就算了，就这么简单。大家看自己的需求吧。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;关于订阅制&#34;&gt;关于订阅制
+&lt;/h2&gt;&lt;p&gt;那不加订阅制之后，博客有没有收益啊？&lt;/p&gt;
 &lt;p&gt;其实收益非常少。以前不加订阅制寥寥无几，一个月就三四十块钱赞助。加了之后，最高一个月拿到过 700 多，最少也有 300 多，确实挺杯水车薪。除了大家投喂的收益，还有一个魔法推广佣金，一般也有几百块。&lt;/p&gt;
 &lt;p&gt;总之就是这样子吧，运营博客也没收多少费用，一个月跑 AI 大概就百来块，毕竟我自己也要玩一点。加上部署在 GitHub 上，费用也是挺少的，就当交点网费和电费而已~&lt;/p&gt;
-&lt;h1 id=&#34;关于资源与网盘&#34;&gt;关于资源与网盘
-&lt;/h1&gt;&lt;p&gt;博客里的游戏资源本体，基本都是我从作者官网、Patreon、Itch 或者 F95 贴过来的海外网盘链接（比如 Gofile、Vikingfile、Mega 等）。有些网盘是可以裸连的（比如我在广东，基本能有个四五兆的下载速度）；但有些则过不了审，必须得挂&lt;strong&gt;魔法&lt;/strong&gt;科学上网（也就是梯子/VPN）。&lt;/p&gt;
-&lt;p&gt;至于我自己上传的&lt;strong&gt;汉化补丁&lt;/strong&gt;和 &lt;strong&gt;Mod&lt;/strong&gt;，一般会上传到 &lt;strong&gt;GoFile&lt;/strong&gt; 和 &lt;strong&gt;Pixeldrain&lt;/strong&gt; 作为双重保障：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;GoFile&lt;/strong&gt;：部分地区（如广东）不需要科学上网就能访问。但它的机制是 &lt;strong&gt;7天内没人下载就会自动失效&lt;/strong&gt;（并非资源被举报）。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Pixeldrain&lt;/strong&gt;：比较稳定，但百分百需要&lt;strong&gt;魔法&lt;/strong&gt;。它是只要有两个月内有人下载，文件就不会失效。基本除了官网崩掉，资源都应该在的。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;为什么不像其他圈内群一样用 QQ 群文件、百度网盘或者迅雷？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;一是因为我本身没有资源本体，二是因为&lt;strong&gt;国内审核太严，太麻烦了&lt;/strong&gt;。用国内盘还得搞什么多次压缩、解压，乱七八糟的我不会弄，也没那闲工夫。&lt;/p&gt;
-&lt;p&gt;毕竟上面也说了，我只是简简单单为了帮助一些水友，不是“为爱发电”，&lt;strong&gt;不可能事事都喂到你嘴里&lt;/strong&gt;。能用就用，用不了就算了，我也不强求，不靠这个满虚荣心。你有需要我就给，不需要就算了，就这么简单。大家看自己的需求吧。&lt;/p&gt;
-&lt;p&gt;另外，这些海外网盘不会像国内网盘那样有恶心的“会员限速”。下载速度完全取决于你的梯子质量和本地带宽（好的梯子跑到 20MB/s 也很正常）。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;⚠️ &lt;strong&gt;下载防坑提示&lt;/strong&gt;：这些海外盘因为不收会员费，基本都会有广告。弹出的广告页面直接关掉就行。点击下载时，&lt;strong&gt;务必核对一下文件大小和文件名&lt;/strong&gt;（一般压缩版三四个 G，原版可能十几 G），确认无误后再下，别下错成广告文件了。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1 id=&#34;关于汉化教程&#34;&gt;关于汉化教程
-&lt;/h1&gt;&lt;p&gt;之前在小破站上是有出过 Renpy 引擎的汉化教程，不过呢，又被人举报抬走了。&lt;/p&gt;
-&lt;p&gt;因为最近确实是一直没空，不过后续的&lt;strong&gt;更新计划&lt;/strong&gt;大概是这样的：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;优先更新：&lt;/strong&gt; Unity 引擎的图文教程。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;后续安排：&lt;/strong&gt; RPG 和 Renpy 引擎教程，以及一些奇奇怪怪的干货。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;优先出图文是因为就像上面说的，在博客发博文&lt;strong&gt;不需要审核&lt;/strong&gt;，我想加什么就加什么，嘿嘿嘿。当然，更新的速度取决于我自己有没有时间。毕竟我也不是纯“为爱发电”，天天给你们更这些，确实是挺仁至义尽啦！&lt;/p&gt;
 </description>
         </item>
         <item>
