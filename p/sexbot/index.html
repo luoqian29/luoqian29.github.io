@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='https://luoqian29.github.io/p/sexbot/'>
 
-<link rel="stylesheet" href="/scss/style.min.29f4541ef6215a24ed71370abfa906fdfb63668487f7bad61dacee8de49c2c0c.css"><meta property='og:title' content="Sexbot 性爱机器人">
+<link rel="stylesheet" href="/scss/style.min.001112f49dce1e6eb8e4d370c0d407bb21876b546760cc01d09aa003f843f009.css"><meta property='og:title' content="Sexbot 性爱机器人">
 <meta property='og:description' content="Sexbot [v1.6 Final] [LlamaMann Games]">
 <meta property='og:url' content='https://luoqian29.github.io/p/sexbot/'>
 <meta property='og:site_name' content='一落归谦'>
@@ -1714,7 +1714,7 @@ Play through this science fiction game as a dateless nerd looking for love in al
 
     <section class="powerby">
         使用 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 <br />
-        主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.31.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
+        主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.31.0">Stack</a></b> 由 <a href="#" target="_blank" rel="noopener">落谦</a> 魔改
     </section>
 </footer>
 
@@ -1867,29 +1867,35 @@ Play through this science fiction game as a dateless nerd looking for love in al
             return;
         }
         
+        let ticking = false;
         window.addEventListener('scroll', function() {
-            
-            let openUl = document.querySelectorAll(".open");
-            if (openUl.length > 0) {
-              openUl.forEach((ul) => {
-                ul.classList.remove("open")
-              })
+            if (!ticking) {
+                window.requestAnimationFrame(function() {
+                    
+                    let openUl = document.querySelectorAll(".open");
+                    if (openUl.length > 0) {
+                      openUl.forEach((ul) => {
+                        ul.classList.remove("open")
+                      })
+                    }
+                    
+                    let currentLi = document.querySelector(".active-class");
+                    if (currentLi) {
+                        
+                        if (currentLi.children.length > 1) {
+                            currentLi.children[1].classList.add("open")
+                        }
+                        
+                        let ul = currentLi.parentElement;
+                        do {
+                            ul.classList.add("open");
+                            ul = ul.parentElement.parentElement
+                        } while (ul !== undefined && (ul.localName === 'ul' || ul.localName === 'ol'))
+                    }
+                    ticking = false;
+                });
+                ticking = true;
             }
-            
-            let currentLi = document.querySelector(".active-class");
-            if (!currentLi) {
-                return
-            }
-            
-            if (currentLi.children.length > 1) {
-                currentLi.children[1].classList.add("open")
-            }
-            
-            let ul = currentLi.parentElement;
-            do {
-                ul.classList.add("open");
-                ul = ul.parentElement.parentElement
-            } while (ul !== undefined && (ul.localName === 'ul' || ul.localName === 'ol'))
         });
     }
     initTocHide()
@@ -2088,6 +2094,7 @@ Play through this science fiction game as a dateless nerd looking for love in al
     }
   }
 </style>
+
 
     </body>
 </html>

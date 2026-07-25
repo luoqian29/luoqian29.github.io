@@ -6,11 +6,11 @@
 
 <link rel='canonical' href='https://luoqian29.github.io/p/profiler/'>
 
-<link rel="stylesheet" href="/scss/style.min.29f4541ef6215a24ed71370abfa906fdfb63668487f7bad61dacee8de49c2c0c.css"><meta property='og:title' content="Profiler 侧写者">
+<link rel="stylesheet" href="/scss/style.min.001112f49dce1e6eb8e4d370c0d407bb21876b546760cc01d09aa003f843f009.css"><meta property='og:title' content="Profiler 侧写者">
 <meta property='og:description' content="Profiler [v0.4.3.1] [DiveBar]">
 <meta property='og:url' content='https://luoqian29.github.io/p/profiler/'>
 <meta property='og:site_name' content='一落归谦'>
-<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='亚洲风' /><meta property='article:tag' content='官中' /><meta property='article:published_time' content='2026-07-25T00:00:00&#43;08:00'/><meta property='article:modified_time' content='2026-07-25T16:31:21&#43;08:00'/><meta property='og:image' content='https://img.itch.zone/aW1nLzI4NjkyNzQwLmpwZw==/original/4pvzc2.jpg' />
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='亚洲风' /><meta property='article:tag' content='官中' /><meta property='article:published_time' content='2026-07-25T00:00:00&#43;08:00'/><meta property='article:modified_time' content='2026-07-25T22:21:49&#43;08:00'/><meta property='og:image' content='https://img.itch.zone/aW1nLzI4NjkyNzQwLmpwZw==/original/4pvzc2.jpg' />
 <meta name="twitter:title" content="Profiler 侧写者">
 <meta name="twitter:description" content="Profiler [v0.4.3.1] [DiveBar]"><meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content='https://img.itch.zone/aW1nLzI4NjkyNzQwLmpwZw==/original/4pvzc2.jpg' />
@@ -371,7 +371,7 @@
 
 
                 <time>
-                    2026年07月25日 16:31
+                    2026年07月25日 22:21
                 </time>
             </div>
         <div id="viewCount">
@@ -421,7 +421,7 @@ However, eroded by childhood fears and sorrow, your inability to trust others me
 <ul>
 <li>But at the strong insistence of a friend, you returned to your hometown and grasped a faint clue, facing the nightmares of the past once more.
 As the investigation deepened, you unexpectedly discovered that you might be different from others&hellip;
-During this journey, the reclusive you gradually made many friends who seemed to change your inner world.</li>
+During this journey, the reclusive you gradually made many friends who seemed to change your inner world&hellip;</li>
 </ul>
 <p>But as the truth slowly emerged, not only must you prepare for the looming crisis,you also need to learn how to protect the important people around you.</p>
 </details>
@@ -674,7 +674,7 @@ During this journey, the reclusive you gradually made many friends who seemed to
 
 
         <span>
-            最后更新于 2026年07月25日 16:31
+            最后更新于 2026年07月25日 22:21
         </span>
     </section>
 <div class="reward-container">
@@ -1561,7 +1561,7 @@ During this journey, the reclusive you gradually made many friends who seemed to
 
     <section class="powerby">
         使用 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 <br />
-        主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.31.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
+        主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.31.0">Stack</a></b> 由 <a href="#" target="_blank" rel="noopener">落谦</a> 魔改
     </section>
 </footer>
 
@@ -1714,29 +1714,35 @@ During this journey, the reclusive you gradually made many friends who seemed to
             return;
         }
         
+        let ticking = false;
         window.addEventListener('scroll', function() {
-            
-            let openUl = document.querySelectorAll(".open");
-            if (openUl.length > 0) {
-              openUl.forEach((ul) => {
-                ul.classList.remove("open")
-              })
+            if (!ticking) {
+                window.requestAnimationFrame(function() {
+                    
+                    let openUl = document.querySelectorAll(".open");
+                    if (openUl.length > 0) {
+                      openUl.forEach((ul) => {
+                        ul.classList.remove("open")
+                      })
+                    }
+                    
+                    let currentLi = document.querySelector(".active-class");
+                    if (currentLi) {
+                        
+                        if (currentLi.children.length > 1) {
+                            currentLi.children[1].classList.add("open")
+                        }
+                        
+                        let ul = currentLi.parentElement;
+                        do {
+                            ul.classList.add("open");
+                            ul = ul.parentElement.parentElement
+                        } while (ul !== undefined && (ul.localName === 'ul' || ul.localName === 'ol'))
+                    }
+                    ticking = false;
+                });
+                ticking = true;
             }
-            
-            let currentLi = document.querySelector(".active-class");
-            if (!currentLi) {
-                return
-            }
-            
-            if (currentLi.children.length > 1) {
-                currentLi.children[1].classList.add("open")
-            }
-            
-            let ul = currentLi.parentElement;
-            do {
-                ul.classList.add("open");
-                ul = ul.parentElement.parentElement
-            } while (ul !== undefined && (ul.localName === 'ul' || ul.localName === 'ol'))
         });
     }
     initTocHide()
@@ -1935,6 +1941,7 @@ During this journey, the reclusive you gradually made many friends who seemed to
     }
   }
 </style>
+
 
     </body>
 </html>
