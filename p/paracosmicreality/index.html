@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='https://luoqian29.github.io/p/paracosmicreality/'>
 
-<link rel="stylesheet" href="/scss/style.min.6301af9d81ca24a89f8cd69f06e59a05453a1fe333e01b112dfe84adc77f0660.css"><meta property='og:title' content="Paracosmic Reality 架空现实">
+<link rel="stylesheet" href="/scss/style.min.ce3cd636d47b4fce17be4660dc20a6556d37a9e8d9e93cb1ea5054ae8ce064ad.css"><meta property='og:title' content="Paracosmic Reality 架空现实">
 <meta property='og:description' content="Paracosmic Reality [v1.15.1 Main] [Jiggly Stone Studios]">
 <meta property='og:url' content='https://luoqian29.github.io/p/paracosmicreality/'>
 <meta property='og:site_name' content='一落归谦'>
@@ -1980,36 +1980,6 @@ Hop on in and find out for yourself!~</li>
 
 
 
-<div id="reading-progress-bar"></div>
-<style>
-  #reading-progress-bar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: 3px;
-    background: var(--accent-color);
-    width: 0%;
-    z-index: 99999;
-    transition: width 0.1s ease-out;
-    box-shadow: 0 0 5px var(--accent-color);
-  }
-</style>
-<script>
-  window.addEventListener('scroll', function() {
-    let scrollTop = window.scrollY || document.documentElement.scrollTop;
-    let scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-    let progress = (scrollTop / scrollHeight) * 100;
-    let bar = document.getElementById('reading-progress-bar');
-    if (bar) {
-      if (scrollHeight > 50) {
-        bar.style.width = progress + '%';
-        bar.style.opacity = '1';
-      } else {
-        bar.style.opacity = '0';
-      }
-    }
-  });
-</script>
 
 
 
@@ -2089,6 +2059,507 @@ document.addEventListener("DOMContentLoaded", function() {
         
         setTimeout(typeWriter, 800); 
     }
+});
+</script>
+
+
+
+<div id="mac-dynamic-island" class="mac-dynamic-island">
+    <span class="mac-dynamic-island-icon">🚀</span>
+    <div class="mac-dynamic-island-progress-bg">
+        <div id="mac-dynamic-island-progress-bar" class="mac-dynamic-island-progress-bar"></div>
+    </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const island = document.getElementById('mac-dynamic-island');
+    const progressBar = document.getElementById('mac-dynamic-island-progress-bar');
+    const mainArticle = document.querySelector('.main-article');
+    
+    let islandEnabled = localStorage.getItem('dynamicIslandEnabled');
+    if (islandEnabled === null) islandEnabled = 'true';
+    
+    
+    const menuBottom = document.querySelector('.menu-bottom-section .menu');
+    if (menuBottom) {
+        const toggleLi = document.createElement('li');
+        toggleLi.id = 'dynamic-island-toggle';
+        toggleLi.innerHTML = `
+            <svg id="di-icon-on" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" style="display: none;">
+                <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                <circle cx="16" cy="12" r="2"></circle>
+                <rect x="2" y="6" width="20" height="12" rx="6"></rect>
+            </svg>
+            <svg id="di-icon-off" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" style="display: none;">
+                <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                <circle cx="8" cy="12" r="2"></circle>
+                <rect x="2" y="6" width="20" height="12" rx="6"></rect>
+            </svg>
+            <span>灵动岛</span>
+        `;
+        
+        const iconOn = toggleLi.querySelector('#di-icon-on');
+        const iconOff = toggleLi.querySelector('#di-icon-off');
+        
+        if (islandEnabled === 'true') {
+            iconOn.style.display = 'block';
+            toggleLi.classList.add('is-active');
+        } else {
+            iconOff.style.display = 'block';
+            toggleLi.classList.remove('is-active');
+        }
+        
+        toggleLi.addEventListener('click', function() {
+            if (islandEnabled === 'true') {
+                islandEnabled = 'false';
+                localStorage.setItem('dynamicIslandEnabled', 'false');
+                iconOn.style.display = 'none';
+                iconOff.style.display = 'block';
+                toggleLi.classList.remove('is-active');
+                if (island) {
+                    island.classList.remove('visible');
+                }
+            } else {
+                islandEnabled = 'true';
+                localStorage.setItem('dynamicIslandEnabled', 'true');
+                iconOn.style.display = 'block';
+                iconOff.style.display = 'none';
+                toggleLi.classList.add('is-active');
+                window.dispatchEvent(new Event('scroll'));
+            }
+        });
+        menuBottom.appendChild(toggleLi);
+    }
+    
+    
+    window.showIslandNotification = function(text, iconHtml) {
+        if(!island || islandEnabled !== 'true') return;
+        const progressWrapper = island.querySelector('.mac-dynamic-island-progress-bg');
+        const defaultIcon = island.querySelector('.mac-dynamic-island-icon');
+        
+        if(progressWrapper) progressWrapper.style.display = 'none';
+        if(defaultIcon) defaultIcon.style.display = 'none';
+        
+        let notif = island.querySelector('.mac-island-notif');
+        if(!notif) {
+            notif = document.createElement('div');
+            notif.className = 'mac-island-notif';
+            island.appendChild(notif);
+        }
+        
+        island.style.width = '180px'; 
+        notif.innerHTML = iconHtml + '<span style="margin-left:8px; font-weight:600; font-size:13px; color:#fff;">' + text + '</span>';
+        notif.style.display = 'flex';
+        notif.style.alignItems = 'center';
+        notif.style.justifyContent = 'center';
+        notif.style.width = '100%';
+        notif.style.height = '100%';
+        
+        island.classList.add('visible');
+        
+        clearTimeout(window.islandTimer);
+        window.islandTimer = setTimeout(() => {
+            notif.style.display = 'none';
+            
+            
+            if (mainArticle) {
+                if(progressWrapper) progressWrapper.style.display = 'block';
+                if(defaultIcon) defaultIcon.style.display = 'block';
+                island.style.width = '120px'; 
+                window.dispatchEvent(new Event('scroll')); 
+            } else {
+                island.classList.remove('visible'); 
+            }
+        }, 2500);
+    };
+
+    
+    document.addEventListener('copy', () => {
+        window.showIslandNotification('已复制', '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path><rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect></svg>');
+    });
+
+    
+    const darkModeBtn = document.getElementById('dark-mode-toggle');
+    if(darkModeBtn) {
+        darkModeBtn.addEventListener('click', () => {
+            window.showIslandNotification('主题已切换', '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>');
+        });
+    }
+
+    if (!mainArticle || !island || !progressBar) return;
+    
+    let isVisible = false;
+    
+    window.addEventListener('scroll', function() {
+        if(island.style.width === '180px') return; 
+        const scrollTop = window.scrollY || document.documentElement.scrollTop;
+        const docHeight = document.documentElement.scrollHeight;
+        const winHeight = window.innerHeight;
+        const maxScroll = docHeight - winHeight;
+        
+        if (islandEnabled === 'true' && docHeight > winHeight * 1.5) {
+            let scrollPercent = (scrollTop / maxScroll) * 100;
+            if (scrollPercent > 100) scrollPercent = 100;
+            if (scrollPercent < 0) scrollPercent = 0;
+            
+            progressBar.style.width = scrollPercent + '%';
+            
+            if (scrollTop > 200 && !isVisible) {
+                island.classList.add('visible');
+                isVisible = true;
+            } else if (scrollTop <= 200 && isVisible) {
+                island.classList.remove('visible');
+                isVisible = false;
+            }
+        } else if (isVisible) {
+            island.classList.remove('visible');
+            isVisible = false;
+        }
+    }, { passive: true });
+});
+</script>
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    mediumZoom('.article-content img:not(.no-zoom)', {
+        margin: 24,
+        background: 'rgba(0, 0, 0, 0.75)',
+        scrollOffset: 40,
+    });
+});
+</script>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const paragraphs = document.querySelectorAll('.article-content p');
+    paragraphs.forEach(p => {
+        const images = p.querySelectorAll('img');
+        if (images.length > 1 && p.textContent.trim() === '') {
+            p.classList.add('mac-image-carousel');
+            
+            const wrapper = document.createElement('div');
+            wrapper.className = 'mac-carousel-wrapper';
+            p.parentNode.insertBefore(wrapper, p);
+            wrapper.appendChild(p);
+            
+            const btnLeft = document.createElement('button');
+            btnLeft.className = 'mac-carousel-btn left';
+            btnLeft.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M15 6l-6 6l6 6"></path></svg>';
+            
+            const btnRight = document.createElement('button');
+            btnRight.className = 'mac-carousel-btn right';
+            btnRight.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M9 6l6 6l-6 6"></path></svg>';
+            
+            wrapper.appendChild(btnLeft);
+            wrapper.appendChild(btnRight);
+            
+            btnLeft.addEventListener('click', () => {
+                p.scrollBy({ left: -400, behavior: 'smooth' });
+            });
+            btnRight.addEventListener('click', () => {
+                p.scrollBy({ left: 400, behavior: 'smooth' });
+            });
+        }
+    });
+});
+</script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.8.1/vanilla-tilt.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const cards = document.querySelectorAll('.article-list article');
+    if(cards.length > 0) {
+        VanillaTilt.init(cards, {
+            max: 3,
+            speed: 400,
+            glare: true,
+            "max-glare": 0.1,
+            scale: 1.01
+        });
+    }
+});
+</script>
+
+
+<script>
+    const meta = document.createElement('meta');
+    meta.name = 'view-transition';
+    meta.content = 'same-origin';
+    document.head.appendChild(meta);
+</script>
+
+
+
+<div id="mac-spotlight"></div>
+<script>
+document.addEventListener('mousemove', function(e) {
+    const spotlight = document.getElementById('mac-spotlight');
+    if(spotlight) {
+        spotlight.style.setProperty('--x', e.clientX + 'px');
+        spotlight.style.setProperty('--y', e.clientY + 'px');
+    }
+});
+</script>
+
+
+<script src="https://cdn.jsdelivr.net/gh/studio-freight/lenis@1.0.29/bundled/lenis.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const lenis = new Lenis({
+        duration: 1.2,
+        easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
+        smooth: true
+    });
+    function raf(time) {
+        lenis.raf(time);
+        requestAnimationFrame(raf);
+    }
+    requestAnimationFrame(raf);
+});
+</script>
+
+
+
+
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const images = document.querySelectorAll('.article-content img');
+    images.forEach(img => {
+        
+        if (!img.complete) {
+            img.classList.add('mac-image-loading');
+            img.addEventListener('load', () => {
+                img.classList.remove('mac-image-loading');
+            });
+            img.addEventListener('error', () => {
+                img.classList.remove('mac-image-loading');
+            });
+        }
+    });
+});
+</script>
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/instant.page@5.2.0/instantpage.min.js" type="module" defer></script>
+
+
+<div id="mac-cmd-palette" class="mac-cmd-hidden">
+    <div class="mac-cmd-box">
+        <input type="text" id="mac-cmd-input" placeholder="输入命令或搜索关键字 (按 Esc 退出)..." autocomplete="off">
+        <ul id="mac-cmd-list">
+            <li data-action="search" class="active">🔍 <span class="cmd-label">搜索全站:</span> <span class="cmd-value"></span></li>
+            <li data-action="theme">🌗 切换日/夜间模式</li>
+            <li data-action="home">🏠 返回首页</li>
+        </ul>
+    </div>
+</div>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const palette = document.getElementById('mac-cmd-palette');
+    const input = document.getElementById('mac-cmd-input');
+    const list = document.getElementById('mac-cmd-list');
+    const items = list.querySelectorAll('li');
+    const searchItem = list.querySelector('[data-action="search"]');
+    const searchValue = searchItem.querySelector('.cmd-value');
+    let isZenMode = false;
+
+    
+    function togglePalette(force) {
+        if(typeof force === 'boolean') {
+            if(force) {
+                palette.classList.remove('mac-cmd-hidden');
+                setTimeout(() => input.focus(), 50);
+            } else {
+                palette.classList.add('mac-cmd-hidden');
+                input.blur();
+            }
+            return;
+        }
+        
+        if (palette.classList.contains('mac-cmd-hidden')) {
+            palette.classList.remove('mac-cmd-hidden');
+            setTimeout(() => input.focus(), 50);
+        } else {
+            palette.classList.add('mac-cmd-hidden');
+            input.blur();
+        }
+    }
+
+    
+    document.addEventListener('keydown', (e) => {
+        if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
+            e.preventDefault();
+            togglePalette();
+        }
+        if (e.key === 'Escape' && !palette.classList.contains('mac-cmd-hidden')) {
+            togglePalette(false);
+        }
+    });
+
+    
+    palette.addEventListener('click', (e) => {
+        if (e.target === palette) togglePalette(false);
+    });
+
+    
+    input.addEventListener('input', () => {
+        const val = input.value.trim();
+        if (val.length > 0) {
+            items.forEach(i => i.style.display = 'none');
+            searchItem.style.display = 'flex';
+            searchValue.textContent = val;
+            setActive(searchItem);
+        } else {
+            items.forEach(i => i.style.display = 'flex');
+            searchValue.textContent = '';
+            setActive(items[1]); 
+        }
+    });
+
+    
+    input.addEventListener('keydown', (e) => {
+        const visibleItems = Array.from(items).filter(i => i.style.display !== 'none');
+        if (visibleItems.length === 0) return;
+        
+        const currentActive = visibleItems.findIndex(i => i.classList.contains('active'));
+        
+        if (e.key === 'ArrowDown') {
+            e.preventDefault();
+            const next = (currentActive + 1) % visibleItems.length;
+            setActive(visibleItems[next]);
+        } else if (e.key === 'ArrowUp') {
+            e.preventDefault();
+            const prev = (currentActive - 1 + visibleItems.length) % visibleItems.length;
+            setActive(visibleItems[prev]);
+        } else if (e.key === 'Enter') {
+            e.preventDefault();
+            const activeItem = visibleItems.find(i => i.classList.contains('active'));
+            if (activeItem) executeCommand(activeItem.dataset.action);
+        }
+    });
+
+    function setActive(item) {
+        items.forEach(i => i.classList.remove('active'));
+        if(item) item.classList.add('active');
+    }
+    setActive(items[1]); 
+
+    
+    items.forEach(item => {
+        item.addEventListener('click', () => {
+            executeCommand(item.dataset.action);
+        });
+        item.addEventListener('mousemove', () => {
+            setActive(item);
+        });
+    });
+
+    function executeCommand(action) {
+        togglePalette(false);
+        if (action === 'theme') {
+            const btn = document.getElementById('dark-mode-toggle');
+            if (btn) btn.click();
+        } else if (action === 'home') {
+            window.location.href = '/';
+        } else if (action === 'search') {
+            const keyword = input.value.trim();
+            window.location.href = '/search/?keyword=' + encodeURIComponent(keyword);
+        }
+        input.value = '';
+        input.dispatchEvent(new Event('input'));
+    }
+});
+</script>
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    
+    
+    const articleLinks = document.querySelectorAll('.article-content a');
+    const currentHost = window.location.hostname;
+    articleLinks.forEach(link => {
+        try {
+            const url = new URL(link.href);
+            
+            if (url.hostname && url.hostname !== currentHost && !link.hasAttribute('target')) {
+                link.setAttribute('target', '_blank');
+                link.setAttribute('rel', 'noopener noreferrer');
+            }
+        } catch (e) {
+            
+        }
+    });
+
+    
+    if (document.querySelector('.main-article')) {
+        const path = window.location.pathname;
+        const memoryKey = 'mac_read_pos_' + path;
+        
+        
+        const savedPos = localStorage.getItem(memoryKey);
+        if (savedPos) {
+            
+            setTimeout(() => {
+                window.scrollTo({
+                    top: parseInt(savedPos, 10),
+                    behavior: 'smooth'
+                });
+            }, 400); 
+        }
+
+        
+        let scrollTimeout;
+        window.addEventListener('scroll', () => {
+            if (scrollTimeout) cancelAnimationFrame(scrollTimeout);
+            scrollTimeout = requestAnimationFrame(() => {
+                const currentPos = window.scrollY || document.documentElement.scrollTop;
+                
+                if (currentPos > 200) {
+                    localStorage.setItem(memoryKey, currentPos);
+                } else if (currentPos < 50) {
+                    
+                    localStorage.removeItem(memoryKey);
+                }
+            });
+        });
+    }
+
+    
+    document.addEventListener('copy', (e) => {
+        const selection = window.getSelection();
+        const selectedText = selection.toString();
+        
+        
+        if (selectedText.length > 150) {
+            e.preventDefault();
+            const copyRightText = `\n\n----------------------\n作者：一落归谦\n链接：${window.location.href}\n来源：一落归谦的博客\n商业转载请联系作者获得授权，非商业转载请注明出处。`;
+            const fullText = selectedText + copyRightText;
+            
+            if (e.clipboardData) {
+                e.clipboardData.setData('text/plain', fullText);
+            } else if (window.clipboardData) {
+                window.clipboardData.setData('Text', fullText);
+            }
+            
+            
+            if(window.showIslandNotification) {
+                window.showIslandNotification('复制成功！带上了版权小尾巴~', '©');
+            }
+        }
+    });
+
 });
 </script>
 
