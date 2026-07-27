@@ -7,13 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Sun, 26 Jul 2026 00:45:30 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 27 Jul 2026 17:35:53 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>博文更新计划与路线图</title>
         <link>https://luoqian29.github.io/p/update/</link>
         <pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/update/</guid>
-        <description>&lt;img src="https://pbs.twimg.com/media/HNJbuBhbsAA0iq-?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HNJbt_3aEAAT55S?format=jpg&amp;amp;name=large&#34;
+        <description>&lt;img src="https://pbs.twimg.com/media/HNJbuBhbsAA0iq-?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;div class=&#34;mac-box&#34;&gt;
+&lt;h1 id=&#34;博文更新计划与路线图&#34;&gt;博文更新计划与路线图
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HNJbt_3aEAAT55S?format=jpg&amp;amp;name=large&#34;
 	
 	
 	
@@ -23,12 +25,14 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;闲话少叙，简单说一下最近以及接下来的更新安排。距离 10 月初（也就是国庆），刚刚好还有&lt;strong&gt;两个半月&lt;/strong&gt;。这段时间内我会把剩下的 AI 意译补丁全部做完，估计还有四五十个。&lt;/p&gt;
-&lt;h2 id=&#34;-博客路线图-roadmap&#34;&gt;🗺️ 博客路线图 (Roadmap)
+&lt;/div&gt;
+&lt;div class=&#34;mac-box-outer&#34;&gt;
+&lt;h2 id=&#34;引言&#34;&gt;引言
+&lt;/h2&gt;&lt;p&gt;闲话少叙，简单说一下最近以及接下来的更新安排。距离 10 月初（也就是国庆），刚刚好还有&lt;strong&gt;两个半月&lt;/strong&gt;。这段时间内我会把剩下的 AI 意译补丁全部做完，估计还有四五十个。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-box-outer&#34;&gt;
+&lt;h2 id=&#34;博客路线图-roadmap&#34;&gt;博客路线图 (Roadmap)
 &lt;/h2&gt;&lt;div class=&#34;mac-timeline&#34;&gt;
-    
-
 &lt;div class=&#34;mac-timeline-item&#34;&gt;
     &lt;div class=&#34;mac-timeline-date&#34;&gt;补丁制作计划&lt;/div&gt;
     &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
@@ -41,7 +45,6 @@
 &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-
 &lt;div class=&#34;mac-timeline-item&#34;&gt;
     &lt;div class=&#34;mac-timeline-date&#34;&gt;7月中旬至月底&lt;/div&gt;
     &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
@@ -53,7 +56,6 @@
 &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-
 &lt;div class=&#34;mac-timeline-item&#34;&gt;
     &lt;div class=&#34;mac-timeline-date&#34;&gt;7月底&lt;/div&gt;
     &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
@@ -63,7 +65,6 @@
 过程会尽量做到通俗易懂，即使完全不懂代码也能跟着图文搞定。这篇教程原本计划 5 月底就写，最近补丁太多一直没抽出空。&lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-
 &lt;div class=&#34;mac-timeline-item&#34;&gt;
     &lt;div class=&#34;mac-timeline-date&#34;&gt;10月初&lt;/div&gt;
     &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
@@ -72,7 +73,6 @@
         &lt;div class=&#34;mac-timeline-desc&#34;&gt;这个会稍微复杂点，&lt;strong&gt;需要一定的代码基础&lt;/strong&gt;。加上不同作者的代码习惯差异非常大，有些写法简直“反人类”，所以这部分硬骨头会放到十月之后慢慢整理。&lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-
 &lt;div class=&#34;mac-timeline-item&#34;&gt;
     &lt;div class=&#34;mac-timeline-date&#34;&gt;10月之后&lt;/div&gt;
     &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
@@ -82,25 +82,18 @@
 后续还是会做一些简润补丁（我自己常玩的游戏），但其他大部分游戏不会投入大量时间搞精润了。毕竟产出比例在那：打磨一个简润的时间，够做四五个 AI 意译补丁了。与其花大量时间制作少量高质量补丁，不如把汉化教程整理出来，让大家自己掌握汉化方法，&lt;strong&gt;授人以鱼不如授人以渔&lt;/strong&gt;。&lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-
-
 &lt;/div&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-关于联系方式-新增绿泡泡&#34;&gt;💬 关于联系方式 (新增绿泡泡)
+&lt;/div&gt;
+&lt;div class=&#34;mac-box-outer&#34;&gt;
+&lt;h2 id=&#34;关于联系方式-新增绿泡泡&#34;&gt;关于联系方式 (新增绿泡泡)
 &lt;/h2&gt;&lt;p&gt;考虑到一部分水友没有 GitHub 或 Telegram，这里提供一个绿泡泡联系方式。我不怎么玩企鹅（QQ），主要是企鹅信息不通知，绿泡泡提醒比较及时。毕竟我的小破站已经进小黑屋了，音符上又不能发图片，大家反馈 bug 或推荐游戏发截图，绿泡泡会方便些。&lt;/p&gt;
-&lt;div class=&#34;mac-grid&#34;&gt;
-    
-&lt;div class=&#34;mac-card&#34;&gt;
-    &lt;div class=&#34;mac-card-icon&#34;&gt;💬&lt;/div&gt;
-    &lt;h3 class=&#34;mac-card-title&#34;&gt;微信联系&lt;/h3&gt;
-    &lt;div class=&#34;mac-card-desc&#34;&gt;&lt;p&gt;&lt;strong&gt;微信号&lt;/strong&gt;：&lt;code&gt;luoqian292929&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;⚠️ 注意&lt;/strong&gt;：加好友后直接发问题截图即可，但&lt;strong&gt;千万别发奇奇怪怪的内容（比如色图）&lt;/strong&gt;，不然号又被抬走了！我之前的号就是这么没的，现在只能看不能发，心累。&lt;/p&gt;
+&lt;h3 id=&#34;微信联系&#34;&gt;微信联系
+&lt;/h3&gt;&lt;div class=&#34;mac-box&#34;&gt;
+    &lt;p&gt;&lt;strong&gt;微信号&lt;/strong&gt;：&lt;code&gt;luoqian292929&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;：加好友后直接发问题截图即可，但&lt;strong&gt;千万别发奇奇怪怪的内容（比如色图）&lt;/strong&gt;，不然号又被抬走了！我之前的号就是这么没的，现在只能看不能发，心累。&lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-&lt;details style=&#34;margin-top: 20px;&#34;&gt;
-&lt;summary style=&#34;color:var(--accent-color);font-weight:600;cursor:pointer;font-size:1.2rem;&#34;&gt;点击扫码添加聊天群&lt;/summary&gt;
+&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;聊天群&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HN85nl4aoAAKp3l?format=jpg&amp;amp;name=large&#34;
 	
 	
@@ -112,6 +105,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;/details&gt;
+&lt;/div&gt;
 </description>
         </item>
         

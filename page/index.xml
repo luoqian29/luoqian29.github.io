@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Sun, 26 Jul 2026 00:45:30 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 27 Jul 2026 17:35:53 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>归档</title>
         <link>https://luoqian29.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0800</pubDate>
@@ -50,10 +50,9 @@
         letter-spacing: -2px;
     }
 &lt;/style&gt;
-&lt;h2 id=&#34;-博客时间线&#34;&gt;⏳ 博客时间线
+&lt;div class=&#34;mac-box&#34;&gt;
+&lt;h2 id=&#34;博客时间线&#34;&gt;博客时间线
 &lt;/h2&gt;&lt;div class=&#34;mac-timeline&#34;&gt;
-    
-
 &lt;div class=&#34;mac-timeline-item&#34;&gt;
     &lt;div class=&#34;mac-timeline-date&#34;&gt;2026 &amp;amp; 未来&lt;/div&gt;
     &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
@@ -68,7 +67,6 @@
 &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-
 &lt;div class=&#34;mac-timeline-item&#34;&gt;
     &lt;div class=&#34;mac-timeline-date&#34;&gt;2025 - 2026&lt;/div&gt;
     &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
@@ -81,7 +79,6 @@
 &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-
 &lt;div class=&#34;mac-timeline-item&#34;&gt;
     &lt;div class=&#34;mac-timeline-date&#34;&gt;2024 - 2025&lt;/div&gt;
     &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
@@ -92,38 +89,32 @@
 &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-
-
 &lt;/div&gt;
-&lt;hr&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-box&#34;&gt;
 &lt;h2 id=&#34;关于资源与网盘&#34;&gt;关于资源与网盘
 &lt;/h2&gt;&lt;p&gt;博客里的游戏资源本体，基本源自作者官网、Patreon、Itch 或 F95。海外网盘（如 Gofile、Vikingfile、Mega 等）不会有国内网盘那种恶心的“会员限速”，下载速度完全取决于你的&lt;strong&gt;魔法&lt;/strong&gt;质量和本地带宽（好的梯子跑到 20MB/s 也很正常）。&lt;/p&gt;
 &lt;p&gt;至于我自己上传得 &lt;strong&gt;汉化补丁&lt;/strong&gt; 和 &lt;strong&gt;Mod&lt;/strong&gt;，一般会上传到 GoFile 和 Pixeldrain 作为双重保障：&lt;/p&gt;
-&lt;div class=&#34;mac-grid&#34;&gt;
-    
-&lt;div class=&#34;mac-card&#34;&gt;
-    &lt;div class=&#34;mac-card-icon&#34;&gt;⚡&lt;/div&gt;
-    &lt;h3 class=&#34;mac-card-title&#34;&gt;GoFile&lt;/h3&gt;
-    &lt;div class=&#34;mac-card-desc&#34;&gt;部分地区（如广东）不需要科学上网就能访问。但它的机制是 7天内没人下载就会自动失效（并非资源被举报）。&lt;/div&gt;
+&lt;div class=&#34;mac-box&#34;&gt;
+    &lt;h3 id=&#34;gofile&#34;&gt;GoFile
+&lt;/h3&gt;&lt;p&gt;部分地区（如广东）不需要科学上网就能访问。但它的机制是 7天内没人下载就会自动失效（并非资源被举报）。&lt;/p&gt;
 &lt;/div&gt;
-
-&lt;div class=&#34;mac-card&#34;&gt;
-    &lt;div class=&#34;mac-card-icon&#34;&gt;🛡️&lt;/div&gt;
-    &lt;h3 class=&#34;mac-card-title&#34;&gt;Pixeldrain&lt;/h3&gt;
-    &lt;div class=&#34;mac-card-desc&#34;&gt;比较稳定，但百分百需要魔法。它是只要有两个月内有人下载，文件就不会失效。基本除了官网崩掉，资源都应该在的。&lt;/div&gt;
+&lt;div class=&#34;mac-box&#34;&gt;
+    &lt;h3 id=&#34;pixeldrain&#34;&gt;Pixeldrain
+&lt;/h3&gt;&lt;p&gt;比较稳定，但百分百需要魔法。它是只要有两个月内有人下载，文件就不会失效。基本除了官网崩掉，资源都应该在的。&lt;/p&gt;
 &lt;/div&gt;
-
-&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;为什么不用 QQ群文件、百度网盘或迅雷？&lt;/strong&gt;
-一是因为我本身没有资源本体，二是因为国内审核太严，太麻烦了。用国内盘还得搞什么多次压缩、解压，乱七八糟的我不会弄，也没那闲工夫。&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;details&gt;
+&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;为什么不用 QQ群文件、百度网盘或迅雷？&lt;/summary&gt;
+&lt;p&gt;一是因为我本身没有资源本体，二是因为国内审核太严，太麻烦了。用国内盘还得搞什么多次压缩、解压，乱七八糟的我不会弄，也没那闲工夫。&lt;/p&gt;
+&lt;/details&gt;
 &lt;p&gt;毕竟上面也说了，我只是简简单单为了帮助一些水友，不是“为爱发电”，不可能事事都喂到你嘴里。能用就用，用不了就算了，我也不强求，不靠这个满虚荣心。你有需要我就给，不需要就算了，就这么简单。大家看自己的需求吧。&lt;/p&gt;
-&lt;hr&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-box&#34;&gt;
 &lt;h2 id=&#34;关于订阅制&#34;&gt;关于订阅制
 &lt;/h2&gt;&lt;p&gt;那不加订阅制之后，博客有没有收益啊？&lt;/p&gt;
 &lt;p&gt;其实收益非常少。以前不加订阅制寥寥无几，一个月就三四十块钱赞助。加了之后，最高一个月拿到过 700 多，最少也有 300 多，确实挺杯水车薪。除了大家投喂的收益，还有一个魔法推广佣金，一般也有几百块。&lt;/p&gt;
 &lt;p&gt;总之就是这样子吧，运营博客也没收多少费用，一个月跑 AI 大概就百来块，毕竟我自己也要玩一点。加上部署在 GitHub 上，费用也是挺少的，就当交点网费和电费而已~&lt;/p&gt;
+&lt;/div&gt;
 </description>
         </item>
         <item>

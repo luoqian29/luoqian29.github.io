@@ -6,11 +6,11 @@
 
 <link rel='canonical' href='https://luoqian29.github.io/tags/ai%E7%94%BB%E9%A3%8E/'>
 
-<link rel="stylesheet" href="/scss/style.min.ce3cd636d47b4fce17be4660dc20a6556d37a9e8d9e93cb1ea5054ae8ce064ad.css"><meta property='og:title' content="Tag: AI画风 - 一落归谦">
+<link rel="stylesheet" href="/scss/style.min.13cebd9d7730c57b6b6411da84e25c2bc864c03f6e007258c7d20eefc99e0d96.css"><meta property='og:title' content="Tag: AI画风 - 一落归谦">
 <meta property='og:description' content="Running with the Wind.">
 <meta property='og:url' content='https://luoqian29.github.io/tags/ai%E7%94%BB%E9%A3%8E/'>
 <meta property='og:site_name' content='一落归谦'>
-<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2026-07-26T00:45:30&#43;08:00 '/>
+<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2026-07-27T17:35:53&#43;08:00 '/>
 <meta name="twitter:title" content="Tag: AI画风 - 一落归谦">
 <meta name="twitter:description" content="Running with the Wind."><link rel="alternate" type="application/rss&#43;xml" href="https://luoqian29.github.io/tags/ai%E7%94%BB%E9%A3%8E/index.xml">
     <link rel="shortcut icon" href="/favicon.ico" />
@@ -1163,7 +1163,7 @@
         共发表
         302
         篇文章 · 总计
-        593.04k
+        442.21k
         字
     </div>
 
@@ -1292,18 +1292,23 @@
                       })
                     }
                     
-                    let currentLi = document.querySelector(".active-class");
-                    if (currentLi) {
-                        
-                        if (currentLi.children.length > 1) {
-                            currentLi.children[1].classList.add("open")
+                    let currentA = document.querySelector("#TableOfContents .active-class");
+                    if (currentA) {
+                        let currentLi = currentA.closest('li');
+                        if (currentLi) {
+                            
+                            let childList = currentLi.querySelector(':scope > ul, :scope > ol');
+                            if (childList) {
+                                childList.classList.add("open");
+                            }
+                            
+                            
+                            let parentList = currentLi.closest('ul, ol');
+                            while (parentList && parentList.id !== 'TableOfContents') {
+                                parentList.classList.add("open");
+                                parentList = parentList.parentElement.closest('ul, ol');
+                            }
                         }
-                        
-                        let ul = currentLi.parentElement;
-                        do {
-                            ul.classList.add("open");
-                            ul = ul.parentElement.parentElement
-                        } while (ul !== undefined && (ul.localName === 'ul' || ul.localName === 'ol'))
                     }
                     ticking = false;
                 });
@@ -1402,7 +1407,6 @@
         return;
       }
       
-      
       let codeMoreBox = document.createElement('div');
       codeMoreBox.classList.add('code-more-box');
       
@@ -1412,7 +1416,6 @@
         codeBlock.classList.add('code-show');
         codeMoreBox.style.display = 'none';
         
-        window.dispatchEvent(new Event('resize'))
       })
       
       let img = document.createElement('img');
@@ -1429,7 +1432,7 @@
 </script>
 
 
-<a href="#" id="back-to-top" title="返回顶部"></a>
+<a href="#" id="back-to-top" title="杩斿洖椤堕儴"></a>
 
 
 <style>
@@ -1535,7 +1538,6 @@ document.addEventListener("DOMContentLoaded", function() {
     cards.forEach((card, index) => {
         card.classList.add('scroll-reveal');
         
-        if(index < 8) {
             card.style.transitionDelay = (index * 0.08) + 's';
         }
         observer.observe(card);
@@ -1547,209 +1549,15 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    const subtitleElement = document.querySelector('.site-description');
-    if (subtitleElement && subtitleElement.textContent.trim().length > 0) {
-        const originalText = subtitleElement.textContent.trim();
-        subtitleElement.textContent = ''; 
-        
-        
-        subtitleElement.style.borderRight = '2px solid var(--card-text-color-main)';
-        subtitleElement.style.whiteSpace = 'nowrap';
-        subtitleElement.style.display = 'inline-block';
-        subtitleElement.style.paddingRight = '2px';
-        
-        
-        const cursorStyle = document.createElement('style');
-        cursorStyle.innerHTML = `
-            @keyframes blinkCursor {
-                0%, 100% { border-right-color: transparent; }
-                50% { border-right-color: var(--card-text-color-main); }
-            }
-            .site-description {
-                animation: blinkCursor 0.8s step-end infinite;
-            }
-        `;
-        document.head.appendChild(cursorStyle);
-
-        let i = 0;
-        function typeWriter() {
-            if (i < originalText.length) {
-                subtitleElement.textContent += originalText.charAt(i);
-                i++;
-                
-                let speed = Math.random() * 50 + 80;
-                setTimeout(typeWriter, speed); 
-            } else {
-                
-                subtitleElement.style.borderRight = 'none';
-                subtitleElement.style.animation = 'none';
-            }
-        }
-        
-        setTimeout(typeWriter, 800); 
-    }
-});
-</script>
 
 
 
-<div id="mac-dynamic-island" class="mac-dynamic-island">
-    <span class="mac-dynamic-island-icon">🚀</span>
-    <div class="mac-dynamic-island-progress-bg">
-        <div id="mac-dynamic-island-progress-bar" class="mac-dynamic-island-progress-bar"></div>
+
+
     </div>
 </div>
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    const island = document.getElementById('mac-dynamic-island');
-    const progressBar = document.getElementById('mac-dynamic-island-progress-bar');
-    const mainArticle = document.querySelector('.main-article');
-    
-    let islandEnabled = localStorage.getItem('dynamicIslandEnabled');
-    if (islandEnabled === null) islandEnabled = 'true';
-    
-    
-    const menuBottom = document.querySelector('.menu-bottom-section .menu');
-    if (menuBottom) {
-        const toggleLi = document.createElement('li');
-        toggleLi.id = 'dynamic-island-toggle';
-        toggleLi.innerHTML = `
-            <svg id="di-icon-on" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" style="display: none;">
-                <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-                <circle cx="16" cy="12" r="2"></circle>
-                <rect x="2" y="6" width="20" height="12" rx="6"></rect>
-            </svg>
-            <svg id="di-icon-off" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" style="display: none;">
-                <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-                <circle cx="8" cy="12" r="2"></circle>
-                <rect x="2" y="6" width="20" height="12" rx="6"></rect>
-            </svg>
-            <span>灵动岛</span>
-        `;
-        
-        const iconOn = toggleLi.querySelector('#di-icon-on');
-        const iconOff = toggleLi.querySelector('#di-icon-off');
-        
-        if (islandEnabled === 'true') {
-            iconOn.style.display = 'block';
-            toggleLi.classList.add('is-active');
-        } else {
-            iconOff.style.display = 'block';
-            toggleLi.classList.remove('is-active');
-        }
-        
-        toggleLi.addEventListener('click', function() {
-            if (islandEnabled === 'true') {
-                islandEnabled = 'false';
-                localStorage.setItem('dynamicIslandEnabled', 'false');
-                iconOn.style.display = 'none';
-                iconOff.style.display = 'block';
-                toggleLi.classList.remove('is-active');
-                if (island) {
-                    island.classList.remove('visible');
-                }
-            } else {
-                islandEnabled = 'true';
-                localStorage.setItem('dynamicIslandEnabled', 'true');
-                iconOn.style.display = 'block';
-                iconOff.style.display = 'none';
-                toggleLi.classList.add('is-active');
-                window.dispatchEvent(new Event('scroll'));
-            }
-        });
-        menuBottom.appendChild(toggleLi);
-    }
-    
-    
-    window.showIslandNotification = function(text, iconHtml) {
-        if(!island || islandEnabled !== 'true') return;
-        const progressWrapper = island.querySelector('.mac-dynamic-island-progress-bg');
-        const defaultIcon = island.querySelector('.mac-dynamic-island-icon');
-        
-        if(progressWrapper) progressWrapper.style.display = 'none';
-        if(defaultIcon) defaultIcon.style.display = 'none';
-        
-        let notif = island.querySelector('.mac-island-notif');
-        if(!notif) {
-            notif = document.createElement('div');
-            notif.className = 'mac-island-notif';
-            island.appendChild(notif);
-        }
-        
-        island.style.width = '180px'; 
-        notif.innerHTML = iconHtml + '<span style="margin-left:8px; font-weight:600; font-size:13px; color:#fff;">' + text + '</span>';
-        notif.style.display = 'flex';
-        notif.style.alignItems = 'center';
-        notif.style.justifyContent = 'center';
-        notif.style.width = '100%';
-        notif.style.height = '100%';
-        
-        island.classList.add('visible');
-        
-        clearTimeout(window.islandTimer);
-        window.islandTimer = setTimeout(() => {
-            notif.style.display = 'none';
-            
-            
-            if (mainArticle) {
-                if(progressWrapper) progressWrapper.style.display = 'block';
-                if(defaultIcon) defaultIcon.style.display = 'block';
-                island.style.width = '120px'; 
-                window.dispatchEvent(new Event('scroll')); 
-            } else {
-                island.classList.remove('visible'); 
-            }
-        }, 2500);
-    };
 
-    
-    document.addEventListener('copy', () => {
-        window.showIslandNotification('已复制', '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path><rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect></svg>');
-    });
-
-    
-    const darkModeBtn = document.getElementById('dark-mode-toggle');
-    if(darkModeBtn) {
-        darkModeBtn.addEventListener('click', () => {
-            window.showIslandNotification('主题已切换', '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>');
-        });
-    }
-
-    if (!mainArticle || !island || !progressBar) return;
-    
-    let isVisible = false;
-    
-    window.addEventListener('scroll', function() {
-        if(island.style.width === '180px') return; 
-        const scrollTop = window.scrollY || document.documentElement.scrollTop;
-        const docHeight = document.documentElement.scrollHeight;
-        const winHeight = window.innerHeight;
-        const maxScroll = docHeight - winHeight;
-        
-        if (islandEnabled === 'true' && docHeight > winHeight * 1.5) {
-            let scrollPercent = (scrollTop / maxScroll) * 100;
-            if (scrollPercent > 100) scrollPercent = 100;
-            if (scrollPercent < 0) scrollPercent = 0;
-            
-            progressBar.style.width = scrollPercent + '%';
-            
-            if (scrollTop > 200 && !isVisible) {
-                island.classList.add('visible');
-                isVisible = true;
-            } else if (scrollTop <= 200 && isVisible) {
-                island.classList.remove('visible');
-                isVisible = false;
-            }
-        } else if (isVisible) {
-            island.classList.remove('visible');
-            isVisible = false;
-        }
-    }, { passive: true });
-});
-</script>
 
 
 
@@ -1765,40 +1573,6 @@ document.addEventListener('DOMContentLoaded', () => {
 </script>
 
 
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-    const paragraphs = document.querySelectorAll('.article-content p');
-    paragraphs.forEach(p => {
-        const images = p.querySelectorAll('img');
-        if (images.length > 1 && p.textContent.trim() === '') {
-            p.classList.add('mac-image-carousel');
-            
-            const wrapper = document.createElement('div');
-            wrapper.className = 'mac-carousel-wrapper';
-            p.parentNode.insertBefore(wrapper, p);
-            wrapper.appendChild(p);
-            
-            const btnLeft = document.createElement('button');
-            btnLeft.className = 'mac-carousel-btn left';
-            btnLeft.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M15 6l-6 6l6 6"></path></svg>';
-            
-            const btnRight = document.createElement('button');
-            btnRight.className = 'mac-carousel-btn right';
-            btnRight.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M9 6l6 6l-6 6"></path></svg>';
-            
-            wrapper.appendChild(btnLeft);
-            wrapper.appendChild(btnRight);
-            
-            btnLeft.addEventListener('click', () => {
-                p.scrollBy({ left: -400, behavior: 'smooth' });
-            });
-            btnRight.addEventListener('click', () => {
-                p.scrollBy({ left: 400, behavior: 'smooth' });
-            });
-        }
-    });
-});
-</script>
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.8.1/vanilla-tilt.min.js"></script>
@@ -1886,11 +1660,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
 <div id="mac-cmd-palette" class="mac-cmd-hidden">
     <div class="mac-cmd-box">
-        <input type="text" id="mac-cmd-input" placeholder="输入命令或搜索关键字 (按 Esc 退出)..." autocomplete="off">
+        <input type="text" id="mac-cmd-input" placeholder="杈撳叆鍛戒护鎴栨悳绱㈠叧閿瓧 (鎸?Esc 閫€鍑?..." autocomplete="off">
         <ul id="mac-cmd-list">
-            <li data-action="search" class="active">🔍 <span class="cmd-label">搜索全站:</span> <span class="cmd-value"></span></li>
-            <li data-action="theme">🌗 切换日/夜间模式</li>
-            <li data-action="home">🏠 返回首页</li>
+            <li data-action="search" class="active">馃攳 <span class="cmd-label">鎼滅储鍏ㄧ珯:</span> <span class="cmd-value"></span></li>
+            <li data-action="theme">馃寳 鍒囨崲鏃?澶滈棿妯″紡</li>
+            <li data-action="home">馃彔 杩斿洖棣栭〉</li>
         </ul>
     </div>
 </div>
@@ -2018,7 +1792,6 @@ document.addEventListener('DOMContentLoaded', () => {
 document.addEventListener('DOMContentLoaded', () => {
     
     
-    const articleLinks = document.querySelectorAll('.article-content a');
     const currentHost = window.location.hostname;
     articleLinks.forEach(link => {
         try {
@@ -2057,11 +1830,9 @@ document.addEventListener('DOMContentLoaded', () => {
             scrollTimeout = requestAnimationFrame(() => {
                 const currentPos = window.scrollY || document.documentElement.scrollTop;
                 
-                if (currentPos > 200) {
                     localStorage.setItem(memoryKey, currentPos);
                 } else if (currentPos < 50) {
                     
-                    localStorage.removeItem(memoryKey);
                 }
             });
         });
@@ -2073,9 +1844,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const selectedText = selection.toString();
         
         
-        if (selectedText.length > 150) {
             e.preventDefault();
-            const copyRightText = `\n\n----------------------\n作者：一落归谦\n链接：${window.location.href}\n来源：一落归谦的博客\n商业转载请联系作者获得授权，非商业转载请注明出处。`;
+            const copyRightText = `\n\n----------------------\n浣滆€咃細涓€钀藉綊璋n閾炬帴锛?{window.location.href}\n鏉ユ簮锛氫竴钀藉綊璋︾殑鍗氬\n鍟嗕笟杞浇璇疯仈绯讳綔鑰呰幏寰楁巿鏉冿紝闈炲晢涓氳浆杞借娉ㄦ槑鍑哄銆俙`;
             const fullText = selectedText + copyRightText;
             
             if (e.clipboardData) {
@@ -2085,12 +1855,584 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             
             
-            if(window.showIslandNotification) {
-                window.showIslandNotification('复制成功！带上了版权小尾巴~', '©');
+                window.showIslandNotification('澶嶅埗鎴愬姛锛佸甫涓婁簡鐗堟潈灏忓熬宸磣', '漏');
             }
         }
     });
 
+});
+</script>
+
+
+
+
+
+    </div>
+</div>
+
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const floatingButtons = document.querySelectorAll("#back-to-top, .back-to-top, #mac-back-top, #mac-back-bottom, #backTopBtn");
+    
+    
+    floatingButtons.forEach(btn => {
+        btn.style.transition = "opacity 0.4s ease, transform 0.4s ease";
+        btn.style.opacity = "0";
+        btn.style.pointerEvents = "auto"; 
+        btn.style.display = "flex"; 
+    });
+
+    let scrollTimeout;
+    let isHoveringOldFab = false;
+    
+    function showOldFab() {
+        floatingButtons.forEach(btn => {
+            btn.style.opacity = "1";
+            btn.style.transform = "translateY(0)";
+        });
+    }
+    function hideOldFab() {
+        if (!isHoveringOldFab) {
+            floatingButtons.forEach(btn => { btn.style.opacity = "0"; });
+        }
+    }
+    function scheduleOldHide() {
+        clearTimeout(scrollTimeout);
+        scrollTimeout = setTimeout(hideOldFab, 1500);
+    }
+    
+    
+    floatingButtons.forEach(btn => {
+        btn.addEventListener('mouseenter', () => {
+            isHoveringOldFab = true;
+            clearTimeout(scrollTimeout);
+            showOldFab();
+        });
+        btn.addEventListener('mouseleave', () => {
+            isHoveringOldFab = false;
+            scheduleOldHide();
+        });
+    });
+
+    window.addEventListener("scroll", function() {
+        if (window.scrollY > 10) {
+            showOldFab();
+            scheduleOldHide();
+        } else {
+            hideOldFab();
+        }
+    });
+});
+</script>
+
+
+
+
+<style>
+
+ 
+.pswp__button--arrow--left,
+.pswp__button--arrow--right {
+    display: none !important;
+}
+ 
+.pswp:not(.pswp--open) {
+    pointer-events: none !important;
+}
+.pswp:not(.pswp--open) * {
+    pointer-events: none !important;
+}
+.mac-gallery-carousel {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;  
+    overflow: hidden;
+    border-radius: var(--card-border-radius, 8px);
+    background: #000;
+    margin: 12px 0;
+}
+.mac-gallery-track {
+    display: flex;
+    height: 100%;  
+    transition: transform 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+    will-change: transform;
+}
+.mac-gallery-slide {
+    flex: 0 0 100%;
+    min-width: 100%;
+    height: 100%;  
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background: transparent;
+}
+ 
+.mac-gallery-slide-bg {
+    position: absolute;
+    inset: -10px;
+    background-size: cover;
+    background-position: center;
+    filter: blur(18px) brightness(0.45);
+    transform: scale(1.05);
+    z-index: 0;
+}
+.mac-gallery-slide img {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    height: 100%;  
+    display: block;
+    object-fit: contain !important;  
+    cursor: zoom-in;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: transparent !important;  
+    box-shadow: none !important;  
+    border-radius: 0;
+}
+.mac-gallery-prev { display: none !important; }
+.mac-gallery-next { display: none !important; }
+ 
+.mac-gallery-click-prev,
+.mac-gallery-click-next {
+    position: absolute;
+    top: 0; bottom: 0;
+    width: 28%;
+    z-index: 5;
+    cursor: pointer;
+    opacity: 0;
+}
+.mac-gallery-click-prev { left: 0; }
+.mac-gallery-click-next { right: 0; }
+.mac-gallery-dots {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 6px;
+    z-index: 10;
+}
+.mac-gallery-dot {
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.5);
+    cursor: pointer;
+    transition: background 0.2s, transform 0.2s;
+}
+.mac-gallery-dot.active {
+    background: #fff;
+    transform: scale(1.3);
+}
+.mac-gallery-counter {
+    position: absolute;
+    top: 10px;
+    right: 12px;
+    background: rgba(0,0,0,0.45);
+    color: #fff;
+    font-size: 12px;
+    padding: 3px 8px;
+    border-radius: 20px;
+    z-index: 10;
+    backdrop-filter: blur(4px);
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    
+    const allParagraphs = document.querySelectorAll('.article-content p, .mac-box p');
+    allParagraphs.forEach(p => {
+        const images = [...p.querySelectorAll('img')];
+        if (images.length < 2) return;
+
+        
+        const carousel = document.createElement('div');
+        carousel.className = 'mac-gallery-carousel';
+
+        const track = document.createElement('div');
+        track.className = 'mac-gallery-track';
+
+        images.forEach(img => {
+            const slide = document.createElement('div');
+            slide.className = 'mac-gallery-slide';
+
+            
+            const bgLayer = document.createElement('div');
+            bgLayer.className = 'mac-gallery-slide-bg';
+            bgLayer.style.backgroundImage = `url('${img.src}')`;
+            slide.appendChild(bgLayer);
+
+            const newImg = img.cloneNode(true);
+            newImg.removeAttribute('width');
+            newImg.removeAttribute('height');
+            newImg.removeAttribute('style'); 
+            newImg.removeAttribute('height');
+            slide.appendChild(newImg);
+            track.appendChild(slide);
+
+            
+            newImg.style.width = '100%';
+            newImg.style.height = '100%';
+            newImg.style.objectFit = 'cover';
+        });
+
+        
+        const prevBtn = document.createElement('div');
+        prevBtn.className = 'mac-gallery-click-prev';
+        prevBtn.setAttribute('aria-label', '上一张');
+
+        const nextBtn = document.createElement('div');
+        nextBtn.className = 'mac-gallery-click-next';
+        nextBtn.setAttribute('aria-label', '下一张');
+
+        const counter = document.createElement('div');
+        counter.className = 'mac-gallery-counter';
+
+        const dotsContainer = document.createElement('div');
+        dotsContainer.className = 'mac-gallery-dots';
+
+        const dots = images.map((_, i) => {
+            const dot = document.createElement('div');
+            dot.className = 'mac-gallery-dot' + (i === 0 ? ' active' : '');
+            dot.addEventListener('click', () => goTo(i));
+            dotsContainer.appendChild(dot);
+            return dot;
+        });
+
+        carousel.appendChild(track);
+        carousel.appendChild(prevBtn);
+        carousel.appendChild(nextBtn);
+        carousel.appendChild(dotsContainer);
+        carousel.appendChild(counter);
+         
+
+        let current = 0;
+        const total = images.length;
+
+        function goTo(n) {
+            current = (n + total) % total;
+            track.style.transform = 'translateX(-' + (current * 100) + '%)';
+            dots.forEach((d, i) => d.classList.toggle('active', i === current));
+            counter.textContent = (current + 1) + ' / ' + total;
+        }
+
+        prevBtn.addEventListener('click', (e) => { e.stopPropagation(); goTo(current - 1); });
+        nextBtn.addEventListener('click', (e) => { e.stopPropagation(); goTo(current + 1); });
+
+        
+        let startX = 0;
+        carousel.addEventListener('touchstart', e => { startX = e.touches[0].clientX; }, { passive: true });
+        carousel.addEventListener('touchend', e => {
+            const dx = e.changedTouches[0].clientX - startX;
+            if (Math.abs(dx) > 40) goTo(current + (dx < 0 ? 1 : -1));
+        });
+
+        goTo(0);
+        p.parentNode.insertBefore(carousel, p);
+        p.remove();
+    });
+
+    
+    if (typeof mediumZoom !== 'undefined') {
+        mediumZoom('.article-content img:not(.no-zoom), .mac-gallery-slide img', {
+            margin: 24,
+            background: 'rgba(0, 0, 0, 0.75)',
+            scrollOffset: 40
+        });
+    }
+});
+</script>
+
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const subtitleElement = document.querySelector('.site-description');
+    if (!subtitleElement) return;
+    const originalText = "Running with the Wind.";
+    subtitleElement.innerHTML = '';
+    const textSpan = document.createElement('span');
+    textSpan.style.textAlign = 'center';
+    textSpan.style.display = 'inline-block';
+    subtitleElement.appendChild(textSpan);
+    let i = 0;
+    function typeWriter() {
+        if (i <= originalText.length) {
+            textSpan.innerHTML = originalText.substring(0, i) + '<span class="typewriter-cursor" style="animation: blinkCursor 0.8s step-end infinite; font-weight: 200;">|</span>';
+            i++;
+            setTimeout(typeWriter, 100);
+        } else {
+            setTimeout(() => { textSpan.innerHTML = originalText; }, 3000);
+        }
+    }
+    if (!document.getElementById('typewriter-style')) {
+        const style = document.createElement('style');
+        style.id = 'typewriter-style';
+        style.innerHTML = `
+            @keyframes blinkCursor { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+            .site-description { min-width: 170px; display: inline-block !important; text-align: center !important; }
+        `;
+        document.head.appendChild(style);
+    }
+    setTimeout(typeWriter, 500);
+});
+</script>
+
+
+
+
+<div id="mac-dynamic-island" class="mac-dynamic-island">
+    <span class="mac-dynamic-island-icon">🚀</span>
+    <div class="mac-dynamic-island-progress-bg">
+        <div id="mac-dynamic-island-progress-bar" class="mac-dynamic-island-progress-bar"></div>
+    </div>
+</div>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const island = document.getElementById('mac-dynamic-island');
+    const progressBar = document.getElementById('mac-dynamic-island-progress-bar');
+    let islandEnabled = localStorage.getItem('dynamicIslandEnabled');
+    if(islandEnabled === null) {
+        islandEnabled = 'true';
+        localStorage.setItem('dynamicIslandEnabled', 'true');
+    }
+    
+    
+    const menuBottom = document.querySelector('.menu-bottom-section .menu');
+    if (menuBottom) {
+        const toggleLi = document.createElement('li');
+        toggleLi.id = 'dynamic-island-toggle';
+        toggleLi.innerHTML = `
+            <svg id="di-icon-on" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" style="display: none;">
+                <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                <circle cx="16" cy="12" r="2"></circle>
+                <rect x="2" y="6" width="20" height="12" rx="6"></rect>
+            </svg>
+            <svg id="di-icon-off" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" style="display: none;">
+                <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                <circle cx="8" cy="12" r="2"></circle>
+                <rect x="2" y="6" width="20" height="12" rx="6"></rect>
+            </svg>
+            <span>灵动岛</span>
+        `;
+        menuBottom.appendChild(toggleLi);
+        
+        const iconOn = document.getElementById('di-icon-on');
+        const iconOff = document.getElementById('di-icon-off');
+        
+        if (islandEnabled === 'true') {
+            iconOn.style.display = 'block';
+            island.style.display = 'flex';
+        } else {
+            iconOff.style.display = 'block';
+            island.style.display = 'none';
+        }
+        
+        toggleLi.addEventListener('click', function() {
+            if (islandEnabled === 'true') {
+                islandEnabled = 'false';
+                localStorage.setItem('dynamicIslandEnabled', 'false');
+                iconOn.style.display = 'none';
+                iconOff.style.display = 'block';
+                island.style.display = 'none';
+            } else {
+                islandEnabled = 'true';
+                localStorage.setItem('dynamicIslandEnabled', 'true');
+                iconOn.style.display = 'block';
+                iconOff.style.display = 'none';
+                island.style.display = 'flex';
+            }
+        });
+    }
+
+    let isVisible = false;
+    window.addEventListener('scroll', function() {
+        if(island.style.width === '180px') return; 
+        const scrollTop = window.scrollY || document.documentElement.scrollTop;
+        const docHeight = document.documentElement.scrollHeight;
+        const winHeight = window.innerHeight;
+        
+        if (islandEnabled === 'true' && docHeight > winHeight * 1.5) {
+            let maxScroll = docHeight - winHeight;
+            let scrollPercent = (scrollTop / maxScroll) * 100;
+            if (scrollPercent > 100) scrollPercent = 100;
+            if (scrollPercent < 0) scrollPercent = 0;
+            
+            progressBar.style.width = scrollPercent + '%';
+            
+            if (scrollTop > 200 && !isVisible) {
+                island.classList.add('visible');
+                isVisible = true;
+            } else if (scrollTop <= 200 && isVisible) {
+                island.classList.remove('visible');
+                isVisible = false;
+            }
+        }
+    });
+});
+</script>
+
+
+
+
+<div id="mac-fab-group" class="mac-fab-group">
+    <div id="mac-fab-toc" class="mac-fab-btn" title="目录">
+        <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+    </div>
+    <div id="mac-fab-top" class="mac-fab-btn" title="回到顶部">
+        <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none"><polyline points="18 15 12 9 6 15"></polyline></svg>
+    </div>
+    <div id="mac-fab-bottom" class="mac-fab-btn" title="回到底部">
+        <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none"><polyline points="6 9 12 15 18 9"></polyline></svg>
+    </div>
+</div>
+
+<style>
+.mac-fab-group {
+    position: fixed; right: 20px; bottom: 20px; display: flex; flex-direction: column; gap: 12px; z-index: 9999;
+    opacity: 0; pointer-events: none; transform: translateY(20px); transition: opacity 0.4s ease, transform 0.4s ease;
+}
+.mac-fab-btn {
+    width: 44px; height: 44px; background: var(--card-background); color: var(--card-text-color-main); border-radius: 50%; pointer-events: auto !important;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1); display: flex; justify-content: center; align-items: center; cursor: pointer;
+    border: 1px solid var(--card-border-color, rgba(128,128,128,0.1)); transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+@media (hover: hover) and (pointer: fine) {
+    .mac-fab-btn:hover {
+        transform: translateY(-1px) scale(1.02);
+        box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+        color: var(--primary-color);
+    }
+}
+ 
+.mac-fab-btn:active {
+    transform: translateY(0) scale(0.95);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    transition: all 0.1s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+ 
+#back-to-top, .back-to-top, #backTopBtn, #desktop-restore-toc, #toggle-toc { display: none !important; }
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const fabGroup = document.getElementById('mac-fab-group');
+    const fabToc = document.getElementById('mac-fab-toc');
+    const fabTop = document.getElementById('mac-fab-top');
+    const fabBottom = document.getElementById('mac-fab-bottom');
+    
+    
+    function updateTocVisibility() {
+        if (!fabToc) return;
+        const hasToc = document.querySelector('.widget--toc');
+        if (!hasToc) {
+            
+            fabToc.style.display = 'none';
+            return;
+        }
+        const rightSidebar = document.querySelector('.right-sidebar');
+        if (window.innerWidth > 1024) {
+            
+            const isSidebarHidden = !rightSidebar
+                || rightSidebar.classList.contains('force-hide-sidebar');
+            fabToc.style.display = isSidebarHidden ? 'flex' : 'none';
+        } else {
+            
+            fabToc.style.display = 'flex';
+        }
+    }
+    
+    
+    updateTocVisibility();
+    window.addEventListener('resize', updateTocVisibility);
+    
+    document.addEventListener('click', function(e) {
+        setTimeout(updateTocVisibility, 50);
+    });
+
+    if (fabToc) {
+        fabToc.addEventListener('click', (e) => {
+            e.stopPropagation();
+            const rightSidebar = document.querySelector('.main-container .right-sidebar') || document.querySelector('.right-sidebar');
+            const tocContainer = document.getElementById('toc-container');
+            
+            if (window.innerWidth <= 1024) { 
+                if (tocContainer) {
+                    if (tocContainer.style.display === 'none' || tocContainer.style.display === '') {
+                        tocContainer.style.display = 'block';
+                    } else {
+                        tocContainer.style.display = 'none';
+                    }
+                }
+            } else { 
+                if (rightSidebar) {
+                    rightSidebar.classList.remove('force-hide-sidebar'); 
+                }
+            }
+            setTimeout(updateTocVisibility, 50);
+        });
+    }
+
+    
+    document.addEventListener('click', function(event) {
+        const tocContainer = document.getElementById('toc-container');
+        if (window.innerWidth <= 1024 && tocContainer) {
+            if (!tocContainer.contains(event.target) && event.target !== fabToc && !fabToc.contains(event.target)) {
+                tocContainer.style.display = 'none';
+            }
+        }
+    });
+
+    if (fabTop) fabTop.addEventListener('click', () => { window.scrollTo({ top: 0, behavior: 'smooth' }); });
+    if (fabBottom) fabBottom.addEventListener('click', () => { window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' }); });
+
+    let scrollTimeout;
+    let isHoveringFab = false;
+    
+    
+    if (window.matchMedia("(hover: hover) and (pointer: fine)").matches) {
+        fabGroup.addEventListener('mouseenter', () => {
+            isHoveringFab = true;
+            clearTimeout(scrollTimeout);
+            fabGroup.style.opacity = "1";
+            fabGroup.style.pointerEvents = "auto";
+        });
+        fabGroup.addEventListener('mouseleave', () => {
+            isHoveringFab = false;
+            scrollTimeout = setTimeout(function() {
+                if (!isHoveringFab) { 
+                    fabGroup.style.opacity = "0"; 
+                    fabGroup.style.pointerEvents = "none"; 
+                }
+            }, 1500);
+        });
+    }
+
+    window.addEventListener("scroll", function() {
+        if (window.scrollY > 10) {
+            fabGroup.style.opacity = "1";
+            fabGroup.style.pointerEvents = "auto";
+            fabGroup.style.transform = "translateY(0)";
+            clearTimeout(scrollTimeout);
+            scrollTimeout = setTimeout(function() {
+                if (!isHoveringFab) { 
+                    fabGroup.style.opacity = "0"; 
+                    fabGroup.style.pointerEvents = "none"; 
+                }
+            }, 1500);
+        } else {
+            fabGroup.style.opacity = "0";
+            fabGroup.style.pointerEvents = "none";
+        }
+    });
 });
 </script>
 

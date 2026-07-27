@@ -7,13 +7,14 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Sat, 25 Jul 2026 16:31:21 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/%E9%9F%A9%E6%BC%AB%E7%94%BB%E9%A3%8E/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 27 Jul 2026 17:35:53 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/%E9%9F%A9%E6%BC%AB%E7%94%BB%E9%A3%8E/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Secret Pie 秘密派</title>
         <link>https://luoqian29.github.io/p/secretpie/</link>
         <pubDate>Wed, 11 Feb 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/secretpie/</guid>
-        <description>&lt;img src="https://clan.fastly.steamstatic.com/images/41454859/6c5a9ca0c3ff7c3f496fa96f3b718d8782d81c0e_960x311.png" alt="Featured image of post Secret Pie 秘密派" /&gt;&lt;h1 id=&#34;secret-pie-v171-dlcs-momentum-games&#34;&gt;Secret Pie [v1.7.1 DLCs] [Momentum Games]
+        <description>&lt;img src="https://clan.fastly.steamstatic.com/images/41454859/6c5a9ca0c3ff7c3f496fa96f3b718d8782d81c0e_960x311.png" alt="Featured image of post Secret Pie 秘密派" /&gt;&lt;div class=&#34;mac-box&#34;&gt;
+&lt;h1 id=&#34;secret-pie-v171-dlcs-momentum-games&#34;&gt;Secret Pie [v1.7.1 DLCs] [Momentum Games]
 &lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://clan.fastly.steamstatic.com/images//41454859/b0e0df69969e40328786eb8b974e9d8302ff47e2.png&#34;
 	
 	
@@ -24,6 +25,8 @@
 	
 	
 &gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-box&#34;&gt;
 &lt;h1 id=&#34;overview&#34;&gt;Overview
 &lt;/h1&gt;&lt;details&gt;
 &lt;summary&gt;剧情概要&lt;/summary&gt;
@@ -31,33 +34,68 @@
 &lt;li&gt;一个公寓经理和三个女人的秘密故事。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
-&lt;hr&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-box-outer&#34;&gt;
 &lt;h2 id=&#34;游戏信息&#34;&gt;游戏信息
-&lt;/h2&gt;&lt;h3 id=&#34;游戏类型&#34;&gt;游戏类型
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;游戏玩法：&lt;strong&gt;视觉小说&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;角色立绘：&lt;strong&gt;手绘立绘&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;运行引擎：&lt;strong&gt;Unity&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;游戏画风：&lt;strong&gt;韩漫画风&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;版本信息&#34;&gt;版本信息
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;当前版本：&lt;strong&gt;1.7.1 + DLCs&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;发行日期：&lt;strong&gt;2024-05-30&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;changelog&#34;&gt;Changelog
-&lt;/h3&gt;&lt;details&gt;
-&lt;summary&gt;更新日志&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;N/A&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://store.steampowered.com/app/1802870/Secret_Pie_Adult_Version/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Steam&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+&lt;/h2&gt;&lt;div class=&#34;mac-list-container&#34;&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;游戏玩法&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;视觉小说&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;角色立绘&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;手绘立绘&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;运行引擎&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;Unity&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;游戏画风&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;韩漫画风&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;当前版本&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;1.7.1 + DLCs&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;发行日期&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;2024-05-30&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-box-outer&#34;&gt;
+&lt;h2 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
+&lt;/h2&gt;&lt;a href=&#34;https://store.steampowered.com/app/1802870/Secret_Pie_Adult_Version/&#34; class=&#34;mac-btn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+    &lt;span class=&#34;mac-btn-text&#34;&gt;Steam&lt;/span&gt;
+    &lt;svg viewBox=&#34;0 0 24 24&#34; width=&#34;13&#34; height=&#34;13&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;mac-btn-icon&#34;&gt;&lt;path d=&#34;M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6&#34;&gt;&lt;/path&gt;&lt;polyline points=&#34;15 3 21 3 21 9&#34;&gt;&lt;/polyline&gt;&lt;line x1=&#34;10&#34; y1=&#34;14&#34; x2=&#34;21&#34; y2=&#34;3&#34;&gt;&lt;/line&gt;&lt;/svg&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-box-outer&#34;&gt;
 &lt;h2 id=&#34;落谦酱便利贴&#34;&gt;落谦酱便利贴
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;PS&lt;/summary&gt;
@@ -67,15 +105,6 @@
 &lt;/details&gt;
 &lt;details&gt;
 &lt;summary&gt;落谦酱点评&lt;/summary&gt;
-
-
-
-
-
-
-    
-
-
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa&#34;
             scrolling=&#34;no&#34;
@@ -85,9 +114,9 @@
     &gt;
     &lt;/iframe&gt;
 &lt;/div&gt;
-
 &lt;/details&gt;
-&lt;hr&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-box-outer&#34;&gt;
 &lt;h2 id=&#34;游戏预览图&#34;&gt;游戏预览图
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;素图&lt;/summary&gt;
@@ -95,43 +124,103 @@
 &lt;li&gt;懒得贴图床链接了，自己去steam上看。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
-&lt;hr&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-box-outer&#34;&gt;
 &lt;h2 id=&#34;download官中&#34;&gt;DOWNLOAD（官中）
 &lt;/h2&gt;&lt;h3 id=&#34;winpc端&#34;&gt;Win（PC端）
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;下载链接：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/QDR1RP3y&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;安装步骤：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;解压&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;文件，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;温馨提示：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;如果打不开链接，那么需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考这篇&lt;strong&gt;博文&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/p/vpn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;VPN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;如果看不懂安装步骤，可以参考这篇&lt;strong&gt;博文&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;详细教程&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+&lt;/h3&gt;&lt;div class=&#34;mac-box&#34;&gt;
+    &lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;&lt;/p&gt;
+&lt;a href=&#34;https://pixeldrain.com/u/QDR1RP3y&#34; class=&#34;mac-btn&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+    &lt;span class=&#34;mac-btn-text&#34;&gt;PIXELDRAIN&lt;/span&gt;
+    &lt;svg viewBox=&#34;0 0 24 24&#34; width=&#34;13&#34; height=&#34;13&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;mac-btn-icon&#34;&gt;&lt;path d=&#34;M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6&#34;&gt;&lt;/path&gt;&lt;polyline points=&#34;15 3 21 3 21 9&#34;&gt;&lt;/polyline&gt;&lt;line x1=&#34;10&#34; y1=&#34;14&#34; x2=&#34;21&#34; y2=&#34;3&#34;&gt;&lt;/line&gt;&lt;/svg&gt;
+&lt;/a&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;mac-list-container&#34;&gt;
+&lt;div class=&#34;mac-step-item&#34;&gt;
+&lt;div class=&#34;mac-step-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;第 1 步&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-step-right&#34;&gt;
+&lt;div class=&#34;mac-list-value&#34;&gt;&lt;p&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-step-item&#34;&gt;
+&lt;div class=&#34;mac-step-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;第 2 步&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-step-right&#34;&gt;
+&lt;div class=&#34;mac-list-value&#34;&gt;&lt;p&gt;解压&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-step-item&#34;&gt;
+&lt;div class=&#34;mac-step-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;第 3 步&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-step-right&#34;&gt;
+&lt;div class=&#34;mac-list-value&#34;&gt;&lt;p&gt;启动&lt;strong&gt;exe&lt;/strong&gt;文件，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-box-outer&#34;&gt;
+&lt;h2 id=&#34;温馨提示&#34;&gt;温馨提示
+&lt;/h2&gt;&lt;div class=&#34;mac-list-container&#34;&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;🌐 网络连接&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;如果打不开链接请科学上网，没有梯子可以参考这篇&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/p/vpn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;📖 安装教程&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;如果看不懂安装步骤，可以参考这篇&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;💬 问题反馈&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;如果操作遇到过程中Bug等问题，欢迎在博文评论区留言反馈&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;☕️ 创作支持&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;如果觉得本文对你有帮助，欢迎在&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;投喂落谦&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;💖 幸好有你&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-box-outer&#34;&gt;
 &lt;h2 id=&#34;宇宙安全声明&#34;&gt;宇宙安全声明！
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播&lt;/li&gt;
 &lt;li&gt;落谦不对因使用本文所产生的任何问题负责&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
+&lt;/div&gt;
 </description>
         </item>
         
