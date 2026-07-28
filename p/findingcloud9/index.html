@@ -6,11 +6,11 @@
 
 <link rel='canonical' href='https://luoqian29.github.io/p/findingcloud9/'>
 
-<link rel="stylesheet" href="/scss/style.min.13cebd9d7730c57b6b6411da84e25c2bc864c03f6e007258c7d20eefc99e0d96.css"><meta property='og:title' content="Finding Cloud 9 寻找极乐">
+<link rel="stylesheet" href="/scss/style.min.8c2dc2b8f919604c453ee9a62da4b29715d4d7046ab41e192f3493289cb724d7.css"><meta property='og:title' content="Finding Cloud 9 寻找极乐">
 <meta property='og:description' content="Finding Cloud 9 [v0.9.6] [Onyx Decadence]">
 <meta property='og:url' content='https://luoqian29.github.io/p/findingcloud9/'>
 <meta property='og:site_name' content='一落归谦'>
-<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='欧美风' /><meta property='article:tag' content='AI意译' /><meta property='article:published_time' content='2026-05-23T00:00:00&#43;08:00'/><meta property='article:modified_time' content='2026-07-27T18:03:35&#43;08:00'/><meta property='og:image' content='https://i.imgur.com/0uDWglK.jpeg' />
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='欧美风' /><meta property='article:tag' content='AI意译' /><meta property='article:published_time' content='2026-05-23T00:00:00&#43;08:00'/><meta property='article:modified_time' content='2026-07-29T01:19:14&#43;08:00'/><meta property='og:image' content='https://i.imgur.com/0uDWglK.jpeg' />
 <meta name="twitter:title" content="Finding Cloud 9 寻找极乐">
 <meta name="twitter:description" content="Finding Cloud 9 [v0.9.6] [Onyx Decadence]"><meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content='https://i.imgur.com/0uDWglK.jpeg' />
@@ -63,18 +63,10 @@
         
             
                 
-    
-    <button id="toggle-toc" class="mobile-only" title="目录">
-        <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-            <line x1="3" y1="12" x2="21" y2="12"></line>
-            <line x1="3" y1="6" x2="21" y2="6"></line>
-            <line x1="3" y1="18" x2="21" y2="18"></line>
-        </svg>
-    </button>
-    
-    <section class="widget archives" id="toc-container">
-        <div class="widget-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <section class="widget archives toc-widget" id="toc-container">
+        <div class="toc-heading">
+            <div class="widget-icon" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z"/>
   <line x1="5" y1="9" x2="19" y2="9" />
   <line x1="5" y1="15" x2="19" y2="15" />
@@ -84,17 +76,30 @@
 
 
 
+            </div>
+            <h2 class="widget-title section-title">目录</h2>
+            <button
+                id="desktop-toc-toggle"
+                class="desktop-only"
+                type="button"
+                aria-controls="TableOfContents"
+                aria-expanded="true"
+            >
+                收起
+            </button>
         </div>
-        <h2 class="widget-title section-title" style="display: flex; justify-content: space-between; align-items: center;">
-            <span>目录</span>
-            <span id="desktop-toc-toggle" class="desktop-only" style="cursor: pointer; font-size: 12px; font-weight: 600; background: var(--card-background); padding: 4px 10px; border-radius: 12px; border: 1px solid var(--card-border-color, rgba(128,128,128,0.1)); color: var(--card-text-color-main); box-shadow: 0 2px 8px rgba(0,0,0,0.05); transition: all 0.3s ease;">收起</span>
-        </h2>
 
         <div class="widget--toc">
             <nav id="TableOfContents">
   <ol>
-    <li><a href="#游戏信息">游戏信息</a></li>
-    <li><a href="#developer入正地址">Developer（入正地址）</a></li>
+    <li><a href="#游戏信息">游戏信息</a>
+      <ol>
+        <li><a href="#游戏类型">游戏类型</a></li>
+        <li><a href="#版本信息">版本信息</a></li>
+        <li><a href="#changelog">Changelog</a></li>
+        <li><a href="#developer入正地址">Developer（入正地址）</a></li>
+      </ol>
+    </li>
     <li><a href="#落谦酱便利贴">落谦酱便利贴</a></li>
     <li><a href="#游戏预览图">游戏预览图</a></li>
     <li><a href="#download汉化补丁">DOWNLOAD（汉化补丁）</a>
@@ -111,241 +116,12 @@
         <li><a href="#ios苹果端-1">iOS（苹果端）</a></li>
       </ol>
     </li>
-    <li><a href="#温馨提示">温馨提示</a></li>
     <li><a href="#宇宙安全声明">宇宙安全声明！</a></li>
   </ol>
 </nav>
         </div>
     </section>
 
-
-<style>
-    .mobile-only { display: none !important; }
-    .force-hide-sidebar { display: none !important; }
-
-    #toc-container {
-        max-height: 75vh;
-        overflow-y: auto;
-    }
-
-     
-    .mac-toc-float-btn {
-        position: fixed;
-        bottom: 140px;  
-        right: 25px;
-        width: 44px;
-        height: 44px;
-        z-index: 9999 !important;
-        border: 1px solid rgba(128,128,128,0.1);
-        border-radius: 50%;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-        background-color: var(--card-background);
-        color: var(--card-text-color-main);
-        cursor: pointer;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-        padding: 0;
-    }
-    
-    @media (hover: hover) {
-    .mac-toc-float-btn:hover {
-        transform: translateY(-2px) scale(1.05) !important;
-        box-shadow: 0 8px 20px rgba(0,0,0,0.15) !important;
-        color: var(--primary-color) !important;
-    }
-}
-
-     
-    #toggle-toc {
-        display: none;  
-        position: fixed;
-        bottom: 140px; 
-        right: 25px;
-        width: 44px;
-        height: 44px;
-        z-index: 9999 !important;
-        border: 1px solid rgba(128,128,128,0.1);
-        border-radius: 50%;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-        background-color: var(--card-background);
-        color: var(--card-text-color-main);
-        cursor: pointer;
-        align-items: center;
-        justify-content: center;
-        transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-        padding: 0;
-    }
-    #toggle-toc:hover {
-        transform: translateY(-2px) scale(1.05) !important;
-        box-shadow: 0 8px 20px rgba(0,0,0,0.15) !important;
-        color: var(--primary-color) !important;
-    }
-
-    #desktop-toc-toggle:hover {
-        color: var(--primary-color) !important;
-        transform: translateY(-1px);
-        box-shadow: 0 4px 12px rgba(0,0,0,0.1) !important;
-    }
-
-    @media screen and (max-width: 768px) {
-         
-        body .main-container .right-sidebar, body > .right-sidebar {
-            display: flex !important;
-            flex-direction: column;
-            width: 0 !important;
-            height: 0 !important;
-            min-width: 0 !important;
-            padding: 0 !important;
-            margin: 0 !important;
-            overflow: visible !important;
-        }
-        
-        .mobile-only { display: flex !important; }
-        .desktop-only { display: none !important; }
-        
-         
-        #toggle-toc {
-            display: flex !important; 
-            bottom: 140px; 
-            right: 25px;
-        }
-        
-         
-        #toc-container { 
-            display: none; 
-            position: fixed;
-            bottom: 200px;  
-            right: 25px;
-            background-color: rgba(128, 128, 128, 0.15) !important;
-            backdrop-filter: blur(20px) saturate(180%);
-            -webkit-backdrop-filter: blur(20px) saturate(180%);
-            padding: 15px !important;
-            border: 1px solid var(--card-border-color, rgba(128,128,128,0.2));
-            border-radius: 20px;
-            box-shadow: 0 10px 40px rgba(0,0,0,0.1) !important;
-            z-index: 9998 !important;
-            width: calc(100vw - 50px);
-            max-width: 320px;
-            transform-origin: bottom right;
-            animation: tocPopup 0.3s cubic-bezier(0.2, 0.8, 0.2, 1);
-            overflow: visible !important;  
-            max-height: none !important;
-        }
-
-         
-        #toc-container .widget-icon,
-        #toc-container .widget-title {
-            display: none !important;
-        }
-
-         
-        #toc-container .widget--toc {
-            margin-top: 0 !important;
-            padding: 0 !important;
-            background: transparent !important;
-            box-shadow: none !important;
-            border: none !important;
-        }
-        
-         
-         
-        #toc-container #TableOfContents {
-            max-height: 55vh !important;  
-            overflow-y: auto !important;  
-            overflow-x: hidden !important;
-            -webkit-overflow-scrolling: touch !important;  
-            padding-right: 5px;  
-        }
-
-         
-        #toc-container #TableOfContents::-webkit-scrollbar {
-            width: 4px;
-            background: transparent;
-        }
-        #toc-container #TableOfContents::-webkit-scrollbar-thumb {
-            background: rgba(128, 128, 128, 0.3);
-            border-radius: 4px;
-        }
-    }
-    
-    @keyframes tocPopup {
-        from { opacity: 0; transform: scale(0.9) translateY(20px); }
-        to { opacity: 1; transform: scale(1) translateY(0); }
-    }
-    @media screen and (min-width: 769px) {
-        #toc-container { display: block !important; }
-    }
-</style>
-
-<script>
-    var toggleButton = document.getElementById('toggle-toc'); 
-    var tocContainer = document.getElementById('toc-container');
-    var desktopToggle = document.getElementById('desktop-toc-toggle'); 
-    var rightSidebar = document.querySelector('.main-container .right-sidebar') || document.querySelector('.right-sidebar');
-
-    
-    var mql = window.matchMedia('(max-width: 768px)');
-    function handleMobileChange(e) {
-        if (e.matches) {
-            
-            if (toggleButton) document.body.appendChild(toggleButton);
-            if (tocContainer) document.body.appendChild(tocContainer);
-        } else {
-            
-            if (rightSidebar) {
-                if (toggleButton) rightSidebar.appendChild(toggleButton);
-                if (tocContainer) rightSidebar.appendChild(tocContainer);
-                tocContainer.style.display = ''; 
-            }
-        }
-    }
-    mql.addListener(handleMobileChange);
-    handleMobileChange(mql); 
-
-    
-    var desktopRestore = document.createElement('button');
-    desktopRestore.id = 'desktop-restore-toc';
-    desktopRestore.className = 'mac-toc-float-btn'; 
-    desktopRestore.style.display = 'none';
-    desktopRestore.title = '展开目录';
-    desktopRestore.innerHTML = '<svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>';
-    document.body.appendChild(desktopRestore);
-    
-    if (toggleButton) {
-        toggleButton.addEventListener('click', function(e) {
-            if (window.innerWidth <= 768) {
-                if (tocContainer.style.display === 'none' || tocContainer.style.display === '') {
-                    tocContainer.style.display = 'block';
-                } else {
-                    tocContainer.style.display = 'none';
-                }
-            }
-            e.stopPropagation(); 
-        });
-    }
-
-    document.addEventListener('click', function(event) {
-        if (window.innerWidth <= 768 && tocContainer) {
-            if (!tocContainer.contains(event.target) && event.target !== toggleButton) {
-                tocContainer.style.display = 'none';
-            }
-        }
-    });
-
-    if (desktopToggle && rightSidebar) {
-        desktopToggle.addEventListener('click', function() {
-            rightSidebar.classList.add('force-hide-sidebar'); 
-            desktopRestore.style.display = 'flex'; 
-        });
-    }
-
-    desktopRestore.addEventListener('click', function() {
-        rightSidebar.classList.remove('force-hide-sidebar'); 
-        this.style.display = 'none'; 
-    });
-</script>
 
             
         
@@ -436,7 +212,7 @@
 
 
                 <time>
-                    2026年07月27日 18:03
+                    2026年07月29日 01:19
                 </time>
             </div>
         <div id="viewCount">
@@ -461,8 +237,7 @@
     <section class="article-content">
     
     
-    <div class="mac-box">
-<h1 id="finding-cloud-9-v096-onyx-decadence">Finding Cloud 9 [v0.9.6] [Onyx Decadence]
+    <h1 id="finding-cloud-9-v096-onyx-decadence">Finding Cloud 9 [v0.9.6] [Onyx Decadence]
 </h1><p><img src="https://i.postimg.cc/P5V4tDnK/06callista0116.jpg"
 	
 	
@@ -473,8 +248,6 @@
 	
 	
 ></p>
-</div>
-<div class="mac-box">
 <h1 id="overview">Overview
 </h1><details>
 <summary>剧情概要</summary>
@@ -484,72 +257,35 @@ As he juggles a normal life with a criminal one, intimate relationships, desire,
 This is a story about temptation, escalation, and the cost of wanting more. Whether you find your Cloud 9, or lose yourself chasing it, is up to you.</li>
 </ul>
 </details>
-</div>
-<div class="mac-box-outer">
+<hr>
 <h2 id="游戏信息">游戏信息
-</h2><div class="mac-list-container">
-<div class="mac-list-item">
-<div class="mac-list-left">
-<p><span class="mac-list-key">游戏玩法</span></p>
-</div>
-<div class="mac-list-right">
-<span class="mac-list-value">视觉小说</span>
-</div>
-</div>
-<div class="mac-list-item">
-<div class="mac-list-left">
-<p><span class="mac-list-key">建模引擎</span></p>
-</div>
-<div class="mac-list-right">
-<span class="mac-list-value">Daz Studio</span>
-</div>
-</div>
-<div class="mac-list-item">
-<div class="mac-list-left">
-<p><span class="mac-list-key">运行引擎</span></p>
-</div>
-<div class="mac-list-right">
-<span class="mac-list-value">Ren&rsquo;Py</span>
-</div>
-</div>
-<div class="mac-list-item">
-<div class="mac-list-left">
-<p><span class="mac-list-key">游戏画风</span></p>
-</div>
-<div class="mac-list-right">
-<span class="mac-list-value">欧美风</span>
-</div>
-</div>
-<div class="mac-list-item">
-<div class="mac-list-left">
-<p><span class="mac-list-key">当前版本</span></p>
-</div>
-<div class="mac-list-right">
-<span class="mac-list-value">Episode 9 - Part 1 - 0.9.6</span>
-</div>
-</div>
-<div class="mac-list-item">
-<div class="mac-list-left">
-<p><span class="mac-list-key">发行日期</span></p>
-</div>
-<div class="mac-list-right">
-<span class="mac-list-value">2026-05-14</span>
-</div>
-</div>
-</div>
-</div>
-<div class="mac-box-outer">
-<h2 id="developer入正地址">Developer（入正地址）
-</h2><a href="https://www.patreon.com/OnyxDecadence/" class="mac-btn" target="_blank" rel="noopener noreferrer">
-    <span class="mac-btn-text">Patreon</span>
-    <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="mac-btn-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-</a>
-<a href="https://discord.com/invite/bAgCU3j6" class="mac-btn" target="_blank" rel="noopener noreferrer">
-    <span class="mac-btn-text">Discord</span>
-    <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="mac-btn-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-</a>
-</div>
-<div class="mac-box-outer">
+</h2><h3 id="游戏类型">游戏类型
+</h3><ul>
+<li>游戏玩法：<strong>视觉小说</strong></li>
+<li>建模引擎：<strong>Daz Studio</strong></li>
+<li>运行引擎：<strong>Ren&rsquo;Py</strong></li>
+<li>游戏画风：<strong>欧美风</strong></li>
+</ul>
+<h3 id="版本信息">版本信息
+</h3><ul>
+<li>当前版本：<strong>Episode 9 - Part 1 - 0.9.6</strong></li>
+<li>发行日期：<strong>2026-05-14</strong></li>
+</ul>
+<h3 id="changelog">Changelog
+</h3><details>
+<summary>更新日志</summary>
+<ul>
+<li>N/A</li>
+</ul>
+</details>
+<h3 id="developer入正地址">Developer（入正地址）
+</h3><ul>
+<li><a class="link" href="https://www.patreon.com/OnyxDecadence/"  target="_blank" rel="noopener"
+    >Patreon</a></li>
+<li><a class="link" href="https://discord.com/invite/bAgCU3j6"  target="_blank" rel="noopener"
+    >Discord</a></li>
+</ul>
+<hr>
 <h2 id="落谦酱便利贴">落谦酱便利贴
 </h2><details>
 <summary style="color:#c81e1e;font-weight:600;">PS</summary>
@@ -598,6 +334,15 @@ This is a story about temptation, escalation, and the cost of wanting more. Whet
 </details>
 <details>
 <summary>落谦酱点评</summary>
+
+
+
+
+
+
+    
+
+
 <div class="video-wrapper">
     <iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;high_quality=1&amp;page=1&bvid=BV1s1NH6SENa"
             scrolling="no"
@@ -607,9 +352,9 @@ This is a story about temptation, escalation, and the cost of wanting more. Whet
     >
     </iframe>
 </div>
+
 </details>
-</div>
-<div class="mac-box-outer">
+<hr>
 <h2 id="游戏预览图">游戏预览图
 </h2><details>
 <summary>素图</summary>
@@ -634,489 +379,264 @@ This is a story about temptation, escalation, and the cost of wanting more. Whet
 	
 ></p>
 </details>
-</div>
-<div class="mac-box-outer">
+<hr>
 <h2 id="download汉化补丁">DOWNLOAD（汉化补丁）
 </h2><h3 id="winpc端">Win（PC端）
-</h3><div class="mac-box">
-    <p><strong>英文原版：</strong></p>
-<a href="https://gofile.io/d/L5GcI9" class="mac-btn" target="_blank" rel="noopener noreferrer">
-    <span class="mac-btn-text">GOFILE</span>
-    <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="mac-btn-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-</a>
-<a href="https://vik1ngfile.site/f/FtOJNwvFyR" class="mac-btn" target="_blank" rel="noopener noreferrer">
-    <span class="mac-btn-text">VIKINGFILE</span>
-    <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="mac-btn-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-</a>
-<p><strong>AI意译汉化补丁：</strong></p>
-<a href="https://gofile.io/d/Yn9vrN" class="mac-btn" target="_blank" rel="noopener noreferrer">
-    <span class="mac-btn-text">GOFILE</span>
-    <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="mac-btn-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-</a>
-<a href="https://pixeldrain.com/u/cSAy2Hnn" class="mac-btn" target="_blank" rel="noopener noreferrer">
-    <span class="mac-btn-text">PIXELDRAIN</span>
-    <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="mac-btn-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-</a>
-<p><strong>安装步骤：</strong></p>
-<div class="mac-list-container">
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 1 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>下载<strong>英文原版</strong>和<strong>AI意译汉化补丁</strong></p>
-</div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 2 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>解压英文原版<strong>压缩包</strong>文件</p>
-</div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 3 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>将<strong>汉化补丁rpa</strong>文件放入<strong>game</strong>文件夹中</p>
-</div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 4 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>启动<strong>exe</strong>游戏，选择<strong>简体中文</strong>即可</p>
-</div>
-</div>
-</div>
-</div>
-</div>
+</h3><ol>
+<li>下载链接：</li>
+</ol>
+<ul>
+<li>英文原版：<a class="link" href="https://gofile.io/d/L5GcI9"  target="_blank" rel="noopener"
+    >GOFILE</a></li>
+<li>英文原版：<a class="link" href="https://vik1ngfile.site/f/FtOJNwvFyR"  target="_blank" rel="noopener"
+    >VIKINGFILE</a></li>
+<li>AI意译汉化补丁：<a class="link" href="https://gofile.io/d/Yn9vrN"  target="_blank" rel="noopener"
+    >GOFILE</a></li>
+<li>AI意译汉化补丁：<a class="link" href="https://pixeldrain.com/u/cSAy2Hnn"  target="_blank" rel="noopener"
+    >PIXELDRAIN</a></li>
+</ul>
+<ol start="2">
+<li>安装步骤：</li>
+</ol>
+<ul>
+<li>下载<strong>英文原版</strong>和<strong>AI意译汉化补丁</strong></li>
+<li>解压英文原版<strong>压缩包</strong>文件</li>
+<li>将<strong>汉化补丁rpa</strong>文件放入<strong>game</strong>文件夹中</li>
+<li>启动<strong>exe</strong>游戏，选择<strong>简体中文</strong>即可</li>
+</ul>
+<ol start="3">
+<li>温馨提示：</li>
+</ol>
+<ul>
+<li>如果打不开链接，那么需要科学上网，没有<strong>梯子</strong>可以参考这篇<strong>博文</strong>——<a class="link" href="https://luoqian29.github.io/p/vpn/"  target="_blank" rel="noopener"
+    >VPN</a></li>
+<li>如果看不懂安装步骤，可以参考这篇<strong>博文</strong>——<a class="link" href="https://luoqian29.github.io/about/"  target="_blank" rel="noopener"
+    >详细教程</a></li>
+<li>如果觉得本文对你有帮助，欢迎在爱发电<strong>投喂落谦</strong>——<a class="link" href="https://afdian.com/a/luoqian"  target="_blank" rel="noopener"
+    >爱发电</a></li>
+<li><strong>你的支持是我更新的最大动力！</strong></li>
+</ul>
 <h3 id="android安卓端">Android（安卓端）
-</h3><div class="mac-box">
-    <p><strong>英文原版：</strong></p>
-<a href="https://gofile.io/d/L5GcI9" class="mac-btn" target="_blank" rel="noopener noreferrer">
-    <span class="mac-btn-text">GOFILE</span>
-    <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="mac-btn-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-</a>
-<a href="https://vik1ngfile.site/f/FtOJNwvFyR" class="mac-btn" target="_blank" rel="noopener noreferrer">
-    <span class="mac-btn-text">VIKINGFILE</span>
-    <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="mac-btn-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-</a>
-<p><strong>AI意译汉化补丁：</strong></p>
-<a href="https://gofile.io/d/Yn9vrN" class="mac-btn" target="_blank" rel="noopener noreferrer">
-    <span class="mac-btn-text">GOFILE</span>
-    <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="mac-btn-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-</a>
-<a href="https://pixeldrain.com/u/cSAy2Hnn" class="mac-btn" target="_blank" rel="noopener noreferrer">
-    <span class="mac-btn-text">PIXELDRAIN</span>
-    <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="mac-btn-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-</a>
-<p><strong>主体APK：</strong></p>
-<a href="https://gofile.io/d/PeYJ1g" class="mac-btn" target="_blank" rel="noopener noreferrer">
-    <span class="mac-btn-text">GOFILE</span>
-    <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="mac-btn-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-</a>
-<a href="https://pixeldrain.com/u/qeL5EQuW" class="mac-btn" target="_blank" rel="noopener noreferrer">
-    <span class="mac-btn-text">PIXELDRAIN</span>
-    <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="mac-btn-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-</a>
-<p><strong>安装步骤：</strong></p>
-<div class="mac-list-container">
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 1 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>下载<strong>英文原版</strong>、<strong>AI意译汉化补丁</strong>和<strong>主体APK</strong></p>
-</div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 2 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>安装<strong>APK</strong>文件</p>
-</div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 3 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>启动游戏，放行所有权限</p>
-</div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 4 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>这时游戏会<strong>闪退</strong>，如果没有闪退，就自己手动大退</p>
-</div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 5 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>然后解压英文原版<strong>压缩包</strong>文件</p>
-</div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 6 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>将英文原版<strong>game</strong>文件夹中的<strong>所有文件及文件夹</strong>和<strong>汉化补丁rpa</strong>文件一起移动到以下路径：</p>
+</h3><ol>
+<li>下载链接：</li>
+</ol>
+<ul>
+<li>英文原版：<a class="link" href="https://gofile.io/d/L5GcI9"  target="_blank" rel="noopener"
+    >GOFILE</a></li>
+<li>英文原版：<a class="link" href="https://vik1ngfile.site/f/FtOJNwvFyR"  target="_blank" rel="noopener"
+    >VIKINGFILE</a></li>
+<li>AI意译汉化补丁：<a class="link" href="https://gofile.io/d/Yn9vrN"  target="_blank" rel="noopener"
+    >GOFILE</a></li>
+<li>AI意译汉化补丁：<a class="link" href="https://pixeldrain.com/u/cSAy2Hnn"  target="_blank" rel="noopener"
+    >PIXELDRAIN</a></li>
+<li>主体APK：<a class="link" href="https://gofile.io/d/PeYJ1g"  target="_blank" rel="noopener"
+    >GOFILE</a></li>
+<li>主体APK：<a class="link" href="https://pixeldrain.com/u/qeL5EQuW"  target="_blank" rel="noopener"
+    >PIXELDRAIN</a></li>
+</ul>
+<ol start="2">
+<li>安装步骤：</li>
+</ol>
+<ul>
+<li>下载<strong>英文原版</strong>、<strong>AI意译汉化补丁</strong>和<strong>主体APK</strong></li>
+<li>安装<strong>APK</strong>文件</li>
+<li>启动游戏，放行所有权限</li>
+<li>这时游戏会<strong>闪退</strong>，如果没有闪退，就自己手动大退</li>
+<li>然后解压英文原版<strong>压缩包</strong>文件</li>
+<li>将英文原版<strong>game</strong>文件夹中的<strong>所有文件及文件夹</strong>和<strong>汉化补丁rpa</strong>文件一起移动到以下路径：
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">Documents/RenPy_Saves/com.luoqian.FindingCloud9/game
-</span></span><span class="line"><span class="cl"> 
 </span></span></code></pre></td></tr></table>
 </div>
-</div></div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 7 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>最后启动游戏，选择<strong>简体中文</strong>即可</p>
-</div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">PS</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p><span style="color: red;">移动端如果看不全路径，请<strong>向左滑动</strong>代码块。</span></p>
-</div>
-</div>
-</div>
-</div>
-</div>
+</div></li>
+<li>最后启动游戏，选择<strong>简体中文</strong>即可</li>
+<li>PS：<span style="color: red;">移动端如果看不全路径，请<strong>向左滑动</strong>代码块。</span></li>
+</ul>
+<ol start="3">
+<li>温馨提示：</li>
+</ol>
+<ul>
+<li>如果打不开链接，那么需要科学上网，没有<strong>梯子</strong>可以参考这篇<strong>博文</strong>——<a class="link" href="https://luoqian29.github.io/p/vpn/"  target="_blank" rel="noopener"
+    >VPN</a></li>
+<li>如果看不懂安装步骤，可以参考这篇<strong>博文</strong>——<a class="link" href="https://luoqian29.github.io/about/"  target="_blank" rel="noopener"
+    >详细教程</a></li>
+<li>如果觉得本文对你有帮助，欢迎在爱发电<strong>投喂落谦</strong>——<a class="link" href="https://afdian.com/a/luoqian"  target="_blank" rel="noopener"
+    >爱发电</a></li>
+<li><strong>你的支持是我更新的最大动力！</strong></li>
+</ul>
 <h3 id="ios苹果端">iOS（苹果端）
-</h3><div class="mac-box">
-    <p><strong>环境配置：</strong></p>
-<div class="mac-list-container">
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 1 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>苹果端需使用<strong>Spark</strong>模拟器进行游玩</p>
-</div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 2 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>Spark模拟器AppStore有售</p>
-</div>
-</div>
-</div>
-</div>
-<p><strong>英文原版：</strong></p>
-<a href="https://gofile.io/d/L5GcI9" class="mac-btn" target="_blank" rel="noopener noreferrer">
-    <span class="mac-btn-text">GOFILE</span>
-    <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="mac-btn-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-</a>
-<a href="https://vik1ngfile.site/f/FtOJNwvFyR" class="mac-btn" target="_blank" rel="noopener noreferrer">
-    <span class="mac-btn-text">VIKINGFILE</span>
-    <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="mac-btn-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-</a>
-<p><strong>AI意译汉化补丁：</strong></p>
-<a href="https://gofile.io/d/Yn9vrN" class="mac-btn" target="_blank" rel="noopener noreferrer">
-    <span class="mac-btn-text">GOFILE</span>
-    <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="mac-btn-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-</a>
-<a href="https://pixeldrain.com/u/cSAy2Hnn" class="mac-btn" target="_blank" rel="noopener noreferrer">
-    <span class="mac-btn-text">PIXELDRAIN</span>
-    <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="mac-btn-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-</a>
-<p><strong>安装步骤：</strong></p>
-<div class="mac-list-container">
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 1 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>下载<strong>英文原版</strong>和<strong>AI意译汉化补丁</strong></p>
-</div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 2 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>打开<strong>Spark</strong>模拟器导入<strong>英文原版</strong>压缩包文件，<strong>不用解压</strong>，<strong>不用解压</strong>，<strong>不用解压</strong>，重要的事情说三遍</p>
-</div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 3 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>然后将<strong>汉化补丁rpa</strong>文件移动到以下路径：</p>
+</h3><ol>
+<li>环境配置：</li>
+</ol>
+<ul>
+<li>苹果端需使用<strong>Spark</strong>模拟器进行游玩</li>
+<li>Spark模拟器AppStore有售</li>
+</ul>
+<ol start="2">
+<li>下载链接：</li>
+</ol>
+<ul>
+<li>英文原版：<a class="link" href="https://gofile.io/d/L5GcI9"  target="_blank" rel="noopener"
+    >GOFILE</a></li>
+<li>英文原版：<a class="link" href="https://vik1ngfile.site/f/FtOJNwvFyR"  target="_blank" rel="noopener"
+    >VIKINGFILE</a></li>
+<li>AI意译汉化补丁：<a class="link" href="https://gofile.io/d/Yn9vrN"  target="_blank" rel="noopener"
+    >GOFILE</a></li>
+<li>AI意译汉化补丁：<a class="link" href="https://pixeldrain.com/u/cSAy2Hnn"  target="_blank" rel="noopener"
+    >PIXELDRAIN</a></li>
+</ul>
+<ol start="3">
+<li>安装步骤：</li>
+</ol>
+<ul>
+<li>下载<strong>英文原版</strong>和<strong>AI意译汉化补丁</strong></li>
+<li>打开<strong>Spark</strong>模拟器导入<strong>英文原版</strong>压缩包文件，<strong>不用解压</strong>，<strong>不用解压</strong>，<strong>不用解压</strong>，重要的事情说三遍</li>
+<li>然后将<strong>汉化补丁rpa</strong>文件移动到以下路径：
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">我的iPhone/Spark/games/FindingCloud9/game
-</span></span><span class="line"><span class="cl"> 
 </span></span></code></pre></td></tr></table>
 </div>
-</div></div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 4 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>最后启动游戏，选择<strong>简体中文</strong>即可</p>
-</div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">PS</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p><span style="color: red;">移动端如果看不全路径，请<strong>向左滑动</strong>代码块。</span></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="mac-box-outer">
+</div></li>
+<li>最后启动游戏，选择<strong>简体中文</strong>即可</li>
+<li>PS：<span style="color: red;">移动端如果看不全路径，请<strong>向左滑动</strong>代码块。</span></li>
+</ul>
+<ol start="4">
+<li>温馨提示：</li>
+</ol>
+<ul>
+<li>如果打不开链接，那么需要科学上网，没有<strong>梯子</strong>可以参考这篇<strong>博文</strong>——<a class="link" href="https://luoqian29.github.io/p/vpn/"  target="_blank" rel="noopener"
+    >VPN</a></li>
+<li>如果看不懂安装步骤，可以参考这篇<strong>博文</strong>——<a class="link" href="https://luoqian29.github.io/about/"  target="_blank" rel="noopener"
+    >详细教程</a></li>
+<li>如果觉得本文对你有帮助，欢迎在爱发电<strong>投喂落谦</strong>——<a class="link" href="https://afdian.com/a/luoqian"  target="_blank" rel="noopener"
+    >爱发电</a></li>
+<li><strong>你的支持是我更新的最大动力！</strong></li>
+</ul>
+<hr>
 <h2 id="画廊mod">画廊Mod
 </h2><h3 id="winpc端-1">Win（PC端）
-</h3><div class="mac-box">
-    <p><strong>画廊Mod：</strong></p>
-<a href="https://gofile.io/d/GFCv0c" class="mac-btn" target="_blank" rel="noopener noreferrer">
-    <span class="mac-btn-text">GOFILE</span>
-    <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="mac-btn-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-</a>
-<p><strong>安装步骤：</strong></p>
-<div class="mac-list-container">
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 1 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>下载<strong>画廊Mod</strong></p>
-</div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 2 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>将解压出的<strong>文件</strong>放入<strong>game</strong>文件夹中即可</p>
-</div>
-</div>
-</div>
-</div>
-</div>
+</h3><ol>
+<li>下载链接：</li>
+</ol>
+<ul>
+<li>画廊Mod：<a class="link" href="https://gofile.io/d/GFCv0c"  target="_blank" rel="noopener"
+    >GOFILE</a></li>
+</ul>
+<ol start="2">
+<li>安装步骤：</li>
+</ol>
+<ul>
+<li>下载<strong>画廊Mod</strong></li>
+<li><strong>画廊Mod</strong>：将解压出的<strong>文件</strong>放入<strong>game</strong>文件夹中即可</li>
+</ul>
+<ol start="3">
+<li>温馨提示：</li>
+</ol>
+<ul>
+<li>如果打不开链接，那么需要科学上网，没有<strong>梯子</strong>可以参考这篇<strong>博文</strong>——<a class="link" href="https://luoqian29.github.io/p/vpn/"  target="_blank" rel="noopener"
+    >VPN</a></li>
+<li>如果看不懂安装步骤，可以参考这篇<strong>博文</strong>——<a class="link" href="https://luoqian29.github.io/about/"  target="_blank" rel="noopener"
+    >详细教程</a></li>
+<li>如果觉得本文对你有帮助，欢迎在爱发电<strong>投喂落谦</strong>——<a class="link" href="https://afdian.com/a/luoqian"  target="_blank" rel="noopener"
+    >爱发电</a></li>
+<li><strong>你的支持是我更新的最大动力！</strong></li>
+</ul>
 <h3 id="android安卓端-1">Android（安卓端）
-</h3><div class="mac-box">
-    <p><strong>画廊Mod：</strong></p>
-<a href="https://gofile.io/d/GFCv0c" class="mac-btn" target="_blank" rel="noopener noreferrer">
-    <span class="mac-btn-text">GOFILE</span>
-    <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="mac-btn-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-</a>
-<p><strong>安装步骤：</strong></p>
-<div class="mac-list-container">
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 1 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>下载<strong>画廊Mod</strong></p>
-</div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 2 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>将解压出的<strong>文件</strong>放到以下路径：</p>
+</h3><ol>
+<li>下载链接：</li>
+</ol>
+<ul>
+<li>画廊Mod：<a class="link" href="https://gofile.io/d/GFCv0c"  target="_blank" rel="noopener"
+    >GOFILE</a></li>
+</ul>
+<ol start="2">
+<li>安装步骤：</li>
+</ol>
+<ul>
+<li>下载<strong>画廊Mod</strong></li>
+<li><strong>画廊Mod</strong>：将解压出的<strong>文件</strong>放到以下路径：
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">Documents/RenPy_Saves/com.luoqian.FindingCloud9/game
-</span></span><span class="line"><span class="cl"> 
 </span></span></code></pre></td></tr></table>
 </div>
-</div></div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 3 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>PS：<span style="color: red;">移动端如果看不全路径，请<strong>向左滑动</strong>代码块。</span></p>
-</div>
-</div>
-</div>
-</div>
-</div>
+</div></li>
+<li>PS：<span style="color: red;">移动端如果看不全路径，请<strong>向左滑动</strong>代码块。</span></li>
+</ul>
+<ol start="3">
+<li>温馨提示：</li>
+</ol>
+<ul>
+<li>如果打不开链接，那么需要科学上网，没有<strong>梯子</strong>可以参考这篇<strong>博文</strong>——<a class="link" href="https://luoqian29.github.io/p/vpn/"  target="_blank" rel="noopener"
+    >VPN</a></li>
+<li>如果看不懂安装步骤，可以参考这篇<strong>博文</strong>——<a class="link" href="https://luoqian29.github.io/about/"  target="_blank" rel="noopener"
+    >详细教程</a></li>
+<li>如果觉得本文对你有帮助，欢迎在爱发电<strong>投喂落谦</strong>——<a class="link" href="https://afdian.com/a/luoqian"  target="_blank" rel="noopener"
+    >爱发电</a></li>
+<li><strong>你的支持是我更新的最大动力！</strong></li>
+</ul>
 <h3 id="ios苹果端-1">iOS（苹果端）
-</h3><div class="mac-box">
-    <p><strong>环境配置：</strong></p>
-<div class="mac-list-container">
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 1 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>苹果端需使用<strong>Spark</strong>模拟器进行游玩</p>
-</div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 2 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>Spark模拟器AppStore有售</p>
-</div>
-</div>
-</div>
-</div>
-<p><strong>画廊Mod：</strong></p>
-<a href="https://gofile.io/d/GFCv0c" class="mac-btn" target="_blank" rel="noopener noreferrer">
-    <span class="mac-btn-text">GOFILE</span>
-    <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="mac-btn-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-</a>
-<p><strong>安装步骤：</strong></p>
-<div class="mac-list-container">
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 1 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>下载<strong>画廊Mod</strong></p>
-</div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 2 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>将解压出的<strong>文件</strong>放到以下路径：</p>
+</h3><ol>
+<li>环境配置：</li>
+</ol>
+<ul>
+<li>苹果端需使用<strong>Spark</strong>模拟器进行游玩</li>
+<li>Spark模拟器AppStore有售</li>
+</ul>
+<ol start="2">
+<li>下载链接：</li>
+</ol>
+<ul>
+<li>画廊Mod：<a class="link" href="https://gofile.io/d/GFCv0c"  target="_blank" rel="noopener"
+    >GOFILE</a></li>
+</ul>
+<ol start="3">
+<li>安装步骤：</li>
+</ol>
+<ul>
+<li>下载<strong>画廊Mod</strong></li>
+<li><strong>画廊Mod</strong>：将解压出的<strong>文件</strong>放到以下路径：
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">我的iPhone/Spark/games/FindingCloud9/game
-</span></span><span class="line"><span class="cl"> 
 </span></span></code></pre></td></tr></table>
 </div>
-</div></div>
-</div>
-</div>
-<div class="mac-step-item">
-<div class="mac-step-left">
-<p><span class="mac-list-key">第 3 步</span></p>
-</div>
-<div class="mac-step-right">
-<div class="mac-list-value"><p>PS：<span style="color: red;">移动端如果看不全路径，请<strong>向左滑动</strong>代码块。</span></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="mac-box-outer">
-<h2 id="温馨提示">温馨提示
-</h2><div class="mac-list-container">
-<div class="mac-list-item">
-<div class="mac-list-left">
-<p><span class="mac-list-key">🌐 网络连接</span></p>
-</div>
-<div class="mac-list-right">
-<span class="mac-list-value">如果打不开链接请科学上网，没有梯子可以参考这篇<a class="link" href="https://luoqian29.github.io/p/vpn/"  target="_blank" rel="noopener"
-    >博文</a></span>
-</div>
-</div>
-<div class="mac-list-item">
-<div class="mac-list-left">
-<p><span class="mac-list-key">📖 安装教程</span></p>
-</div>
-<div class="mac-list-right">
-<span class="mac-list-value">如果看不懂安装步骤，可以参考这篇<a class="link" href="https://luoqian29.github.io/about/"  target="_blank" rel="noopener"
-    >博文</a></span>
-</div>
-</div>
-<div class="mac-list-item">
-<div class="mac-list-left">
-<p><span class="mac-list-key">💬 问题反馈</span></p>
-</div>
-<div class="mac-list-right">
-<span class="mac-list-value">如果操作遇到过程中Bug等问题，欢迎在博文评论区留言反馈</span>
-</div>
-</div>
-<div class="mac-list-item">
-<div class="mac-list-left">
-<p><span class="mac-list-key">☕️ 创作支持</span></p>
-</div>
-<div class="mac-list-right">
-<span class="mac-list-value">如果觉得本文对你有帮助，欢迎在<a class="link" href="https://afdian.com/a/luoqian"  target="_blank" rel="noopener"
-    >爱发电</a>投喂落谦</span>
-</div>
-</div>
-<div class="mac-list-item">
-<div class="mac-list-left">
-<p><span class="mac-list-key">💖 幸好有你</span></p>
-</div>
-<div class="mac-list-right">
-<span class="mac-list-value"><strong>你的支持是我更新的最大动力！</strong></span>
-</div>
-</div>
-</div>
-</div>
-<div class="mac-box-outer">
+</div></li>
+<li>PS：<span style="color: red;">移动端如果看不全路径，请<strong>向左滑动</strong>代码块。</span></li>
+</ul>
+<ol start="4">
+<li>温馨提示：</li>
+</ol>
+<ul>
+<li>如果打不开链接，那么需要科学上网，没有<strong>梯子</strong>可以参考这篇<strong>博文</strong>——<a class="link" href="https://luoqian29.github.io/p/vpn/"  target="_blank" rel="noopener"
+    >VPN</a></li>
+<li>如果看不懂安装步骤，可以参考这篇<strong>博文</strong>——<a class="link" href="https://luoqian29.github.io/about/"  target="_blank" rel="noopener"
+    >详细教程</a></li>
+<li>如果觉得本文对你有帮助，欢迎在爱发电<strong>投喂落谦</strong>——<a class="link" href="https://afdian.com/a/luoqian"  target="_blank" rel="noopener"
+    >爱发电</a></li>
+<li><strong>你的支持是我更新的最大动力！</strong></li>
+</ul>
+<hr>
 <h2 id="宇宙安全声明">宇宙安全声明！
 </h2><ul>
 <li>本文章仅供<strong>学习与交流</strong>，请勿商用或非法传播</li>
 <li>落谦不对因使用本文所产生的任何问题负责</li>
 </ul>
-</div>
+<hr>
 
 </section>
 
@@ -1159,28 +679,41 @@ This is a story about temptation, escalation, and the cost of wanting more. Whet
 
 
         <span>
-            最后更新于 2026年07月27日 18:03
+            最后更新于 2026年07月29日 01:19
         </span>
     </section>
-<div class="reward-container">
-  <button id="rewardButton" onclick="toggleReward()">投喂落谦</button>
+    <div class="reward-container" role="region" aria-label="支持作者">
+        <div class="reward-copy">
+            <strong class="reward-title">喜欢这篇博文？</strong>
+            <span class="reward-description">如果它帮到了你，可以请落谦喝杯咖啡。</span>
+        </div>
 
-  <div id="QR" class="reward-hidden">
-    <div class="qr-box">
-      <img id="wechat_qr" src="/reward/wechat_zsm.png" alt="微信赞赏码">
-      <p>是要请落谦喝杯咖啡吗？</p>
+        <button
+            id="rewardButton"
+            type="button"
+            aria-expanded="false"
+            aria-controls="QR"
+        >
+            <span>投喂落谦</span>
+            <span class="reward-button-state" aria-hidden="true">⌄</span>
+        </button>
+
+        <div id="QR" class="reward-hidden" aria-hidden="true">
+            <div class="qr-box">
+                <img
+                    id="wechat_qr"
+                    src="/reward/wechat_zsm.png"
+                    width="180"
+                    height="180"
+                    loading="lazy"
+                    decoding="async"
+                    alt="微信赞赏码"
+                >
+                <p>感谢支持，量力而行。</p>
+            </div>
+            
+        </div>
     </div>
-    
-    
-  </div>
-</div>
-
-<script>
-  function toggleReward() {
-    const qr = document.getElementById("QR");
-    qr.classList.toggle("reward-show");
-  }
-</script>
 
 </footer>
 
@@ -1298,14 +831,31 @@ This is a story about temptation, escalation, and the cost of wanting more. Whet
 
     
     
-    <div class="pre-next">
-       
-        <a class="pre-next-btn bg" href="https://luoqian29.github.io/p/cosycafe/">&lt;&lt; Cosy Cafe 温馨咖啡馆</a>
-       
-       
-        <a class="pre-next-btn bg" href="https://luoqian29.github.io/p/goodluke/">Good Luke 攻略豆包:开局先拿下邻居 >> </a>
-       
-    </div>
+        <nav class="post-navigation" aria-label="文章翻页">
+            
+                <a class="post-navigation__link post-navigation__link--previous" href="/p/cosycafe/" rel="prev">
+                    <span class="post-navigation__direction">
+                        <svg viewBox="0 0 24 24" aria-hidden="true">
+                            <path d="m15 18-6-6 6-6"></path>
+                        </svg>
+                        上一篇
+                    </span>
+                    <span class="post-navigation__title">Cosy Cafe 温馨咖啡馆</span>
+                </a>
+            
+            
+                <a class="post-navigation__link post-navigation__link--next" href="/p/goodluke/" rel="next">
+                    <span class="post-navigation__direction">
+                        下一篇
+                        <svg viewBox="0 0 24 24" aria-hidden="true">
+                            <path d="m9 18 6-6-6-6"></path>
+                        </svg>
+                    </span>
+                    <span class="post-navigation__title">Good Luke 攻略豆包:开局先拿下邻居</span>
+                </a>
+            
+        </nav>
+    
 
 
     
@@ -2004,7 +1554,7 @@ This is a story about temptation, escalation, and the cost of wanting more. Whet
         共发表
         302
         篇文章 · 总计
-        440.51k
+        592.90k
         字
     </div>
 
@@ -2018,35 +1568,9 @@ This is a story about temptation, escalation, and the cost of wanting more. Whet
     </div>
 </section>
 
-
-<script>
-    var now = new Date();
-    function createtime() {
-        now.setTime(now.getTime() + 250);
-        var grt = new Date("2025/10/1 00:00:00"); 
-        var days = (now - grt) / 1000 / 60 / 60 / 24;
-        var dnum = Math.floor(days);
-        var hours = (now - grt) / 1000 / 60 / 60 - (24 * dnum);
-        var hnum = Math.floor(hours);
-        if (String(hnum).length === 1) hnum = "0" + hnum;
-        var minutes = (now - grt) / 1000 / 60 - (24 * 60 * dnum) - (60 * hnum);
-        var mnum = Math.floor(minutes);
-        if (String(mnum).length === 1) mnum = "0" + mnum;
-        var seconds = (now - grt) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);
-        var snum = Math.round(seconds);
-        if (String(snum).length === 1) snum = "0" + snum;
-
-        document.getElementById("timeDate").innerHTML = "本博客已运行 " + dnum + " 天 ";
-        document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒";
-    }
-    setInterval(createtime, 250);
-</script>
-
-</script>
-
     <section class="powerby">
         使用 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 <br />
-        主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.31.0">Stack</a></b> 由 <a href="#" target="_blank" rel="noopener">落谦</a> 魔改
+        主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.31.0">Stack</a></b> 由 <span class="footer-signature">落谦</span> 魔改
     </section>
 </footer>
 
@@ -2135,38 +1659,7 @@ This is a story about temptation, escalation, and the cost of wanting more. Whet
                 src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
                 
                 >
-            </script><script type="text/javascript" src="/ts/main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js" defer></script>
-<script>
-    function backToTop() {
-      document.documentElement.scrollIntoView({
-        behavior: 'smooth',
-      })
-    }
-  
-    window.onload = function () {
-      let scrollTop =
-        this.document.documentElement.scrollTop || this.document.body.scrollTop
-      let totopBtn = this.document.getElementById('back-to-top')
-      if (scrollTop > 0) {
-        totopBtn.style.display = 'inline'
-      } else {
-        totopBtn.style.display = 'none'
-      }
-    }
-  
-    window.onscroll = function () {
-      let scrollTop =
-        this.document.documentElement.scrollTop || this.document.body.scrollTop
-      let totopBtn = this.document.getElementById('back-to-top')
-      if (scrollTop < 200) {
-        totopBtn.style.display = 'none'
-      } else {
-        totopBtn.style.display = 'inline'
-        totopBtn.addEventListener('click', backToTop, false)
-      }
-    }
-  </script>
-
+            </script><script type="text/javascript" src="/ts/main.840177af84ae5eae4ba404b5163cf8f61d51f8d787bb9a0b8f29108443f9495e.js" defer></script><script type="text/javascript" src="/ts/custom.4d90b7590d1855976b21dadc3646207b6b603302ebede932d087aeeb87bcb374.js" defer></script>
 <script>
     (function () {
         const customFont = document.createElement('link');
@@ -2177,65 +1670,6 @@ This is a story about temptation, escalation, and the cost of wanting more. Whet
 
         document.head.appendChild(customFont);
     }());
-</script>
-
-
-<style>
-    #TableOfContents > ul, ol {
-        ul, ol {
-            display: none;
-        }
-        .open {
-            display: block;
-        }
-    }
-</style>
-
-<script>
-    function initTocHide() {
-        
-        let toc = document.querySelector(".widget--toc");
-        if (!toc) {
-            return;
-        }
-        
-        let ticking = false;
-        window.addEventListener('scroll', function() {
-            if (!ticking) {
-                window.requestAnimationFrame(function() {
-                    
-                    let openUl = document.querySelectorAll(".open");
-                    if (openUl.length > 0) {
-                      openUl.forEach((ul) => {
-                        ul.classList.remove("open")
-                      })
-                    }
-                    
-                    let currentA = document.querySelector("#TableOfContents .active-class");
-                    if (currentA) {
-                        let currentLi = currentA.closest('li');
-                        if (currentLi) {
-                            
-                            let childList = currentLi.querySelector(':scope > ul, :scope > ol');
-                            if (childList) {
-                                childList.classList.add("open");
-                            }
-                            
-                            
-                            let parentList = currentLi.closest('ul, ol');
-                            while (parentList && parentList.id !== 'TableOfContents') {
-                                parentList.classList.add("open");
-                                parentList = parentList.parentElement.closest('ul, ol');
-                            }
-                        }
-                    }
-                    ticking = false;
-                });
-                ticking = true;
-            }
-        });
-    }
-    initTocHide()
 </script>
 
 
@@ -2257,17 +1691,6 @@ This is a story about temptation, escalation, and the cost of wanting more. Whet
     }
     
     showHideView();
-</script>
-
-
-<script src="https://npm.elemecdn.com/nprogress@0.2.0/nprogress.js" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="https://npm.elemecdn.com/nprogress@0.2.0/nprogress.css" crossorigin="anonymous" />
-<script>
-    NProgress.start();
-    document.addEventListener("readystatechange", () => {
-        if (document.readyState === "interactive") NProgress.inc(0.8);
-        if (document.readyState === "complete") NProgress.done();
-    });
 </script>
 
 
@@ -2335,11 +1758,12 @@ This is a story about temptation, escalation, and the cost of wanting more. Whet
         codeBlock.classList.add('code-show');
         codeMoreBox.style.display = 'none';
         
+        window.dispatchEvent(new Event('resize'));
       })
       
       let img = document.createElement('img');
       img.classList.add('code-more-img');
-      img.src = "https://luoqian29.github.io/icons/codeMore.png"
+      img.src = "\"https://luoqian29.github.io/icons/codeMore.png\"";
       
       codeMoreBtn.appendChild(img);
       codeMoreBox.appendChild(codeMoreBtn);
@@ -2351,164 +1775,8 @@ This is a story about temptation, escalation, and the cost of wanting more. Whet
 </script>
 
 
-<a href="#" id="back-to-top" title="杩斿洖椤堕儴"></a>
 
 
-<style>
-  #back-to-top {
-    display: none;
-    position: fixed;
-    bottom: 5px;
-    right: 15px;
-    width: 40px;  
-    height: 40px;  
-    border-radius: 50%;  
-    background-color: var(--body-background);
-    box-shadow: var(--shadow-l2);
-    font-size: 20px;  
-    text-align: center;
-    line-height: 38px;  
-    cursor: pointer;
-    transition:
-      transform 0.3s ease,
-      background-color 0.3s ease;  
-  }
-
-  #back-to-top:before {
-    content: "";
-    display: inline-block;
-    position: relative;
-    transform: rotate(135deg);
-    height: 8px;  
-    width: 8px;  
-    border-width: 0 0 2px 2px;
-    border-color: var(--back-to-top-color);
-    border-style: solid;
-  }
-
-  #back-to-top:hover {
-    transform: scale(1.1);  
-    background-color: var(--accent-background);  
-  }
-
-  #back-to-top:hover:before {
-    border-color: var(--accent-color);  
-  }
-
-   
-  @media screen and (max-width: 768px) {
-    #back-to-top {
-      bottom: 5px;
-      right: var(--container-padding);
-      width: 30px;  
-      height: 30px;
-      font-size: 16px;
-      line-height: 32px;
-    }
-  }
-
-  @media screen and (min-width: 1024px) {
-    #back-to-top {
-      bottom: 10px;
-      right: 20px;
-    }
-  }
-
-  @media screen and (min-width: 1280px) {
-    #back-to-top {
-      bottom: 15px;
-      right: 25px;
-    }
-  }
-
-  @media screen and (min-width: 1536px) {
-    #back-to-top {
-      bottom: 15px;
-      right: 25px;
-       
-    }
-  }
-</style>
-
-
-
-
-
-
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    const observer = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                entry.target.classList.add('revealed');
-                
-                setTimeout(() => {
-                    entry.target.style.transitionDelay = '0s';
-                }, 500);
-            }
-        });
-    }, {
-        threshold: 0.1, 
-        rootMargin: "0px 0px -50px 0px" 
-    });
-
-    const cards = document.querySelectorAll('.article-list article, .article-list--tile article, .article-list--compact article');
-    cards.forEach((card, index) => {
-        card.classList.add('scroll-reveal');
-        
-            card.style.transitionDelay = (index * 0.08) + 's';
-        }
-        observer.observe(card);
-    });
-});
-</script>
-
-
-
-
-
-
-
-
-
-
-    </div>
-</div>
-
-
-
-
-
-<script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js"></script>
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-    mediumZoom('.article-content img:not(.no-zoom)', {
-        margin: 24,
-        background: 'rgba(0, 0, 0, 0.75)',
-        scrollOffset: 40,
-    });
-});
-</script>
-
-
-
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.8.1/vanilla-tilt.min.js"></script>
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-    const cards = document.querySelectorAll('.article-list article');
-    if(cards.length > 0) {
-        VanillaTilt.init(cards, {
-            max: 3,
-            speed: 400,
-            glare: true,
-            "max-glare": 0.1,
-            scale: 1.01
-        });
-    }
-});
-</script>
 
 
 <script>
@@ -2517,40 +1785,6 @@ document.addEventListener('DOMContentLoaded', () => {
     meta.content = 'same-origin';
     document.head.appendChild(meta);
 </script>
-
-
-
-<div id="mac-spotlight"></div>
-<script>
-document.addEventListener('mousemove', function(e) {
-    const spotlight = document.getElementById('mac-spotlight');
-    if(spotlight) {
-        spotlight.style.setProperty('--x', e.clientX + 'px');
-        spotlight.style.setProperty('--y', e.clientY + 'px');
-    }
-});
-</script>
-
-
-<script src="https://cdn.jsdelivr.net/gh/studio-freight/lenis@1.0.29/bundled/lenis.min.js"></script>
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-    const lenis = new Lenis({
-        duration: 1.2,
-        easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
-        smooth: true
-    });
-    function raf(time) {
-        lenis.raf(time);
-        requestAnimationFrame(raf);
-    }
-    requestAnimationFrame(raf);
-});
-</script>
-
-
-
-
 
 
 
@@ -2563,10 +1797,10 @@ document.addEventListener('DOMContentLoaded', () => {
             img.classList.add('mac-image-loading');
             img.addEventListener('load', () => {
                 img.classList.remove('mac-image-loading');
-            });
+            }, { once: true });
             img.addEventListener('error', () => {
                 img.classList.remove('mac-image-loading');
-            });
+            }, { once: true });
         }
     });
 });
@@ -2577,140 +1811,11 @@ document.addEventListener('DOMContentLoaded', () => {
 <script src="https://cdn.jsdelivr.net/npm/instant.page@5.2.0/instantpage.min.js" type="module" defer></script>
 
 
-<div id="mac-cmd-palette" class="mac-cmd-hidden">
-    <div class="mac-cmd-box">
-        <input type="text" id="mac-cmd-input" placeholder="杈撳叆鍛戒护鎴栨悳绱㈠叧閿瓧 (鎸?Esc 閫€鍑?..." autocomplete="off">
-        <ul id="mac-cmd-list">
-            <li data-action="search" class="active">馃攳 <span class="cmd-label">鎼滅储鍏ㄧ珯:</span> <span class="cmd-value"></span></li>
-            <li data-action="theme">馃寳 鍒囨崲鏃?澶滈棿妯″紡</li>
-            <li data-action="home">馃彔 杩斿洖棣栭〉</li>
-        </ul>
-    </div>
-</div>
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-    const palette = document.getElementById('mac-cmd-palette');
-    const input = document.getElementById('mac-cmd-input');
-    const list = document.getElementById('mac-cmd-list');
-    const items = list.querySelectorAll('li');
-    const searchItem = list.querySelector('[data-action="search"]');
-    const searchValue = searchItem.querySelector('.cmd-value');
-    let isZenMode = false;
-
-    
-    function togglePalette(force) {
-        if(typeof force === 'boolean') {
-            if(force) {
-                palette.classList.remove('mac-cmd-hidden');
-                setTimeout(() => input.focus(), 50);
-            } else {
-                palette.classList.add('mac-cmd-hidden');
-                input.blur();
-            }
-            return;
-        }
-        
-        if (palette.classList.contains('mac-cmd-hidden')) {
-            palette.classList.remove('mac-cmd-hidden');
-            setTimeout(() => input.focus(), 50);
-        } else {
-            palette.classList.add('mac-cmd-hidden');
-            input.blur();
-        }
-    }
-
-    
-    document.addEventListener('keydown', (e) => {
-        if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
-            e.preventDefault();
-            togglePalette();
-        }
-        if (e.key === 'Escape' && !palette.classList.contains('mac-cmd-hidden')) {
-            togglePalette(false);
-        }
-    });
-
-    
-    palette.addEventListener('click', (e) => {
-        if (e.target === palette) togglePalette(false);
-    });
-
-    
-    input.addEventListener('input', () => {
-        const val = input.value.trim();
-        if (val.length > 0) {
-            items.forEach(i => i.style.display = 'none');
-            searchItem.style.display = 'flex';
-            searchValue.textContent = val;
-            setActive(searchItem);
-        } else {
-            items.forEach(i => i.style.display = 'flex');
-            searchValue.textContent = '';
-            setActive(items[1]); 
-        }
-    });
-
-    
-    input.addEventListener('keydown', (e) => {
-        const visibleItems = Array.from(items).filter(i => i.style.display !== 'none');
-        if (visibleItems.length === 0) return;
-        
-        const currentActive = visibleItems.findIndex(i => i.classList.contains('active'));
-        
-        if (e.key === 'ArrowDown') {
-            e.preventDefault();
-            const next = (currentActive + 1) % visibleItems.length;
-            setActive(visibleItems[next]);
-        } else if (e.key === 'ArrowUp') {
-            e.preventDefault();
-            const prev = (currentActive - 1 + visibleItems.length) % visibleItems.length;
-            setActive(visibleItems[prev]);
-        } else if (e.key === 'Enter') {
-            e.preventDefault();
-            const activeItem = visibleItems.find(i => i.classList.contains('active'));
-            if (activeItem) executeCommand(activeItem.dataset.action);
-        }
-    });
-
-    function setActive(item) {
-        items.forEach(i => i.classList.remove('active'));
-        if(item) item.classList.add('active');
-    }
-    setActive(items[1]); 
-
-    
-    items.forEach(item => {
-        item.addEventListener('click', () => {
-            executeCommand(item.dataset.action);
-        });
-        item.addEventListener('mousemove', () => {
-            setActive(item);
-        });
-    });
-
-    function executeCommand(action) {
-        togglePalette(false);
-        if (action === 'theme') {
-            const btn = document.getElementById('dark-mode-toggle');
-            if (btn) btn.click();
-        } else if (action === 'home') {
-            window.location.href = '/';
-        } else if (action === 'search') {
-            const keyword = input.value.trim();
-            window.location.href = '/search/?keyword=' + encodeURIComponent(keyword);
-        }
-        input.value = '';
-        input.dispatchEvent(new Event('input'));
-    }
-});
-</script>
-
-
-
 <script>
 document.addEventListener('DOMContentLoaded', () => {
     
     
+    const articleLinks = document.querySelectorAll('.article-content a');
     const currentHost = window.location.hostname;
     articleLinks.forEach(link => {
         try {
@@ -2725,478 +1830,761 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    
-    if (document.querySelector('.main-article')) {
-        const path = window.location.pathname;
-        const memoryKey = 'mac_read_pos_' + path;
-        
-        
-        const savedPos = localStorage.getItem(memoryKey);
-        if (savedPos) {
-            
-            setTimeout(() => {
-                window.scrollTo({
-                    top: parseInt(savedPos, 10),
-                    behavior: 'smooth'
-                });
-            }, 400); 
-        }
-
-        
-        let scrollTimeout;
-        window.addEventListener('scroll', () => {
-            if (scrollTimeout) cancelAnimationFrame(scrollTimeout);
-            scrollTimeout = requestAnimationFrame(() => {
-                const currentPos = window.scrollY || document.documentElement.scrollTop;
-                
-                    localStorage.setItem(memoryKey, currentPos);
-                } else if (currentPos < 50) {
-                    
-                }
-            });
-        });
-    }
-
-    
-    document.addEventListener('copy', (e) => {
-        const selection = window.getSelection();
-        const selectedText = selection.toString();
-        
-        
-            e.preventDefault();
-            const copyRightText = `\n\n----------------------\n浣滆€咃細涓€钀藉綊璋n閾炬帴锛?{window.location.href}\n鏉ユ簮锛氫竴钀藉綊璋︾殑鍗氬\n鍟嗕笟杞浇璇疯仈绯讳綔鑰呰幏寰楁巿鏉冿紝闈炲晢涓氳浆杞借娉ㄦ槑鍑哄銆俙`;
-            const fullText = selectedText + copyRightText;
-            
-            if (e.clipboardData) {
-                e.clipboardData.setData('text/plain', fullText);
-            } else if (window.clipboardData) {
-                window.clipboardData.setData('Text', fullText);
-            }
-            
-            
-                window.showIslandNotification('澶嶅埗鎴愬姛锛佸甫涓婁簡鐗堟潈灏忓熬宸磣', '漏');
-            }
-        }
-    });
-
 });
 </script>
 
 
-
-
-
-    </div>
-</div>
-
-
-
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    const floatingButtons = document.querySelectorAll("#back-to-top, .back-to-top, #mac-back-top, #mac-back-bottom, #backTopBtn");
-    
-    
-    floatingButtons.forEach(btn => {
-        btn.style.transition = "opacity 0.4s ease, transform 0.4s ease";
-        btn.style.opacity = "0";
-        btn.style.pointerEvents = "auto"; 
-        btn.style.display = "flex"; 
-    });
-
-    let scrollTimeout;
-    let isHoveringOldFab = false;
-    
-    function showOldFab() {
-        floatingButtons.forEach(btn => {
-            btn.style.opacity = "1";
-            btn.style.transform = "translateY(0)";
-        });
-    }
-    function hideOldFab() {
-        if (!isHoveringOldFab) {
-            floatingButtons.forEach(btn => { btn.style.opacity = "0"; });
-        }
-    }
-    function scheduleOldHide() {
-        clearTimeout(scrollTimeout);
-        scrollTimeout = setTimeout(hideOldFab, 1500);
-    }
-    
-    
-    floatingButtons.forEach(btn => {
-        btn.addEventListener('mouseenter', () => {
-            isHoveringOldFab = true;
-            clearTimeout(scrollTimeout);
-            showOldFab();
-        });
-        btn.addEventListener('mouseleave', () => {
-            isHoveringOldFab = false;
-            scheduleOldHide();
-        });
-    });
-
-    window.addEventListener("scroll", function() {
-        if (window.scrollY > 10) {
-            showOldFab();
-            scheduleOldHide();
-        } else {
-            hideOldFab();
-        }
-    });
-});
-</script>
 
 
 
 
 <style>
-
- 
-.pswp__button--arrow--left,
-.pswp__button--arrow--right {
-    display: none !important;
-}
- 
-.pswp:not(.pswp--open) {
-    pointer-events: none !important;
-}
-.pswp:not(.pswp--open) * {
-    pointer-events: none !important;
-}
 .mac-gallery-carousel {
     position: relative;
     width: 100%;
-    aspect-ratio: 16 / 9;  
+    box-sizing: border-box;
+    aspect-ratio: 16 / 9;
     overflow: hidden;
-    border-radius: var(--card-border-radius, 8px);
-    background: #000;
-    margin: 12px 0;
+    margin: 14px 0 6px;
+    border: 0;
+    border-radius: 16px;
+    background: rgba(118, 118, 128, 0.07);
+    box-shadow: 0 7px 22px rgba(0, 0, 0, 0.075);
+    isolation: isolate;
+    outline: none;
+    touch-action: pan-y;
+    transition: height 0.34s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.article-content details.mac-gallery-details {
+    overflow: visible !important;
+    border: 0 !important;
+    background: transparent !important;
+    box-shadow: none !important;
+}
+.article-content details.mac-gallery-details > summary {
+    margin: 0 0 10px !important;
+    border: 1px solid rgba(60, 60, 67, 0.12) !important;
+    border-radius: 14px !important;
+    background: rgba(248, 248, 250, 0.74) !important;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.035);
+}
+[data-scheme="dark"] .article-content details.mac-gallery-details > summary {
+    border-color: rgba(255, 255, 255, 0.09) !important;
+    background: rgba(38, 38, 41, 0.68) !important;
+}
+.article-content details.mac-gallery-details > .mac-gallery-carousel,
+.article-content details.mac-gallery-details .mac-gallery-carousel {
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+    border-radius: 16px !important;
 }
 .mac-gallery-track {
     display: flex;
-    height: 100%;  
-    transition: transform 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+    width: 100%;
+    height: 100%;
     will-change: transform;
+    backface-visibility: hidden;
+    transition: transform 0.36s cubic-bezier(0.22, 1, 0.36, 1);
 }
 .mac-gallery-slide {
     flex: 0 0 100%;
     min-width: 100%;
-    height: 100%;  
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
     position: relative;
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
     overflow: hidden;
-    background: transparent;
+    overflow: clip;
+    contain: paint;
+    backface-visibility: hidden;
 }
- 
 .mac-gallery-slide-bg {
     position: absolute;
-    inset: -10px;
+    inset: -24px;
     background-size: cover;
     background-position: center;
-    filter: blur(18px) brightness(0.45);
-    transform: scale(1.05);
-    z-index: 0;
+    filter: blur(28px) brightness(0.58) saturate(0.96);
+    transform: scale(1.1);
+    opacity: 0.94;
+    pointer-events: none;
 }
-.mac-gallery-slide img {
+.mac-gallery-carousel.is-height-capped .mac-gallery-slide-bg {
+    filter: blur(30px) brightness(0.62) saturate(0.98);
+}
+.mac-gallery-slide.is-fill .mac-gallery-slide-bg {
+    opacity: 0;
+    visibility: hidden;
+}
+.mac-gallery-slide-bg[hidden] {
+    display: none !important;
+}
+.mac-gallery-slide figure,
+.mac-gallery-slide figure > a {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    align-items: center;
+    justify-content: center;
+}
+.mac-gallery-slide figcaption {
+    display: none;
+}
+.mac-gallery-slide img,
+.article-content .mac-gallery-slide img {
     position: relative;
     z-index: 1;
     width: 100%;
-    height: 100%;  
+    height: 100%;
+    max-width: 100%;
+    max-height: 100%;
     display: block;
-    object-fit: contain !important;  
+    object-fit: contain !important;
     cursor: zoom-in;
     margin: 0 !important;
     padding: 0 !important;
-    background: transparent !important;  
-    box-shadow: none !important;  
-    border-radius: 0;
+    border-radius: 0 !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    transform: none !important;
+    transition: none !important;
 }
-.mac-gallery-prev { display: none !important; }
-.mac-gallery-next { display: none !important; }
- 
-.mac-gallery-click-prev,
-.mac-gallery-click-next {
-    position: absolute;
-    top: 0; bottom: 0;
-    width: 28%;
-    z-index: 5;
-    cursor: pointer;
-    opacity: 0;
+.mac-gallery-slide.is-fill img,
+.article-content .mac-gallery-slide.is-fill img {
+    object-fit: cover !important;
 }
-.mac-gallery-click-prev { left: 0; }
-.mac-gallery-click-next { right: 0; }
+.mac-gallery-slide.is-ambient img,
+.article-content .mac-gallery-slide.is-ambient img {
+    width: auto !important;
+    height: 100% !important;
+    max-width: 100% !important;
+    max-height: 100% !important;
+    border-radius: 12px !important;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.16) !important;
+}
+.mac-gallery-carousel[data-click-zone="previous"] .mac-gallery-slide,
+.mac-gallery-carousel[data-click-zone="previous"] .mac-gallery-slide img {
+    cursor: w-resize !important;
+}
+.mac-gallery-carousel[data-click-zone="next"] .mac-gallery-slide,
+.mac-gallery-carousel[data-click-zone="next"] .mac-gallery-slide img {
+    cursor: e-resize !important;
+}
+.mac-gallery-carousel[data-click-zone="open"] .mac-gallery-slide,
+.mac-gallery-carousel[data-click-zone="open"] .mac-gallery-slide img {
+    cursor: zoom-in !important;
+}
 .mac-gallery-dots {
     position: absolute;
-    bottom: 10px;
+    bottom: 12px;
     left: 50%;
+    z-index: 4;
     transform: translateX(-50%);
     display: flex;
     gap: 6px;
-    z-index: 10;
+    padding: 6px 9px;
+    border-radius: 999px;
+    background: rgba(24, 24, 27, 0.35);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
 }
 .mac-gallery-dot {
-    width: 7px; height: 7px;
+    width: 7px;
+    height: 7px;
+    padding: 0;
+    border: 0;
     border-radius: 50%;
-    background: rgba(255,255,255,0.5);
+    background: rgba(255, 255, 255, 0.48);
     cursor: pointer;
-    transition: background 0.2s, transform 0.2s;
+    transition: background-color 0.18s ease, transform 0.18s ease;
 }
 .mac-gallery-dot.active {
     background: #fff;
-    transform: scale(1.3);
+    transform: scale(1.28);
+}
+.mac-gallery-dots.is-windowed .mac-gallery-dot.is-edge:not(.active) {
+    opacity: 0.7;
+    transform: scale(0.72);
 }
 .mac-gallery-counter {
     position: absolute;
-    top: 10px;
+    top: 12px;
     right: 12px;
-    background: rgba(0,0,0,0.45);
+    z-index: 4;
+    min-width: 52px;
+    padding: 5px 9px;
+    border: 1px solid rgba(255, 255, 255, 0.24);
+    border-radius: 999px;
+    background: rgba(24, 24, 27, 0.46);
     color: #fff;
     font-size: 12px;
-    padding: 3px 8px;
-    border-radius: 20px;
-    z-index: 10;
-    backdrop-filter: blur(4px);
+    text-align: center;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+}
+.mac-lightbox[hidden] {
+    display: none !important;
+}
+.mac-lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 100000;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    height: 100dvh;
+    box-sizing: border-box;
+    padding: max(14px, env(safe-area-inset-top))
+             max(14px, env(safe-area-inset-right))
+             max(14px, env(safe-area-inset-bottom))
+             max(14px, env(safe-area-inset-left));
+    background: rgba(9, 9, 11, 0.76);
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    backdrop-filter: blur(20px) saturate(115%);
+    -webkit-backdrop-filter: blur(20px) saturate(115%);
+}
+.mac-lightbox-frame {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    min-width: 0;
+    min-height: 0;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+}
+.mac-lightbox-image {
+    display: block;
+    width: auto !important;
+    height: auto !important;
+    max-width: 100% !important;
+    max-height: 100% !important;
+    min-width: 0;
+    min-height: 0;
+    margin: auto !important;
+    border-radius: 14px;
+    box-shadow: 0 24px 72px rgba(0, 0, 0, 0.42);
+    object-fit: contain !important;
+    transform: none !important;
+}
+.mac-lightbox-close {
+    position: absolute;
+    z-index: 2;
+    display: grid;
+    width: 46px;
+    height: 46px;
+    padding: 0;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    background: rgba(30, 30, 34, 0.62);
+    color: #fff;
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.24);
+    place-items: center;
+    cursor: pointer;
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+}
+.mac-lightbox-close {
+    top: max(14px, env(safe-area-inset-top));
+    right: max(14px, env(safe-area-inset-right));
+}
+.mac-lightbox-counter {
+    position: absolute;
+    right: 50%;
+    bottom: 18px;
+    transform: translateX(50%);
+    padding: 6px 11px;
+    border-radius: 999px;
+    background: rgba(30, 30, 34, 0.62);
+    color: #fff;
+    font-size: 13px;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+}
+html.mac-lightbox-open,
+body.mac-lightbox-open {
+    overflow: hidden !important;
+    overscroll-behavior: none;
+}
+@media (max-width: 768px) {
+    .mac-gallery-carousel {
+        border-radius: 13px;
+    }
+    .article-content details.mac-gallery-details > .mac-gallery-carousel,
+    .article-content details.mac-gallery-details .mac-gallery-carousel {
+        border-radius: 13px !important;
+    }
+    .mac-gallery-slide.is-ambient img,
+    .article-content .mac-gallery-slide.is-ambient img {
+        border-radius: 10px !important;
+    }
+    .mac-gallery-dots {
+        bottom: 9px;
+        gap: 5px;
+        padding: 5px 8px;
+    }
+    .mac-gallery-dot {
+        width: 6px;
+        height: 6px;
+    }
+    .mac-lightbox {
+        padding: max(8px, env(safe-area-inset-top))
+                 max(8px, env(safe-area-inset-right))
+                 max(8px, env(safe-area-inset-bottom))
+                 max(8px, env(safe-area-inset-left));
+    }
+    .mac-lightbox-frame {
+        width: 100%;
+        height: 100%;
+    }
+    .mac-lightbox-close {
+        top: max(10px, env(safe-area-inset-top));
+        right: max(10px, env(safe-area-inset-right));
+    }
+}
+@media (prefers-reduced-motion: reduce) {
+    .mac-gallery-carousel,
+    .mac-gallery-track {
+        transition: none;
+    }
 }
 </style>
 
 <script>
 document.addEventListener('DOMContentLoaded', () => {
-    
-    const allParagraphs = document.querySelectorAll('.article-content p, .mac-box p');
-    allParagraphs.forEach(p => {
-        const images = [...p.querySelectorAll('img')];
+    const article = document.querySelector('.article-content');
+    if (!article) return;
+
+    const lightbox = document.createElement('div');
+    lightbox.className = 'mac-lightbox';
+    lightbox.hidden = true;
+    lightbox.setAttribute('role', 'dialog');
+    lightbox.setAttribute('aria-modal', 'true');
+    lightbox.setAttribute('aria-label', '图片预览');
+    lightbox.innerHTML = `
+        <div class="mac-lightbox-frame">
+            <img class="mac-lightbox-image" alt="">
+        </div>
+        <button class="mac-lightbox-close" type="button" aria-label="关闭图片预览">×</button>
+        <div class="mac-lightbox-counter" aria-live="polite"></div>
+    `;
+    document.body.appendChild(lightbox);
+
+    const lightboxFrame = lightbox.querySelector('.mac-lightbox-frame');
+    const lightboxImage = lightbox.querySelector('.mac-lightbox-image');
+    const lightboxClose = lightbox.querySelector('.mac-lightbox-close');
+    const lightboxCounter = lightbox.querySelector('.mac-lightbox-counter');
+    let lightboxItems = [];
+    let lightboxIndex = 0;
+    let lightboxReturnFocus = null;
+
+    function paintLightbox() {
+        const item = lightboxItems[lightboxIndex];
+        if (!item) return;
+        lightboxImage.src = item.src;
+        lightboxImage.alt = item.alt || '';
+        lightboxCounter.textContent = lightboxItems.length > 1
+            ? `${lightboxIndex + 1} / ${lightboxItems.length}`
+            : '';
+    }
+
+    function openLightbox(items, index) {
+        lightboxItems = items;
+        lightboxIndex = Math.max(0, Math.min(index, items.length - 1));
+        lightboxReturnFocus = document.activeElement;
+        paintLightbox();
+        lightbox.hidden = false;
+        document.documentElement.classList.add('mac-lightbox-open');
+        document.body.classList.add('mac-lightbox-open');
+        lightboxClose.focus({ preventScroll: true });
+    }
+
+    function closeLightbox() {
+        lightbox.hidden = true;
+        lightboxImage.removeAttribute('src');
+        document.documentElement.classList.remove('mac-lightbox-open');
+        document.body.classList.remove('mac-lightbox-open');
+        if (lightboxReturnFocus && lightboxReturnFocus.isConnected) {
+            lightboxReturnFocus.focus({ preventScroll: true });
+        }
+    }
+
+    lightboxClose.addEventListener('click', closeLightbox);
+    lightbox.addEventListener('click', event => {
+        if (event.target === lightbox || event.target === lightboxFrame) closeLightbox();
+    });
+    document.addEventListener('keydown', event => {
+        if (lightbox.hidden) return;
+        if (event.key === 'Escape') closeLightbox();
+    });
+
+    function imageData(images) {
+        return images.map(img => ({
+            src: img.currentSrc || img.src,
+            alt: img.alt || ''
+        }));
+    }
+
+    function buildCarousel(host, items) {
+        const images = items.map(item => item.matches('img') ? item : item.querySelector('img')).filter(Boolean);
         if (images.length < 2) return;
 
-        
+        const galleryDetails = host.closest('details');
+        if (galleryDetails) galleryDetails.classList.add('mac-gallery-details');
+
         const carousel = document.createElement('div');
         carousel.className = 'mac-gallery-carousel';
+        carousel.tabIndex = 0;
+        carousel.setAttribute('role', 'region');
+        carousel.setAttribute('aria-roledescription', '图片轮播');
+        carousel.setAttribute('aria-label', `${images.length} 张图片`);
 
         const track = document.createElement('div');
         track.className = 'mac-gallery-track';
 
-        images.forEach(img => {
+        const backgroundLayers = [];
+        const slides = [];
+        items.forEach((item, imageIndex) => {
+            const img = images[imageIndex];
             const slide = document.createElement('div');
             slide.className = 'mac-gallery-slide';
+            slide.setAttribute('role', 'group');
+            slide.setAttribute('aria-label', `${imageIndex + 1} / ${images.length}`);
 
-            
             const bgLayer = document.createElement('div');
             bgLayer.className = 'mac-gallery-slide-bg';
-            bgLayer.style.backgroundImage = `url('${img.src}')`;
+            bgLayer.dataset.src = img.currentSrc || img.src;
+            bgLayer.hidden = imageIndex > 1;
+            bgLayer.setAttribute('aria-hidden', 'true');
+            backgroundLayers.push(bgLayer);
+            slides.push(slide);
             slide.appendChild(bgLayer);
 
-            const newImg = img.cloneNode(true);
-            newImg.removeAttribute('width');
-            newImg.removeAttribute('height');
-            newImg.removeAttribute('style'); 
-            newImg.removeAttribute('height');
-            slide.appendChild(newImg);
+            img.decoding = 'async';
+            img.draggable = false;
+            if (imageIndex > 0) img.loading = 'lazy';
+            slide.appendChild(item);
             track.appendChild(slide);
-
-            
-            newImg.style.width = '100%';
-            newImg.style.height = '100%';
-            newImg.style.objectFit = 'cover';
         });
-
-        
-        const prevBtn = document.createElement('div');
-        prevBtn.className = 'mac-gallery-click-prev';
-        prevBtn.setAttribute('aria-label', '上一张');
-
-        const nextBtn = document.createElement('div');
-        nextBtn.className = 'mac-gallery-click-next';
-        nextBtn.setAttribute('aria-label', '下一张');
 
         const counter = document.createElement('div');
         counter.className = 'mac-gallery-counter';
+        counter.setAttribute('aria-live', 'polite');
 
+        let current = 0;
+        const total = images.length;
+        const visibleDotCount = Math.min(total, 9);
         const dotsContainer = document.createElement('div');
         dotsContainer.className = 'mac-gallery-dots';
+        if (total > visibleDotCount) dotsContainer.classList.add('is-windowed');
 
-        const dots = images.map((_, i) => {
-            const dot = document.createElement('div');
+        const dots = Array.from({ length: visibleDotCount }, (_, i) => {
+            const dot = document.createElement('button');
+            dot.type = 'button';
             dot.className = 'mac-gallery-dot' + (i === 0 ? ' active' : '');
-            dot.addEventListener('click', () => goTo(i));
+            dot.setAttribute('aria-label', `转到第 ${i + 1} 张`);
+            dot.addEventListener('click', event => {
+                event.stopPropagation();
+                goTo(Number(dot.dataset.index));
+            });
             dotsContainer.appendChild(dot);
             return dot;
         });
 
         carousel.appendChild(track);
-        carousel.appendChild(prevBtn);
-        carousel.appendChild(nextBtn);
         carousel.appendChild(dotsContainer);
         carousel.appendChild(counter);
-         
 
-        let current = 0;
-        const total = images.length;
+        function classifySlide(index) {
+            const image = images[index];
+            const slide = slides[index];
+            if (!image || !slide || !image.naturalWidth || !image.naturalHeight) return;
+            const ratio = image.naturalWidth / image.naturalHeight;
+            slide.classList.toggle('is-fill', ratio >= 1.08);
+            slide.classList.toggle('is-ambient', ratio < 1.08);
+        }
 
-        function goTo(n) {
+        images.forEach((image, index) => {
+            if (image.complete && image.naturalWidth) {
+                classifySlide(index);
+            } else {
+                image.addEventListener('load', () => classifySlide(index), { once: true });
+            }
+        });
+
+        function syncCarouselHeight(immediate = false) {
+            const image = images[current];
+            if (!image) return;
+
+            const applyHeight = () => {
+                const width = carousel.clientWidth;
+                const naturalWidth = image.naturalWidth;
+                const naturalHeight = image.naturalHeight;
+                if (!width || !naturalWidth || !naturalHeight) return;
+
+                const ratio = naturalWidth / naturalHeight;
+                const mobile = window.matchMedia('(max-width: 768px)').matches;
+                const viewportHeight = window.visualViewport?.height || window.innerHeight || 800;
+                const minimumHeight = Math.min(
+                    width * (mobile ? 0.52 : 0.38),
+                    mobile ? 300 : 340
+                );
+                const maximumHeight = Math.max(
+                    minimumHeight,
+                    Math.min(
+                        viewportHeight * (mobile ? 0.68 : 0.78),
+                        mobile ? 650 : 860
+                    )
+                );
+                const naturalDisplayHeight = width / ratio;
+                const fillFrame = ratio >= 1.08;
+                const targetHeight = Math.round(
+                    Math.min(Math.max(naturalDisplayHeight, minimumHeight), maximumHeight)
+                );
+
+                classifySlide(current);
+                carousel.classList.toggle('is-portrait', ratio < 0.9);
+                carousel.classList.toggle(
+                    'is-height-capped',
+                    !fillFrame && (
+                        naturalDisplayHeight > maximumHeight + 1
+                            || naturalDisplayHeight < minimumHeight - 1
+                    )
+                );
+                carousel.style.aspectRatio = 'auto';
+
+                if (immediate) carousel.style.transition = 'none';
+                carousel.style.height = `${targetHeight}px`;
+                if (immediate) {
+                    requestAnimationFrame(() => {
+                        carousel.style.removeProperty('transition');
+                    });
+                }
+            };
+
+            if (image.complete && image.naturalWidth) {
+                applyHeight();
+            } else {
+                image.addEventListener('load', applyHeight, { once: true });
+            }
+        }
+
+        function positionTrack(immediate = false) {
+            const width = carousel.getBoundingClientRect().width;
+            if (!width) return;
+
+            if (immediate) track.style.transition = 'none';
+            const offset = Math.round(width * current);
+            track.style.transform = `translate3d(${-offset}px, 0, 0)`;
+            if (immediate) {
+                requestAnimationFrame(() => {
+                    track.style.removeProperty('transition');
+                });
+            }
+        }
+
+        function updateDots() {
+            const halfWindow = Math.floor(visibleDotCount / 2);
+            const start = total <= visibleDotCount
+                ? 0
+                : Math.min(
+                    Math.max(current - halfWindow, 0),
+                    total - visibleDotCount
+                );
+
+            dots.forEach((dot, slot) => {
+                const imageIndex = start + slot;
+                const active = imageIndex === current;
+                dot.dataset.index = String(imageIndex);
+                dot.setAttribute('aria-label', `转到第 ${imageIndex + 1} 张`);
+                dot.classList.toggle('active', active);
+                dot.classList.toggle(
+                    'is-edge',
+                    total > visibleDotCount
+                        && (slot === 0 || slot === visibleDotCount - 1)
+                );
+                dot.setAttribute('aria-current', active ? 'true' : 'false');
+            });
+        }
+
+        function goTo(n, immediateHeight = false) {
             current = (n + total) % total;
-            track.style.transform = 'translateX(-' + (current * 100) + '%)';
-            dots.forEach((d, i) => d.classList.toggle('active', i === current));
+            positionTrack(immediateHeight);
+            updateDots();
+            slides.forEach((slide, i) => {
+                const active = i === current;
+                slide.setAttribute('aria-hidden', String(!active));
+                slide.inert = !active;
+            });
+            const previous = (current - 1 + total) % total;
+            const next = (current + 1) % total;
+            backgroundLayers.forEach((layer, i) => {
+                const nearViewport = i === current || i === previous || i === next;
+                layer.hidden = !nearViewport;
+                if (nearViewport && !layer.style.backgroundImage) {
+                    layer.style.backgroundImage = `url("${layer.dataset.src.replaceAll('"', '\\"')}")`;
+                }
+            });
             counter.textContent = (current + 1) + ' / ' + total;
+            syncCarouselHeight(immediateHeight);
         }
 
-        prevBtn.addEventListener('click', (e) => { e.stopPropagation(); goTo(current - 1); });
-        nextBtn.addEventListener('click', (e) => { e.stopPropagation(); goTo(current + 1); });
+        carousel.addEventListener('keydown', event => {
+            if (event.key === 'ArrowLeft') {
+                event.preventDefault();
+                goTo(current - 1);
+            }
+            if (event.key === 'ArrowRight') {
+                event.preventDefault();
+                goTo(current + 1);
+            }
+        });
+        let suppressLightboxClick = false;
+        carousel.addEventListener('click', event => {
+            if (event.target.closest('.mac-gallery-dots, .mac-gallery-counter')) return;
+            event.preventDefault();
+            event.stopPropagation();
+            if (suppressLightboxClick) return;
 
-        
+            const bounds = carousel.getBoundingClientRect();
+            if (!bounds.width) return;
+            const position = (event.clientX - bounds.left) / bounds.width;
+            if (position <= 0.3) {
+                goTo(current - 1);
+                return;
+            }
+            if (position >= 0.7) {
+                goTo(current + 1);
+                return;
+            }
+            openLightbox(imageData(images), current);
+        }, true);
+        carousel.addEventListener('pointermove', event => {
+            if (event.pointerType === 'touch') return;
+            if (event.target.closest('.mac-gallery-dots, .mac-gallery-counter')) {
+                carousel.removeAttribute('data-click-zone');
+                return;
+            }
+            const bounds = carousel.getBoundingClientRect();
+            if (!bounds.width) return;
+            const position = (event.clientX - bounds.left) / bounds.width;
+            carousel.dataset.clickZone = position <= 0.3
+                ? 'previous'
+                : (position >= 0.7 ? 'next' : 'open');
+        }, { passive: true });
+        carousel.addEventListener('pointerleave', () => {
+            carousel.removeAttribute('data-click-zone');
+        }, { passive: true });
+
         let startX = 0;
-        carousel.addEventListener('touchstart', e => { startX = e.touches[0].clientX; }, { passive: true });
-        carousel.addEventListener('touchend', e => {
-            const dx = e.changedTouches[0].clientX - startX;
-            if (Math.abs(dx) > 40) goTo(current + (dx < 0 ? 1 : -1));
-        });
+        carousel.addEventListener('touchstart', event => {
+            startX = event.touches[0].clientX;
+        }, { passive: true });
+        carousel.addEventListener('touchend', event => {
+            const dx = event.changedTouches[0].clientX - startX;
+            if (Math.abs(dx) > 40) {
+                suppressLightboxClick = true;
+                goTo(current + (dx < 0 ? 1 : -1));
+                window.setTimeout(() => {
+                    suppressLightboxClick = false;
+                }, 350);
+            }
+        }, { passive: true });
 
-        goTo(0);
-        p.parentNode.insertBefore(carousel, p);
-        p.remove();
-    });
+        host.replaceWith(carousel);
+        goTo(0, true);
 
-    
-    if (typeof mediumZoom !== 'undefined') {
-        mediumZoom('.article-content img:not(.no-zoom), .mac-gallery-slide img', {
-            margin: 24,
-            background: 'rgba(0, 0, 0, 0.75)',
-            scrollOffset: 40
-        });
-    }
-});
-</script>
-
-
-
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    const subtitleElement = document.querySelector('.site-description');
-    if (!subtitleElement) return;
-    const originalText = "Running with the Wind.";
-    subtitleElement.innerHTML = '';
-    const textSpan = document.createElement('span');
-    textSpan.style.textAlign = 'center';
-    textSpan.style.display = 'inline-block';
-    subtitleElement.appendChild(textSpan);
-    let i = 0;
-    function typeWriter() {
-        if (i <= originalText.length) {
-            textSpan.innerHTML = originalText.substring(0, i) + '<span class="typewriter-cursor" style="animation: blinkCursor 0.8s step-end infinite; font-weight: 200;">|</span>';
-            i++;
-            setTimeout(typeWriter, 100);
+        if ('ResizeObserver' in window) {
+            let measuredWidth = Math.round(carousel.getBoundingClientRect().width);
+            const resizeObserver = new ResizeObserver(entries => {
+                const nextWidth = Math.round(entries[0].contentRect.width);
+                if (!nextWidth || nextWidth === measuredWidth) return;
+                measuredWidth = nextWidth;
+                positionTrack(true);
+                syncCarouselHeight(true);
+            });
+            resizeObserver.observe(carousel);
         } else {
-            setTimeout(() => { textSpan.innerHTML = originalText; }, 3000);
+            let resizeFrame = 0;
+            window.addEventListener('resize', () => {
+                cancelAnimationFrame(resizeFrame);
+                resizeFrame = requestAnimationFrame(() => {
+                    positionTrack(true);
+                    syncCarouselHeight(true);
+                });
+            }, { passive: true });
         }
     }
-    if (!document.getElementById('typewriter-style')) {
-        const style = document.createElement('style');
-        style.id = 'typewriter-style';
-        style.innerHTML = `
-            @keyframes blinkCursor { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
-            .site-description { min-width: 170px; display: inline-block !important; text-align: center !important; }
-        `;
-        document.head.appendChild(style);
-    }
-    setTimeout(typeWriter, 500);
+
+    window.setTimeout(() => {
+        article.querySelectorAll('.gallery').forEach(gallery => {
+            if (gallery.closest('.mac-gallery-carousel')) return;
+            const figures = Array.from(gallery.children).filter(child => child.matches('figure'));
+            buildCarousel(gallery, figures);
+        });
+
+        article.querySelectorAll('p').forEach(paragraph => {
+            if (paragraph.closest('.mac-gallery-carousel, .gallery')) return;
+            if (paragraph.textContent.trim() !== '') return;
+            const imageItems = Array.from(paragraph.children).filter(child => {
+                if (child.matches('img')) return true;
+                return child.matches('a')
+                    && child.children.length === 1
+                    && child.firstElementChild.matches('img');
+            });
+            buildCarousel(paragraph, imageItems);
+        });
+    }, 0);
+
+    document.addEventListener('click', event => {
+        const img = event.target.closest('.article-content img');
+        if (!img || img.closest('.mac-gallery-carousel')) return;
+        const link = img.closest('a');
+        if (link) {
+            const imageUrl = new URL(img.currentSrc || img.src, window.location.href).href;
+            const linkUrl = new URL(link.href, window.location.href).href;
+            if (imageUrl !== linkUrl) return;
+        }
+        event.preventDefault();
+        event.stopPropagation();
+        openLightbox(imageData([img]), 0);
+    }, true);
 });
 </script>
 
 
 
 
-<div id="mac-dynamic-island" class="mac-dynamic-island">
-    <span class="mac-dynamic-island-icon">🚀</span>
+<div
+    id="mac-dynamic-island"
+    class="mac-dynamic-island"
+    role="progressbar"
+    aria-label="文章阅读进度"
+    aria-valuemin="0"
+    aria-valuemax="100"
+    aria-valuenow="0"
+>
     <div class="mac-dynamic-island-progress-bg">
         <div id="mac-dynamic-island-progress-bar" class="mac-dynamic-island-progress-bar"></div>
     </div>
 </div>
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    const island = document.getElementById('mac-dynamic-island');
-    const progressBar = document.getElementById('mac-dynamic-island-progress-bar');
-    let islandEnabled = localStorage.getItem('dynamicIslandEnabled');
-    if(islandEnabled === null) {
-        islandEnabled = 'true';
-        localStorage.setItem('dynamicIslandEnabled', 'true');
-    }
-    
-    
-    const menuBottom = document.querySelector('.menu-bottom-section .menu');
-    if (menuBottom) {
-        const toggleLi = document.createElement('li');
-        toggleLi.id = 'dynamic-island-toggle';
-        toggleLi.innerHTML = `
-            <svg id="di-icon-on" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" style="display: none;">
-                <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-                <circle cx="16" cy="12" r="2"></circle>
-                <rect x="2" y="6" width="20" height="12" rx="6"></rect>
-            </svg>
-            <svg id="di-icon-off" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" style="display: none;">
-                <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-                <circle cx="8" cy="12" r="2"></circle>
-                <rect x="2" y="6" width="20" height="12" rx="6"></rect>
-            </svg>
-            <span>灵动岛</span>
-        `;
-        menuBottom.appendChild(toggleLi);
-        
-        const iconOn = document.getElementById('di-icon-on');
-        const iconOff = document.getElementById('di-icon-off');
-        
-        if (islandEnabled === 'true') {
-            iconOn.style.display = 'block';
-            island.style.display = 'flex';
-        } else {
-            iconOff.style.display = 'block';
-            island.style.display = 'none';
-        }
-        
-        toggleLi.addEventListener('click', function() {
-            if (islandEnabled === 'true') {
-                islandEnabled = 'false';
-                localStorage.setItem('dynamicIslandEnabled', 'false');
-                iconOn.style.display = 'none';
-                iconOff.style.display = 'block';
-                island.style.display = 'none';
-            } else {
-                islandEnabled = 'true';
-                localStorage.setItem('dynamicIslandEnabled', 'true');
-                iconOn.style.display = 'block';
-                iconOff.style.display = 'none';
-                island.style.display = 'flex';
-            }
-        });
-    }
-
-    let isVisible = false;
-    window.addEventListener('scroll', function() {
-        if(island.style.width === '180px') return; 
-        const scrollTop = window.scrollY || document.documentElement.scrollTop;
-        const docHeight = document.documentElement.scrollHeight;
-        const winHeight = window.innerHeight;
-        
-        if (islandEnabled === 'true' && docHeight > winHeight * 1.5) {
-            let maxScroll = docHeight - winHeight;
-            let scrollPercent = (scrollTop / maxScroll) * 100;
-            if (scrollPercent > 100) scrollPercent = 100;
-            if (scrollPercent < 0) scrollPercent = 0;
-            
-            progressBar.style.width = scrollPercent + '%';
-            
-            if (scrollTop > 200 && !isVisible) {
-                island.classList.add('visible');
-                isVisible = true;
-            } else if (scrollTop <= 200 && isVisible) {
-                island.classList.remove('visible');
-                isVisible = false;
-            }
-        }
-    });
-});
-</script>
 
 
 
@@ -3221,7 +2609,7 @@ document.addEventListener('DOMContentLoaded', function() {
 .mac-fab-btn {
     width: 44px; height: 44px; background: var(--card-background); color: var(--card-text-color-main); border-radius: 50%; pointer-events: auto !important;
     box-shadow: 0 4px 12px rgba(0,0,0,0.1); display: flex; justify-content: center; align-items: center; cursor: pointer;
-    border: 1px solid var(--card-border-color, rgba(128,128,128,0.1)); transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    border: 1px solid var(--card-border-color, rgba(128,128,128,0.1)); transition: transform 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), box-shadow 0.3s ease, color 0.3s ease;
 }
 @media (hover: hover) and (pointer: fine) {
     .mac-fab-btn:hover {
@@ -3234,11 +2622,9 @@ document.addEventListener('DOMContentLoaded', function() {
 .mac-fab-btn:active {
     transform: translateY(0) scale(0.95);
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    transition: all 0.1s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    transition: transform 0.1s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.1s ease !important;
 }
 
- 
-#back-to-top, .back-to-top, #backTopBtn, #desktop-restore-toc, #toggle-toc { display: none !important; }
 </style>
 
 <script>
@@ -3247,6 +2633,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const fabToc = document.getElementById('mac-fab-toc');
     const fabTop = document.getElementById('mac-fab-top');
     const fabBottom = document.getElementById('mac-fab-bottom');
+    if (!fabGroup) return;
     
     
     function updateTocVisibility() {
@@ -3271,10 +2658,19 @@ document.addEventListener("DOMContentLoaded", function() {
     
     
     updateTocVisibility();
-    window.addEventListener('resize', updateTocVisibility);
+    let resizeFrame = 0;
+    window.addEventListener('resize', () => {
+        if (resizeFrame) return;
+        resizeFrame = requestAnimationFrame(() => {
+            resizeFrame = 0;
+            updateTocVisibility();
+        });
+    }, { passive: true });
     
-    document.addEventListener('click', function(e) {
-        setTimeout(updateTocVisibility, 50);
+    document.addEventListener('click', function(event) {
+        if (event.target.closest('#desktop-toc-toggle')) {
+            setTimeout(updateTocVisibility, 0);
+        }
     });
 
     if (fabToc) {
@@ -3304,14 +2700,16 @@ document.addEventListener("DOMContentLoaded", function() {
     document.addEventListener('click', function(event) {
         const tocContainer = document.getElementById('toc-container');
         if (window.innerWidth <= 1024 && tocContainer) {
-            if (!tocContainer.contains(event.target) && event.target !== fabToc && !fabToc.contains(event.target)) {
+            if (!tocContainer.contains(event.target) && event.target !== fabToc && !(fabToc && fabToc.contains(event.target))) {
                 tocContainer.style.display = 'none';
             }
         }
     });
 
     if (fabTop) fabTop.addEventListener('click', () => { window.scrollTo({ top: 0, behavior: 'smooth' }); });
-    if (fabBottom) fabBottom.addEventListener('click', () => { window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' }); });
+    if (fabBottom) fabBottom.addEventListener('click', () => {
+        window.scrollTo({ top: document.scrollingElement.scrollHeight, behavior: 'smooth' });
+    });
 
     let scrollTimeout;
     let isHoveringFab = false;
@@ -3335,7 +2733,9 @@ document.addEventListener("DOMContentLoaded", function() {
         });
     }
 
-    window.addEventListener("scroll", function() {
+    let scrollFrame = 0;
+    function syncFabVisibility() {
+        scrollFrame = 0;
         if (window.scrollY > 10) {
             fabGroup.style.opacity = "1";
             fabGroup.style.pointerEvents = "auto";
@@ -3351,7 +2751,12 @@ document.addEventListener("DOMContentLoaded", function() {
             fabGroup.style.opacity = "0";
             fabGroup.style.pointerEvents = "none";
         }
-    });
+    }
+
+    window.addEventListener("scroll", function() {
+        if (scrollFrame) return;
+        scrollFrame = requestAnimationFrame(syncFabVisibility);
+    }, { passive: true });
 });
 </script>
 
