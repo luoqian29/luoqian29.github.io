@@ -1,168 +1,119 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Pages on 一落归谦</title>
-        <link>https://luoqian29.github.io/page/</link>
-        <description>Recent content in Pages on 一落归谦</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <copyright>一落归谦</copyright>
-        <lastBuildDate>Wed, 29 Jul 2026 21:21:55 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>归档</title>
-        <link>https://luoqian29.github.io/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0800</pubDate>
-        
-        <guid>https://luoqian29.github.io/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>焚诀</title>
-        <link>https://luoqian29.github.io/link/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://luoqian29.github.io/link/</guid>
-        <description>&lt;style&gt;
-    /* 只针对当前页面生效：让标题和副标题居中 */
-    .article-details .article-title,
-    .article-details .article-subtitle {
-        text-align: center;
-    }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on 一落归谦</title><link>https://luoqian29.github.io/page/</link><description>Recent content in Pages on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Wed, 29 Jul 2026 21:21:55 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>归档</title><link>https://luoqian29.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/archives/</guid><description/></item><item><title>焚诀</title><link>https://luoqian29.github.io/link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://luoqian29.github.io/link/</guid><description>&lt;style&gt;
+/* 只针对当前页面生效：让标题和副标题居中 */
+.article-details .article-title,
+.article-details .article-subtitle {
+text-align: center;
+}
+&lt;/style&gt;</description></item><item><title>关于</title><link>https://luoqian29.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://luoqian29.github.io/about/</guid><description>&lt;style&gt;
+/*
+* About 页专属标题样式，仅在本篇页面生效。
+* 修改标题大小时，分别调整下面的桌面端和移动端 font-size。
+*/
+.main-article .article-details {
+width: 100%;
+box-sizing: border-box;
+align-items: center;
+text-align: center;
+}
+.main-article .article-details .article-title-wrapper {
+width: 100%;
+}
+.main-article .article-details .article-title {
+display: block;
+margin: 4px 0 12px;
+font-family:
+-apple-system,
+BlinkMacSystemFont,
+"SF Pro Display",
+"PingFang SC",
+"Microsoft YaHei",
+sans-serif;
+font-size: clamp(3rem, 4vw, 4.6rem); /* 桌面端标题大小 */
+font-weight: 780;
+letter-spacing: -0.045em;
+line-height: 1.08;
+text-align: center;
+}
+.main-article .article-details .article-title a {
+color: var(--card-text-color-main);
+word-break: keep-all;
+}
+@media (max-width: 768px) {
+.main-article .article-details .article-title {
+margin-bottom: 8px;
+font-size: clamp(2.8rem, 9vw, 3.6rem); /* 移动端标题大小 */
+}
+}
 &lt;/style&gt;
-</description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>https://luoqian29.github.io/about/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://luoqian29.github.io/about/</guid>
-        <description>&lt;style&gt;
-    /*
-     * About 页专属标题样式，仅在本篇页面生效。
-     * 修改标题大小时，分别调整下面的桌面端和移动端 font-size。
-     */
-    .main-article .article-details {
-        width: 100%;
-        box-sizing: border-box;
-        align-items: center;
-        text-align: center;
-    }
-
-    .main-article .article-details .article-title-wrapper {
-        width: 100%;
-    }
-
-    .main-article .article-details .article-title {
-        display: block;
-        margin: 4px 0 12px;
-        font-family:
-            -apple-system,
-            BlinkMacSystemFont,
-            &#34;SF Pro Display&#34;,
-            &#34;PingFang SC&#34;,
-            &#34;Microsoft YaHei&#34;,
-            sans-serif;
-        font-size: clamp(3rem, 4vw, 4.6rem); /* 桌面端标题大小 */
-        font-weight: 780;
-        letter-spacing: -0.045em;
-        line-height: 1.08;
-        text-align: center;
-    }
-
-    .main-article .article-details .article-title a {
-        color: var(--card-text-color-main);
-        word-break: keep-all;
-    }
-
-    @media (max-width: 768px) {
-        .main-article .article-details .article-title {
-            margin-bottom: 8px;
-            font-size: clamp(2.8rem, 9vw, 3.6rem); /* 移动端标题大小 */
-        }
-    }
-&lt;/style&gt;
-&lt;div class=&#34;reading-layout&#34;&gt;
-&lt;section class=&#34;reading-section&#34;&gt;
-    &lt;h2 id=&#34;博客时间线&#34;&gt;博客时间线
-&lt;/h2&gt;&lt;div class=&#34;mac-timeline&#34;&gt;
-&lt;div class=&#34;mac-timeline-item&#34;&gt;
-    &lt;div class=&#34;mac-timeline-date&#34;&gt;2026 &amp;amp; 未来&lt;/div&gt;
-    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;mac-timeline-content&#34;&gt;
-        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;汉化教程 🚀&lt;/h3&gt;
-        &lt;div class=&#34;mac-timeline-desc&#34;&gt;&lt;p&gt;由于在国内平台发布容易“被抬走”，接下来的重点干货将全面转移至此：&lt;/p&gt;
+&lt;div class="reading-layout"&gt;
+&lt;section class="reading-section"&gt;
+&lt;h2 id="博客时间线"&gt;博客时间线
+&lt;/h2&gt;&lt;div class="mac-timeline"&gt;
+&lt;div class="mac-timeline-item"&gt;
+&lt;div class="mac-timeline-date"&gt;2026 &amp;amp; 未来&lt;/div&gt;
+&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
+&lt;div class="mac-timeline-content"&gt;
+&lt;h3 class="mac-timeline-title"&gt;汉化教程 🚀&lt;/h3&gt;
+&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;由于在国内平台发布容易“被抬走”，接下来的重点干货将全面转移至此：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;优先更新&lt;/strong&gt;：Unity 引擎的图文硬核教程。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;后续安排&lt;/strong&gt;：RPG 与 Renpy 引擎教程，以及各种奇奇怪怪的干货。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;优先出图文就是因为这里&lt;strong&gt;不需要审核&lt;/strong&gt;。当然，更新速度得看我有没有时间。&lt;/p&gt;
 &lt;/div&gt;
-    &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&#34;mac-timeline-item&#34;&gt;
-    &lt;div class=&#34;mac-timeline-date&#34;&gt;2025 - 2026&lt;/div&gt;
-    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;mac-timeline-content&#34;&gt;
-        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;不知不觉成了资源站 📦&lt;/h3&gt;
-        &lt;div class=&#34;mac-timeline-desc&#34;&gt;&lt;p&gt;原本只想发发日常，没想到顺手搬运游戏、制作汉化补丁，搞了两三百个资源，妈的，累死我了。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-timeline-item"&gt;
+&lt;div class="mac-timeline-date"&gt;2025 - 2026&lt;/div&gt;
+&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
+&lt;div class="mac-timeline-content"&gt;
+&lt;h3 class="mac-timeline-title"&gt;不知不觉成了资源站 📦&lt;/h3&gt;
+&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;原本只想发发日常，没想到顺手搬运游戏、制作汉化补丁，搞了两三百个资源，妈的，累死我了。&lt;/p&gt;
 &lt;p&gt;其实之前是会给一些汉化补丁加上订阅制的，一个星期后公开，费用是一个月 10 RMB。但是我不知道为什么一堆人喷我，所以我就不加了，导致现在的更新速度就变成了随缘更新：&lt;/p&gt;
 &lt;p&gt;有的话我会搬运几个官中；没的话，看到喜欢的游戏更新了，或者有水友推荐，也会顺手做一下汉化补丁。&lt;/p&gt;
 &lt;p&gt;一般我会做一些博客没有的。因为有些游戏更新了就是挤牙膏，做了也是浪费时间，还不如不做，毕竟做了还会挨骂，对吧？哈哈。&lt;/p&gt;
 &lt;/div&gt;
-    &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&#34;mac-timeline-item&#34;&gt;
-    &lt;div class=&#34;mac-timeline-date&#34;&gt;2024 - 2025&lt;/div&gt;
-    &lt;div class=&#34;mac-timeline-node&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;mac-timeline-content&#34;&gt;
-        &lt;h3 class=&#34;mac-timeline-title&#34;&gt;我想发就发&lt;/h3&gt;
-        &lt;div class=&#34;mac-timeline-desc&#34;&gt;&lt;p&gt;其实也没什么好说的，一开始我就是来发一些自己喜欢的文章而已。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-timeline-item"&gt;
+&lt;div class="mac-timeline-date"&gt;2024 - 2025&lt;/div&gt;
+&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
+&lt;div class="mac-timeline-content"&gt;
+&lt;h3 class="mac-timeline-title"&gt;我想发就发&lt;/h3&gt;
+&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;其实也没什么好说的，一开始我就是来发一些自己喜欢的文章而已。&lt;/p&gt;
 &lt;p&gt;因为这里不用审核嘛，我自己就是审核员，我想发什么就发什么。之前在国内发一些视频，无论是在音符还是在小破站，都会被抬走，甚至我的公众号都被封了…… 哎，太缺德了他们，我不知道谁举报的。然后现在部署在 GitHub 上，基本是没有审核啊，嘿嘿。&lt;/p&gt;
 &lt;/div&gt;
-    &lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/section&gt;
-&lt;section class=&#34;reading-section&#34;&gt;
-    &lt;h2 id=&#34;关于资源与网盘&#34;&gt;关于资源与网盘
+&lt;section class="reading-section"&gt;
+&lt;h2 id="关于资源与网盘"&gt;关于资源与网盘
 &lt;/h2&gt;&lt;p&gt;博客里的游戏资源本体，基本源自作者官网、Patreon、Itch 或 F95。海外网盘（如 Gofile、Vikingfile、Mega 等）不会有国内网盘那种恶心的“会员限速”，下载速度完全取决于你的&lt;strong&gt;魔法&lt;/strong&gt;质量和本地带宽（好的梯子跑到 20MB/s 也很正常）。&lt;/p&gt;
 &lt;p&gt;至于我自己上传得 &lt;strong&gt;汉化补丁&lt;/strong&gt; 和 &lt;strong&gt;Mod&lt;/strong&gt;，一般会上传到 GoFile 和 Pixeldrain 作为双重保障：&lt;/p&gt;
-&lt;details class=&#34;reading-note&#34;&gt;
+&lt;details class="reading-note"&gt;
 &lt;summary&gt;GoFile&lt;/summary&gt;
 &lt;p&gt;部分地区（如广东）不需要科学上网就能访问。但它的机制是 7天内没人下载就会自动失效（并非资源被举报）。&lt;/p&gt;
 &lt;/details&gt;
-&lt;details class=&#34;reading-note&#34;&gt;
+&lt;details class="reading-note"&gt;
 &lt;summary&gt;Pixeldrain&lt;/summary&gt;
 &lt;p&gt;比较稳定，但百分百需要魔法。它是只要有两个月内有人下载，文件就不会失效。基本除了官网崩掉，资源都应该在的。&lt;/p&gt;
 &lt;/details&gt;
-&lt;details class=&#34;reading-note&#34;&gt;
+&lt;details class="reading-note"&gt;
 &lt;summary&gt;为什么不用 QQ 群文件、百度网盘或迅雷？&lt;/summary&gt;
 &lt;p&gt;一是因为我本身没有资源本体，二是因为国内审核太严，太麻烦了。用国内盘还得搞什么多次压缩、解压，乱七八糟的我不会弄，也没那闲工夫。&lt;/p&gt;
 &lt;/details&gt;
-&lt;aside class=&#34;reading-notice&#34; role=&#34;note&#34;&gt;
-    &lt;ul&gt;
+&lt;aside class="reading-notice" role="note"&gt;
+&lt;ul&gt;
 &lt;li&gt;我只是简简单单为了帮助一些水友，不是“为爱发电”，不可能事事都喂到你嘴里。&lt;/li&gt;
 &lt;li&gt;能用就用，用不了就算了；有需要我就给，不需要就算了，大家按自己的需求选择。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/aside&gt;
 &lt;/section&gt;
-&lt;section class=&#34;reading-section&#34;&gt;
-    &lt;h2 id=&#34;关于订阅制&#34;&gt;关于订阅制
+&lt;section class="reading-section"&gt;
+&lt;h2 id="关于订阅制"&gt;关于订阅制
 &lt;/h2&gt;&lt;p&gt;那不加订阅制之后，博客有没有收益啊？&lt;/p&gt;
 &lt;p&gt;其实收益非常少。以前不加订阅制寥寥无几，一个月就三四十块钱赞助。加了之后，最高一个月拿到过 700 多，最少也有 300 多，确实挺杯水车薪。除了大家投喂的收益，还有一个魔法推广佣金，一般也有几百块。&lt;/p&gt;
 &lt;p&gt;总之就是这样子吧，运营博客也没收多少费用，一个月跑 AI 大概就百来块，毕竟我自己也要玩一点。加上部署在 GitHub 上，费用也是挺少的，就当交点网费和电费而已~&lt;/p&gt;
 &lt;/section&gt;
-&lt;/div&gt;
-</description>
-        </item>
-        <item>
-        <title>搜索</title>
-        <link>https://luoqian29.github.io/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://luoqian29.github.io/search/</guid>
-        <description></description>
-        </item>
-        
-    </channel>
-</rss>
+&lt;/div&gt;</description></item><item><title>搜索</title><link>https://luoqian29.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://luoqian29.github.io/search/</guid><description/></item></channel></rss>
