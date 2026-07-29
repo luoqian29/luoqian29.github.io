@@ -7,13 +7,14 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Wed, 29 Jul 2026 01:19:14 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/ai%E7%AB%8B%E7%BB%98/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 29 Jul 2026 21:21:55 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/ai%E7%AB%8B%E7%BB%98/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Happy Island Fantasy 幸福岛幻想</title>
         <link>https://luoqian29.github.io/p/happyislandfantasy/</link>
         <pubDate>Fri, 22 May 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/happyislandfantasy/</guid>
-        <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3668560/12ccd1b17282af5b84fcb49b09853410bb1b7a73/ss_12ccd1b17282af5b84fcb49b09853410bb1b7a73.jpg?t=1762408884" alt="Featured image of post Happy Island Fantasy 幸福岛幻想" /&gt;&lt;h1 id=&#34;happy-island-fantasy-v1111--dlc-happycreator&#34;&gt;Happy Island Fantasy [v1.1.1.1 + DLC] [HappyCreator]
+        <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3668560/12ccd1b17282af5b84fcb49b09853410bb1b7a73/ss_12ccd1b17282af5b84fcb49b09853410bb1b7a73.jpg?t=1762408884" alt="Featured image of post Happy Island Fantasy 幸福岛幻想" /&gt;&lt;div class=&#34;reading-layout native-details native-link-buttons&#34;&gt;
+&lt;h1 id=&#34;happy-island-fantasy-v1111--dlc-happycreator&#34;&gt;Happy Island Fantasy [v1.1.1.1 + DLC] [HappyCreator]
 &lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://clan.fastly.steamstatic.com/images//45653024/909c26f0b4fb22cbf92b5ea44888098223248772.jpg&#34;
 	
 	
@@ -31,53 +32,74 @@
 &lt;li&gt;《幸福岛幻想》的故事发生在一座几乎与世隔绝的小岛上，“罗恩”为探寻远古神迹中的宝藏来到这里，并结识了岛上几位美女。您可以在这个岛上冒险、捕鱼、烹饪、探索、解密、收集等等，完成一段幸福又刺激的旅程。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;游戏信息&#34;&gt;游戏信息
-&lt;/h2&gt;&lt;h3 id=&#34;游戏类型&#34;&gt;游戏类型
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;游戏玩法：&lt;strong&gt;沙盒视觉小说&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;角色立绘：&lt;strong&gt;AI立绘&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;运行引擎：&lt;strong&gt;Unity&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;游戏画风：&lt;strong&gt;AI画风&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;版本信息&#34;&gt;版本信息
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;当前版本：&lt;strong&gt;1.1.1.1 + DLC&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;发行日期：&lt;strong&gt;2026-01-16&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;changelog&#34;&gt;Changelog
-&lt;/h3&gt;&lt;details&gt;
-&lt;summary&gt;更新日志&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;N/A&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details
+&lt;/h2&gt;&lt;details class=&#34;reading-note reading-game-info&#34;&gt;
+&lt;summary&gt;游戏信息&lt;/summary&gt;
+&lt;div class=&#34;mac-list-container reading-game-info-list&#34;&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;游戏玩法&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;沙盒视觉小说&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;角色立绘&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;AI立绘&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;运行引擎&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;Unity&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;游戏画风&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;AI画风&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;当前版本&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;1.1.1.1 + DLC&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;发行日期&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;2026-01-16&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/details&gt;
-&lt;h3 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://store.steampowered.com/app/3668560/_/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Steam&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://discord.com/invite/fcCRZ4JfdY&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Discord&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+&lt;h2 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://store.steampowered.com/app/3668560/_/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Steam&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://discord.com/invite/fcCRZ4JfdY&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Discord&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;落谦酱便利贴&#34;&gt;落谦酱便利贴
 &lt;/h2&gt;&lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;PS&lt;/summary&gt;
+&lt;summary&gt;PS&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;跟乡村狂想曲是同一个类型的。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
 &lt;summary&gt;落谦酱点评&lt;/summary&gt;
-
-
-
-
-
-
-    
-
-
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa&#34;
             scrolling=&#34;no&#34;
@@ -87,11 +109,10 @@
     &gt;
     &lt;/iframe&gt;
 &lt;/div&gt;
-
 &lt;/details&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;游戏预览图&#34;&gt;游戏预览图
-&lt;/h2&gt;&lt;details&gt;
+&lt;/h2&gt;&lt;details class=&#34;reading-note reading-gallery&#34;&gt;
 &lt;summary&gt;素图&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3668560/extras/66562da161bccecf56cddfda0ac48b94.avif?t=1762408884&#34;
 	
@@ -164,8 +185,8 @@
 	
 &gt;&lt;/p&gt;
 &lt;/details&gt;
-&lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;荤图&lt;/summary&gt;
+&lt;details class=&#34;reading-note reading-gallery&#34;&gt;
+&lt;summary&gt;荤图&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3668560/extras/bf68b360c5ca321909fa2760969c000b.avif?t=1762408884&#34;
 	
 	
@@ -189,43 +210,82 @@
 &lt;/details&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;download官中&#34;&gt;DOWNLOAD（官中）
-&lt;/h2&gt;&lt;h3 id=&#34;winpc端&#34;&gt;Win（PC端）
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;下载文件：&lt;/li&gt;
+&lt;/h2&gt;&lt;details class=&#34;reading-platform&#34;&gt;
+&lt;summary&gt;
+&lt;span class=&#34;reading-platform-title&#34;&gt;Windows&lt;/span&gt;&lt;span class=&#34;reading-platform-subtitle&#34;&gt;PC&lt;/span&gt;&lt;span class=&#34;reading-platform-chevron&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class=&#34;reading-platform-body&#34;&gt;
+&lt;ol&gt;
+&lt;li&gt;下载文件：
+&lt;strong&gt;官中原版：&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/2f2Y2ExTFU&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/RiqbTBk7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;安装步骤：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/2f2Y2ExTFU&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/RiqbTBk7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;解压&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
 &lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;文件，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;温馨提示：&lt;/li&gt;
 &lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;如果打不开链接，那么需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考这篇&lt;strong&gt;博文&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/p/vpn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;VPN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;如果看不懂安装步骤，可以参考这篇&lt;strong&gt;博文&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;详细教程&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/details&gt;
 &lt;hr&gt;
+&lt;h2 id=&#34;使用帮助&#34;&gt;使用帮助
+&lt;/h2&gt;&lt;div class=&#34;mac-list-container reading-help&#34;&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;网络连接&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;如果打不开链接请科学上网，没有梯子可以参考这篇&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/p/vpn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;安装教程&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;如果看不懂安装步骤，可以参考这篇&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;问题反馈&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;如果操作过程中遇到Bug或其他问题，欢迎在博文评论区留言反馈&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;创作支持&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;如果本文对你有帮助，欢迎在&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;投喂落谦&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;幸好有你&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;你的支持是我更新的最大动力！&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;h2 id=&#34;宇宙安全声明&#34;&gt;宇宙安全声明！
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播&lt;/li&gt;
-&lt;li&gt;落谦不对因使用本文所产生的任何问题负责&lt;/li&gt;
+&lt;/h2&gt;&lt;aside class=&#34;reading-notice&#34; role=&#34;note&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播。&lt;/li&gt;
+&lt;li&gt;落谦不对因使用本文所产生的任何问题负责。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
+&lt;/aside&gt;
+&lt;/div&gt;
 </description>
         </item>
         <item>
@@ -234,7 +294,8 @@
         <pubDate>Wed, 29 Apr 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/thirdcrisisneonnights/</guid>
-        <description>&lt;img src="https://pbs.twimg.com/profile_banners/1704184589260857344/1769832537/1500x500" alt="Featured image of post Third Crisis Neon Nights 第三次危机：霓虹之夜" /&gt;&lt;h1 id=&#34;third-crisis-neon-nights-v048-sr-anduo-games&#34;&gt;Third Crisis Neon Nights [v0.4.8-sr] [Anduo Games]
+        <description>&lt;img src="https://pbs.twimg.com/profile_banners/1704184589260857344/1769832537/1500x500" alt="Featured image of post Third Crisis Neon Nights 第三次危机：霓虹之夜" /&gt;&lt;div class=&#34;reading-layout native-details native-link-buttons&#34;&gt;
+&lt;h1 id=&#34;third-crisis-neon-nights-v048-sr-anduo-games&#34;&gt;Third Crisis Neon Nights [v0.4.8-sr] [Anduo Games]
 &lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HE4mkIDXwAAJqzq?format=png&amp;amp;name=900x900&#34;
 	
 	
@@ -252,46 +313,76 @@
 &lt;li&gt;这是一款香艳的2D剧情RPG。踏入这座赛博朋克堕落之都，你的抉择将改写故事。在罪恶与霓虹交织的街区中揭露真相——是向诱惑妥协，还是坚守本心？你能否在“霓虹之夜”中破局而立？&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;游戏信息&#34;&gt;游戏信息
-&lt;/h2&gt;&lt;h3 id=&#34;游戏类型&#34;&gt;游戏类型
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;游戏玩法：&lt;strong&gt;沙盒视觉小说&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;角色立绘：&lt;strong&gt;手绘立绘&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;运行引擎：&lt;strong&gt;Unity&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;游戏画风：&lt;strong&gt;美漫画风&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;版本信息&#34;&gt;版本信息
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;当前版本：&lt;strong&gt;0.4.8 sr&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;发行日期：&lt;strong&gt;2026-04-01&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;changelog&#34;&gt;Changelog
-&lt;/h3&gt;&lt;details&gt;
-&lt;summary&gt;更新日志&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;N/A&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details
+&lt;/h2&gt;&lt;details class=&#34;reading-note reading-game-info&#34;&gt;
+&lt;summary&gt;游戏信息&lt;/summary&gt;
+&lt;div class=&#34;mac-list-container reading-game-info-list&#34;&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;游戏玩法&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;沙盒视觉小说&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;角色立绘&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;手绘立绘&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;运行引擎&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;Unity&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;游戏画风&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;美漫画风&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;当前版本&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;0.4.8 sr&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;发行日期&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;2026-04-01&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/details&gt;
-&lt;h3 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.patreon.com/AnduoGames&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Patreon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://store.steampowered.com/app/3400350/Third_Crisis_Neon_Nights/?curator_clanid=36621521&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Steam&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://anduogames.itch.io/third-crisis-neon-nights&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Itch.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://x.com/AnduoGamesDev&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://discord.com/invite/V3vuwDw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Discord&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://anduogames.wordpress.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Wordpress&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+&lt;h2 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.patreon.com/AnduoGames&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Patreon&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://store.steampowered.com/app/3400350/Third_Crisis_Neon_Nights/?curator_clanid=36621521&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Steam&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://anduogames.itch.io/third-crisis-neon-nights&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Itch.io&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://x.com/AnduoGamesDev&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Twitter&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://discord.com/invite/V3vuwDw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Discord&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://anduogames.wordpress.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Wordpress&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;落谦酱便利贴&#34;&gt;落谦酱便利贴
 &lt;/h2&gt;&lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;PS&lt;/summary&gt;
+&lt;summary&gt;PS&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;水友让跑的，质量很高，但是由于是Unity引擎，只能通过Xunity提取文本，当然，我只玩了一遍，应该漏了很多文本，只能让那位水友打一遍，然后我再把剩下的文本，再跑一次AI了。&lt;/li&gt;
 &lt;/ul&gt;
@@ -327,15 +418,6 @@
 &lt;/details&gt;
 &lt;details&gt;
 &lt;summary&gt;落谦酱点评&lt;/summary&gt;
-
-
-
-
-
-
-    
-
-
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa&#34;
             scrolling=&#34;no&#34;
@@ -345,12 +427,11 @@
     &gt;
     &lt;/iframe&gt;
 &lt;/div&gt;
-
 &lt;/details&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;游戏预览图&#34;&gt;游戏预览图
-&lt;/h2&gt;&lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;荤图&lt;/summary&gt;
+&lt;/h2&gt;&lt;details class=&#34;reading-note reading-gallery&#34;&gt;
+&lt;summary&gt;荤图&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3400350/ee7964a905244902a00594795d9499bed032564d/ss_ee7964a905244902a00594795d9499bed032564d.1920x1080.jpg?t=1776457964&#34;
 	
 	
@@ -404,54 +485,92 @@
 &lt;/details&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;download汉化补丁&#34;&gt;DOWNLOAD（汉化补丁）
-&lt;/h2&gt;&lt;h3 id=&#34;winpc端&#34;&gt;Win（PC端）
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;下载链接：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://datanodes.to/k26veppbvd4u/Third_Crisis_Neon_Nights_0.4.8-sr.7z&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;DATANODES&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://terminal.lc/xp46j_pe4pr09ry2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;TERMINAL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;英文原版：&lt;a class=&#34;link&#34; href=&#34;https://akirabox.com/Z9dzBW8DnGk1/file&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;AKIRABOX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/IxdbGV&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AI意译汉化补丁：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/RBieGLbq&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;安装步骤：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
+&lt;/h2&gt;&lt;details class=&#34;reading-platform&#34;&gt;
+&lt;summary&gt;
+&lt;span class=&#34;reading-platform-title&#34;&gt;Windows&lt;/span&gt;&lt;span class=&#34;reading-platform-subtitle&#34;&gt;PC&lt;/span&gt;&lt;span class=&#34;reading-platform-chevron&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class=&#34;reading-platform-body&#34;&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://datanodes.to/k26veppbvd4u/Third_Crisis_Neon_Nights_0.4.8-sr.7z&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DATANODES&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://terminal.lc/xp46j_pe4pr09ry2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;TERMINAL&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://akirabox.com/Z9dzBW8DnGk1/file&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;AKIRABOX&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/IxdbGV&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/RBieGLbq&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件和汉化补丁&lt;strong&gt;压缩包&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;由于需要搭配Xunity，具体教程请看落谦酱点评中的视频教程&lt;/li&gt;
-&lt;li&gt;教程很简单的，不要害怕，会复制粘贴就行，所以有手就行&lt;/li&gt;
-&lt;li&gt;视频教程：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ScVHjM&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;视频教程：&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/dyZ8CjZp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PIXELDRAIN&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;温馨提示：&lt;/li&gt;
+&lt;li&gt;教程很简单的，不要害怕，会复制粘贴就行，所以有手就行
+&lt;strong&gt;视频教程：&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;如果打不开链接，那么需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考这篇&lt;strong&gt;博文&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/p/vpn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;VPN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;如果看不懂安装步骤，可以参考这篇&lt;strong&gt;博文&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;详细教程&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ScVHjM&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://pixeldrain.com/u/dyZ8CjZp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
 &lt;hr&gt;
+&lt;h2 id=&#34;使用帮助&#34;&gt;使用帮助
+&lt;/h2&gt;&lt;div class=&#34;mac-list-container reading-help&#34;&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;网络连接&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;如果打不开链接请科学上网，没有梯子可以参考这篇&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/p/vpn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;安装教程&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;如果看不懂安装步骤，可以参考这篇&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;问题反馈&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;如果操作过程中遇到Bug或其他问题，欢迎在博文评论区留言反馈&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;创作支持&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;如果本文对你有帮助，欢迎在&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;投喂落谦&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;幸好有你&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;你的支持是我更新的最大动力！&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;h2 id=&#34;宇宙安全声明&#34;&gt;宇宙安全声明！
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播&lt;/li&gt;
-&lt;li&gt;落谦不对因使用本文所产生的任何问题负责&lt;/li&gt;
+&lt;/h2&gt;&lt;aside class=&#34;reading-notice&#34; role=&#34;note&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播。&lt;/li&gt;
+&lt;li&gt;落谦不对因使用本文所产生的任何问题负责。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
+&lt;/aside&gt;
+&lt;/div&gt;
 </description>
         </item>
         <item>
@@ -460,7 +579,8 @@
         <pubDate>Wed, 11 Feb 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/myfemboyroommate/</guid>
-        <description>&lt;img src="https://img.itch.zone/aW1hZ2UvMzgxNjE4Mi8yMjc4Mzk3NS5wbmc=/original/DvaIxs.png" alt="Featured image of post My Femboy Roommate 成都室友" /&gt;&lt;h1 id=&#34;my-femboy-roommate-v11-final-nuteku&#34;&gt;My Femboy Roommate [v1.1 Final] [Nuteku]
+        <description>&lt;img src="https://img.itch.zone/aW1hZ2UvMzgxNjE4Mi8yMjc4Mzk3NS5wbmc=/original/DvaIxs.png" alt="Featured image of post My Femboy Roommate 成都室友" /&gt;&lt;div class=&#34;reading-layout native-details native-link-buttons&#34;&gt;
+&lt;h1 id=&#34;my-femboy-roommate-v11-final-nuteku&#34;&gt;My Femboy Roommate [v1.1 Final] [Nuteku]
 &lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1hZ2UvNDAwMTg0MS8yMzg2NDkxMC5wbmc=/original/%2BQuvrI.png&#34;
 	
 	
@@ -478,20 +598,60 @@
 &lt;li&gt;In My Femboy Roommate, you&amp;rsquo;ve just moved to a new city and are looking for a quiet place to launch your indie dev career. You share an apartment with your new roommate, Robin. He is a shy but cute livestreamer who reveals himself to be a Femboy. Do you have what it takes to form a genuine relationship with your new Femboy roommate?​&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;游戏信息&#34;&gt;游戏信息
-&lt;/h2&gt;&lt;h3 id=&#34;游戏类型&#34;&gt;游戏类型
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;游戏玩法：&lt;strong&gt;沙盒视觉小说&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;角色立绘：&lt;strong&gt;AI立绘&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;运行引擎：&lt;strong&gt;Ren&amp;rsquo;Py&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;游戏画风：&lt;strong&gt;AI画风&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;版本信息&#34;&gt;版本信息
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;当前版本：&lt;strong&gt;1.1 Final&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;发行日期：&lt;strong&gt;2024-10-26&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details
+&lt;/h2&gt;&lt;details class=&#34;reading-note reading-game-info&#34;&gt;
+&lt;summary&gt;游戏信息&lt;/summary&gt;
+&lt;div class=&#34;mac-list-container reading-game-info-list&#34;&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;游戏玩法&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;沙盒视觉小说&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;角色立绘&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;AI立绘&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;运行引擎&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;Ren&amp;rsquo;Py&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;游戏画风&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;AI画风&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;当前版本&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;1.1 Final&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;发行日期&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;2024-10-26&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
 &lt;h3 id=&#34;changelog&#34;&gt;Changelog
 &lt;/h3&gt;&lt;details&gt;
 &lt;summary&gt;更新日志&lt;/summary&gt;
@@ -499,34 +659,22 @@
 &lt;li&gt;Final Release&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
-&lt;h3 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.patreon.com/Nutekuu&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Patreon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://nuteku.itch.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Itch.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://discord.com/invite/u9GwfyjJNs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Discord&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+&lt;h2 id=&#34;developer入正地址&#34;&gt;Developer（入正地址）
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.patreon.com/Nutekuu&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Patreon&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://nuteku.itch.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Itch.io&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://discord.com/invite/u9GwfyjJNs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Discord&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;落谦酱便利贴&#34;&gt;落谦酱便利贴
 &lt;/h2&gt;&lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;PS&lt;/summary&gt;
+&lt;summary&gt;PS&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;四川成都的水友有福啦！！！&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
 &lt;summary&gt;落谦酱点评&lt;/summary&gt;
-
-
-
-
-
-
-    
-
-
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa&#34;
             scrolling=&#34;no&#34;
@@ -536,122 +684,131 @@
     &gt;
     &lt;/iframe&gt;
 &lt;/div&gt;
-
 &lt;/details&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;游戏预览图&#34;&gt;游戏预览图
-&lt;/h2&gt;&lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;荤图&lt;/summary&gt;
+&lt;/h2&gt;&lt;details class=&#34;reading-note reading-gallery&#34;&gt;
+&lt;summary&gt;荤图&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;预览图太辣眼了，自己去itch看吧，我就懒得贴图床链接了。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;download官中&#34;&gt;DOWNLOAD（官中）
-&lt;/h2&gt;&lt;h3 id=&#34;winpc端&#34;&gt;Win（PC端）
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;下载链接：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ioXolr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/hORdw0sD0Y&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;安装步骤：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
+&lt;/h2&gt;&lt;details class=&#34;reading-platform&#34;&gt;
+&lt;summary&gt;
+&lt;span class=&#34;reading-platform-title&#34;&gt;Windows&lt;/span&gt;&lt;span class=&#34;reading-platform-subtitle&#34;&gt;PC&lt;/span&gt;&lt;span class=&#34;reading-platform-chevron&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class=&#34;reading-platform-body&#34;&gt;
+&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ioXolr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/hORdw0sD0Y&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;解压&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
 &lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;文件，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;温馨提示：&lt;/li&gt;
 &lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;如果打不开链接，那么需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考这篇&lt;strong&gt;博文&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/p/vpn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;VPN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;如果看不懂安装步骤，可以参考这篇&lt;strong&gt;博文&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;详细教程&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;android安卓端&#34;&gt;Android（安卓端）
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;下载链接：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/SeOY8m&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/cAmc7k4y0B&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;安装步骤：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class=&#34;reading-platform&#34;&gt;
+&lt;summary&gt;
+&lt;span class=&#34;reading-platform-title&#34;&gt;Android&lt;/span&gt;&lt;span class=&#34;reading-platform-subtitle&#34;&gt;安卓&lt;/span&gt;&lt;span class=&#34;reading-platform-chevron&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class=&#34;reading-platform-body&#34;&gt;
+&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/SeOY8m&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/cAmc7k4y0B&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
 &lt;li&gt;启动&lt;strong&gt;游戏&lt;/strong&gt;，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;温馨提示：&lt;/li&gt;
 &lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;如果打不开链接，那么需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考这篇&lt;strong&gt;博文&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/p/vpn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;VPN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;如果看不懂安装步骤，可以参考这篇&lt;strong&gt;博文&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;详细教程&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;ios苹果端&#34;&gt;iOS（苹果端）
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;环境配置：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class=&#34;reading-platform&#34;&gt;
+&lt;summary&gt;
+&lt;span class=&#34;reading-platform-title&#34;&gt;iPhone / iPad&lt;/span&gt;&lt;span class=&#34;reading-platform-subtitle&#34;&gt;iOS&lt;/span&gt;&lt;span class=&#34;reading-platform-chevron&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class=&#34;reading-platform-body&#34;&gt;
+&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
 &lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
 &lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;下载链接：&lt;/li&gt;
 &lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ioXolr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GOFILE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;官中原版：&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/hORdw0sD0Y&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;VIKINGFILE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;安装步骤：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
+&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gofile.io/d/ioXolr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GOFILE&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://vik1ngfile.site/f/hORdw0sD0Y&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;官中原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
 &lt;li&gt;然后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;4&#34;&gt;
-&lt;li&gt;温馨提示：&lt;/li&gt;
 &lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;如果打不开链接，那么需要科学上网，没有&lt;strong&gt;梯子&lt;/strong&gt;可以参考这篇&lt;strong&gt;博文&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/p/vpn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;VPN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;如果看不懂安装步骤，可以参考这篇&lt;strong&gt;博文&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;详细教程&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;如果觉得本文对你有帮助，欢迎在爱发电&lt;strong&gt;投喂落谦&lt;/strong&gt;——&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;爱发电&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/details&gt;
 &lt;hr&gt;
+&lt;h2 id=&#34;使用帮助&#34;&gt;使用帮助
+&lt;/h2&gt;&lt;div class=&#34;mac-list-container reading-help&#34;&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;网络连接&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;如果打不开链接请科学上网，没有梯子可以参考这篇&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/p/vpn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;安装教程&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;如果看不懂安装步骤，可以参考这篇&lt;a class=&#34;link&#34; href=&#34;https://luoqian29.github.io/about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;问题反馈&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;如果操作过程中遇到Bug或其他问题，欢迎在博文评论区留言反馈&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;创作支持&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;如果本文对你有帮助，欢迎在&lt;a class=&#34;link&#34; href=&#34;https://afdian.com/a/luoqian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;爱发电&lt;/a&gt;投喂落谦&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;幸好有你&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;你的支持是我更新的最大动力！&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;h2 id=&#34;宇宙安全声明&#34;&gt;宇宙安全声明！
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播&lt;/li&gt;
-&lt;li&gt;落谦不对因使用本文所产生的任何问题负责&lt;/li&gt;
+&lt;/h2&gt;&lt;aside class=&#34;reading-notice&#34; role=&#34;note&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播。&lt;/li&gt;
+&lt;li&gt;落谦不对因使用本文所产生的任何问题负责。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
+&lt;/aside&gt;
+&lt;/div&gt;
 </description>
         </item>
         

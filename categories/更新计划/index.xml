@@ -7,13 +7,13 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Mon, 27 Jul 2026 17:35:53 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 29 Jul 2026 21:21:55 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>博文更新计划与路线图</title>
         <link>https://luoqian29.github.io/p/update/</link>
         <pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/update/</guid>
-        <description>&lt;img src="https://pbs.twimg.com/media/HNJbuBhbsAA0iq-?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;div class=&#34;mac-box&#34;&gt;
+        <description>&lt;img src="https://pbs.twimg.com/media/HNJbuBhbsAA0iq-?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;div class=&#34;reading-layout&#34;&gt;
 &lt;h1 id=&#34;博文更新计划与路线图&#34;&gt;博文更新计划与路线图
 &lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HNJbt_3aEAAT55S?format=jpg&amp;amp;name=large&#34;
 	
@@ -25,13 +25,12 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mac-box-outer&#34;&gt;
 &lt;h2 id=&#34;引言&#34;&gt;引言
-&lt;/h2&gt;&lt;p&gt;闲话少叙，简单说一下最近以及接下来的更新安排。距离 10 月初（也就是国庆），刚刚好还有&lt;strong&gt;两个半月&lt;/strong&gt;。这段时间内我会把剩下的 AI 意译补丁全部做完，估计还有四五十个。&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mac-box-outer&#34;&gt;
-&lt;h2 id=&#34;博客路线图-roadmap&#34;&gt;博客路线图 (Roadmap)
+&lt;/h2&gt;&lt;details class=&#34;reading-note&#34;&gt;
+&lt;summary&gt;近期安排&lt;/summary&gt;
+&lt;p&gt;闲话少叙，简单说一下最近以及接下来的更新安排。距离 10 月初（也就是国庆），刚刚好还有&lt;strong&gt;两个半月&lt;/strong&gt;。这段时间内我会把剩下的 AI 意译补丁全部做完，估计还有四五十个。&lt;/p&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;博客路线图roadmap&#34;&gt;博客路线图（Roadmap）
 &lt;/h2&gt;&lt;div class=&#34;mac-timeline&#34;&gt;
 &lt;div class=&#34;mac-timeline-item&#34;&gt;
     &lt;div class=&#34;mac-timeline-date&#34;&gt;补丁制作计划&lt;/div&gt;
@@ -83,17 +82,36 @@
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mac-box-outer&#34;&gt;
-&lt;h2 id=&#34;关于联系方式-新增绿泡泡&#34;&gt;关于联系方式 (新增绿泡泡)
+&lt;h2 id=&#34;关于联系方式新增绿泡泡&#34;&gt;关于联系方式（新增绿泡泡）
 &lt;/h2&gt;&lt;p&gt;考虑到一部分水友没有 GitHub 或 Telegram，这里提供一个绿泡泡联系方式。我不怎么玩企鹅（QQ），主要是企鹅信息不通知，绿泡泡提醒比较及时。毕竟我的小破站已经进小黑屋了，音符上又不能发图片，大家反馈 bug 或推荐游戏发截图，绿泡泡会方便些。&lt;/p&gt;
-&lt;h3 id=&#34;微信联系&#34;&gt;微信联系
-&lt;/h3&gt;&lt;div class=&#34;mac-box&#34;&gt;
-    &lt;p&gt;&lt;strong&gt;微信号&lt;/strong&gt;：&lt;code&gt;luoqian292929&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;：加好友后直接发问题截图即可，但&lt;strong&gt;千万别发奇奇怪怪的内容（比如色图）&lt;/strong&gt;，不然号又被抬走了！我之前的号就是这么没的，现在只能看不能发，心累。&lt;/p&gt;
+&lt;div class=&#34;mac-list-container reading-help&#34;&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;微信号&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;聊天群&lt;/summary&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;&lt;code&gt;luoqian292929&lt;/code&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;反馈方式&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;加好友后直接发送问题截图，方便定位 Bug 或查看游戏推荐&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;安全提醒&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;&lt;strong&gt;请勿发送色图或其他奇怪内容&lt;/strong&gt;，避免账号再次出现问题&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;details class=&#34;reading-note&#34;&gt;
+&lt;summary&gt;聊天群&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HN85nl4aoAAKp3l?format=jpg&amp;amp;name=large&#34;
 	
 	

@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Mon, 27 Jul 2026 17:35:53 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 29 Jul 2026 21:21:55 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>归档</title>
         <link>https://luoqian29.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0800</pubDate>
@@ -37,21 +37,53 @@
         
         <guid>https://luoqian29.github.io/about/</guid>
         <description>&lt;style&gt;
-    /* 针对当前页面生效：让标题和副标题居中 */
-    .article-details .article-title,
-    .main-article .article-details .article-subtitle {
+    /*
+     * About 页专属标题样式，仅在本篇页面生效。
+     * 修改标题大小时，分别调整下面的桌面端和移动端 font-size。
+     */
+    .main-article .article-details {
+        width: 100%;
+        box-sizing: border-box;
+        align-items: center;
         text-align: center;
     }
-    
-    /* 单独将主标题的字体放大并赋予果味质感 */
+
+    .main-article .article-details .article-title-wrapper {
+        width: 100%;
+    }
+
     .main-article .article-details .article-title {
-        font-size: 5.0rem !important;
-        font-weight: 800;
-        letter-spacing: -2px;
+        display: block;
+        margin: 4px 0 12px;
+        font-family:
+            -apple-system,
+            BlinkMacSystemFont,
+            &#34;SF Pro Display&#34;,
+            &#34;PingFang SC&#34;,
+            &#34;Microsoft YaHei&#34;,
+            sans-serif;
+        font-size: clamp(3rem, 4vw, 4.6rem); /* 桌面端标题大小 */
+        font-weight: 780;
+        letter-spacing: -0.045em;
+        line-height: 1.08;
+        text-align: center;
+    }
+
+    .main-article .article-details .article-title a {
+        color: var(--card-text-color-main);
+        word-break: keep-all;
+    }
+
+    @media (max-width: 768px) {
+        .main-article .article-details .article-title {
+            margin-bottom: 8px;
+            font-size: clamp(2.8rem, 9vw, 3.6rem); /* 移动端标题大小 */
+        }
     }
 &lt;/style&gt;
-&lt;div class=&#34;mac-box&#34;&gt;
-&lt;h2 id=&#34;博客时间线&#34;&gt;博客时间线
+&lt;div class=&#34;reading-layout&#34;&gt;
+&lt;section class=&#34;reading-section&#34;&gt;
+    &lt;h2 id=&#34;博客时间线&#34;&gt;博客时间线
 &lt;/h2&gt;&lt;div class=&#34;mac-timeline&#34;&gt;
 &lt;div class=&#34;mac-timeline-item&#34;&gt;
     &lt;div class=&#34;mac-timeline-date&#34;&gt;2026 &amp;amp; 未来&lt;/div&gt;
@@ -90,30 +122,36 @@
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mac-box&#34;&gt;
-&lt;h2 id=&#34;关于资源与网盘&#34;&gt;关于资源与网盘
+&lt;/section&gt;
+&lt;section class=&#34;reading-section&#34;&gt;
+    &lt;h2 id=&#34;关于资源与网盘&#34;&gt;关于资源与网盘
 &lt;/h2&gt;&lt;p&gt;博客里的游戏资源本体，基本源自作者官网、Patreon、Itch 或 F95。海外网盘（如 Gofile、Vikingfile、Mega 等）不会有国内网盘那种恶心的“会员限速”，下载速度完全取决于你的&lt;strong&gt;魔法&lt;/strong&gt;质量和本地带宽（好的梯子跑到 20MB/s 也很正常）。&lt;/p&gt;
 &lt;p&gt;至于我自己上传得 &lt;strong&gt;汉化补丁&lt;/strong&gt; 和 &lt;strong&gt;Mod&lt;/strong&gt;，一般会上传到 GoFile 和 Pixeldrain 作为双重保障：&lt;/p&gt;
-&lt;div class=&#34;mac-box&#34;&gt;
-    &lt;h3 id=&#34;gofile&#34;&gt;GoFile
-&lt;/h3&gt;&lt;p&gt;部分地区（如广东）不需要科学上网就能访问。但它的机制是 7天内没人下载就会自动失效（并非资源被举报）。&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mac-box&#34;&gt;
-    &lt;h3 id=&#34;pixeldrain&#34;&gt;Pixeldrain
-&lt;/h3&gt;&lt;p&gt;比较稳定，但百分百需要魔法。它是只要有两个月内有人下载，文件就不会失效。基本除了官网崩掉，资源都应该在的。&lt;/p&gt;
-&lt;/div&gt;
-&lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;为什么不用 QQ群文件、百度网盘或迅雷？&lt;/summary&gt;
+&lt;details class=&#34;reading-note&#34;&gt;
+&lt;summary&gt;GoFile&lt;/summary&gt;
+&lt;p&gt;部分地区（如广东）不需要科学上网就能访问。但它的机制是 7天内没人下载就会自动失效（并非资源被举报）。&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;reading-note&#34;&gt;
+&lt;summary&gt;Pixeldrain&lt;/summary&gt;
+&lt;p&gt;比较稳定，但百分百需要魔法。它是只要有两个月内有人下载，文件就不会失效。基本除了官网崩掉，资源都应该在的。&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;reading-note&#34;&gt;
+&lt;summary&gt;为什么不用 QQ 群文件、百度网盘或迅雷？&lt;/summary&gt;
 &lt;p&gt;一是因为我本身没有资源本体，二是因为国内审核太严，太麻烦了。用国内盘还得搞什么多次压缩、解压，乱七八糟的我不会弄，也没那闲工夫。&lt;/p&gt;
 &lt;/details&gt;
-&lt;p&gt;毕竟上面也说了，我只是简简单单为了帮助一些水友，不是“为爱发电”，不可能事事都喂到你嘴里。能用就用，用不了就算了，我也不强求，不靠这个满虚荣心。你有需要我就给，不需要就算了，就这么简单。大家看自己的需求吧。&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mac-box&#34;&gt;
-&lt;h2 id=&#34;关于订阅制&#34;&gt;关于订阅制
+&lt;aside class=&#34;reading-notice&#34; role=&#34;note&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;我只是简简单单为了帮助一些水友，不是“为爱发电”，不可能事事都喂到你嘴里。&lt;/li&gt;
+&lt;li&gt;能用就用，用不了就算了；有需要我就给，不需要就算了，大家按自己的需求选择。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+&lt;/section&gt;
+&lt;section class=&#34;reading-section&#34;&gt;
+    &lt;h2 id=&#34;关于订阅制&#34;&gt;关于订阅制
 &lt;/h2&gt;&lt;p&gt;那不加订阅制之后，博客有没有收益啊？&lt;/p&gt;
 &lt;p&gt;其实收益非常少。以前不加订阅制寥寥无几，一个月就三四十块钱赞助。加了之后，最高一个月拿到过 700 多，最少也有 300 多，确实挺杯水车薪。除了大家投喂的收益，还有一个魔法推广佣金，一般也有几百块。&lt;/p&gt;
 &lt;p&gt;总之就是这样子吧，运营博客也没收多少费用，一个月跑 AI 大概就百来块，毕竟我自己也要玩一点。加上部署在 GitHub 上，费用也是挺少的，就当交点网费和电费而已~&lt;/p&gt;
+&lt;/section&gt;
 &lt;/div&gt;
 </description>
         </item>

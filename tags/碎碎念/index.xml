@@ -7,13 +7,13 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>一落归谦</copyright>
-        <lastBuildDate>Wed, 29 Jul 2026 01:19:14 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 29 Jul 2026 21:21:55 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>博文更新计划与路线图</title>
         <link>https://luoqian29.github.io/p/update/</link>
         <pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/update/</guid>
-        <description>&lt;img src="https://pbs.twimg.com/media/HNJbuBhbsAA0iq-?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;div class=&#34;mac-box&#34;&gt;
+        <description>&lt;img src="https://pbs.twimg.com/media/HNJbuBhbsAA0iq-?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;div class=&#34;reading-layout&#34;&gt;
 &lt;h1 id=&#34;博文更新计划与路线图&#34;&gt;博文更新计划与路线图
 &lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HNJbt_3aEAAT55S?format=jpg&amp;amp;name=large&#34;
 	
@@ -25,13 +25,12 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mac-box-outer&#34;&gt;
 &lt;h2 id=&#34;引言&#34;&gt;引言
-&lt;/h2&gt;&lt;p&gt;闲话少叙，简单说一下最近以及接下来的更新安排。距离 10 月初（也就是国庆），刚刚好还有&lt;strong&gt;两个半月&lt;/strong&gt;。这段时间内我会把剩下的 AI 意译补丁全部做完，估计还有四五十个。&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mac-box-outer&#34;&gt;
-&lt;h2 id=&#34;博客路线图-roadmap&#34;&gt;博客路线图 (Roadmap)
+&lt;/h2&gt;&lt;details class=&#34;reading-note&#34;&gt;
+&lt;summary&gt;近期安排&lt;/summary&gt;
+&lt;p&gt;闲话少叙，简单说一下最近以及接下来的更新安排。距离 10 月初（也就是国庆），刚刚好还有&lt;strong&gt;两个半月&lt;/strong&gt;。这段时间内我会把剩下的 AI 意译补丁全部做完，估计还有四五十个。&lt;/p&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;博客路线图roadmap&#34;&gt;博客路线图（Roadmap）
 &lt;/h2&gt;&lt;div class=&#34;mac-timeline&#34;&gt;
 &lt;div class=&#34;mac-timeline-item&#34;&gt;
     &lt;div class=&#34;mac-timeline-date&#34;&gt;补丁制作计划&lt;/div&gt;
@@ -83,17 +82,36 @@
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mac-box-outer&#34;&gt;
-&lt;h2 id=&#34;关于联系方式-新增绿泡泡&#34;&gt;关于联系方式 (新增绿泡泡)
+&lt;h2 id=&#34;关于联系方式新增绿泡泡&#34;&gt;关于联系方式（新增绿泡泡）
 &lt;/h2&gt;&lt;p&gt;考虑到一部分水友没有 GitHub 或 Telegram，这里提供一个绿泡泡联系方式。我不怎么玩企鹅（QQ），主要是企鹅信息不通知，绿泡泡提醒比较及时。毕竟我的小破站已经进小黑屋了，音符上又不能发图片，大家反馈 bug 或推荐游戏发截图，绿泡泡会方便些。&lt;/p&gt;
-&lt;h3 id=&#34;微信联系&#34;&gt;微信联系
-&lt;/h3&gt;&lt;div class=&#34;mac-box&#34;&gt;
-    &lt;p&gt;&lt;strong&gt;微信号&lt;/strong&gt;：&lt;code&gt;luoqian292929&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;：加好友后直接发问题截图即可，但&lt;strong&gt;千万别发奇奇怪怪的内容（比如色图）&lt;/strong&gt;，不然号又被抬走了！我之前的号就是这么没的，现在只能看不能发，心累。&lt;/p&gt;
+&lt;div class=&#34;mac-list-container reading-help&#34;&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;微信号&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;聊天群&lt;/summary&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;&lt;code&gt;luoqian292929&lt;/code&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;反馈方式&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;加好友后直接发送问题截图，方便定位 Bug 或查看游戏推荐&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-item&#34;&gt;
+&lt;div class=&#34;mac-list-left&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;mac-list-key&#34;&gt;安全提醒&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mac-list-right&#34;&gt;
+&lt;span class=&#34;mac-list-value&#34;&gt;&lt;strong&gt;请勿发送色图或其他奇怪内容&lt;/strong&gt;，避免账号再次出现问题&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;details class=&#34;reading-note&#34;&gt;
+&lt;summary&gt;聊天群&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HN85nl4aoAAKp3l?format=jpg&amp;amp;name=large&#34;
 	
 	
@@ -114,7 +132,7 @@
         <pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/other/</guid>
-        <description>&lt;img src="https://pbs.twimg.com/media/HMvYNbGaMAADuqC?format=jpg&amp;name=4096x4096" alt="Featured image of post 且玩且珍惜" /&gt;&lt;div class=&#34;mac-box&#34;&gt;
+        <description>&lt;img src="https://pbs.twimg.com/media/HMvYNbGaMAADuqC?format=jpg&amp;name=4096x4096" alt="Featured image of post 且玩且珍惜" /&gt;&lt;div class=&#34;reading-layout&#34;&gt;
 &lt;h1 id=&#34;且玩且珍惜&#34;&gt;且玩且珍惜
 &lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMvYNa8bwAANkTw?format=jpg&amp;amp;name=large&#34;
 	
@@ -126,13 +144,12 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mac-box-outer&#34;&gt;
 &lt;h2 id=&#34;引言&#34;&gt;引言
-&lt;/h2&gt;&lt;p&gt;先说结论吧：&lt;strong&gt;且玩且珍惜&lt;/strong&gt;。&lt;/p&gt;
+&lt;/h2&gt;&lt;details class=&#34;reading-note&#34;&gt;
+&lt;summary&gt;先说结论&lt;/summary&gt;
+&lt;p&gt;先说结论吧：&lt;strong&gt;且玩且珍惜&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;按照目前的情况来看，大概到了今年 &lt;strong&gt;10月1日国庆节之后&lt;/strong&gt;，博客的更新频率会明显降低，正式进入一个&lt;strong&gt;半停更状态&lt;/strong&gt;。为什么会这样？主要还是因为时间和精力实在难以支撑了。&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mac-box-outer&#34;&gt;
+&lt;/details&gt;
 &lt;h2 id=&#34;心路历程与停更原因&#34;&gt;心路历程与停更原因
 &lt;/h2&gt;&lt;div class=&#34;mac-timeline&#34;&gt;
 &lt;div class=&#34;mac-timeline-item&#34;&gt;
@@ -190,11 +207,13 @@
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mac-box-outer&#34;&gt;
 &lt;h2 id=&#34;结语&#34;&gt;结语
-&lt;/h2&gt;&lt;p&gt;一路走下来，博客从最初只有七八个补丁，到现在积累了上百个，其实已经远超我当初的想象了。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后，感谢一直支持我、愿意使用补丁、积极反馈问题和提出意见的真实水友们。无论如何，且玩且珍惜，感谢大家的一路陪伴！&lt;/strong&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;aside class=&#34;reading-notice&#34; role=&#34;note&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;一路走下来，博客从最初只有七八个补丁，到现在积累了上百个，其实已经远超我当初的想象了。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;最后，感谢一直支持我、愿意使用补丁、积极反馈问题和提出意见的真实水友们。无论如何，且玩且珍惜，感谢大家的一路陪伴！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
 &lt;/div&gt;
 </description>
         </item>
@@ -204,7 +223,8 @@
         <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
         
         <guid>https://luoqian29.github.io/p/support/</guid>
-        <description>&lt;img src="https://pbs.twimg.com/media/HMHZkWKacAAUCd6?format=jpg&amp;name=4096x4096" alt="Featured image of post 爱发电爱赞助投喂感谢页" /&gt;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHZkWRbEAAdYS8?format=jpg&amp;amp;name=large&#34;
+        <description>&lt;img src="https://pbs.twimg.com/media/HMHZkWKacAAUCd6?format=jpg&amp;name=4096x4096" alt="Featured image of post 爱发电爱赞助投喂感谢页" /&gt;&lt;div class=&#34;reading-layout native-details native-link-buttons&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHZkWRbEAAdYS8?format=jpg&amp;amp;name=large&#34;
 	
 	
 	
@@ -249,7 +269,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;2026年6月&lt;/summary&gt;
+&lt;summary&gt;2026年6月&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHhFE_a4AA4zFp?format=jpg&amp;amp;name=4096x4096&#34;
 	
 	
@@ -262,7 +282,7 @@
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;2026年5月&lt;/summary&gt;
+&lt;summary&gt;2026年5月&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHhFFCbEAAdl4A?format=jpg&amp;amp;name=4096x4096&#34;
 	
 	
@@ -275,7 +295,7 @@
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;2026年4月&lt;/summary&gt;
+&lt;summary&gt;2026年4月&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHhFE9bYAAIz-E?format=jpg&amp;amp;name=4096x4096&#34;
 	
 	
@@ -288,7 +308,7 @@
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;2026年3月&lt;/summary&gt;
+&lt;summary&gt;2026年3月&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHhFFAaAAA5Ona?format=jpg&amp;amp;name=4096x4096&#34;
 	
 	
@@ -301,7 +321,7 @@
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;2026年2月&lt;/summary&gt;
+&lt;summary&gt;2026年2月&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHhKIbbcAAiTU0?format=jpg&amp;amp;name=4096x4096&#34;
 	
 	
@@ -314,7 +334,7 @@
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;2026年1月&lt;/summary&gt;
+&lt;summary&gt;2026年1月&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHhKIPboAAMrLh?format=jpg&amp;amp;name=4096x4096&#34;
 	
 	
@@ -327,7 +347,7 @@
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;2025年12月&lt;/summary&gt;
+&lt;summary&gt;2025年12月&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHhKIWagAA2hiZ?format=jpg&amp;amp;name=4096x4096&#34;
 	
 	
@@ -340,7 +360,7 @@
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;2025年11月&lt;/summary&gt;
+&lt;summary&gt;2025年11月&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHhKIka0AER0ss?format=jpg&amp;amp;name=4096x4096&#34;
 	
 	
@@ -353,7 +373,7 @@
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;2025年10月&lt;/summary&gt;
+&lt;summary&gt;2025年10月&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHhNi5aAAA9rvs?format=jpg&amp;amp;name=4096x4096&#34;
 	
 	
@@ -366,7 +386,7 @@
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;2025年9月&lt;/summary&gt;
+&lt;summary&gt;2025年9月&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHhNpcaQAA_gVQ?format=jpg&amp;amp;name=4096x4096&#34;
 	
 	
@@ -379,7 +399,7 @@
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;2025年8月&lt;/summary&gt;
+&lt;summary&gt;2025年8月&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHhNjdbcAA4O1w?format=jpg&amp;amp;name=4096x4096&#34;
 	
 	
@@ -392,7 +412,7 @@
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;2025年7月&lt;/summary&gt;
+&lt;summary&gt;2025年7月&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHhNi8bwAA9_Dv?format=jpg&amp;amp;name=4096x4096&#34;
 	
 	
@@ -405,7 +425,7 @@
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;2025年6月&lt;/summary&gt;
+&lt;summary&gt;2025年6月&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHhQpVaQAAmy0g?format=jpg&amp;amp;name=4096x4096&#34;
 	
 	
@@ -418,7 +438,7 @@
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;2025年5月&lt;/summary&gt;
+&lt;summary&gt;2025年5月&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHhQpLbcAA2P-t?format=jpg&amp;amp;name=4096x4096&#34;
 	
 	
@@ -431,7 +451,7 @@
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;2025年4月&lt;/summary&gt;
+&lt;summary&gt;2025年4月&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHhQpKaoAAcOAw?format=jpg&amp;amp;name=4096x4096&#34;
 	
 	
@@ -444,7 +464,7 @@
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;2025年3月&lt;/summary&gt;
+&lt;summary&gt;2025年3月&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHhQpRbMAAtjJt?format=jpg&amp;amp;name=4096x4096&#34;
 	
 	
@@ -457,7 +477,7 @@
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;2025年2月&lt;/summary&gt;
+&lt;summary&gt;2025年2月&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHhUCpaYAAIk9E?format=jpg&amp;amp;name=4096x4096&#34;
 	
 	
@@ -470,7 +490,7 @@
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;2025年1月&lt;/summary&gt;
+&lt;summary&gt;2025年1月&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHhUCxbMAEuCPd?format=jpg&amp;amp;name=4096x4096&#34;
 	
 	
@@ -483,7 +503,7 @@
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary style=&#34;color:#c81e1e;font-weight:600;&#34;&gt;2024年12月&lt;/summary&gt;
+&lt;summary&gt;2024年12月&lt;/summary&gt;
 &lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/HMHhUCwa0AAOl_P?format=jpg&amp;amp;name=4096x4096&#34;
 	
 	
@@ -545,6 +565,7 @@
 &lt;p&gt;行，我推掉官中，并且从那之后，关于官中的事我再也没碰过。
 但有一句话我至今记得，那些串子说：&lt;strong&gt;“你不翻，有的是人翻。”&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;我只能说，牛逼。你们可以不尊重我一个整活的 AI 汉化，但至少得尊重你们圈内认真花时间翻译的大佬吧。对着别人的心血来一句&lt;strong&gt;你不翻有的是人翻&lt;/strong&gt;，我只能说牛逼！&lt;/p&gt;
+&lt;/div&gt;
 </description>
         </item>
         

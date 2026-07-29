@@ -6,11 +6,11 @@
 
 <link rel='canonical' href='https://luoqian29.github.io/categories/%E8%BF%9E%E8%BD%BD%E4%B8%AD/'>
 
-<link rel="stylesheet" href="/scss/style.min.8c2dc2b8f919604c453ee9a62da4b29715d4d7046ab41e192f3493289cb724d7.css"><meta property='og:title' content="Category: 连载中 - 一落归谦">
+<link rel="stylesheet" href="/scss/style.min.c65ea6462b5ea14d543ae8d05a00f4b13be56cd896b190e1056dbb594e5c2863.css"><meta property='og:title' content="Category: 连载中 - 一落归谦">
 <meta property='og:description' content="Running with the Wind.">
 <meta property='og:url' content='https://luoqian29.github.io/categories/%E8%BF%9E%E8%BD%BD%E4%B8%AD/'>
 <meta property='og:site_name' content='一落归谦'>
-<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2026-07-29T01:19:14&#43;08:00 '/>
+<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2026-07-29T21:28:56&#43;08:00 '/>
 <meta name="twitter:title" content="Category: 连载中 - 一落归谦">
 <meta name="twitter:description" content="Running with the Wind."><link rel="alternate" type="application/rss&#43;xml" href="https://luoqian29.github.io/categories/%E8%BF%9E%E8%BD%BD%E4%B8%AD/index.xml">
     <link rel="shortcut icon" href="/favicon.ico" />
@@ -1581,18 +1581,11 @@
         共发表
         302
         篇文章 · 总计
-        592.90k
+        401.63k
         字
     </div>
 
     
-    <div>
-        <span id="busuanzi_container_site_pv">
-            本博客总访问量
-            <span id="busuanzi_value_site_pv"></span>
-            次
-        </span>
-    </div>
 </section>
 
     <section class="powerby">
@@ -1608,7 +1601,7 @@
                 src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
                 
                 >
-            </script><script type="text/javascript" src="/ts/main.840177af84ae5eae4ba404b5163cf8f61d51f8d787bb9a0b8f29108443f9495e.js" defer></script><script type="text/javascript" src="/ts/custom.4d90b7590d1855976b21dadc3646207b6b603302ebede932d087aeeb87bcb374.js" defer></script>
+            </script><script type="text/javascript" src="/ts/main.bcb6ff4871e2a290f8d65c476c9dc2f17be8321bce011ed1c1b7ab8bc65ddd56.js" defer></script><script type="text/javascript" src="/ts/custom.4d90b7590d1855976b21dadc3646207b6b603302ebede932d087aeeb87bcb374.js" defer></script>
 <script>
     (function () {
         const customFont = document.createElement('link');
@@ -1619,27 +1612,6 @@
 
         document.head.appendChild(customFont);
     }());
-</script>
-
-
-<script defer src="https://cn.vercount.one/js"></script>
-
-<script>
-    function showHideView() {
-        
-        let viewCounts = document.querySelectorAll("#viewCount");
-        if (viewCounts) {
-            
-            let article =  document.querySelector(".article-page");
-            if (!article) {
-                viewCounts.forEach(ele => {
-                    ele.style.display = 'none';
-                });
-            }
-        }
-    }
-    
-    showHideView();
 </script>
 
 
@@ -1789,23 +1761,27 @@ document.addEventListener('DOMContentLoaded', () => {
 
 <style>
 .mac-gallery-carousel {
+    --mac-gallery-radius: 16px;
     position: relative;
     width: 100%;
     box-sizing: border-box;
     aspect-ratio: 16 / 9;
-    overflow: hidden;
+    overflow: hidden !important;
+    padding: 0 !important;
     margin: 14px 0 6px;
     border: 0;
-    border-radius: 16px;
+    border-radius: var(--mac-gallery-radius);
     background: rgba(118, 118, 128, 0.07);
     box-shadow: 0 7px 22px rgba(0, 0, 0, 0.075);
     isolation: isolate;
+    clip-path: inset(0 round var(--mac-gallery-radius));
     outline: none;
     touch-action: pan-y;
-    transition: height 0.34s cubic-bezier(0.22, 1, 0.36, 1);
+    transition: height 0.46s cubic-bezier(0.22, 1, 0.36, 1);
 }
 .article-content details.mac-gallery-details {
     overflow: visible !important;
+    padding: 0 !important;
     border: 0 !important;
     background: transparent !important;
     box-shadow: none !important;
@@ -1828,15 +1804,17 @@ document.addEventListener('DOMContentLoaded', () => {
     margin: 0 !important;
     padding: 0 !important;
     border: 0 !important;
-    border-radius: 16px !important;
+    border-radius: var(--mac-gallery-radius) !important;
 }
 .mac-gallery-track {
     display: flex;
     width: 100%;
     height: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
     will-change: transform;
     backface-visibility: hidden;
-    transition: transform 0.36s cubic-bezier(0.22, 1, 0.36, 1);
+    transition: transform 0.52s cubic-bezier(0.22, 1, 0.36, 1);
 }
 .mac-gallery-slide {
     flex: 0 0 100%;
@@ -1846,6 +1824,11 @@ document.addEventListener('DOMContentLoaded', () => {
     box-sizing: border-box;
     position: relative;
     display: flex;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+    background: transparent !important;
     align-items: center;
     justify-content: center;
     overflow: hidden;
@@ -1867,19 +1850,28 @@ document.addEventListener('DOMContentLoaded', () => {
     filter: blur(30px) brightness(0.62) saturate(0.98);
 }
 .mac-gallery-slide.is-fill .mac-gallery-slide-bg {
-    opacity: 0;
-    visibility: hidden;
+    inset: 0;
+    opacity: 1;
+    visibility: visible;
+    filter: none;
+    transform: none;
 }
 .mac-gallery-slide-bg[hidden] {
     display: none !important;
 }
-.mac-gallery-slide figure,
-.mac-gallery-slide figure > a {
+.mac-gallery-slide > img,
+.mac-gallery-slide > a,
+.mac-gallery-slide > figure,
+.mac-gallery-slide > figure > a {
     position: relative;
     z-index: 1;
     display: flex;
+    flex: 0 0 100%;
     width: 100%;
     height: 100%;
+    min-width: 0;
+    min-height: 0;
+    box-sizing: border-box;
     max-width: none !important;
     margin: 0 !important;
     padding: 0 !important;
@@ -1899,6 +1891,9 @@ document.addEventListener('DOMContentLoaded', () => {
     z-index: 1;
     width: 100%;
     height: 100%;
+    min-width: 0;
+    min-height: 0;
+    box-sizing: border-box;
     max-width: 100%;
     max-height: 100%;
     display: block;
@@ -1914,7 +1909,18 @@ document.addEventListener('DOMContentLoaded', () => {
 }
 .mac-gallery-slide.is-fill img,
 .article-content .mac-gallery-slide.is-fill img {
+    width: 100% !important;
+    height: 100% !important;
     object-fit: cover !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+}
+ 
+.mac-gallery-slide.is-fill > img,
+.mac-gallery-slide.is-fill > a,
+.mac-gallery-slide.is-fill > figure {
+    opacity: 0 !important;
+    pointer-events: none !important;
 }
 .mac-gallery-slide.is-ambient img,
 .article-content .mac-gallery-slide.is-ambient img {
@@ -1959,11 +1965,11 @@ document.addEventListener('DOMContentLoaded', () => {
     border-radius: 50%;
     background: rgba(255, 255, 255, 0.48);
     cursor: pointer;
-    transition: background-color 0.18s ease, transform 0.18s ease;
+    transition: background-color 0.26s ease, opacity 0.26s ease, transform 0.26s cubic-bezier(0.22, 1, 0.36, 1);
 }
 .mac-gallery-dot.active {
     background: #fff;
-    transform: scale(1.28);
+    transform: scale(1.18);
 }
 .mac-gallery-dots.is-windowed .mac-gallery-dot.is-edge:not(.active) {
     opacity: 0.7;
@@ -1982,11 +1988,35 @@ document.addEventListener('DOMContentLoaded', () => {
     color: #fff;
     font-size: 12px;
     text-align: center;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transform: translateY(-4px) scale(0.96);
+    transition: opacity 0.2s ease, transform 0.28s cubic-bezier(0.22, 1, 0.36, 1), visibility 0s linear 0.28s;
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
 }
+.mac-gallery-carousel:is(:hover, :focus, :focus-within) .mac-gallery-counter,
+.mac-gallery-carousel.is-counter-visible .mac-gallery-counter {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0) scale(1);
+    transition-delay: 0s;
+}
+@media (prefers-reduced-motion: reduce) {
+    .mac-gallery-carousel,
+    .mac-gallery-track,
+    .mac-gallery-dot,
+    .mac-gallery-counter {
+        transition-duration: 0.01ms !important;
+    }
+}
 .mac-lightbox[hidden] {
     display: none !important;
+}
+ 
+html {
+    scrollbar-gutter: stable;
 }
 .mac-lightbox {
     position: fixed;
@@ -2005,8 +2035,16 @@ document.addEventListener('DOMContentLoaded', () => {
     align-items: center;
     justify-content: center;
     overflow: hidden;
+    opacity: 0;
+    visibility: hidden;
     backdrop-filter: blur(20px) saturate(115%);
     -webkit-backdrop-filter: blur(20px) saturate(115%);
+    transition: opacity 0.28s ease, visibility 0s linear 0.38s;
+}
+.mac-lightbox.is-visible {
+    opacity: 1;
+    visibility: visible;
+    transition-delay: 0s;
 }
 .mac-lightbox-frame {
     position: relative;
@@ -2018,6 +2056,13 @@ document.addEventListener('DOMContentLoaded', () => {
     box-sizing: border-box;
     align-items: center;
     justify-content: center;
+    opacity: 0;
+    transform: translateY(12px) scale(0.976);
+    transition: opacity 0.24s ease, transform 0.46s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.mac-lightbox.is-visible .mac-lightbox-frame {
+    opacity: 1;
+    transform: translateY(0) scale(1);
 }
 .mac-lightbox-image {
     display: block;
@@ -2031,7 +2076,11 @@ document.addEventListener('DOMContentLoaded', () => {
     border-radius: 14px;
     box-shadow: 0 24px 72px rgba(0, 0, 0, 0.42);
     object-fit: contain !important;
-    transform: none !important;
+    transform: scale(0.985) !important;
+    transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.mac-lightbox.is-visible .mac-lightbox-image {
+    transform: scale(1) !important;
 }
 .mac-lightbox-close {
     position: absolute;
@@ -2040,15 +2089,19 @@ document.addEventListener('DOMContentLoaded', () => {
     width: 46px;
     height: 46px;
     padding: 0;
-    border: 1px solid rgba(255, 255, 255, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.28);
     border-radius: 50%;
-    background: rgba(30, 30, 34, 0.62);
+    background: rgba(255, 255, 255, 0.14);
     color: #fff;
-    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.24);
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 1;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.24), 0 8px 28px rgba(0, 0, 0, 0.2);
     place-items: center;
     cursor: pointer;
-    backdrop-filter: blur(14px);
-    -webkit-backdrop-filter: blur(14px);
+    backdrop-filter: blur(20px) saturate(140%);
+    -webkit-backdrop-filter: blur(20px) saturate(140%);
+    transition: background-color 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease, transform 0.24s cubic-bezier(0.22, 1, 0.36, 1);
 }
 .mac-lightbox-close {
     top: max(14px, env(safe-area-inset-top));
@@ -2061,20 +2114,43 @@ document.addEventListener('DOMContentLoaded', () => {
     transform: translateX(50%);
     padding: 6px 11px;
     border-radius: 999px;
-    background: rgba(30, 30, 34, 0.62);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    background: rgba(255, 255, 255, 0.13);
     color: #fff;
     font-size: 13px;
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.18);
+    backdrop-filter: blur(18px) saturate(130%);
+    -webkit-backdrop-filter: blur(18px) saturate(130%);
+}
+@media (hover: hover) and (pointer: fine) {
+    .mac-lightbox-close:hover {
+        border-color: rgba(255, 255, 255, 0.42);
+        background: rgba(255, 255, 255, 0.22);
+        box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.32), 0 10px 30px rgba(0, 0, 0, 0.24);
+        transform: translateY(-1px) scale(1.02);
+    }
+}
+.mac-lightbox-close:active {
+    transform: scale(0.97);
+}
+.mac-lightbox-close:focus-visible {
+    outline: 2px solid rgba(255, 255, 255, 0.86);
+    outline-offset: 3px;
 }
 html.mac-lightbox-open,
 body.mac-lightbox-open {
     overflow: hidden !important;
     overscroll-behavior: none;
 }
+@supports not (scrollbar-gutter: stable) {
+    body.mac-lightbox-open {
+        padding-inline-end: var(--mac-lightbox-scrollbar-width, 0px);
+    }
+}
 @media (max-width: 768px) {
     .mac-gallery-carousel {
-        border-radius: 13px;
+        --mac-gallery-radius: 13px;
+        border-radius: var(--mac-gallery-radius);
     }
     .article-content details.mac-gallery-details > .mac-gallery-carousel,
     .article-content details.mac-gallery-details .mac-gallery-carousel {
@@ -2110,7 +2186,11 @@ body.mac-lightbox-open {
 }
 @media (prefers-reduced-motion: reduce) {
     .mac-gallery-carousel,
-    .mac-gallery-track {
+    .mac-gallery-track,
+    .mac-lightbox,
+    .mac-lightbox-frame,
+    .mac-lightbox-image,
+    .mac-lightbox-close {
         transition: none;
     }
 }
@@ -2143,6 +2223,59 @@ document.addEventListener('DOMContentLoaded', () => {
     let lightboxItems = [];
     let lightboxIndex = 0;
     let lightboxReturnFocus = null;
+    let lightboxCloseTimer = 0;
+    let lightboxTocReleaseFrame = 0;
+    let lightboxTocScrollTop = null;
+
+    function freezeTocAutoFollow() {
+        window.cancelAnimationFrame(lightboxTocReleaseFrame);
+        lightboxTocReleaseFrame = 0;
+
+        const navigation = document.getElementById('TableOfContents');
+        lightboxTocScrollTop = navigation ? navigation.scrollTop : null;
+        document.documentElement.setAttribute('data-lightbox-toc-freeze', '');
+    }
+
+    function restoreTocScrollPosition() {
+        const navigation = document.getElementById('TableOfContents');
+
+        if (navigation && lightboxTocScrollTop !== null) {
+            navigation.scrollTop = lightboxTocScrollTop;
+        }
+
+        lightboxTocScrollTop = null;
+    }
+
+    function releaseTocAutoFollowAfterLayout() {
+        window.cancelAnimationFrame(lightboxTocReleaseFrame);
+        lightboxTocReleaseFrame = window.requestAnimationFrame(() => {
+            lightboxTocReleaseFrame = window.requestAnimationFrame(() => {
+                restoreTocScrollPosition();
+                document.documentElement.removeAttribute('data-lightbox-toc-freeze');
+                lightboxTocReleaseFrame = 0;
+            });
+        });
+    }
+
+    function lockPageForLightbox() {
+        const root = document.documentElement;
+        const scrollbarWidth = Math.max(0, window.innerWidth - root.clientWidth);
+
+        root.style.setProperty('--mac-lightbox-scrollbar-width', `${scrollbarWidth}px`);
+        root.classList.add('mac-lightbox-open');
+        document.body.classList.add('mac-lightbox-open');
+    }
+
+    function unlockPageAfterLightbox() {
+        const root = document.documentElement;
+
+        
+        restoreTocScrollPosition();
+        root.classList.remove('mac-lightbox-open');
+        document.body.classList.remove('mac-lightbox-open');
+        root.style.removeProperty('--mac-lightbox-scrollbar-width');
+        releaseTocAutoFollowAfterLayout();
+    }
 
     function paintLightbox() {
         const item = lightboxItems[lightboxIndex];
@@ -2155,24 +2288,37 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function openLightbox(items, index) {
+        window.clearTimeout(lightboxCloseTimer);
+        lightboxCloseTimer = 0;
+        lightbox.removeAttribute('data-closing');
+        lightbox.classList.remove('is-visible');
         lightboxItems = items;
         lightboxIndex = Math.max(0, Math.min(index, items.length - 1));
         lightboxReturnFocus = document.activeElement;
         paintLightbox();
         lightbox.hidden = false;
-        document.documentElement.classList.add('mac-lightbox-open');
-        document.body.classList.add('mac-lightbox-open');
+        freezeTocAutoFollow();
+        lockPageForLightbox();
+        requestAnimationFrame(() => {
+            lightbox.classList.add('is-visible');
+        });
         lightboxClose.focus({ preventScroll: true });
     }
 
     function closeLightbox() {
-        lightbox.hidden = true;
-        lightboxImage.removeAttribute('src');
-        document.documentElement.classList.remove('mac-lightbox-open');
-        document.body.classList.remove('mac-lightbox-open');
-        if (lightboxReturnFocus && lightboxReturnFocus.isConnected) {
-            lightboxReturnFocus.focus({ preventScroll: true });
-        }
+        if (lightbox.hidden || lightbox.hasAttribute('data-closing')) return;
+        lightbox.setAttribute('data-closing', '');
+        lightbox.classList.remove('is-visible');
+        lightboxCloseTimer = window.setTimeout(() => {
+            lightbox.hidden = true;
+            lightboxImage.removeAttribute('src');
+            unlockPageAfterLightbox();
+            lightbox.removeAttribute('data-closing');
+            lightboxCloseTimer = 0;
+            if (lightboxReturnFocus && lightboxReturnFocus.isConnected) {
+                lightboxReturnFocus.focus({ preventScroll: true });
+            }
+        }, 390);
     }
 
     lightboxClose.addEventListener('click', closeLightbox);
@@ -2237,6 +2383,15 @@ document.addEventListener('DOMContentLoaded', () => {
         counter.className = 'mac-gallery-counter';
         counter.setAttribute('aria-live', 'polite');
 
+        let counterTimer = 0;
+        function revealCounterForTouch() {
+            carousel.classList.add('is-counter-visible');
+            window.clearTimeout(counterTimer);
+            counterTimer = window.setTimeout(() => {
+                carousel.classList.remove('is-counter-visible');
+            }, 1600);
+        }
+
         let current = 0;
         const total = images.length;
         const visibleDotCount = Math.min(total, 9);
@@ -2266,15 +2421,19 @@ document.addEventListener('DOMContentLoaded', () => {
             const slide = slides[index];
             if (!image || !slide || !image.naturalWidth || !image.naturalHeight) return;
             const ratio = image.naturalWidth / image.naturalHeight;
-            slide.classList.toggle('is-fill', ratio >= 1.08);
-            slide.classList.toggle('is-ambient', ratio < 1.08);
+            const portrait = ratio < 0.92;
+            slide.classList.toggle('is-fill', !portrait);
+            slide.classList.toggle('is-ambient', portrait);
         }
 
         images.forEach((image, index) => {
             if (image.complete && image.naturalWidth) {
                 classifySlide(index);
             } else {
-                image.addEventListener('load', () => classifySlide(index), { once: true });
+                image.addEventListener('load', () => {
+                    classifySlide(index);
+                    if (index === current) syncCarouselHeight(true);
+                }, { once: true });
             }
         });
 
@@ -2303,16 +2462,16 @@ document.addEventListener('DOMContentLoaded', () => {
                     )
                 );
                 const naturalDisplayHeight = width / ratio;
-                const fillFrame = ratio >= 1.08;
+                const portrait = ratio < 0.92;
                 const targetHeight = Math.round(
                     Math.min(Math.max(naturalDisplayHeight, minimumHeight), maximumHeight)
                 );
 
                 classifySlide(current);
-                carousel.classList.toggle('is-portrait', ratio < 0.9);
+                carousel.classList.toggle('is-portrait', portrait);
                 carousel.classList.toggle(
                     'is-height-capped',
-                    !fillFrame && (
+                    portrait && (
                         naturalDisplayHeight > maximumHeight + 1
                             || naturalDisplayHeight < minimumHeight - 1
                     )
@@ -2442,6 +2601,10 @@ document.addEventListener('DOMContentLoaded', () => {
             carousel.removeAttribute('data-click-zone');
         }, { passive: true });
 
+        carousel.addEventListener('pointerdown', event => {
+            if (event.pointerType === 'touch') revealCounterForTouch();
+        }, { passive: true });
+
         let startX = 0;
         carousel.addEventListener('touchstart', event => {
             startX = event.touches[0].clientX;
@@ -2503,7 +2666,10 @@ document.addEventListener('DOMContentLoaded', () => {
     }, 0);
 
     document.addEventListener('click', event => {
-        const img = event.target.closest('.article-content img');
+        const rewardTrigger = event.target.closest('.reward-qr-zoom');
+        const img = rewardTrigger
+            ? rewardTrigger.querySelector('img')
+            : event.target.closest('.article-content img');
         if (!img || img.closest('.mac-gallery-carousel')) return;
         const link = img.closest('a');
         if (link) {
