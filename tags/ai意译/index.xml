@@ -368,7 +368,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -383,7 +383,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -412,7 +412,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -494,6 +494,7 @@ He&amp;rsquo;ll come to realize that his world is not as it seems, and only upon
 Meanwhile, he&amp;rsquo;ll have some fun.​&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
+&lt;hr&gt;
 &lt;h2 id="details"&gt;Details
 &lt;/h2&gt;&lt;details class="reading-note reading-game-info"&gt;
 &lt;summary&gt;游戏信息&lt;/summary&gt;
@@ -548,6 +549,7 @@ Meanwhile, he&amp;rsquo;ll have some fun.​&lt;/li&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/details&gt;
+&lt;hr&gt;
 &lt;h2 id="developer入正地址"&gt;Developer（入正地址）
 &lt;/h2&gt;&lt;p&gt;&lt;a class="link" href="https://www.patreon.com/cw/GoldenGob/posts" target="_blank" rel="noopener"
 &gt;Patreon&lt;/a&gt;
@@ -561,6 +563,7 @@ Meanwhile, he&amp;rsquo;ll have some fun.​&lt;/li&gt;
 &gt;Subscribestar&lt;/a&gt;
 &lt;a class="link" href="https://discord.com/invite/qenaWYAaUE" target="_blank" rel="noopener"
 &gt;Discord&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id="落谦酱便利贴"&gt;落谦酱便利贴
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;PS&lt;/summary&gt;
@@ -628,7 +631,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁---069-beta---patreon"&gt;DOWNLOAD（汉化补丁 - 0.69 Beta - Patreon）
+&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -713,110 +716,6 @@ alt="预览图"
 &lt;p&gt;&lt;a class="link" href="https://gofile.io/d/BI4j0O" target="_blank" rel="noopener"
 &gt;GOFILE&lt;/a&gt;
 &lt;a class="link" href="https://pixeldrain.com/u/vBBwwQqe" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;英文原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
-&lt;li&gt;然后将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件移动到以下路径：&lt;/li&gt;
-&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
-&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;我的iPhone/Spark/games/TheWantsOfSummer/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;h2 id="download汉化补丁---069f-beta"&gt;DOWNLOAD（汉化补丁 - 0.69F Beta）
-&lt;/h2&gt;&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/e2WXkf" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://datanodes.to/26etbcn7n9zl/The_Wants_Of_Summer_0.69BetaF-pc.zip" target="_blank" rel="noopener"
-&gt;DATANODES&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/27LaGv" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/GrtB6UjR" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件放入&lt;strong&gt;game&lt;/strong&gt;文件夹中&lt;/li&gt;
-&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/e2WXkf" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://datanodes.to/26etbcn7n9zl/The_Wants_Of_Summer_0.69BetaF-pc.zip" target="_blank" rel="noopener"
-&gt;DATANODES&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/27LaGv" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/GrtB6UjR" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;主体 APK：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/c5X7io" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/o6FviYcc" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;、&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
-&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
-&lt;li&gt;然后解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;将英文原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;和&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件一起移动到以下路径：&lt;/li&gt;
-&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
-&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Documents/RenPy_Saves/com.luoqian.TheWantsOfSummer/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
-&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/e2WXkf" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://datanodes.to/26etbcn7n9zl/The_Wants_Of_Summer_0.69BetaF-pc.zip" target="_blank" rel="noopener"
-&gt;DATANODES&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/27LaGv" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/GrtB6UjR" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -851,7 +750,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将&lt;strong&gt;zz_gallery_unlocker.rpy&lt;/strong&gt;文件放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;zz_gallery_unlocker.rpy&lt;/strong&gt;文件放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -868,7 +767,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将&lt;strong&gt;zz_gallery_unlocker.rpy&lt;/strong&gt;文件放到以下路径：&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;zz_gallery_unlocker.rpy&lt;/strong&gt;文件放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -895,11 +794,11 @@ alt="预览图"
 &lt;p&gt;&lt;a class="link" href="https://gofile.io/d/bfTY93" target="_blank" rel="noopener"
 &gt;GOFILE&lt;/a&gt;
 &lt;a class="link" href="https://pixeldrain.com/u/42QfjyZn" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&gt;PIXELDRAIN&lt;/a&gt;
+&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将&lt;strong&gt;zz_gallery_unlocker.rpy&lt;/strong&gt;文件放到以下路径：&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;zz_gallery_unlocker.rpy&lt;/strong&gt;文件放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -959,6 +858,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+&lt;hr&gt;
 &lt;h2 id="宇宙安全声明"&gt;宇宙安全声明！
 &lt;/h2&gt;&lt;aside class="reading-notice" role="note"&gt;
 &lt;ul&gt;
@@ -1261,7 +1161,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -1276,7 +1176,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -1305,7 +1205,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -1621,7 +1521,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -1636,7 +1536,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -1665,7 +1565,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -2716,7 +2616,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -2731,7 +2631,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -2760,7 +2660,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -3468,7 +3368,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -3483,7 +3383,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -3512,7 +3412,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -4325,7 +4225,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -4340,7 +4240,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -4369,7 +4269,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -4722,7 +4622,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -4737,7 +4637,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -4766,7 +4666,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -5097,7 +4997,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -5112,7 +5012,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -5141,7 +5041,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -5473,7 +5373,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -5488,7 +5388,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -5517,7 +5417,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -5835,7 +5735,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -5850,7 +5750,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -5879,7 +5779,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -6425,7 +6325,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -6440,7 +6340,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -6469,7 +6369,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -6833,7 +6733,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -6848,7 +6748,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -6877,7 +6777,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -7253,7 +7153,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -7268,7 +7168,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -7297,7 +7197,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -7931,7 +7831,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -7946,7 +7846,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -7975,7 +7875,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -8587,7 +8487,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -8602,7 +8502,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -8631,7 +8531,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -9397,7 +9297,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -9412,7 +9312,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -9441,7 +9341,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -9826,7 +9726,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -9841,7 +9741,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -9870,7 +9770,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -10125,7 +10025,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将&lt;strong&gt;main.8eb58474.chunk.js&lt;/strong&gt;文件替换以下路径同名文件&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;main.8eb58474.chunk.js&lt;/strong&gt;文件替换以下路径同名文件&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -11384,7 +11284,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -11399,7 +11299,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -11428,7 +11328,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -11757,7 +11657,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -11772,7 +11672,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -11801,7 +11701,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -12144,7 +12044,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -12159,7 +12059,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -12188,7 +12088,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -12725,7 +12625,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -12740,7 +12640,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -12769,7 +12669,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -13412,7 +13312,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -13427,7 +13327,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -13456,7 +13356,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -13769,7 +13669,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -13784,7 +13684,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -13813,7 +13713,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -14145,7 +14045,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -14160,7 +14060,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -14189,7 +14089,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -14262,6 +14162,7 @@ alt="封面图"
 loading="lazy"
 alt="封面图"
 &gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;h1 id="overview"&gt;Overview
 &lt;/h1&gt;&lt;details&gt;
 &lt;summary&gt;剧情概要&lt;/summary&gt;
@@ -14269,6 +14170,7 @@ alt="封面图"
 &lt;li&gt;60 Days of Us is a visual novel set in the midst of a zombie outbreak. You play as Will, a former soldier who must protect his younger sister Evelyn while leading a group of survivors through the chaos. Every choice you make will shape their journey.​&amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
+&lt;hr&gt;
 &lt;h2 id="details"&gt;Details
 &lt;/h2&gt;&lt;details class="reading-note reading-game-info"&gt;
 &lt;summary&gt;游戏信息&lt;/summary&gt;
@@ -14323,6 +14225,7 @@ alt="封面图"
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/details&gt;
+&lt;hr&gt;
 &lt;h2 id="developer入正地址"&gt;Developer（入正地址）
 &lt;/h2&gt;&lt;p&gt;&lt;a class="link" href="https://www.patreon.com/cw/Eizenhower" target="_blank" rel="noopener"
 &gt;Patreon&lt;/a&gt;
@@ -14332,6 +14235,7 @@ alt="封面图"
 &gt;Pixiv&lt;/a&gt;
 &lt;a class="link" href="https://discord.com/invite/nTVMqr9Tne" target="_blank" rel="noopener"
 &gt;Discord&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id="落谦酱便利贴"&gt;落谦酱便利贴
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;PS&lt;/summary&gt;
@@ -14371,6 +14275,7 @@ allowfullscreen="true"
 &lt;/iframe&gt;
 &lt;/div&gt;
 &lt;/details&gt;
+&lt;hr&gt;
 &lt;h2 id="游戏预览图"&gt;游戏预览图
 &lt;/h2&gt;&lt;details class="reading-note reading-gallery"&gt;
 &lt;summary&gt;素图&lt;/summary&gt;
@@ -14403,6 +14308,7 @@ loading="lazy"
 alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
+&lt;hr&gt;
 &lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
@@ -14508,6 +14414,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/details&gt;
+&lt;hr&gt;
 &lt;h2 id="画廊mod"&gt;画廊Mod
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
@@ -14577,6 +14484,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/details&gt;
+&lt;hr&gt;
 &lt;h2 id="使用帮助"&gt;使用帮助
 &lt;/h2&gt;&lt;div class="mac-list-container reading-help"&gt;
 &lt;div class="mac-list-item"&gt;
@@ -14623,6 +14531,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+&lt;hr&gt;
 &lt;h2 id="宇宙安全声明"&gt;宇宙安全声明！
 &lt;/h2&gt;&lt;aside class="reading-notice" role="note"&gt;
 &lt;ul&gt;
@@ -14879,7 +14788,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -14894,7 +14803,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -14923,7 +14832,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -15252,7 +15161,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -15267,7 +15176,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -15296,7 +15205,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -15672,7 +15581,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -15687,7 +15596,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -15716,7 +15625,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -16049,7 +15958,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -16064,7 +15973,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -16093,7 +16002,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -16523,7 +16432,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -16538,7 +16447,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -16567,7 +16476,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -17243,7 +17152,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -17258,7 +17167,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -17287,7 +17196,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -17612,7 +17521,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -17627,7 +17536,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -17656,7 +17565,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -17992,7 +17901,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -18007,7 +17916,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -18036,7 +17945,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -18681,7 +18590,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -18696,7 +18605,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -18725,7 +18634,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -19096,7 +19005,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -19111,7 +19020,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -19140,7 +19049,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -19519,7 +19428,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -19534,7 +19443,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -19563,7 +19472,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -20197,7 +20106,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -20212,7 +20121,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -20241,7 +20150,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -21210,7 +21119,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -21225,7 +21134,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -21254,7 +21163,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -22639,7 +22548,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -22654,7 +22563,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -22683,7 +22592,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -23152,7 +23061,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -23167,7 +23076,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -23196,7 +23105,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -23528,7 +23437,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -23543,7 +23452,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -23572,7 +23481,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -24223,7 +24132,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -24238,7 +24147,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -24267,7 +24176,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -25173,7 +25082,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -25188,7 +25097,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -25217,7 +25126,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -25880,7 +25789,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -25895,7 +25804,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -25924,7 +25833,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -26381,7 +26290,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -26396,7 +26305,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -26425,7 +26334,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -26754,7 +26663,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -26769,7 +26678,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -26798,7 +26707,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -27245,7 +27154,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -27260,7 +27169,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -27289,7 +27198,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -27690,7 +27599,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -27705,7 +27614,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -27734,7 +27643,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -28078,7 +27987,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -28093,7 +28002,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -28122,7 +28031,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -28574,7 +28483,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -28589,7 +28498,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -28618,7 +28527,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -28951,7 +28860,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -28966,7 +28875,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -28995,7 +28904,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -30824,7 +30733,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -30839,7 +30748,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -30868,7 +30777,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -32246,7 +32155,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -32261,7 +32170,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -32290,7 +32199,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -32655,7 +32564,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -32670,7 +32579,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -32699,7 +32608,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -33149,7 +33058,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -33164,7 +33073,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -33193,7 +33102,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -34496,7 +34405,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -34511,7 +34420,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -34540,7 +34449,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -34866,7 +34775,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -34881,7 +34790,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -34910,7 +34819,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -35243,7 +35152,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -35258,7 +35167,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -35287,7 +35196,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -36043,7 +35952,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -36058,7 +35967,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -36087,7 +35996,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -36614,7 +36523,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -36629,7 +36538,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -36658,7 +36567,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -37431,7 +37340,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -37446,7 +37355,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -37475,7 +37384,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -38127,7 +38036,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -38142,7 +38051,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -38171,7 +38080,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -38849,7 +38758,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -38864,7 +38773,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -38893,7 +38802,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -39222,7 +39131,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -39237,7 +39146,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -39266,7 +39175,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -39795,7 +39704,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -39810,7 +39719,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -39839,7 +39748,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -40295,7 +40204,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -40310,7 +40219,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -40339,7 +40248,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -41279,7 +41188,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -41294,7 +41203,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -41323,7 +41232,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -41982,7 +41891,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -41997,7 +41906,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -42026,7 +41935,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -42378,7 +42287,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -42393,7 +42302,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -42422,7 +42331,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -42753,7 +42662,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -42768,7 +42677,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -42797,7 +42706,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -43126,7 +43035,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -43141,7 +43050,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -43170,7 +43079,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -44329,7 +44238,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -44344,7 +44253,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -44373,7 +44282,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -44703,7 +44612,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -44718,7 +44627,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -44747,7 +44656,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -45415,7 +45324,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -45430,7 +45339,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -45459,7 +45368,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -46101,7 +46010,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -46116,7 +46025,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -46145,7 +46054,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -46483,7 +46392,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -46498,7 +46407,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -46527,7 +46436,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -46878,7 +46787,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -46893,7 +46802,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -46922,7 +46831,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -47241,7 +47150,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -47256,7 +47165,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -47285,7 +47194,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -47702,7 +47611,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -47717,7 +47626,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -47746,7 +47655,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -48381,7 +48290,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -48396,7 +48305,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -48425,7 +48334,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -49339,7 +49248,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -49354,7 +49263,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -49383,7 +49292,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -49717,7 +49626,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -49732,7 +49641,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -49761,7 +49670,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -50105,7 +50014,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -50120,7 +50029,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -50149,7 +50058,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -50485,7 +50394,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -50500,7 +50409,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -50529,7 +50438,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -50848,7 +50757,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -50863,7 +50772,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -50892,7 +50801,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -51235,7 +51144,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -51250,7 +51159,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -51279,7 +51188,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -52613,7 +52522,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -52628,7 +52537,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -52657,7 +52566,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -53564,7 +53473,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -53579,7 +53488,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -53608,7 +53517,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -53947,7 +53856,7 @@ allowfullscreen="true"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -53962,7 +53871,7 @@ allowfullscreen="true"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -53991,7 +53900,7 @@ allowfullscreen="true"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -54634,7 +54543,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -54649,7 +54558,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -54678,7 +54587,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -55367,7 +55276,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -55382,7 +55291,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -55411,7 +55320,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -55756,7 +55665,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -55771,7 +55680,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -55800,7 +55709,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -56167,7 +56076,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -56182,7 +56091,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -56211,7 +56120,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -56648,7 +56557,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -56663,7 +56572,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -56692,7 +56601,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -57393,7 +57302,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将&lt;strong&gt;unlocker.rpy&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;unlocker.rpy&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -57410,7 +57319,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将&lt;strong&gt;unlocker.rpy&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;unlocker.rpy&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -57441,7 +57350,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将&lt;strong&gt;unlocker.rpy&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;unlocker.rpy&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -57776,7 +57685,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解&lt;strong&gt;Unlocker.rpy&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解&lt;strong&gt;Unlocker.rpy&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -58502,7 +58411,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将&lt;strong&gt;unlocker.rpy&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;unlocker.rpy&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -58519,7 +58428,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将&lt;strong&gt;unlocker.rpy&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;unlocker.rpy&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -58550,7 +58459,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将&lt;strong&gt;unlocker.rpy&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;unlocker.rpy&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -59147,7 +59056,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -59162,7 +59071,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -59191,7 +59100,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -60221,7 +60130,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;unlocker.rpy&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;unlocker.rpy&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -60238,7 +60147,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;unlocker.rpy&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;unlocker.rpy&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -60269,7 +60178,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;unlocker.rpy&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;unlocker.rpy&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -60606,7 +60515,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将enabscenes.rpy&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将enabscenes.rpy&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -60623,7 +60532,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将enabscenes.rpy&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将enabscenes.rpy&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -60654,7 +60563,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将enabscenes.rpy&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将enabscenes.rpy&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -61000,7 +60909,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -61015,7 +60924,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -61044,7 +60953,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -61388,7 +61297,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -61403,7 +61312,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -61432,7 +61341,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -61777,7 +61686,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -61792,7 +61701,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -61821,7 +61730,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -62303,7 +62212,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -62318,7 +62227,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -62347,7 +62256,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -63164,7 +63073,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -63179,7 +63088,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -63208,7 +63117,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -63567,7 +63476,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -63582,7 +63491,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;作弊Mod&lt;/strong&gt;或&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -63622,7 +63531,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -64005,7 +63914,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将unlocker.rpy&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将unlocker.rpy&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -64022,7 +63931,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将unlocker.rpy&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将unlocker.rpy&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -64053,7 +63962,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将unlocker.rpy&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将unlocker.rpy&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -64785,7 +64694,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -64800,7 +64709,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -64829,7 +64738,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -65160,7 +65069,7 @@ allowfullscreen="true"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -65175,7 +65084,7 @@ allowfullscreen="true"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -65204,7 +65113,7 @@ allowfullscreen="true"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -65584,7 +65493,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -65599,7 +65508,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -65628,7 +65537,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -66259,7 +66168,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -66274,7 +66183,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -66303,7 +66212,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -66970,7 +66879,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -66985,7 +66894,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -67014,7 +66923,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -67360,7 +67269,7 @@ allowfullscreen="true"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -67375,7 +67284,7 @@ allowfullscreen="true"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -67404,7 +67313,7 @@ allowfullscreen="true"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -67856,7 +67765,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将unlock.rpy&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将unlock.rpy&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -67873,7 +67782,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将unlock.rpy&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将unlock.rpy&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -67904,7 +67813,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将unlock.rpy&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将unlock.rpy&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -68521,7 +68430,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -68536,7 +68445,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -68565,7 +68474,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -68875,7 +68784,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -68890,7 +68799,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -68919,7 +68828,7 @@ alt="封面图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -69246,7 +69155,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -69261,7 +69170,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -69290,7 +69199,7 @@ alt="预览图"
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;画廊Mod&lt;/strong&gt;：将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
