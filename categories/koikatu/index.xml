@@ -91,7 +91,7 @@ Will you be there with them in their journey as they try to find Something Bette
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details class="reading-note reading-changelog"&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
 &lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.07.30&lt;/time&gt;&lt;span&gt; · 20:00&lt;/span&gt;&lt;/span&gt;
 &lt;div class="reading-update-main"&gt;
@@ -101,7 +101,7 @@ Will you be there with them in their journey as they try to find Something Bette
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -111,7 +111,7 @@ Will you be there with them in their journey as they try to find Something Bette
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -510,7 +510,7 @@ Will the Principal use his position to satisfy the ever controlling Board, or wi
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -529,7 +529,7 @@ Will the Principal use his position to satisfy the ever controlling Board, or wi
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -539,7 +539,7 @@ Will the Principal use his position to satisfy the ever controlling Board, or wi
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -923,7 +923,7 @@ Or will the affairs meet their tragic end&amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -942,7 +942,7 @@ Or will the affairs meet their tragic end&amp;hellip;&lt;/li&gt;
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -952,7 +952,7 @@ Or will the affairs meet their tragic end&amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -1335,7 +1335,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1359,7 +1359,7 @@ alt="封面图"
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -1369,7 +1369,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -1750,7 +1750,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1769,7 +1769,7 @@ alt="封面图"
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -2035,7 +2035,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -2054,7 +2054,7 @@ alt="封面图"
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -2337,7 +2337,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -2356,7 +2356,7 @@ alt="封面图"
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -2601,7 +2601,7 @@ Will you mold Reina into a star scholar worthy of Tokyo University? Or will you 
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -2620,7 +2620,7 @@ Will you mold Reina into a star scholar worthy of Tokyo University? Or will you 
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -2905,7 +2905,7 @@ Every girl has her own rhythm, her own story to share, and you can grow closer t
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -2924,7 +2924,7 @@ Every girl has her own rhythm, her own story to share, and you can grow closer t
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -3178,7 +3178,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -3197,7 +3197,7 @@ alt="封面图"
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -3207,7 +3207,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -3489,7 +3489,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -3513,7 +3513,7 @@ alt="封面图"
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -4002,7 +4002,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -4021,7 +4021,7 @@ alt="封面图"
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -4031,7 +4031,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -4392,7 +4392,7 @@ title="YouTube Video"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -4416,7 +4416,7 @@ title="YouTube Video"
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -4426,7 +4426,7 @@ title="YouTube Video"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -4738,7 +4738,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -4767,7 +4767,7 @@ alt="封面图"
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -4777,7 +4777,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -5079,7 +5079,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -5108,7 +5108,7 @@ alt="封面图"
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -5118,7 +5118,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -5397,7 +5397,7 @@ But should it be his biggest worry?​&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -5416,7 +5416,7 @@ But should it be his biggest worry?​&lt;/li&gt;
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -5426,7 +5426,7 @@ But should it be his biggest worry?​&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -5726,7 +5726,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -5745,7 +5745,7 @@ alt="封面图"
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -6015,7 +6015,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -6044,7 +6044,7 @@ alt="封面图"
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -6054,7 +6054,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -6324,7 +6324,7 @@ What awaits you? What kind of people will you meet? And obviously, how many girl
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -6343,7 +6343,7 @@ What awaits you? What kind of people will you meet? And obviously, how many girl
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -6353,7 +6353,7 @@ What awaits you? What kind of people will you meet? And obviously, how many girl
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -6650,7 +6650,7 @@ Gameplay trailer&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -6679,7 +6679,7 @@ Gameplay trailer&lt;/li&gt;
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -6689,7 +6689,7 @@ Gameplay trailer&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -7144,7 +7144,7 @@ Can you do that? I guess we are about to find out.​&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -7163,7 +7163,7 @@ Can you do that? I guess we are about to find out.​&lt;/p&gt;
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -7173,7 +7173,7 @@ Can you do that? I guess we are about to find out.​&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -7387,7 +7387,7 @@ And don&amp;rsquo;t forget to explore the town, everywhere you look there&amp;rs
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -7416,7 +7416,7 @@ And don&amp;rsquo;t forget to explore the town, everywhere you look there&amp;rs
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -7426,7 +7426,7 @@ And don&amp;rsquo;t forget to explore the town, everywhere you look there&amp;rs
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -7705,7 +7705,7 @@ Prepare for a journey of suspense, mystery, and supernatural twists as you delve
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -7749,7 +7749,7 @@ Prepare for a journey of suspense, mystery, and supernatural twists as you delve
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -7759,7 +7759,7 @@ Prepare for a journey of suspense, mystery, and supernatural twists as you delve
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -8199,7 +8199,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -8228,7 +8228,7 @@ alt="封面图"
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -8238,7 +8238,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -8496,7 +8496,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -8525,7 +8525,7 @@ alt="封面图"
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -8535,7 +8535,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -8803,7 +8803,7 @@ uncover side characters’ lives, and dive into a world full of action, drama, a
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -8832,7 +8832,7 @@ uncover side characters’ lives, and dive into a world full of action, drama, a
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -8842,7 +8842,7 @@ uncover side characters’ lives, and dive into a world full of action, drama, a
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -9185,7 +9185,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -9209,7 +9209,7 @@ alt="封面图"
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -9219,7 +9219,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -9514,7 +9514,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -9543,7 +9543,7 @@ alt="封面图"
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -9553,7 +9553,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -9816,7 +9816,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -9845,7 +9845,7 @@ alt="封面图"
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -9855,7 +9855,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -10139,7 +10139,7 @@ At its heart is our hero CJ, who reunites with his childhood friends after years
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -10168,7 +10168,7 @@ At its heart is our hero CJ, who reunites with his childhood friends after years
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -10178,7 +10178,7 @@ At its heart is our hero CJ, who reunites with his childhood friends after years
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -10375,7 +10375,7 @@ However, given the way you&amp;rsquo;ve been treated in the past, you decide tha
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -10404,7 +10404,7 @@ However, given the way you&amp;rsquo;ve been treated in the past, you decide tha
 &lt;/table&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -10414,7 +10414,7 @@ However, given the way you&amp;rsquo;ve been treated in the past, you decide tha
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
@@ -10705,7 +10705,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;关于汉化补丁&lt;/summary&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
@@ -10715,7 +10715,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;博文更新日志&lt;/summary&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;2026.03.28 24:00&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;
@@ -10731,7 +10731,7 @@ alt="封面图"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;details&gt;
-&lt;summary&gt;落谦酱点评&lt;/summary&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
 scrolling="no"
