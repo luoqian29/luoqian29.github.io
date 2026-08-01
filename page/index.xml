@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on 一落归谦</title><link>https://luoqian29.github.io/page/</link><description>Recent content in Pages on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Wed, 29 Jul 2026 21:21:55 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>归档</title><link>https://luoqian29.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/archives/</guid><description/></item><item><title>焚诀</title><link>https://luoqian29.github.io/link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://luoqian29.github.io/link/</guid><description>&lt;style&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on 一落归谦</title><link>https://luoqian29.github.io/page/</link><description>Recent content in Pages on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Sat, 01 Aug 2026 20:13:24 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>归档</title><link>https://luoqian29.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/archives/</guid><description/></item><item><title>焚诀</title><link>https://luoqian29.github.io/link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://luoqian29.github.io/link/</guid><description>&lt;style&gt;
 /* 只针对当前页面生效：让标题和副标题居中 */
 .article-details .article-title,
 .article-details .article-subtitle {
@@ -46,9 +46,9 @@ font-size: clamp(2.8rem, 9vw, 3.6rem); /* 移动端标题大小 */
 }
 &lt;/style&gt;
 &lt;div class="reading-layout"&gt;
-&lt;section class="reading-section"&gt;
-&lt;h2 id="博客时间线"&gt;博客时间线
-&lt;/h2&gt;&lt;div class="mac-timeline"&gt;
+&lt;h1 id="博客时间线"&gt;博客时间线
+&lt;/h1&gt;&lt;section class="reading-section"&gt;
+&lt;div class="mac-timeline"&gt;
 &lt;div class="mac-timeline-item"&gt;
 &lt;div class="mac-timeline-date"&gt;2026 &amp;amp; 未来&lt;/div&gt;
 &lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
@@ -87,9 +87,9 @@ font-size: clamp(2.8rem, 9vw, 3.6rem); /* 移动端标题大小 */
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/section&gt;
-&lt;section class="reading-section"&gt;
-&lt;h2 id="关于资源与网盘"&gt;关于资源与网盘
-&lt;/h2&gt;&lt;p&gt;博客里的游戏资源本体，基本源自作者官网、Patreon、Itch 或 F95。海外网盘（如 Gofile、Vikingfile、Mega 等）不会有国内网盘那种恶心的“会员限速”，下载速度完全取决于你的&lt;strong&gt;魔法&lt;/strong&gt;质量和本地带宽（好的梯子跑到 20MB/s 也很正常）。&lt;/p&gt;
+&lt;h1 id="关于资源与网盘"&gt;关于资源与网盘
+&lt;/h1&gt;&lt;section class="reading-section"&gt;
+&lt;p&gt;博客里的游戏资源本体，基本源自作者官网、Patreon、Itch 或 F95。海外网盘（如 Gofile、Vikingfile、Mega 等）不会有国内网盘那种恶心的“会员限速”，下载速度完全取决于你的&lt;strong&gt;魔法&lt;/strong&gt;质量和本地带宽（好的梯子跑到 20MB/s 也很正常）。&lt;/p&gt;
 &lt;p&gt;至于我自己上传得 &lt;strong&gt;汉化补丁&lt;/strong&gt; 和 &lt;strong&gt;Mod&lt;/strong&gt;，一般会上传到 GoFile 和 Pixeldrain 作为双重保障：&lt;/p&gt;
 &lt;details class="reading-note"&gt;
 &lt;summary&gt;GoFile&lt;/summary&gt;
@@ -110,9 +110,9 @@ font-size: clamp(2.8rem, 9vw, 3.6rem); /* 移动端标题大小 */
 &lt;/ul&gt;
 &lt;/aside&gt;
 &lt;/section&gt;
-&lt;section class="reading-section"&gt;
-&lt;h2 id="关于订阅制"&gt;关于订阅制
-&lt;/h2&gt;&lt;p&gt;那不加订阅制之后，博客有没有收益啊？&lt;/p&gt;
+&lt;h1 id="关于订阅制"&gt;关于订阅制
+&lt;/h1&gt;&lt;section class="reading-section"&gt;
+&lt;p&gt;那不加订阅制之后，博客有没有收益啊？&lt;/p&gt;
 &lt;p&gt;其实收益非常少。以前不加订阅制寥寥无几，一个月就三四十块钱赞助。加了之后，最高一个月拿到过 700 多，最少也有 300 多，确实挺杯水车薪。除了大家投喂的收益，还有一个魔法推广佣金，一般也有几百块。&lt;/p&gt;
 &lt;p&gt;总之就是这样子吧，运营博客也没收多少费用，一个月跑 AI 大概就百来块，毕竟我自己也要玩一点。加上部署在 GitHub 上，费用也是挺少的，就当交点网费和电费而已~&lt;/p&gt;
 &lt;/section&gt;
