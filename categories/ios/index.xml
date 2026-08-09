@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IOS on 一落归谦</title><link>https://luoqian29.github.io/categories/ios/</link><description>Recent content in IOS on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Mon, 10 Aug 2026 05:31:57 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/ios/index.xml" rel="self" type="application/rss+xml"/><item><title>Being a DIK 我的大学生活</title><link>https://luoqian29.github.io/p/beingadik/</link><pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/beingadik/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPTpZv1bAAA-kqf?format=jpg&amp;name=medium" alt="Featured image of post Being a DIK 我的大学生活" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IOS on 一落归谦</title><link>https://luoqian29.github.io/categories/ios/</link><description>Recent content in IOS on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Mon, 10 Aug 2026 05:39:05 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/ios/index.xml" rel="self" type="application/rss+xml"/><item><title>Being a DIK 我的大学生活</title><link>https://luoqian29.github.io/p/beingadik/</link><pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/beingadik/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPTpZv1bAAA-kqf?format=jpg&amp;name=medium" alt="Featured image of post Being a DIK 我的大学生活" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="being-a-dik-v0120-drpinkcake"&gt;Being a DIK [v0.12.0] [DrPinkCake]
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/cc7f0e515ba3b54f9907f58941d44a30626f59fc.jpg"
 loading="lazy"
@@ -356,11 +356,21 @@ alt="预览图"
 &lt;p&gt;如果你非要用这个补丁，请截图那个出问题的具体位置发给我。 所以我在开头就先叠过甲了，如果你非常介意这些小瑕疵，然后你又不反馈，那我根本修不了。要是更逆天一点，遇到问题不反馈还跑来阴阳怪气喷我，那我非常建议你不要使用我的补丁。我就是个捣鼓 AI 的半吊子，不是什么大佬，只是个小卡拉米。先叠个甲哈！&lt;/p&gt;
 &lt;p&gt;说到这里，我们来好好算算这笔账，顺便聊聊费用的事。 其实本来，我是想开订阅的（一个月10米）做点外快来着，寻思一个月能赚个两三千也还行。结果现在我一个月连300米都没圈到，但后来想了想：算了，不加了！ 为什么？不管收没收费，都要挨骂挨喷。要是收了费，那肯定被喷得更惨！万一遇到极端人士，给我打上什么乱七八糟的标签，甚至直接把我户口给开了、把我盒给开了，那我不是倒了八辈子血霉？ 我搞这些，原本就是想着帮助十几个愿意向我反馈的水友。有些老水友每次拿补丁非要打赏我，我觉得太见外了，才随便开了个“爱发电”和赞助，让大家自愿打赏。结果呢？就这一个月两三百块钱，还有人盯着我喷！ 我就纳闷了，你们为啥不去喷那些搞“充电进群”的？不去喷那些把资源分卷压缩、东放一个盘西放一个盘、故意赚网盘费的人？我一没收你们网盘费，二没强买强卖。老盯着我一个人阴阳怪气干嘛？&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;叠完甲，我们来盘点一下这次第三季补丁大概用了多少费用和精力（网费、电费和人力精力就不算了，只算 AI 的开销）：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;文本翻译：DeepSeek V3.1。&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;文本翻译：DeepSeek V3.1。
 这次第三季我没有像第一二季那样用 DeepSeek V3 去跑，而是用了 V3.1。为什么？因为 V3.1 更稳定，虽然费用是 V3 的两倍，但跑出来的汉化能帮我减少很多工作量。它极少出现那种幻觉 Bug，或者恶性的“突兀文邹邹幻觉”。 之前有人在某些群里疯狂吐槽我，说文本出现幻觉，还以为是我人工瞎改的。哎呀，我没办法嘛！你遇到问题不反馈，还阴阳怪气我，那游戏我肯定就不去动它了啊，我又不是傻子对不对？你好好跟我反馈，我肯定会帮你修，甚至用 V3.1 重新给你跑一次都没问题。 这次《我的大学生活》这种学院/都市题材，用 V3.1 跑出来的效果非常棒，非常接地气，图文风和幻觉极少。总共算下来，Token 消耗大概在 25 块钱左右。&lt;/p&gt;
-&lt;p&gt;**图片精修：Codex。**这次有些图片我进行了 P 图处理，但我自己不会用 PS，所以我用的是 Codex 这个 AI 来弄。Codex 消耗了我 Plus 会员（约 140 元/月）周额度的 30%，大家可以自己算算这笔费用。&lt;/p&gt;
-&lt;p&gt;**代码与 Mod：Gemini (反重力)。**这游戏的代码特别难崩！我本来想用Replace代码替换，结果太拉胯了。后来我干脆不跟它嘻嘻哈哈了，直接上了 Gemini（反重力），让它全局修改，还写了四五个外置 Mod。虽然我把这些 Mod 都集成在补丁里了，但目前没发现什么恶性 Bug（如果有，请告诉我，我再把它们从补丁里分出来优化）。 Gemini 的 Pro 会员周额度我用了大概 50%，这个消耗算比较大了，因为这几天我每天都化身“Yes工程师”让它去操作。&lt;/p&gt;
-&lt;p&gt;**时间成本。**大家可能不知道，今年 4 月份我做第一二季的时候，基本是纯手搓的，代码提取全靠自己写，除了文本用 AI 跑，整整耗费了一个星期的总时长（不是说每天下工作之余做两小时那种，是总时长加起来实打实的一个星期）。 而这次第三季从发布到现在大概三天，刚好碰上周末，我每天花四五个小时配合 AI 搞定，总耗时可能都不超过 24 小时。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;图片精修：Codex。这次有些图片我进行了 P 图处理，但我自己不会用 PS，所以我用的是 Codex 这个 AI 来弄。Codex 消耗了我 Plus 会员（约 140 元/月）周额度的 30%，大家可以自己算算这笔费用。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;代码与 Mod：Gemini (反重力)。这游戏的代码特别难崩！我本来想用Replace代码替换，结果太拉胯了。后来我干脆不跟它嘻嘻哈哈了，直接上了 Gemini（反重力），让它全局修改，还写了四五个外置 Mod。虽然我把这些 Mod 都集成在补丁里了，但目前没发现什么恶性 Bug（如果有，请告诉我，我再把它们从补丁里分出来优化）。 Gemini 的 Pro 会员周额度我用了大概 50%，这个消耗算比较大了，因为这几天我每天都化身“Yes工程师”让它去操作。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;时间成本。大家可能不知道，今年 4 月份我做第一二季的时候，基本是纯手搓的，代码提取全靠自己写，除了文本用 AI 跑，整整耗费了一个星期的总时长（不是说每天下工作之余做两小时那种，是总时长加起来实打实的一个星期）。 而这次第三季从发布到现在大概三天，刚好碰上周末，我每天花四五个小时配合 AI 搞定，总耗时可能都不超过 24 小时。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;关于 Mod 集成的情况（很重要）：&lt;/strong&gt;
 这次我没有把外网大佬制作的 Mod 本体直接集成在补丁里！大家必须自己去打那个外网大佬的 Mod，然后再配合我们的汉化补丁使用。 我们的补丁里只集成了对应 Mod 的汉化文本。为什么要这样做？就是为了避免上面提到的各种排异报错和无解的问题。 所以，如果你自己打好了一切，却发现游戏中出现了绿色的选项并且是英文的，那 100% 是我漏提取了文本，这个你必须要向我反馈了，不反馈我也没辙了，反正我是没时间玩。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;关于第一、二季的后续重置计划（重点填坑）：&lt;/strong&gt; 肯定有人会问，既然第三季用 V3.1 跑出来效果这么好，那第一、二季会重新优化吗？ 会的！ 我会抽个时间从头搞一下，全部换成 V3.1 重新跑一遍。 之前一二季有个毛病：当时我们把选项 Mod 直接集成到了 TL（翻译）文本里。但 TL 文本的机制是“一山不容二虎”，相同的英文文本会强制共用同一句翻译。这就导致前面剧情的选项翻译，会污染、影响到后面剧情的相同文本。 那怎么解决呢？ 首先，我会用 V3.1 从头再跑一遍 AI。虽然第二季的文本量比第三季还要多一点点，估计要花个二三十块钱，而且如果用 V3 确实会便宜不少，但既然 V3.1 质量这么顶，咱们就“用优不用旧”！ 其次，一二季的 Mod 处理也会和这次第三季一样：&lt;strong&gt;不再集成 Mod 本体！&lt;/strong&gt; 必须由大家自己去打外网大佬制作的 Mod，然后我们的补丁&lt;strong&gt;只集成对应的汉化文本&lt;/strong&gt;。这样就不会再导致前面那种互相污染报错的问题了。&lt;/p&gt;
