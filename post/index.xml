@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 一落归谦</title><link>https://luoqian29.github.io/post/</link><description>Recent content in Posts on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Mon, 10 Aug 2026 20:40:08 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>博文更新计划与路线图</title><link>https://luoqian29.github.io/p/update/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/update/</guid><description>&lt;img src="https://pbs.twimg.com/media/HNJbuBhbsAA0iq-?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;div class="reading-layout"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 一落归谦</title><link>https://luoqian29.github.io/post/</link><description>Recent content in Posts on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Mon, 10 Aug 2026 20:42:59 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>博文更新计划与路线图</title><link>https://luoqian29.github.io/p/update/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/update/</guid><description>&lt;img src="https://pbs.twimg.com/media/HNJbuBhbsAA0iq-?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;div class="reading-layout"&gt;
 &lt;h1 id="博文更新计划与路线图"&gt;博文更新计划与路线图
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HNJbt_3aEAAT55S?format=jpg&amp;amp;name=large"
 loading="lazy"
@@ -364,7 +364,7 @@ alt="封面图"
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
-&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.10&lt;/time&gt;&lt;span&gt; · 05:00&lt;/span&gt;&lt;/span&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.10&lt;/time&gt;&lt;span&gt; · 20:50&lt;/span&gt;&lt;/span&gt;
 &lt;div class="reading-update-main"&gt;
 &lt;strong class="reading-update-version"&gt;AI意译汉化补丁&lt;/strong&gt;
 &lt;span class="reading-update-detail"&gt;修复有些变量多加了!t，导致出现报错的bug&lt;/span&gt;
