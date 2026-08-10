@@ -1,53 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>杂谈 on 一落归谦</title><link>https://luoqian29.github.io/categories/%E6%9D%82%E8%B0%88/</link><description>Recent content in 杂谈 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Tue, 11 Aug 2026 00:15:56 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml"/><item><title>博文更新计划与路线图</title><link>https://luoqian29.github.io/p/update/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/update/</guid><description>&lt;img src="https://pbs.twimg.com/media/HNJbuBhbsAA0iq-?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>杂谈 on 一落归谦</title><link>https://luoqian29.github.io/categories/%E6%9D%82%E8%B0%88/</link><description>Recent content in 杂谈 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Tue, 11 Aug 2026 02:54:52 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml"/><item><title>博文更新计划与路线图</title><link>https://luoqian29.github.io/p/update/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/update/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPYeU18aYAAQf7U?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="博文更新计划与路线图"&gt;博文更新计划与路线图
-&lt;/h1&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HNJbt_3aEAAT55S?format=jpg&amp;amp;name=large"
+&lt;/h1&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HPYeU19awAAI_G2?format=jpg&amp;amp;name=large"
 loading="lazy"
 alt="封面图"
 &gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id="引言"&gt;引言
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;近期安排&lt;/summary&gt;
-&lt;p&gt;闲话少叙，简单说一下最近以及接下来的更新安排。距离 10 月初（也就是国庆），刚刚好还有&lt;strong&gt;两个半月&lt;/strong&gt;。这段时间内我会把剩下的 AI 意译补丁全部做完，估计还有四五十个。&lt;/p&gt;
+&lt;p&gt;闲话少叙，简单讲一下最近以及接下来的更新安排。目前已经是 8 月中旬，距离国庆大概还有一个半月的时间。这段时间内，我会把剩下的 AI 补丁全部做完，估计还有十几个。&lt;br&gt;
+同时，接下来有可能会把之前一些佳作、神作的 V3 模型补丁重置一下。因为 V3 模型容易产生“幻觉”或者翻译得文绉绉的，我会直接全部替换成 V3.1 跑出来的版本，质量会大幅提升。&lt;/p&gt;
 &lt;/details&gt;
+&lt;hr&gt;
 &lt;h2 id="博客路线图roadmap"&gt;博客路线图（Roadmap）
 &lt;/h2&gt;&lt;div class="mac-timeline"&gt;
 &lt;div class="mac-timeline-item"&gt;
 &lt;div class="mac-timeline-date"&gt;补丁制作计划&lt;/div&gt;
 &lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
 &lt;div class="mac-timeline-content"&gt;
-&lt;h3 class="mac-timeline-title"&gt;遗漏补丁提醒机制 🔔&lt;/h3&gt;
-&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;之前答应一些水友制作的补丁，因为时间隔得久，我自己也快忘记了。如果你的游戏补丁还没做，或者你有想做的，都可以在 &lt;strong&gt;TG 群&lt;/strong&gt; 或 &lt;strong&gt;GitHub 评论区&lt;/strong&gt; 留言提醒我。&lt;/p&gt;
+&lt;h3 class="mac-timeline-title"&gt;遗漏补丁提醒 🔔&lt;/h3&gt;
+&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;之前答应一些水友制作的补丁，因为时间隔得太久，我自己也快忘记了。如果你的游戏补丁还没做，或者你有想做的，都可以在 &lt;strong&gt;TG 群&lt;/strong&gt; 或 &lt;strong&gt;博文评论区&lt;/strong&gt; 留言提醒我。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;💡 &lt;strong&gt;小提醒&lt;/strong&gt;：我制作补丁不是严格按列表顺序来的，想到哪个就做哪个。所以如果没有提醒，刚好我又遗漏了，那这个补丁可能真的就会被遗忘啦。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;💡 &lt;strong&gt;小提醒&lt;/strong&gt;：我制作补丁不是严格按列表顺序来的，而是想到哪个做哪个，或者哪个游戏最近更新了就优先做它。所以如果没有提醒，刚好我又忘了，那这个补丁可能真的就会被彻底遗漏啦。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="mac-timeline-item"&gt;
-&lt;div class="mac-timeline-date"&gt;7月中旬至月底&lt;/div&gt;
+&lt;div class="mac-timeline-date"&gt;目前状态&lt;/div&gt;
 &lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
 &lt;div class="mac-timeline-content"&gt;
-&lt;h3 class="mac-timeline-title"&gt;取消强制订阅制 🔓&lt;/h3&gt;
-&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;接下来这段时间的大部分补丁，&lt;strong&gt;就不再添加订阅限制了&lt;/strong&gt;，都会直接公开发布。
-主要原因是订阅制流程太繁琐：每次发布除了写文章、Push，还得去爱发电开帖子、贴链接，一个星期后还得再修改博文公开…… 真的太占时间。&lt;/p&gt;
-&lt;p&gt;当然，如果遇到极其麻烦、文本量大、耗时久的游戏，可能还是会考虑加一下订阅制。毕竟制作也需要精力，有条件的水友可以投喂支持一下，没条件捧个人场也行。&lt;/p&gt;
-&lt;/div&gt;
+&lt;h3 class="mac-timeline-title"&gt;依旧取消订阅制 🔓&lt;/h3&gt;
+&lt;div class="mac-timeline-desc"&gt;其实从 7 月份到现在（8月中旬），我们的补丁已经一个多月没有加过订阅制了。接下来的大部分补丁，我依然&lt;strong&gt;不会加任何订阅限制&lt;/strong&gt;，全部直接公开发布。&lt;br&gt;
+主要原因是&lt;strong&gt;订阅制流程太繁琐了&lt;/strong&gt;：每次发布不仅要 Git Push 到 GitHub，还得去爱发电开赞助帖子、贴链接，一个星期后还得再手动修改博文公开…真的太占时间，而我最近工作又忙，实在抽不出空。&lt;br&gt;
+现在借助&lt;strong&gt;Codex&lt;/strong&gt;或&lt;strong&gt;Antigravity&lt;/strong&gt;等Agent智能体的辅助，翻译效率高了很多（比如最近比较棘手的某个大学生活游戏也快搞定了）。当然，制作需要精力，有条件的水友可以随缘投喂支持一下，没条件的话捧个人场也行！&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="mac-timeline-item"&gt;
-&lt;div class="mac-timeline-date"&gt;7月底&lt;/div&gt;
+&lt;div class="mac-timeline-date"&gt;8月底&lt;/div&gt;
 &lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
 &lt;div class="mac-timeline-content"&gt;
-&lt;h3 class="mac-timeline-title"&gt;🎮 Unity 引擎汉化教程&lt;/h3&gt;
-&lt;div class="mac-timeline-desc"&gt;&lt;strong&gt;不需要编程基础&lt;/strong&gt;。基本流程：安装工具 -&amp;gt; 配置环境 -&amp;gt; 调用 API -&amp;gt; 实现游戏内实时翻译。
-过程会尽量做到通俗易懂，即使完全不懂代码也能跟着图文搞定。这篇教程原本计划 5 月底就写，最近补丁太多一直没抽出空。&lt;/div&gt;
+&lt;h3 class="mac-timeline-title"&gt;🎮 Unity引擎汉化教程&lt;/h3&gt;
+&lt;div class="mac-timeline-desc"&gt;原定于 5 月、后推到 7 月底的 Unity 教程，因为补丁太多和工作忙碌，一直拖到了现在。不出意外的话会在 8 月底出。&lt;br&gt;
+&lt;strong&gt;不需要任何编程基础&lt;/strong&gt;。基本流程：安装工具 -&amp;gt; 配置环境 -&amp;gt; 调用 API（配置密钥） -&amp;gt; 游戏内实时翻译。我会尽量把图文教程做到通俗易懂，哪怕完全不懂代码也能照猫画虎。至于视频教程，看时间充裕度吧。虽然很少有人催更 Unity教程（毕竟受众偏少），但这手艺有就是锦上添花。&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="mac-timeline-item"&gt;
 &lt;div class="mac-timeline-date"&gt;10月初&lt;/div&gt;
 &lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
 &lt;div class="mac-timeline-content"&gt;
-&lt;h3 class="mac-timeline-title"&gt;💻 Ren&amp;#39;Py 引擎汉化教程&lt;/h3&gt;
-&lt;div class="mac-timeline-desc"&gt;这个会稍微复杂点，&lt;strong&gt;需要一定的代码基础&lt;/strong&gt;。加上不同作者的代码习惯差异非常大，有些写法简直“反人类”，所以这部分硬骨头会放到十月之后慢慢整理。&lt;/div&gt;
+&lt;h3 class="mac-timeline-title"&gt;💻 Ren&amp;#39;Py引擎汉化教程&lt;/h3&gt;
+&lt;div class="mac-timeline-desc"&gt;这个会稍微复杂点，&lt;strong&gt;需要一定的代码基础&lt;/strong&gt;。不过时代变了！现在有了Codex或 Gemini这种强大的 Agent（智能体），你完全可以把我的图文教程“喂”给 AI，让它帮你写个 Skill 去自动处理。&lt;br&gt;
+其实主要是因为不同作者的代码习惯差异巨大，比如有些游戏逆天的存档继承机制（导致代码写法极其反人类），这些硬骨头没办法一概而论。所以这份高级教程我会放到10月之后慢慢整理，配合简润/精润的进阶思路一起讲。&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="mac-timeline-item"&gt;
@@ -55,13 +58,18 @@ alt="封面图"
 &lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
 &lt;div class="mac-timeline-content"&gt;
 &lt;h3 class="mac-timeline-title"&gt;佛系更新与简润权衡 🎣&lt;/h3&gt;
-&lt;div class="mac-timeline-desc"&gt;10 月之后的博客整体会轻松不少，&lt;strong&gt;更新频率会降低&lt;/strong&gt;。
-后续还是会做一些简润补丁（我自己常玩的游戏），但其他大部分游戏不会投入大量时间搞精润了。毕竟产出比例在那：打磨一个简润的时间，够做四五个 AI 意译补丁了。与其花大量时间制作少量高质量补丁，不如把汉化教程整理出来，让大家自己掌握汉化方法，&lt;strong&gt;授人以鱼不如授人以渔&lt;/strong&gt;。&lt;/div&gt;
+&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;10 月之后博客会进入&lt;strong&gt;佛系更新&lt;/strong&gt;状态。&lt;br&gt;
+后续的重心会放在&lt;strong&gt;简润补丁&lt;/strong&gt;上（主要是我自己常玩的游戏）。我会用 V3 和 V3.1 模型混合打磨，因为V3.1跑出来的词汇非常接地气，虽然价格贵两倍，但“一分钱一分货”，能省下大量修 Bug 和幻觉的时间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;为什么放弃大量“精润”？&lt;/strong&gt;
+所谓精润，是需要花大量时间去贴合角色语气、玩梗、衔接上下文的。但说实话，大部分下九流游戏作者本身也没啥文采，想把它们翻译成名著完全是做梦。与其花大量时间去精润几个冷门游戏，不如做点简润，把时间省下来出教程。毕竟，&lt;strong&gt;授人以鱼不如授人以渔&lt;/strong&gt;。&lt;/p&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;h2 id="关于联系方式新增绿泡泡"&gt;关于联系方式（新增绿泡泡）
-&lt;/h2&gt;&lt;p&gt;考虑到一部分水友没有 GitHub 或 Telegram，这里提供一个绿泡泡联系方式。我不怎么玩企鹅（QQ），主要是企鹅信息不通知，绿泡泡提醒比较及时。毕竟我的小破站已经进小黑屋了，音符上又不能发图片，大家反馈 bug 或推荐游戏发截图，绿泡泡会方便些。&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;考虑到一部分水友没有注册 GitHub，无法在博客评论，又没有telegram无法进入TG群，这里特别提供一个绿泡泡（微信）联系方式。&lt;br&gt;
+我不怎么用 QQ（企鹅），因为它的消息经常收不到通知。绿泡泡的提醒比较及时，大家可以直接发截图反馈 Bug，或者推荐游戏。&lt;br&gt;
+而且对于一些需要未压缩源码的 iOS Spark 模拟器玩家，微信直接传源码压缩包也更方便，没有奇怪的审核拦截。&lt;/p&gt;
 &lt;div class="mac-list-container reading-help"&gt;
 &lt;div class="mac-list-item"&gt;
 &lt;div class="mac-list-left"&gt;
@@ -76,7 +84,7 @@ alt="封面图"
 &lt;p&gt;&lt;span class="mac-list-key"&gt;反馈方式&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;加好友后直接发送问题截图，方便定位 Bug 或查看游戏推荐&lt;/span&gt;
+&lt;span class="mac-list-value"&gt;加好友后直接发送问题截图，方便定位Bug或查看游戏推荐&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="mac-list-item"&gt;
@@ -84,7 +92,7 @@ alt="封面图"
 &lt;p&gt;&lt;span class="mac-list-key"&gt;安全提醒&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;&lt;strong&gt;请勿发送色图或其他奇怪内容&lt;/strong&gt;，避免账号再次出现问题&lt;/span&gt;
+&lt;span class="mac-list-value"&gt;&lt;strong&gt;请勿发送色图或其他奇怪内容&lt;/strong&gt;，你懂的，嘿嘿嘿。&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -176,8 +184,8 @@ alt="封面图"
 &lt;p&gt;最后呢，感谢一直支持我的水友，愿意使用补丁以及积极反馈提出意见的真实水友们。一路走下来真是太不容易了。博客从最初只有七八个补丁，到现在积累了 &lt;strong&gt;快接近 200 个&lt;/strong&gt;，已经非常非常超出我当初的想象了。&lt;/p&gt;
 &lt;p&gt;无论如何，&lt;strong&gt;且玩且珍惜，感谢大家的一路陪伴&lt;/strong&gt;。没有你们，就没有博客的今天，你们也是博客的一分子！&lt;/p&gt;
 &lt;/aside&gt;
-&lt;/div&gt;</description></item><item><title>爱发电爱赞助投喂感谢页</title><link>https://luoqian29.github.io/p/support/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/support/</guid><description>&lt;img src="https://pbs.twimg.com/media/HMHZkWKacAAUCd6?format=jpg&amp;name=4096x4096" alt="Featured image of post 爱发电爱赞助投喂感谢页" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HMHZkWRbEAAdYS8?format=jpg&amp;amp;name=large"
+&lt;/div&gt;</description></item><item><title>爱发电爱赞助投喂感谢页</title><link>https://luoqian29.github.io/p/support/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/support/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPYeVlCboAAfoq0?format=jpg&amp;name=4096x4096" alt="Featured image of post 爱发电爱赞助投喂感谢页" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HPYeVlpbcAAioDX?format=jpg&amp;amp;name=large"
 loading="lazy"
 alt="封面图"
 &gt;&lt;/p&gt;
@@ -338,7 +346,6 @@ loading="lazy"
 alt="整体概况"
 &gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;hr&gt;
 &lt;h2 id="杂谈"&gt;杂谈
 &lt;/h2&gt;&lt;h3 id="感谢"&gt;感谢
 &lt;/h3&gt;&lt;p&gt;由衷感谢以上所有投喂过的水友啊！特别感谢！虽然钱财不多，但是心意满满。落谦也不会辜负大家的诚意，后续会尽量为大家更新的，哈哈。&lt;/p&gt;
@@ -350,28 +357,59 @@ alt="整体概况"
 &lt;hr&gt;
 &lt;h3 id="碎碎念那些不得不吐的槽"&gt;碎碎念：那些不得不吐的槽
 &lt;/h3&gt;&lt;p&gt;感谢完了，顺便来吐个槽吧。怎么说呢，开爱发电也有两年半了（真没玩梗，哈哈），有些压在心里的陈年旧账，干脆借这个机会敞开说了。&lt;/p&gt;
-&lt;h4 id="关于圈米的无稽之谈"&gt;关于“圈米”的无稽之谈
-&lt;/h4&gt;&lt;p&gt;圈内总有人阴阳怪气，说我“圈米”肯定圈得盆满钵满了：在音符那么大的流量，跑到 B 站也有几万播放，肯定月入过万了。&lt;/p&gt;
+&lt;div class="mac-timeline"&gt;
+&lt;div class="mac-timeline-item"&gt;
+&lt;div class="mac-timeline-date"&gt;流言蜚语&lt;/div&gt;
+&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
+&lt;div class="mac-timeline-content"&gt;
+&lt;h3 class="mac-timeline-title"&gt;关于“圈米”的无稽之谈&lt;/h3&gt;
+&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;那个所谓的圈内总有人阴阳怪气，说我“圈米”肯定圈得盆满钵满了：在音符那么大的流量，跑到 B 站也有几万播放，肯定月入过万了。&lt;/p&gt;
 &lt;p&gt;说真的，看到这些话我已经无语了。大家投喂我两年半，总共也就两三千块。这笔钱，&lt;strong&gt;连我跑 AI 烧掉的本金都没收回来&lt;/strong&gt;，更别提搭进去的人工、时间以及其他乱七八糟的精力了。说得好听叫投喂，在他们嘴里就是圈米。&lt;/p&gt;
-&lt;p&gt;看到这些阴阳怪气，我无数次想过直接停更。但回头看看手里那百来个跑好的 AI 文本，跑都跑了，半途而废挺可惜的，所以还是硬着头皮继续做。该做补丁做补丁，该修 Bug 修 Bug，写完博文上传后基本就不管了——因为我每天光搞这些都要两三个小时，根本没时间自己去玩，这是一个很简单的逻辑，对吧？&lt;/p&gt;
-&lt;h4 id="关于-bug-反馈与背后的闲言碎语"&gt;关于 Bug 反馈与背后的闲言碎语
-&lt;/h4&gt;&lt;p&gt;有些人下了补丁，发现里头有些边角料或者短信文本没汉化，第一时间不是来向我反馈，而是跑到某些圈子的大群里疯狂地吐槽我、阴阳怪气我。这究竟是何意味啊？哈哈。&lt;/p&gt;
+&lt;p&gt;看到这些阴阳怪气，我无数次想过直接停更。但回头看看手里那百来个跑好的AI文本，跑都跑了，半途而废挺可惜的，所以还是硬着头皮继续做。该做补丁做补丁，该修 Bug 修 Bug，写完博文上传后基本就不管了…&lt;/p&gt;
+&lt;p&gt;因为我每天光搞这些都要两三个小时，根本没时间自己去玩，这是一个很简单的逻辑，对吧？&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-timeline-item"&gt;
+&lt;div class="mac-timeline-date"&gt;吃力不讨好&lt;/div&gt;
+&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
+&lt;div class="mac-timeline-content"&gt;
+&lt;h3 class="mac-timeline-title"&gt;关于 Bug 反馈与背后的闲言碎语&lt;/h3&gt;
+&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;有些人下了补丁，发现里头有些边角料或者短信文本没汉化，第一时间不是来向我反馈，而是跑到某些圈子的大群里疯狂地吐槽我、阴阳怪气我。这究竟是何意味啊？哈哈。&lt;/p&gt;
 &lt;p&gt;每个游戏作者的代码习惯千奇百怪。像那种常见的短信文本，很多是缩写格式，很难提取，就算提取了也要改源代码才能显示汉化。我不自己打一遍通关，根本遇不到这些问题。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;AI 汉化本来就会有幻觉、错译、中英夹杂。&lt;/strong&gt; 我在每篇博文的&lt;strong&gt;落谦酱便利贴&lt;/strong&gt;里白纸黑字写得清清楚楚：如果介意请勿游玩。我已经非常诚恳、仁至义尽了。为了解决瑕疵，我还专门写脚本去提取原文本修复 Bug，给有官中的游戏做完整 Mod。&lt;/p&gt;
 &lt;p&gt;我甚至在补丁右上角特意留了 GitHub 的 Logo，就是为了方便大家联系我反馈。结果有人嫌弃，问能不能把 Logo 删掉？他妈的删了你怎么向我反馈问题？既然有自己修 Bug 的能力，干嘛还用我的补丁？何必要让我多此一举？如果嫌弃，马老师的汉化教程在那摆着，自己花十几块钱跑个 AI 不好吗？大家皆大欢喜。&lt;/p&gt;
 &lt;p&gt;说到底，&lt;strong&gt;我真不欠你们什么&lt;/strong&gt;，做这些只是帮一把有需要的水友而已。背后吐槽真的挺没意思的，你提一嘴，我有空肯定会更新。&lt;/p&gt;
-&lt;h4 id="关于造谣与喝茶"&gt;关于造谣与“喝茶”
-&lt;/h4&gt;&lt;p&gt;前阵子我 B 站号被抬走，最离谱的事情来了：居然有人造谣我进去喝茶了。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-timeline-item"&gt;
+&lt;div class="mac-timeline-date"&gt;离大谱&lt;/div&gt;
+&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
+&lt;div class="mac-timeline-content"&gt;
+&lt;h3 class="mac-timeline-title"&gt;关于造谣与“喝茶”&lt;/h3&gt;
+&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;前阵子我 B 站号被抬走，最离谱的事情来了：居然有人造谣我进去喝茶了。&lt;/p&gt;
 &lt;p&gt;甚至还搞出了&lt;strong&gt;有图有真相&lt;/strong&gt;，把我的 CPU 都干烧了，我都不知道那是真有人进去了还是拿 GPT 生成的。这又是何意味啊？我自问没惹你们，也没得罪你们。&lt;/p&gt;
-&lt;h4 id="关于倒狗与接官中的节奏"&gt;关于“倒狗”与接官中的节奏
-&lt;/h4&gt;&lt;p&gt;如果非要说得罪，可能就是以前那几档子事。&lt;/p&gt;
-&lt;p&gt;2024 年，那时候还没 Deepseek，只有 ChatGPT，某宝买 Token 又贵质量又一般。我在音符发图文时，有水友提议大家一起凑点费用跑 AI。结果呢？我直接被打上了“倒狗”的标签。合着我盗我自己的？
-仅仅因为我跑完 AI 整理了个游戏表格，恰好有圈内大佬做的官中，我就成了众矢之的。我很不理解，你们圈内大佬靠充电进群、拿谷歌精翻设门槛的比比皆是，我却因此被声讨。行，你们青出于蓝，我解散、我道歉。&lt;/p&gt;
-&lt;p&gt;这就是为什么我现在宁愿花大把时间自己修 Bug，都不愿意把补丁整体打包丢进爱发电里。我怕了，怕又被拿来阴阳怪气，怕又被打上倒狗标签。说真的，再来一次我直接删库跑路。&lt;/p&gt;
-&lt;p&gt;更难绷的是，有人贴脸开大阴阳怪气：“给你百八十块，能不能拉我进群？”
-有钱不赚王八蛋，我也想开群，但我没那个精力纯靠手搓翻译。我英语就简单口语水平，润色几句污言秽语就开始头痛，平时也就爱玩点烂梗。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-timeline-item"&gt;
+&lt;div class="mac-timeline-date"&gt;2024年的旧账&lt;/div&gt;
+&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
+&lt;div class="mac-timeline-content"&gt;
+&lt;h3 class="mac-timeline-title"&gt;关于“倒狗”与接官中的节奏&lt;/h3&gt;
+&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;如果非要说得罪，可能就是以前那几档子事。&lt;/p&gt;
+&lt;p&gt;2024 年，那时候还没 Deepseek，只有 ChatGPT，某宝买 Token 又贵质量又一般。我在音符发图文时，有水友提议大家一起凑点费用跑 AI。结果呢？我直接被打上了“倒狗”的标签。合着我盗我自己的？&lt;/p&gt;
+&lt;p&gt;仅仅因为我跑完 AI 整理了个游戏表格，恰好有圈内大佬做的官中，我就成了众矢之的。我很不理解，你们圈内大佬靠充电进群、拿谷歌精翻设门槛的比比皆是，我却因此被声讨。行，你们青出于蓝，我解散、我道歉。&lt;/p&gt;
+&lt;p&gt;这就是为什么我现在宁愿花大把时间自己修 Bug，都不愿意把补丁整体打包丢进爱发电里。我怕了，怕又被拿来阴阳怪气，怕又被打上倒狗标签。说真的，再来一次我直接删库跑路。&lt;br&gt;
+更难绷的是，有人贴脸开大阴阳怪气：“给你百八十块，能不能拉我进群？”&lt;/p&gt;
+&lt;p&gt;有钱不赚王八蛋，我也想开群，但我没那个精力纯靠手搓翻译。我英语就简单口语水平，润色几句污言秽语就开始头痛，平时也就爱玩点烂梗。&lt;/p&gt;
 &lt;p&gt;这也牵扯到之前《异世界天堂》的节奏了。当时为了午夜直播过审，我仿照《凡人修仙传》搞了点文绉绉的古言翻译加烂梗。确实是当局者迷，但你觉得不合适大可跟我反馈，我跑个正常文风的版本不就完了？特别简单的事，何必咄咄逼人？甚至质问我：“你接官中为什么不向我们打报告？凭什么接官中？我们都有圈子了，何需你一个外人？”&lt;/p&gt;
-&lt;p&gt;行，我推掉官中，并且从那之后，关于官中的事我再也没碰过。
-但有一句话我至今记得，那些串子说：&lt;strong&gt;“你不翻，有的是人翻。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;行，我推掉官中，并且从那之后，关于官中的事我再也没碰过。&lt;/p&gt;
+&lt;p&gt;但有一句话我至今记得，那些串子说：&lt;strong&gt;“你不翻，有的是人翻。”&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;我只能说，牛逼。你们可以不尊重我一个整活的 AI 汉化，但至少得尊重你们圈内认真花时间翻译的大佬吧。对着别人的心血来一句&lt;strong&gt;你不翻有的是人翻&lt;/strong&gt;，我只能说牛逼！&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description></item></channel></rss>
