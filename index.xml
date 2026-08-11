@@ -103,6 +103,27 @@ loading="lazy"
 alt="聊天群"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
+&lt;/div&gt;
+&lt;div class="mac-subscribe"&gt;
+&lt;div class="mac-subscribe-header"&gt;
+&lt;div class="mac-subscribe-icon"&gt;📬&lt;/div&gt;
+&lt;div class="mac-subscribe-text"&gt;
+&lt;h4&gt;获取博文更新通知&lt;/h4&gt;
+&lt;p&gt;第一时间掌握落谦的博文更新动态。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;form
+action="https://buttondown.com/api/emails/embed-subscribe/luoqian2976"
+method="post"
+target="_blank"
+class="mac-subscribe-form"
+&gt;
+&lt;input type="email" name="email" id="bd-email" placeholder="你的电子邮箱 (如 QQ/163/Gmail)" required /&gt;
+&lt;button type="submit" class="mac-subscribe-btn"&gt;立即订阅&lt;/button&gt;
+&lt;/form&gt;
+&lt;div class="mac-subscribe-footer"&gt;
+&lt;a href="https://buttondown.com/refer/luoqian2976" target="_blank"&gt;Powered by Buttondown.&lt;/a&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>PC</title><link>https://luoqian29.github.io/categories/pc/pc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://luoqian29.github.io/categories/pc/pc/</guid><description/></item><item><title>高质量高性价比VPN魔法推荐</title><link>https://luoqian29.github.io/p/vpn/</link><pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/vpn/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPW5OVyaIAALolG?format=jpg&amp;name=4096x4096" alt="Featured image of post 高质量高性价比VPN魔法推荐" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="高质量高性价比vpn魔法推荐"&gt;高质量高性价比VPN魔法推荐
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HPW5OV0awAA7e17?format=jpg&amp;amp;name=large"
