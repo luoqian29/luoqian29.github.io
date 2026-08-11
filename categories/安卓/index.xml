@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>安卓 on 一落归谦</title><link>https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/</link><description>Recent content in 安卓 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Tue, 11 Aug 2026 02:54:52 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/index.xml" rel="self" type="application/rss+xml"/><item><title>Being a DIK 我的大学生活</title><link>https://luoqian29.github.io/p/beingadik/</link><pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/beingadik/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPTpZv1bAAA-kqf?format=jpg&amp;name=medium" alt="Featured image of post Being a DIK 我的大学生活" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>安卓 on 一落归谦</title><link>https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/</link><description>Recent content in 安卓 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Tue, 11 Aug 2026 22:55:16 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/index.xml" rel="self" type="application/rss+xml"/><item><title>Being a DIK 我的大学生活</title><link>https://luoqian29.github.io/p/beingadik/</link><pubDate>Tue, 11 Aug 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/beingadik/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPTpZv1bAAA-kqf?format=jpg&amp;name=medium" alt="Featured image of post Being a DIK 我的大学生活" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="being-a-dik-v0120-drpinkcake"&gt;Being a DIK [v0.12.0] [DrPinkCake]
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/cc7f0e515ba3b54f9907f58941d44a30626f59fc.jpg"
 loading="lazy"
@@ -122,6 +122,13 @@ alt="封面图"
 &lt;span class="reading-update-detail"&gt;修复部分短信文本、地点文本、任务文本不显示汉化的bug&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.11&lt;/time&gt;&lt;span&gt; · 23:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;AI意译汉化补丁&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;史诗级的优化。补丁写入外置模糊匹配mod，现已全面覆盖 Rooster 博客、角色档案与手机短信。无论你的英文存档多么久远或历经何种魔改，都能无视杂乱废案，百分之一百显示汉化，除了我漏提取的文本，但不知跑源代码汉化的中文存档，另外优化了一些不显示汉化文本，修复一些文本报错bug。&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/details&gt;
 &lt;details&gt;
 &lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
@@ -136,7 +143,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -372,7 +379,7 @@ alt="预览图"
 &lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
 &lt;div class="mac-timeline-content"&gt;
 &lt;h3 class="mac-timeline-title"&gt;叠甲 🛡️&lt;/h3&gt;
-&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;OK啊，我们先叠个甲！怎么说呢，第三季的汉化补丁算是制作出来了，但是有个小瑕疵。什么小瑕疵呢？就是 Rooster 博客，以及角色背景的个人信息那里，有些文本是显示不了汉化的。&lt;/p&gt;
+&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;&lt;del&gt;OK啊，我们先叠个甲！怎么说呢，第三季的汉化补丁算是制作出来了，但是有个小瑕疵。什么小瑕疵呢？就是 Rooster 博客，以及角色背景的个人信息那里，有些文本是显示不了汉化的。&lt;/del&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;为什么会出现这种Bug呢？听我给你们盘一盘这个堪称“套娃”的终极难题：&lt;/strong&gt;
 最基础的原因，是游戏源代码里写的文本跟实际渲染出来的文本不一样（比如标点符号、大小写、拼写有差异）。更让人头疼的是这游戏逆天的存档继承机制。游戏不仅分 Steam 版、GOG 版，还有 F95 的学习版。如果你还打了一个外网大佬制作的 Mod，什么？！还有高手！这会产生一个极其恐怖的&lt;strong&gt;排列组合套娃&lt;/strong&gt;：&lt;/p&gt;
 &lt;ul&gt;
@@ -380,7 +387,7 @@ alt="预览图"
 &lt;li&gt;后来你又打了Mod，Mod作者更新时也会修改文本，你又存了档。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;这导致你的旧存档里，死死地裹挟着各种不同版本的英文文本、废弃的标点和错别字！一套接一套，简直是无解的套娃！（当然，有些国内汉化大佬是直接跑源代码修改的，那种本地存档带的是中文，倒无伤大雅。）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这问题有办法解决吗？&lt;/strong&gt; 有！但我先声明，因为这种“套娃”存档的存在，我没有办法像做其他游戏那样“修一处而修复所有”，&lt;strong&gt;我只能用最笨的方法：一个个去穷举&lt;/strong&gt;！怎么穷举？&lt;strong&gt;这需要你们向我反馈&lt;/strong&gt;！请截图那个出问题的具体位置发给我，或者直接把存档发给我，我去对应着修。&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;strong&gt;这问题有办法解决吗？&lt;/strong&gt; 有！但我先声明，因为这种“套娃”存档的存在，我没有办法像做其他游戏那样“修一处而修复所有”，&lt;strong&gt;我只能用最笨的方法：一个个去穷举&lt;/strong&gt;！怎么穷举？&lt;strong&gt;这需要你们向我反馈&lt;/strong&gt;！请截图那个出问题的具体位置发给我，或者直接把存档发给我，我去对应着修。&lt;/del&gt;&lt;/p&gt;
 &lt;p&gt;其实我这人&lt;strong&gt;吃软不吃硬&lt;/strong&gt;，特别好说话。遇到好几个水友，人家都非常有礼貌，你只要好好跟我说，有问题我肯定帮你弄。但如果你非常介意这些小瑕疵，又死活不愿意反馈，那我根本修不了。要是更逆天一点，玩完不反馈，还要跑去那种资源群、聊天群里疯狂吐槽我、阴阳怪气我，那我还给你改吗？我又不是傻子对吧，做也被喷，不做也被喷，那我图啥？&lt;/p&gt;
 &lt;p&gt;如果你非要用这个补丁，请截图那个出问题的具体位置发给我。所以我在开头就先叠过甲了，如果你非常介意这些小瑕疵，然后你又不反馈，那我根本修不了。要是更逆天一点，遇到问题不反馈还跑来阴阳怪气喷我，那我非常建议你不要使用我的补丁。我就是个捣鼓 AI 的半吊子，不是什么大佬，只是个小卡拉米。先叠个甲哈！&lt;/p&gt;
 &lt;/div&gt;
@@ -517,9 +524,9 @@ alt="预览图"
 &lt;a class="link" href="https://vik1ngfile.site/f/KlVfARBogl" target="_blank" rel="noopener"
 &gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/qvN3TM" target="_blank" rel="noopener"
+&lt;a class="link" href="https://gofile.io/d/6dffS0" target="_blank" rel="noopener"
 &gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/MRc4RCFZ" target="_blank" rel="noopener"
+&lt;a class="link" href="https://pixeldrain.com/u/Cxq3Hhhn" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -558,9 +565,9 @@ alt="预览图"
 &lt;a class="link" href="https://vik1ngfile.site/f/KlVfARBogl" target="_blank" rel="noopener"
 &gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/qvN3TM" target="_blank" rel="noopener"
+&lt;a class="link" href="https://gofile.io/d/6dffS0" target="_blank" rel="noopener"
 &gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/MRc4RCFZ" target="_blank" rel="noopener"
+&lt;a class="link" href="https://pixeldrain.com/u/Cxq3Hhhn" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;主体 APK：&lt;/strong&gt;
 &lt;a class="link" href="https://gofile.io/d/NdLXbH" target="_blank" rel="noopener"
@@ -610,9 +617,9 @@ alt="预览图"
 &lt;a class="link" href="https://vik1ngfile.site/f/KlVfARBogl" target="_blank" rel="noopener"
 &gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/qvN3TM" target="_blank" rel="noopener"
+&lt;a class="link" href="https://gofile.io/d/6dffS0" target="_blank" rel="noopener"
 &gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/MRc4RCFZ" target="_blank" rel="noopener"
+&lt;a class="link" href="https://pixeldrain.com/u/Cxq3Hhhn" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -1116,7 +1123,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -1471,7 +1478,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -2353,7 +2360,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -2981,7 +2988,7 @@ But should it be his biggest worry?​&lt;/p&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -3347,7 +3354,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -3814,7 +3821,7 @@ Don&amp;rsquo;t expect a bunch of new content. I prioritized a strong technical 
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -4135,7 +4142,7 @@ You play as a former Fighter from one of these communities. But fate had other p
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -4519,7 +4526,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -4770,7 +4777,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -5065,7 +5072,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -5816,7 +5823,7 @@ Discover what you left behind. Rekindle old friendships, start new relationships
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -6253,7 +6260,7 @@ Your choices will not only shape the relationships you have with others, but als
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -6517,7 +6524,7 @@ Simple, right? But soon, things start to feel&amp;hellip; off. Familiar faces lo
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -6826,7 +6833,7 @@ What will you choose? To drown in this dazzling city of sin, or… to become a d
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -7389,7 +7396,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -7668,7 +7675,7 @@ This is an original story, starting with two chapters. The first chapter is avai
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -7996,7 +8003,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -8367,7 +8374,7 @@ unforeseen relationships slowly rewrite everything they thought they believ​&l
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -8719,7 +8726,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -9171,7 +9178,7 @@ Sin, violence, desperation… and desire. Your choices will shape the balance of
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -9581,7 +9588,7 @@ What is the true purpose of a life that has lost its direction?​&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -9965,7 +9972,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -10339,7 +10346,7 @@ Sounds are only present in content from the v0.35 update onwards. Earlier conten
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -10697,7 +10704,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -11040,7 +11047,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -11559,7 +11566,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -11796,7 +11803,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -12103,7 +12110,7 @@ High-quality graphics, with polished renders and visually appealing scenes throu
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -12427,7 +12434,7 @@ Driven by loyalty and guilt, he steps in to help&amp;hellip;​&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -12809,7 +12816,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -13178,7 +13185,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -13442,7 +13449,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -13800,7 +13807,7 @@ In the near future, power doesn’t live in the open. It lives in quiet rooms, d
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -14161,7 +14168,7 @@ Will you be there with them in their journey as they try to find Something Bette
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -14566,7 +14573,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -14968,7 +14975,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -15433,7 +15440,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -15751,7 +15758,7 @@ During this journey, the reclusive you gradually made many friends who seemed to
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -16019,7 +16026,7 @@ Meanwhile, he&amp;rsquo;ll have some fun.​&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -16402,7 +16409,7 @@ Will the Principal use his position to satisfy the ever controlling Board, or wi
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -16790,7 +16797,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -17146,7 +17153,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -17428,7 +17435,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -17747,7 +17754,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -18068,7 +18075,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -18526,7 +18533,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -18861,7 +18868,7 @@ Or will the affairs meet their tragic end&amp;hellip;&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -19276,7 +19283,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -19674,7 +19681,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -20118,7 +20125,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -20463,7 +20470,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -21094,7 +21101,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -21792,7 +21799,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -22143,7 +22150,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -22627,7 +22634,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -23008,7 +23015,7 @@ This story focuses on her life after 5 years of divorce, as she battles with the
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -23378,7 +23385,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -23661,7 +23668,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -23965,7 +23972,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -24312,7 +24319,7 @@ And just at the very end, when it seems like everything should be over, she find
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -24568,7 +24575,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -24893,7 +24900,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -25159,7 +25166,7 @@ Every girl has her own rhythm, her own story to share, and you can grow closer t
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -25454,7 +25461,7 @@ Fetish stuff like trap, ntr, whatever, is optional&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -25887,7 +25894,7 @@ Play through this science fiction game as a dateless nerd looking for love in al
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -26244,7 +26251,7 @@ Immerse yourself in a story of intricate relationships, where every moment is ch
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -26644,7 +26651,7 @@ NTR paths are fully optional—your journey, your rules.&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -27198,7 +27205,7 @@ Formerly known as &amp;ldquo;NSFW - A Porn Anthology&amp;rdquo;&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -27588,7 +27595,7 @@ where casual conversations and accidental glances slowly grow into forbidden tho
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -27919,7 +27926,7 @@ A storm of emotions crashes into Damian, just as he steps into adulthood, pullin
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -28311,7 +28318,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -28619,7 +28626,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -29053,7 +29060,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -29436,7 +29443,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -30056,7 +30063,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -30349,7 +30356,7 @@ title="YouTube Video"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -30687,7 +30694,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -30981,7 +30988,7 @@ Will you discover The Nature of Magic?&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -31404,7 +31411,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -31836,7 +31843,7 @@ There are so many interesting characters waiting for you. All you need to do is 
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -32089,7 +32096,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -32504,7 +32511,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -32838,7 +32845,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -33329,7 +33336,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -33691,7 +33698,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -34291,7 +34298,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -34641,7 +34648,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -35154,7 +35161,7 @@ If so, I wish you luck. You&amp;rsquo;ll need it.&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -35521,7 +35528,7 @@ Divinity is an erotic Adult Visual Novel with horror themes set in a fantasy, la
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -36107,7 +36114,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -36408,7 +36415,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -36782,7 +36789,7 @@ Will he make the most of this situation?​&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -37137,7 +37144,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -37520,7 +37527,7 @@ As demonic forces rise, you&amp;rsquo;re pulled back into the very conflict you 
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -37887,7 +37894,7 @@ Well, the answer is only up to you.&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -38244,7 +38251,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -38582,7 +38589,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -38973,7 +38980,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -39250,7 +39257,7 @@ The current chapter, Playhouse, is a two-episode arc.&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -39634,7 +39641,7 @@ Well&amp;hellip; That’s up to you now.&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -40115,7 +40122,7 @@ The current chapter, Playhouse, is a two-episode arc.&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -40438,7 +40445,7 @@ Will you be a merciless hunter or a virtuous savior?​&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -40801,7 +40808,7 @@ NTR paths are fully optional—your journey, your rules.&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -41179,7 +41186,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -41542,7 +41549,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -41916,7 +41923,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -42305,7 +42312,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -42657,7 +42664,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -42882,7 +42889,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -43159,7 +43166,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -43586,7 +43593,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -44006,7 +44013,7 @@ Fucking girls for a living? Sounds fun, ain&amp;rsquo;t it &amp;hellip;?&lt;/li&
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -44277,7 +44284,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -44582,7 +44589,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -44957,7 +44964,7 @@ you care about and the fate of humanity itself?&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -45250,7 +45257,7 @@ What awaits you? What kind of people will you meet? And obviously, how many girl
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -45589,7 +45596,7 @@ Let&amp;rsquo;s just say he has a very big advantage in finding a suitable partn
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -45962,7 +45969,7 @@ Hop on in and find out for yourself!~&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -46262,7 +46269,7 @@ Meet your potential love interests who can accompany you on your way out or watc
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -46640,7 +46647,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -47372,7 +47379,7 @@ And then you will have to choose: fight to survive or be consumed by the virus w
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -47613,7 +47620,7 @@ Eimi&amp;rsquo;s NTS life is a fast-paced, laid-back netorase story with branchi
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -47982,7 +47989,7 @@ As Elly, you&amp;rsquo;ll navigate the delicate balance between maintaining the 
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -48272,7 +48279,7 @@ Something ancient is waking up inside you, granting you terrifying powers that b
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -48551,7 +48558,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -48958,7 +48965,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -49892,7 +49899,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -50604,7 +50611,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -51078,7 +51085,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -51454,7 +51461,7 @@ Gameplay trailer&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -51941,7 +51948,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -52317,7 +52324,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -52787,7 +52794,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -53269,7 +53276,7 @@ Stewie has failed to prevent his near-death experience and Stu must go back to t
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -53656,7 +53663,7 @@ You&amp;rsquo;ve been living among beautiful girls in the Kingdom, yet, you stil
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -53952,7 +53959,7 @@ And of course, date the girls. It&amp;rsquo;s up to you to become the heartbreak
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -54291,7 +54298,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -54603,7 +54610,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -55045,7 +55052,7 @@ But what will it take to keep that promise?&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -55345,7 +55352,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -55725,7 +55732,7 @@ And don&amp;rsquo;t forget to explore the town, everywhere you look there&amp;rs
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -56042,7 +56049,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -56441,7 +56448,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -56755,7 +56762,7 @@ Expect a game rich in story, with complex characters, emotional twists and turns
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -57112,7 +57119,7 @@ They are not here to be judged. They are here because something inside them answ
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -57377,7 +57384,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -57792,7 +57799,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -58274,7 +58281,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -58570,7 +58577,7 @@ Set In the medieval era, Kingdom of Lust is a story of young Prince who lives a 
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -58884,7 +58891,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -59610,7 +59617,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -59981,7 +59988,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -60351,7 +60358,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -60668,7 +60675,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -61135,7 +61142,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -61731,7 +61738,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -62054,7 +62061,7 @@ Prepare for a journey of suspense, mystery, and supernatural twists as you delve
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -62531,7 +62538,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -62851,7 +62858,7 @@ One day, Marcus is a presented with a work opportunity that would have him movin
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -63223,7 +63230,7 @@ More, Teaser and Character Introduction&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -63569,7 +63576,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -63944,7 +63951,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -64300,7 +64307,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -64897,7 +64904,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -65378,7 +65385,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -65674,7 +65681,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -65979,7 +65986,7 @@ uncover side characters’ lives, and dive into a world full of action, drama, a
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -66354,7 +66361,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -66690,7 +66697,7 @@ You will also have to manage the academy and learn a few secrets. Young women ea
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -67057,7 +67064,7 @@ Enjoy the show and remember:&lt;/p&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -67325,7 +67332,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -67713,7 +67720,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -68136,7 +68143,7 @@ Unable to stay alone, you seek refuge at a childhood friend&amp;rsquo;s house, w
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -68507,7 +68514,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -68868,7 +68875,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -69379,7 +69386,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -69792,7 +69799,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -70108,7 +70115,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -70588,7 +70595,7 @@ This is a story about temptation, escalation, and the cost of wanting more. Whet
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -70962,7 +70969,7 @@ The game will be massive with interactions, mini games, quests, college girls, p
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -71292,7 +71299,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -71697,7 +71704,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -72357,7 +72364,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -72741,7 +72748,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -73124,7 +73131,7 @@ He will become obsessed with Yuria the moment he sees her, will Yuria be able to
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -73449,7 +73456,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -73734,7 +73741,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -74199,7 +74206,7 @@ But, as often happens, things do not go according to plan. One day, when your wi
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -74569,7 +74576,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -74874,7 +74881,7 @@ A guy. A girl. A pair of handcuffs. And a lot of kinky sex.​&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -75244,7 +75251,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -75613,7 +75620,7 @@ However, everything changes when a woman named Sarah visits him and opens up a n
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -76200,7 +76207,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -76582,7 +76589,7 @@ and you&amp;rsquo;d be dead if it wasn&amp;rsquo;t due to a man who called himse
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -76940,7 +76947,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -77240,7 +77247,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -77609,7 +77616,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -77990,7 +77997,7 @@ Elisa’s solo ending&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -78359,7 +78366,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -78668,7 +78675,7 @@ Because your family is going through a crisis, you need to revive your family, m
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -79044,7 +79051,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -79407,7 +79414,7 @@ The story moves fast with no slow burn: steamy yoga + wine scenes with the hot M
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -79702,7 +79709,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -79973,7 +79980,7 @@ This epic adventure in the Northern lands will let you explore the ancient Norse
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -80379,7 +80386,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -80752,7 +80759,7 @@ High quality renders with fully animated lewd scenes and immersive gameplay. The
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -81061,7 +81068,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -81438,7 +81445,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -81769,7 +81776,7 @@ and you&amp;rsquo;d be dead if it wasn&amp;rsquo;t due to a man who called himse
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -82177,7 +82184,7 @@ No matter what you choose, you&amp;rsquo;ll feel the heat.​&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -82555,7 +82562,7 @@ However, if you look close enough, you&amp;rsquo;ll discover that Dreamland also
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -82985,7 +82992,7 @@ But one fateful encounter plunges you into the middle of a conspiracy filled wit
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -83439,7 +83446,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -83804,7 +83811,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -84174,7 +84181,7 @@ A ruthless warlord carving out her empire silver-tongued treasure hunter seeking
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -84439,7 +84446,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -84828,7 +84835,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -85186,7 +85193,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -85631,7 +85638,7 @@ title="YouTube Video"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -86448,7 +86455,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -86829,7 +86836,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -87222,7 +87229,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -87613,7 +87620,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -88020,7 +88027,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -88508,7 +88515,7 @@ However, given the way you&amp;rsquo;ve been treated in the past, you decide tha
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -88881,7 +88888,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -89348,7 +89355,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -89681,7 +89688,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -90079,7 +90086,7 @@ title="YouTube Video"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -90525,7 +90532,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -91267,7 +91274,7 @@ An ordinary guy from an ordinary family unexpectedly enters one of the best univ
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -91649,7 +91656,7 @@ Determine to face your new future , you headed to the A.O.A Academy.&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -92044,7 +92051,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -92348,7 +92355,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -92740,7 +92747,7 @@ This version has been completely rebuilt in Ren&amp;rsquo;Py.&lt;/li&gt;
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -93058,7 +93065,7 @@ If you experience an error on launch with &amp;ldquo;File &amp;ldquo;game/defini
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -93455,7 +93462,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -93836,7 +93843,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -94309,7 +94316,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -94597,7 +94604,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -94961,7 +94968,7 @@ This v0.1 introduces the world, the tension, and the first steps into the story.
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -95331,7 +95338,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -95683,7 +95690,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -95923,7 +95930,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -96141,7 +96148,7 @@ Later, in Mc’s hotel room, he encounter a female ghost named Molly, who has lo
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -96356,7 +96363,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -96544,7 +96551,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -96740,7 +96747,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -96962,7 +96969,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -97198,7 +97205,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -97436,7 +97443,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -97683,7 +97690,7 @@ Come and unravel the secrets behind the MC’s missing father and all the unexpe
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -97958,7 +97965,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -98216,7 +98223,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -98491,7 +98498,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -98740,7 +98747,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -98989,7 +98996,7 @@ title="YouTube Video"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -99222,7 +99229,7 @@ alt="封面图"
 &lt;details&gt;
 &lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
 &lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s1NH6SENa"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
 scrolling="no"
 frameborder="no"
 framespacing="0"
