@@ -126,7 +126,7 @@ alt="封面图"
 &lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.11&lt;/time&gt;&lt;span&gt; · 23:00&lt;/span&gt;&lt;/span&gt;
 &lt;div class="reading-update-main"&gt;
 &lt;strong class="reading-update-version"&gt;AI意译汉化补丁&lt;/strong&gt;
-&lt;span class="reading-update-detail"&gt;史诗级的优化。补丁写入外置模糊匹配mod，现已全面覆盖 Rooster 博客、角色档案与手机短信。无论你的英文存档多么久远或历经何种魔改，都能无视杂乱废案，百分之一百显示汉化，除了我漏提取的文本，但不知跑源代码汉化的中文存档，另外优化了一些不显示汉化文本，修复一些文本报错bug。&lt;/span&gt;
+&lt;span class="reading-update-detail"&gt;史诗级的优化。补丁写入外置模糊匹配mod，现已全面覆盖 Rooster 博客、角色档案与手机短信。无论你的英文存档多么久远或历经何种魔改，都能无视杂乱废案，百分之一百显示汉化，除了我漏提取的文本，但不知跑源代码汉化的中文存档，另外优化了一些不显示汉化文本，修复一些文本报错bug&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/details&gt;
