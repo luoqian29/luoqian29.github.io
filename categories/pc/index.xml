@@ -1,326 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PC on 一落归谦</title><link>https://luoqian29.github.io/categories/pc/</link><description>Recent content in PC on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Wed, 12 Aug 2026 14:04:43 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/pc/index.xml" rel="self" type="application/rss+xml"/><item><title>Growing Things Up 金鸡独立</title><link>https://luoqian29.github.io/p/growingthingsup/</link><pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/growingthingsup/</guid><description>&lt;img src="https://img.itch.zone/aW1nLzE4NjQ3MjUyLnBuZw==/original/dSnnqN.png" alt="Featured image of post Growing Things Up 金鸡独立" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
-&lt;h1 id="growing-things-up-s1-v107a-kinkbr"&gt;Growing Things Up [S1 v1.07a] [Kinkbr]
-&lt;/h1&gt;&lt;p&gt;&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3910610/d34d21160bd9d1c29fb0b2cdb6e426d984178c3a/ss_d34d21160bd9d1c29fb0b2cdb6e426d984178c3a.1920x1080.jpg?t=1768742693"
-loading="lazy"
-alt="封面图"
-&gt;&lt;/p&gt;
-&lt;h1 id="overview"&gt;Overview
-&lt;/h1&gt;&lt;details&gt;
-&lt;summary&gt;剧情概要&lt;/summary&gt;
-&lt;p&gt;一部关于欲望、信任以及我们甚至试图向自己隐瞒的秘密的成人视觉小说。在 South Lake，每一个选择都会揭示伤疤、无声的操纵以及那些让你更接近或更远离真实自我的道路。&lt;/p&gt;
-&lt;/details&gt;
-&lt;h2 id="details"&gt;Details
-&lt;/h2&gt;&lt;details class="reading-note reading-game-info"&gt;
-&lt;summary&gt;游戏信息&lt;/summary&gt;
-&lt;div class="mac-list-container reading-game-info-list"&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏玩法&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;视觉小说&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;建模引擎&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;Daz Studio&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;运行引擎&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;Ren&amp;rsquo;Py&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏画风&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;欧美风&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;当前版本&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;Season 1 - 1.07a&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;发行日期&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;2026-07-30&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;h2 id="developer入正地址"&gt;Developer（入正地址）
-&lt;/h2&gt;&lt;p&gt;&lt;a class="link" href="https://www.patreon.com/kinkbr" target="_blank" rel="noopener"
-&gt;Patreon&lt;/a&gt;
-&lt;a class="link" href="https://growingthingsup.itch.io/growing-things-up" target="_blank" rel="noopener"
-&gt;Itch.io&lt;/a&gt;
-&lt;a class="link" href="https://store.steampowered.com/app/3910610/Growing_Things_Up__Season_1/" target="_blank" rel="noopener"
-&gt;Steam&lt;/a&gt;
-&lt;a class="link" href="https://discord.com/invite/3g95M9ZUt9" target="_blank" rel="noopener"
-&gt;Discord&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id="落谦酱便利贴"&gt;落谦酱便利贴
-&lt;/h2&gt;&lt;details&gt;
-&lt;summary style="color:#c81e1e;font-weight:600;"&gt;PS&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;del&gt;有空再做选项mod。&lt;/del&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;details class="reading-note reading-changelog"&gt;
-&lt;summary style="color:#00A1D6;"&gt;博文更新日志&lt;/summary&gt;
-&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
-&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.12&lt;/time&gt;&lt;span&gt; · 19:00&lt;/span&gt;&lt;/span&gt;
-&lt;div class="reading-update-main"&gt;
-&lt;strong class="reading-update-version"&gt;Season 1 - 1.07a&lt;/strong&gt;
-&lt;span class="reading-update-detail"&gt;AI意译汉化补丁&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
-&lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
-scrolling="no"
-frameborder="no"
-framespacing="0"
-allowfullscreen="true"
-&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="游戏预览图"&gt;游戏预览图
-&lt;/h2&gt;&lt;details class="reading-note reading-gallery"&gt;
-&lt;summary style="color:#c81e1e;font-weight:600;"&gt;荤图&lt;/summary&gt;
-&lt;p&gt;&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3910610/3b4bec92c3d6901a847838772953624680567b24/ss_3b4bec92c3d6901a847838772953624680567b24.1920x1080.jpg?t=1768742693"
-loading="lazy"
-alt="预览图"
-&gt;&lt;/p&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
-&lt;/h2&gt;&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;
-&lt;a class="link" href="https://vik1ngfile.site/f/2UvKhUenFl" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/TXaSdXaB" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;解压&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;文件，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;
-&lt;a class="link" href="https://vik1ngfile.site/f/rovm2pZaIC" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/Tzw5foep" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;启动&lt;strong&gt;游戏&lt;/strong&gt;，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
-&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;
-&lt;a class="link" href="https://vik1ngfile.site/f/2UvKhUenFl" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/TXaSdXaB" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;官中原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
-&lt;li&gt;然后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
-&lt;/h2&gt;&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;
-&lt;a class="link" href="https://vik1ngfile.site/f/F8cHIb7c7a" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/etrapxtq" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;
-&lt;a class="link" href="https://vik1ngfile.site/f/F8cHIb7c7a" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/etrapxtq" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="画廊mod"&gt;画廊Mod
-&lt;/h2&gt;&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;画廊 Mod：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/GFCv0c" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;画廊 Mod：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/GFCv0c" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
-&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Documents/RenPy_Saves/com.luoqian.GrowingThingsUp/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
-&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;画廊 Mod：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/GFCv0c" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
-&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;我的iPhone/Spark/games/GrowingThingsUp/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="使用帮助"&gt;使用帮助
-&lt;/h2&gt;&lt;div class="mac-list-container reading-help"&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;网络连接&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果打不开链接请科学上网，没有梯子可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/p/vpn/" target="_blank" rel="noopener"
-&gt;博文&lt;/a&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;安装教程&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果看不懂安装步骤，可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/about/" target="_blank" rel="noopener"
-&gt;博文&lt;/a&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;问题反馈&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果操作过程中遇到Bug或其他问题，欢迎在博文评论区留言反馈&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;创作支持&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果本文对你有帮助，欢迎在&lt;a class="link" href="https://afdian.com/a/luoqian" target="_blank" rel="noopener"
-&gt;爱发电&lt;/a&gt;投喂落谦&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;幸好有你&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr&gt;
-&lt;h2 id="宇宙安全声明"&gt;宇宙安全声明！
-&lt;/h2&gt;&lt;aside class="reading-notice" role="note"&gt;
-&lt;p&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播。&lt;br&gt;
-落谦不对因使用本文所产生的任何问题负责。&lt;/p&gt;
-&lt;/aside&gt;
-&lt;/div&gt;</description></item><item><title>Being a DIK 我的大学生活</title><link>https://luoqian29.github.io/p/beingadik/</link><pubDate>Tue, 11 Aug 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/beingadik/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPTpZv1bAAA-kqf?format=jpg&amp;name=medium" alt="Featured image of post Being a DIK 我的大学生活" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PC on 一落归谦</title><link>https://luoqian29.github.io/categories/pc/</link><description>Recent content in PC on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Sun, 16 Aug 2026 06:40:00 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/pc/index.xml" rel="self" type="application/rss+xml"/><item><title>Being a DIK 我的大学生活</title><link>https://luoqian29.github.io/p/beingadik/</link><pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/beingadik/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPTpZv1bAAA-kqf?format=jpg&amp;name=medium" alt="Featured image of post Being a DIK 我的大学生活" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="being-a-dik-v0120-drpinkcake"&gt;Being a DIK [v0.12.0] [DrPinkCake]
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/cc7f0e515ba3b54f9907f58941d44a30626f59fc.jpg"
 loading="lazy"
@@ -451,13 +129,27 @@ alt="封面图"
 &lt;span class="reading-update-detail"&gt;史诗级的优化。补丁写入外置模糊匹配mod，现已全面覆盖 Rooster 博客、角色档案与手机短信。无论你的英文存档多么久远或历经何种魔改，都能无视杂乱废案，百分之一百显示汉化，除了我漏提取的文本，但不知跑源代码汉化的中文存档，另外优化了一些不显示汉化文本，修复一些文本报错bug&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.16&lt;/time&gt;&lt;span&gt; · 07:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;0.12.0&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;Harem Mod&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.16&lt;/time&gt;&lt;span&gt; · 07:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;AI意译汉化补丁&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;修复一些不显示汉化的动态文本，以及集成Harem Mod/后宫mod的对应汉化文本&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/details&gt;
 &lt;details&gt;
 &lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3 / DeepSeek-V3.1-Terminus&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;制作日期：&lt;strong&gt;2026-08-10&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;制作日期：&lt;strong&gt;2026-08-16&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;PS：由于AI会出现&lt;strong&gt;幻觉&lt;/strong&gt;，那么文本上下文中，偶尔会出现人名&lt;strong&gt;翻译误差&lt;/strong&gt;、&lt;strong&gt;中英文&lt;/strong&gt;夹杂、以及&lt;strong&gt;突兀文风&lt;/strong&gt;的句子。目前落谦也只能统一&lt;strong&gt;主要角色&lt;/strong&gt;的人名，但难免还是会有&lt;strong&gt;个别遗漏&lt;/strong&gt;，毕竟落谦只有&lt;strong&gt;一个人&lt;/strong&gt;，时间和精力确实&lt;strong&gt;有限&lt;/strong&gt;。至于一些&lt;strong&gt;小名&lt;/strong&gt;、&lt;strong&gt;昵称&lt;/strong&gt;、&lt;strong&gt;缩写称呼&lt;/strong&gt;、&lt;strong&gt;称谓&lt;/strong&gt;、&lt;strong&gt;地点&lt;/strong&gt;、&lt;strong&gt;事件&lt;/strong&gt;，以及&lt;strong&gt;专有名词&lt;/strong&gt;，还有类似&lt;strong&gt;sister、brother&lt;/strong&gt;这种&lt;strong&gt;一词多义&lt;/strong&gt;的单词，则需要人工&lt;strong&gt;边玩边修正&lt;/strong&gt;。当然，如果在统一主要角色人名时，发现了&lt;strong&gt;相关专有名词&lt;/strong&gt;，也会&lt;strong&gt;顺手统一&lt;/strong&gt;一下。还请大家多多谅解，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;免死金牌：&lt;strong&gt;落谦的汉化补丁，无论是&lt;/strong&gt;AI意译&lt;/strong&gt;版本还是&lt;strong&gt;逐句意译&lt;/strong&gt;版本，都远不及&lt;strong&gt;原文&lt;/strong&gt;或&lt;strong&gt;其他大佬&lt;/strong&gt;的汉化版本。与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电&lt;/strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class="blur"&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -741,7 +433,7 @@ alt="预览图"
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;图片精修：Codex。&lt;/strong&gt;
-这次有些图片我进行了 P 图处理，但我自己不会用 PS，所以我用的是 Codex 这个 AI 来弄。Codex 消耗了我 Plus 会员（约 140 元/月）周额度的 30%，大家可以自己算算这笔费用。&lt;/p&gt;
+这次有些图片我进行了P图处理，但我自己不会用 PS，所以我用的是 Codex 这个 AI 来弄。Codex 消耗了我 Plus 会员（约 140 元/月）周额度的 30%，大家可以自己算算这笔费用。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;代码与 Mod：Gemini (反重力)。&lt;/strong&gt;
@@ -799,16 +491,44 @@ alt="预览图"
 &lt;/details&gt;
 &lt;details class="reading-platform"&gt;
 &lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;完整体mod&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;Mod&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;span class="reading-platform-title"&gt;PS²&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;距离上次更新过了四五天啊，因为最近确实没空。&lt;br&gt;
+一是工作很忙。二是确实没时间出来做补丁。&lt;br&gt;
+三是因为我的汉化工具出了点小问题，这两天都用Codex或者反重力在优化那个工具，到时候更新Renpy引擎教程的时候，顺便把这个工具做的比较无脑一点嘛。现在的话是需要你解包什么乱七八糟的，到时候做一键就能翻译的那种。&lt;br&gt;
+总之就这样子吧，还是希望大家能够继续的向我反馈一些不显示汉化的文本。其大多文本都是一些变量文本、动态文本，这些的话都要去写一些外置mod啊，或者使用replace代码进行替换啊，又或者是一些mod 的问题。&lt;br&gt;
+不过现在的话，补丁已经支持了两个mod，一个是后宫mod，一个是多功能mod，对应的汉化文本。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Multi Mod&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;Mod&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
 &lt;/summary&gt;
 &lt;div class="reading-platform-body"&gt;
 &lt;p&gt;&lt;a class="link" href="https://gofile.io/d/ak1Wr2" target="_blank" rel="noopener"
 &gt;GOFILE&lt;/a&gt;
 &lt;a class="link" href="https://pixeldrain.com/u/abhRd733" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;
-这里提供一个完整体mod，就包含选项mod还有作弊mod。目前我是把对应的汉化文本是集成到补丁里的，所以得搭配补丁进行使用，依旧是game文件夹覆盖game文件夹。&lt;br&gt;
-然后如果有漏提取的那些选项，你可以向我反馈一下。目前我最近比较忙，没什么时间啊。&lt;br&gt;
-博客底下是可以发图传链接的，你可以发图传链接，或者是通过绿泡泡或者是TG私信发图给我。总之就这样子了&lt;/p&gt;
+这里提供一个Multi Mod，这是一位外网大佬制作的多功能模组，模组是包含选项mod、攻略mod以及作弊mod等等一些画廊mod解锁之类的。&lt;br&gt;
+目前的话是一个旧版本的。因为这个模组一直在更新，我是想等它更新到最终版，再把最终版的对应汉化本集成到补丁里面。&lt;br&gt;
+所以如果你要打的话，怎么打呢？依旧得是搭配补丁进行使用，然后是Game文件夹覆盖Game文件夹即可。&lt;br&gt;
+我也不清楚有没有漏提取的那些选项。反正的话，有些选项如果显示英文是绿色的话，就是我提取漏了，你可以截图发存档，向我反馈。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Harem Mod&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;Mod&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/Oy6QEWLN" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/tFfaPrTh" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;
+这里提供一个Harem Mod，顾名思义啊，就是后宫线mod，原游戏是没有的，但外网有大佬拿了ChatGPT 5.6Sol制作了这样的mod。&lt;br&gt;
+至于功能的话，就是魔改上面那个SP多功能模组的，该有的功能都有了，只是比SP那个多了一个后宫线的。&lt;br&gt;
+不过应该可以吧，毕竟使用了5.6 Sol比较屌的模型啊。我最近也是在使用，就是烧token有点多，我不知道它烧了多少token，至少可能烧了一个Pro会员吧。&lt;br&gt;
+那怎么打呢？依旧是Game文件夹覆盖Game文件夹这个。当然，这个mod也是在一直在更新，所以我这里的话应该也算是旧版本，因为那些mod都是一天更新好几次。我不清楚他们会什么时候发最终版，等最终版发布了，你可以提醒我，我再去更新一下&lt;/p&gt;
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;details class="reading-platform"&gt;
@@ -846,9 +566,9 @@ alt="预览图"
 &lt;a class="link" href="https://vik1ngfile.site/f/KlVfARBogl" target="_blank" rel="noopener"
 &gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/6dffS0" target="_blank" rel="noopener"
+&lt;a class="link" href="https://gofile.io/d/olKDP2CK" target="_blank" rel="noopener"
 &gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/Cxq3Hhhn" target="_blank" rel="noopener"
+&lt;a class="link" href="https://pixeldrain.com/u/aorogZUP" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -887,9 +607,9 @@ alt="预览图"
 &lt;a class="link" href="https://vik1ngfile.site/f/KlVfARBogl" target="_blank" rel="noopener"
 &gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/6dffS0" target="_blank" rel="noopener"
+&lt;a class="link" href="https://gofile.io/d/olKDP2CK" target="_blank" rel="noopener"
 &gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/Cxq3Hhhn" target="_blank" rel="noopener"
+&lt;a class="link" href="https://pixeldrain.com/u/aorogZUP" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;主体 APK：&lt;/strong&gt;
 &lt;a class="link" href="https://gofile.io/d/NdLXbH" target="_blank" rel="noopener"
@@ -939,9 +659,9 @@ alt="预览图"
 &lt;a class="link" href="https://vik1ngfile.site/f/KlVfARBogl" target="_blank" rel="noopener"
 &gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/6dffS0" target="_blank" rel="noopener"
+&lt;a class="link" href="https://gofile.io/d/olKDP2CK" target="_blank" rel="noopener"
 &gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/Cxq3Hhhn" target="_blank" rel="noopener"
+&lt;a class="link" href="https://pixeldrain.com/u/aorogZUP" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -1287,6 +1007,694 @@ alt="预览图"
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;我的iPhone/Spark/games/BeingADIK/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="使用帮助"&gt;使用帮助
+&lt;/h2&gt;&lt;div class="mac-list-container reading-help"&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;网络连接&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果打不开链接请科学上网，没有梯子可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/p/vpn/" target="_blank" rel="noopener"
+&gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;安装教程&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果看不懂安装步骤，可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/about/" target="_blank" rel="noopener"
+&gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;问题反馈&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果操作过程中遇到Bug或其他问题，欢迎在博文评论区留言反馈&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;创作支持&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果本文对你有帮助，欢迎在&lt;a class="link" href="https://afdian.com/a/luoqian" target="_blank" rel="noopener"
+&gt;爱发电&lt;/a&gt;投喂落谦&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;幸好有你&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="宇宙安全声明"&gt;宇宙安全声明！
+&lt;/h2&gt;&lt;aside class="reading-notice" role="note"&gt;
+&lt;p&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播。&lt;br&gt;
+落谦不对因使用本文所产生的任何问题负责。&lt;/p&gt;
+&lt;/aside&gt;
+&lt;/div&gt;</description></item><item><title>Shattered Minds 破碎的心灵</title><link>https://luoqian29.github.io/p/shatteredminds/</link><pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/shatteredminds/</guid><description>&lt;img src="https://cdn-public.oppaiman.com/cover-photos/extasy_games.png" alt="Featured image of post Shattered Minds 破碎的心灵" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+&lt;h1 id="shattered-minds-v028-beta-extasy-games"&gt;Shattered Minds [v0.28 Beta] [eXtasy Games]
+&lt;/h1&gt;&lt;p&gt;&lt;img src="https://img.itch.zone/aW1nLzIwNzIwMzE5LmpwZw==/original/JPnvi1.jpg"
+loading="lazy"
+alt="封面图"
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="overview"&gt;Overview
+&lt;/h1&gt;&lt;details&gt;
+&lt;summary&gt;剧情概要&lt;/summary&gt;
+&lt;p&gt;Shattered Minds is an open-world game, in which you take control over the life of a college student.&lt;br&gt;
+Your normal life is thrown out of whack after you realize you have the power to control the minds of others.&lt;br&gt;
+You will use this power to make all your dreams, desires and wishes come true!&lt;br&gt;
+A world with countless quests, figures, plots and locations are waiting to be discovered and controlled by you!&lt;br&gt;
+Shattered Minds includes plenty of animations, a licensed soundtrack and atmospheric sound effects!&lt;br&gt;
+Be ready to experience a game full of sexy adventures!&lt;br&gt;
+All paired with a thrilling, mysterious yet humorous plot.&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="details"&gt;Details
+&lt;/h2&gt;&lt;details class="reading-note reading-game-info"&gt;
+&lt;summary&gt;游戏信息&lt;/summary&gt;
+&lt;div class="mac-list-container reading-game-info-list"&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏玩法&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;沙盒视觉小说&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;建模引擎&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;Daz Studio&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;运行引擎&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;Ren&amp;rsquo;Py&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏画风&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;欧美风&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;当前版本&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;0.28&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;发行日期&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;2026-08-07&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="developer入正地址"&gt;Developer（入正地址）
+&lt;/h2&gt;&lt;p&gt;&lt;a class="link" href="https://www.patreon.com/extasy_games" target="_blank" rel="noopener"
+&gt;Patreon&lt;/a&gt;
+&lt;a class="link" href="https://extasy-games.itch.io/shattered-minds" target="_blank" rel="noopener"
+&gt;Itch.io&lt;/a&gt;
+&lt;a class="link" href="https://store.steampowered.com/app/2713690/Shattered_Minds/" target="_blank" rel="noopener"
+&gt;Steam&lt;/a&gt;
+&lt;a class="link" href="https://discord.com/invite/JVvYG8YKXQ" target="_blank" rel="noopener"
+&gt;Discord&lt;/a&gt;
+&lt;a class="link" href="https://www.instagram.com/extasy_games" target="_blank" rel="noopener"
+&gt;Instagram&lt;/a&gt;
+&lt;a class="link" href="https://subscribestar.adult/extasy-games" target="_blank" rel="noopener"
+&gt;Subscribestar&lt;/a&gt;
+&lt;a class="link" href="https://x.com/Fates_Game" target="_blank" rel="noopener"
+&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="落谦酱便利贴"&gt;落谦酱便利贴
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary style="color:#c81e1e;font-weight:600;"&gt;PS&lt;/summary&gt;
+&lt;p&gt;因为是伪沙盒机制的视觉小说，所以还没玩，就只是看了一下CG，感觉一般吧，但是建模挺符合我的审美。&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class="reading-note reading-changelog"&gt;
+&lt;summary style="color:#00A1D6;"&gt;博文更新日志&lt;/summary&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.16&lt;/time&gt;&lt;span&gt; · 07:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;0.12.0&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;官中原版&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
+&lt;div class="video-wrapper"&gt;
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
+scrolling="no"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true"
+&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="游戏预览图"&gt;游戏预览图
+&lt;/h2&gt;&lt;details class="reading-note reading-gallery"&gt;
+&lt;summary&gt;素图&lt;/summary&gt;
+&lt;p&gt;&lt;img src="https://www.oppaiman.com/_next/image/?url=https%3A%2F%2Fcdn-uploads.oppaiman.com%2F6660714c8223965428dd0896%2F666072d2c3bf174d9f8bb1ef%2Fgame-page%2Fimages%2F649976153106a0947ee73cde03594ffd2781a67dd7c429cb23b5c762a0c293b5.jpg&amp;amp;w=3840&amp;amp;q=90"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://www.oppaiman.com/_next/image/?url=https%3A%2F%2Fcdn-uploads.oppaiman.com%2F6660714c8223965428dd0896%2F666072d2c3bf174d9f8bb1ef%2Fgame-page%2Fimages%2Fbf716e6f47c2a7108eddf93af094e961a4c23e55892ea46ed87739034d8f3af0.jpg&amp;amp;w=1920&amp;amp;q=75"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://www.oppaiman.com/_next/image/?url=https%3A%2F%2Fcdn-uploads.oppaiman.com%2F6660714c8223965428dd0896%2F682d7b561b085b8cbe249c17%2Fgame-page%2Fimages%2F22d7f383a8a66f4c006bb50c5f047c0f78de541f6398e72ecdaac8ec064eab87.jpg&amp;amp;w=3840&amp;amp;q=90"
+loading="lazy"
+alt="预览图"
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class="reading-note reading-gallery"&gt;
+&lt;summary style="color:#c81e1e;font-weight:600;"&gt;荤图&lt;/summary&gt;
+&lt;p&gt;&lt;img src="https://www.oppaiman.com/_next/image/?url=https%3A%2F%2Fcdn-uploads.oppaiman.com%2F6660714c8223965428dd0896%2F68ba838cf07055c5a271b3de%2Fgame-page%2Fimages%2Fbe35663ad5e2d1da3b06110c020e30116e89cf21dc8c780246af4b46edf65094.jpg&amp;amp;w=1920&amp;amp;q=75"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://www.oppaiman.com/_next/image/?url=https%3A%2F%2Fcdn-uploads.oppaiman.com%2F6660714c8223965428dd0896%2F67f35fa5f7101242d6b712d1%2Fgame-page%2Fimages%2F663a9003c2f5cf95be8bafe64d592a4870c04f4b890bd24aec18c30048023a98.jpg&amp;amp;w=3840&amp;amp;q=90"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://www.oppaiman.com/_next/image/?url=https%3A%2F%2Fcdn-uploads.oppaiman.com%2F6660714c8223965428dd0896%2F687379b5e77c74dbb8b6a58c%2Fgame-page%2Fimages%2Fde2c4e51f52789790259e72d374bb021ff42947c54ddd191146b8f5c3ddfc0bf.jpg&amp;amp;w=1920&amp;amp;q=75"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://cdn-uploads.oppaiman.com/game-page/about/98ebe379e1e8cdf3b98a4141eb8d0b3f0a8959162c808acbdb643413dfd99813.gif"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://cdn-uploads.oppaiman.com/game-page/about/5a2f08c9181b9b53c76407123e406881515f8aca30b7455b0a03537e1945990d.gif"
+loading="lazy"
+alt="预览图"
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary&gt;0.27&lt;/summary&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/InwSo95gEl" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/nNkNXxWd" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;解压&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;文件，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/eLZD5VHODi" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/JnwyDg1m" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动&lt;strong&gt;游戏&lt;/strong&gt;，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/InwSo95gEl" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/nNkNXxWd" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;官中原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
+&lt;li&gt;然后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;0.26&lt;/summary&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;details&gt;
+&lt;summary&gt;攻略mod&lt;/summary&gt;
+&lt;p&gt;&lt;strong&gt;攻略mod：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/yv7R3N" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/GpTGFURK" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;这里提供一个选项攻略mod&lt;/li&gt;
+&lt;li&gt;已经优化本体打完mod后，官中有些文本不会被读取到的bug。&lt;/li&gt;
+&lt;li&gt;有需要的水友，解压压缩包解压后，Game文件夹覆盖Game文件夹即可。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/CK3bBWWP" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/sQaO6DLHfx" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;解压&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;文件，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/CK3bBWWP" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/sQaO6DLHfx" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主体 APK：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/s4kODY" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/XbBEijxg" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
+&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
+&lt;li&gt;然后解压官中原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将官中原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;移动到以下路径：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Documents/RenPy_Saves/com.luoqian.ShatteredMinds/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/CK3bBWWP" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/sQaO6DLHfx" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;官中原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
+&lt;li&gt;然后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="使用帮助"&gt;使用帮助
+&lt;/h2&gt;&lt;div class="mac-list-container reading-help"&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;网络连接&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果打不开链接请科学上网，没有梯子可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/p/vpn/" target="_blank" rel="noopener"
+&gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;安装教程&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果看不懂安装步骤，可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/about/" target="_blank" rel="noopener"
+&gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;问题反馈&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果操作过程中遇到Bug或其他问题，欢迎在博文评论区留言反馈&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;创作支持&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果本文对你有帮助，欢迎在&lt;a class="link" href="https://afdian.com/a/luoqian" target="_blank" rel="noopener"
+&gt;爱发电&lt;/a&gt;投喂落谦&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;幸好有你&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="宇宙安全声明"&gt;宇宙安全声明！
+&lt;/h2&gt;&lt;aside class="reading-notice" role="note"&gt;
+&lt;p&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播。&lt;br&gt;
+落谦不对因使用本文所产生的任何问题负责。&lt;/p&gt;
+&lt;/aside&gt;
+&lt;/div&gt;</description></item><item><title>Growing Things Up 金鸡独立</title><link>https://luoqian29.github.io/p/growingthingsup/</link><pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/growingthingsup/</guid><description>&lt;img src="https://img.itch.zone/aW1nLzE4NjQ3MjUyLnBuZw==/original/dSnnqN.png" alt="Featured image of post Growing Things Up 金鸡独立" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+&lt;h1 id="growing-things-up-s1-v107a-kinkbr"&gt;Growing Things Up [S1 v1.07a] [Kinkbr]
+&lt;/h1&gt;&lt;p&gt;&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3910610/d34d21160bd9d1c29fb0b2cdb6e426d984178c3a/ss_d34d21160bd9d1c29fb0b2cdb6e426d984178c3a.1920x1080.jpg?t=1768742693"
+loading="lazy"
+alt="封面图"
+&gt;&lt;/p&gt;
+&lt;h1 id="overview"&gt;Overview
+&lt;/h1&gt;&lt;details&gt;
+&lt;summary&gt;剧情概要&lt;/summary&gt;
+&lt;p&gt;一部关于欲望、信任以及我们甚至试图向自己隐瞒的秘密的成人视觉小说。在 South Lake，每一个选择都会揭示伤疤、无声的操纵以及那些让你更接近或更远离真实自我的道路。&lt;/p&gt;
+&lt;/details&gt;
+&lt;h2 id="details"&gt;Details
+&lt;/h2&gt;&lt;details class="reading-note reading-game-info"&gt;
+&lt;summary&gt;游戏信息&lt;/summary&gt;
+&lt;div class="mac-list-container reading-game-info-list"&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏玩法&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;视觉小说&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;建模引擎&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;Daz Studio&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;运行引擎&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;Ren&amp;rsquo;Py&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏画风&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;欧美风&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;当前版本&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;Season 1 - 1.07a&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;发行日期&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;2026-07-30&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;h2 id="developer入正地址"&gt;Developer（入正地址）
+&lt;/h2&gt;&lt;p&gt;&lt;a class="link" href="https://www.patreon.com/kinkbr" target="_blank" rel="noopener"
+&gt;Patreon&lt;/a&gt;
+&lt;a class="link" href="https://growingthingsup.itch.io/growing-things-up" target="_blank" rel="noopener"
+&gt;Itch.io&lt;/a&gt;
+&lt;a class="link" href="https://store.steampowered.com/app/3910610/Growing_Things_Up__Season_1/" target="_blank" rel="noopener"
+&gt;Steam&lt;/a&gt;
+&lt;a class="link" href="https://discord.com/invite/3g95M9ZUt9" target="_blank" rel="noopener"
+&gt;Discord&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="落谦酱便利贴"&gt;落谦酱便利贴
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary style="color:#c81e1e;font-weight:600;"&gt;PS&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;del&gt;有空再做选项mod。&lt;/del&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;details class="reading-note reading-changelog"&gt;
+&lt;summary style="color:#00A1D6;"&gt;博文更新日志&lt;/summary&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.12&lt;/time&gt;&lt;span&gt; · 19:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;Season 1 - 1.07a&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;AI意译汉化补丁&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
+&lt;div class="video-wrapper"&gt;
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
+scrolling="no"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true"
+&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="游戏预览图"&gt;游戏预览图
+&lt;/h2&gt;&lt;details class="reading-note reading-gallery"&gt;
+&lt;summary style="color:#c81e1e;font-weight:600;"&gt;荤图&lt;/summary&gt;
+&lt;p&gt;&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3910610/3b4bec92c3d6901a847838772953624680567b24/ss_3b4bec92c3d6901a847838772953624680567b24.1920x1080.jpg?t=1768742693"
+loading="lazy"
+alt="预览图"
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;/h2&gt;&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/2UvKhUenFl" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/TXaSdXaB" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;解压&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;文件，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/rovm2pZaIC" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/Tzw5foep" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动&lt;strong&gt;游戏&lt;/strong&gt;，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/2UvKhUenFl" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/TXaSdXaB" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;官中原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
+&lt;li&gt;然后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;/h2&gt;&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/F8cHIb7c7a" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/etrapxtq" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/F8cHIb7c7a" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/etrapxtq" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="画廊mod"&gt;画廊Mod
+&lt;/h2&gt;&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;画廊 Mod：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/GFCv0c" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;画廊 Mod：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/GFCv0c" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Documents/RenPy_Saves/com.luoqian.GrowingThingsUp/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;画廊 Mod：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/GFCv0c" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;我的iPhone/Spark/games/GrowingThingsUp/game
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -29688,446 +30096,6 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="使用帮助"&gt;使用帮助
-&lt;/h2&gt;&lt;div class="mac-list-container reading-help"&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;网络连接&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果打不开链接请科学上网，没有梯子可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/p/vpn/" target="_blank" rel="noopener"
-&gt;博文&lt;/a&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;安装教程&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果看不懂安装步骤，可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/about/" target="_blank" rel="noopener"
-&gt;博文&lt;/a&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;问题反馈&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果操作过程中遇到Bug或其他问题，欢迎在博文评论区留言反馈&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;创作支持&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果本文对你有帮助，欢迎在&lt;a class="link" href="https://afdian.com/a/luoqian" target="_blank" rel="noopener"
-&gt;爱发电&lt;/a&gt;投喂落谦&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;幸好有你&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;h2 id="宇宙安全声明"&gt;宇宙安全声明！
-&lt;/h2&gt;&lt;aside class="reading-notice" role="note"&gt;
-&lt;p&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播。&lt;br&gt;
-落谦不对因使用本文所产生的任何问题负责。&lt;/p&gt;
-&lt;/aside&gt;
-&lt;/div&gt;</description></item><item><title>Shattered Minds 破碎的心灵</title><link>https://luoqian29.github.io/p/shatteredminds/</link><pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/shatteredminds/</guid><description>&lt;img src="https://cdn-public.oppaiman.com/cover-photos/extasy_games.png" alt="Featured image of post Shattered Minds 破碎的心灵" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
-&lt;h1 id="shattered-minds-v027-beta-extasy-games"&gt;Shattered Minds [v0.27 Beta] [eXtasy Games]
-&lt;/h1&gt;&lt;p&gt;&lt;img src="https://img.itch.zone/aW1nLzIwNzIwMzE5LmpwZw==/original/JPnvi1.jpg"
-loading="lazy"
-alt="封面图"
-&gt;&lt;/p&gt;
-&lt;h1 id="overview"&gt;Overview
-&lt;/h1&gt;&lt;details&gt;
-&lt;summary&gt;剧情概要&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;Shattered Minds is an open-world game, in which you take control over the life of a college student.&lt;/li&gt;
-&lt;li&gt;Your normal life is thrown out of whack after you realize you have the power to control the minds of others.&lt;/li&gt;
-&lt;li&gt;You will use this power to make all your dreams, desires and wishes come true!&lt;/li&gt;
-&lt;li&gt;A world with countless quests, figures, plots and locations are waiting to be discovered and controlled by you!&lt;/li&gt;
-&lt;li&gt;Shattered Minds includes plenty of animations, a licensed soundtrack and atmospheric sound effects!&lt;/li&gt;
-&lt;li&gt;Be ready to experience a game full of sexy adventures!&lt;/li&gt;
-&lt;li&gt;All paired with a thrilling, mysterious yet humorous plot.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h2 id="details"&gt;Details
-&lt;/h2&gt;&lt;details class="reading-note reading-game-info"&gt;
-&lt;summary&gt;游戏信息&lt;/summary&gt;
-&lt;div class="mac-list-container reading-game-info-list"&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏玩法&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;沙盒视觉小说&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;建模引擎&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;Daz Studio&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;运行引擎&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;Ren&amp;rsquo;Py&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏画风&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;欧美风&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;当前版本&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;0.26&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;发行日期&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;2026-06-26&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;h2 id="developer入正地址"&gt;Developer（入正地址）
-&lt;/h2&gt;&lt;p&gt;&lt;a class="link" href="https://www.patreon.com/extasy_games" target="_blank" rel="noopener"
-&gt;Patreon&lt;/a&gt;
-&lt;a class="link" href="https://extasy-games.itch.io/shattered-minds" target="_blank" rel="noopener"
-&gt;Itch.io&lt;/a&gt;
-&lt;a class="link" href="https://store.steampowered.com/app/2713690/Shattered_Minds/" target="_blank" rel="noopener"
-&gt;Steam&lt;/a&gt;
-&lt;a class="link" href="https://discord.com/invite/JVvYG8YKXQ" target="_blank" rel="noopener"
-&gt;Discord&lt;/a&gt;
-&lt;a class="link" href="https://www.instagram.com/extasy_games" target="_blank" rel="noopener"
-&gt;Instagram&lt;/a&gt;
-&lt;a class="link" href="https://subscribestar.adult/extasy-games" target="_blank" rel="noopener"
-&gt;Subscribestar&lt;/a&gt;
-&lt;a class="link" href="https://x.com/Fates_Game" target="_blank" rel="noopener"
-&gt;Twitter&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id="落谦酱便利贴"&gt;落谦酱便利贴
-&lt;/h2&gt;&lt;details&gt;
-&lt;summary style="color:#c81e1e;font-weight:600;"&gt;PS&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;因为是伪沙盒机制的视觉小说，所以还没玩，就只是看了一下CG，感觉一般吧，但是建模挺符合我的审美。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align: left"&gt;日期&lt;/th&gt;
-&lt;th style="text-align: left"&gt;更新详情&lt;/th&gt;
-&lt;th style="text-align: center"&gt;当前状态&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;strong&gt;2026.07.12 19:00&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align: left"&gt;&lt;strong&gt;0.27&lt;/strong&gt;：官中原版&lt;/td&gt;
-&lt;td style="text-align: center"&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
-&lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
-scrolling="no"
-frameborder="no"
-framespacing="0"
-allowfullscreen="true"
-&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="游戏预览图"&gt;游戏预览图
-&lt;/h2&gt;&lt;details class="reading-note reading-gallery"&gt;
-&lt;summary&gt;素图&lt;/summary&gt;
-&lt;p&gt;&lt;img src="https://www.oppaiman.com/_next/image/?url=https%3A%2F%2Fcdn-uploads.oppaiman.com%2F6660714c8223965428dd0896%2F666072d2c3bf174d9f8bb1ef%2Fgame-page%2Fimages%2F649976153106a0947ee73cde03594ffd2781a67dd7c429cb23b5c762a0c293b5.jpg&amp;amp;w=3840&amp;amp;q=90"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://www.oppaiman.com/_next/image/?url=https%3A%2F%2Fcdn-uploads.oppaiman.com%2F6660714c8223965428dd0896%2F666072d2c3bf174d9f8bb1ef%2Fgame-page%2Fimages%2Fbf716e6f47c2a7108eddf93af094e961a4c23e55892ea46ed87739034d8f3af0.jpg&amp;amp;w=1920&amp;amp;q=75"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://www.oppaiman.com/_next/image/?url=https%3A%2F%2Fcdn-uploads.oppaiman.com%2F6660714c8223965428dd0896%2F682d7b561b085b8cbe249c17%2Fgame-page%2Fimages%2F22d7f383a8a66f4c006bb50c5f047c0f78de541f6398e72ecdaac8ec064eab87.jpg&amp;amp;w=3840&amp;amp;q=90"
-loading="lazy"
-alt="预览图"
-&gt;&lt;/p&gt;
-&lt;/details&gt;
-&lt;details class="reading-note reading-gallery"&gt;
-&lt;summary style="color:#c81e1e;font-weight:600;"&gt;荤图&lt;/summary&gt;
-&lt;p&gt;&lt;img src="https://www.oppaiman.com/_next/image/?url=https%3A%2F%2Fcdn-uploads.oppaiman.com%2F6660714c8223965428dd0896%2F68ba838cf07055c5a271b3de%2Fgame-page%2Fimages%2Fbe35663ad5e2d1da3b06110c020e30116e89cf21dc8c780246af4b46edf65094.jpg&amp;amp;w=1920&amp;amp;q=75"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://www.oppaiman.com/_next/image/?url=https%3A%2F%2Fcdn-uploads.oppaiman.com%2F6660714c8223965428dd0896%2F67f35fa5f7101242d6b712d1%2Fgame-page%2Fimages%2F663a9003c2f5cf95be8bafe64d592a4870c04f4b890bd24aec18c30048023a98.jpg&amp;amp;w=3840&amp;amp;q=90"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://www.oppaiman.com/_next/image/?url=https%3A%2F%2Fcdn-uploads.oppaiman.com%2F6660714c8223965428dd0896%2F687379b5e77c74dbb8b6a58c%2Fgame-page%2Fimages%2Fde2c4e51f52789790259e72d374bb021ff42947c54ddd191146b8f5c3ddfc0bf.jpg&amp;amp;w=1920&amp;amp;q=75"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://cdn-uploads.oppaiman.com/game-page/about/98ebe379e1e8cdf3b98a4141eb8d0b3f0a8959162c808acbdb643413dfd99813.gif"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://cdn-uploads.oppaiman.com/game-page/about/5a2f08c9181b9b53c76407123e406881515f8aca30b7455b0a03537e1945990d.gif"
-loading="lazy"
-alt="预览图"
-&gt;&lt;/p&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
-&lt;/h2&gt;&lt;details&gt;
-&lt;summary&gt;0.27&lt;/summary&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://vik1ngfile.site/f/dkCa9BCRAQ" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/tbb9KwDj" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;解压&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;文件，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://vik1ngfile.site/f/cJKP0eXrzO" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/RPKyZSZM" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;启动&lt;strong&gt;游戏&lt;/strong&gt;，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
-&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://vik1ngfile.site/f/dkCa9BCRAQ" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/tbb9KwDj" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;官中原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
-&lt;li&gt;然后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;0.26&lt;/summary&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;details&gt;
-&lt;summary&gt;攻略mod&lt;/summary&gt;
-&lt;p&gt;&lt;strong&gt;攻略mod：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/yv7R3N" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/GpTGFURK" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;这里提供一个选项攻略mod&lt;/li&gt;
-&lt;li&gt;已经优化本体打完mod后，官中有些文本不会被读取到的bug。&lt;/li&gt;
-&lt;li&gt;有需要的水友，解压压缩包解压后，Game文件夹覆盖Game文件夹即可。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://pixeldrain.com/u/CK3bBWWP" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;
-&lt;a class="link" href="https://vik1ngfile.site/f/sQaO6DLHfx" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;解压&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;文件，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;details&gt;
-&lt;summary&gt;攻略mod&lt;/summary&gt;
-&lt;p&gt;&lt;strong&gt;攻略mod：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/yv7R3N" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/GpTGFURK" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;这里提供一个选项攻略mod&lt;/li&gt;
-&lt;li&gt;已经优化本体打完mod后，官中有些文本不会被读取到的bug。&lt;/li&gt;
-&lt;li&gt;有需要的水友，解压压缩包解压后，Game文件夹覆盖Game文件夹即可。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;通用焚诀UI mod&lt;/summary&gt;
-&lt;p&gt;&lt;strong&gt;通用焚诀 UI Mod：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/zqqJaz" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/3gVpbVuc" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;有水友反馈，右下角的焚诀显示不出来了&lt;/li&gt;
-&lt;li&gt;罪魁祸首是选项mod打在游戏本体的问题&lt;/li&gt;
-&lt;li&gt;其实也挺好修复的，先打补丁，再开游戏，右下角就有焚诀了，再把mod打到本体上，这样就解决了。&lt;/li&gt;
-&lt;li&gt;如果嫌麻烦的话，可以直接打一个上面优化好的UI mod&lt;/li&gt;
-&lt;li&gt;其实没有焚诀也无伤大雅，就是有的补丁会有双语，就一直显示双语，没有那个按钮可以关掉，这样就挺反人类的。&lt;/li&gt;
-&lt;li&gt;所以有需要的话，可以优化一下。&lt;/li&gt;
-&lt;li&gt;落谦这里偷个小懒，就不去重新打包上传了，等下次或者出现什么bug之后，会顺带优化的&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://pixeldrain.com/u/CK3bBWWP" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;
-&lt;a class="link" href="https://vik1ngfile.site/f/sQaO6DLHfx" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;主体 APK：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/s4kODY" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/XbBEijxg" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;官中apk：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://pixeldrain.com/u/UbMSzFEM" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;
-&lt;a class="link" href="https://vik1ngfile.site/f/LlTuJTrEyJ" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;span style="color: red;"&gt; 如果不需要mod，下载官中APK即可&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;、&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
-&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
-&lt;li&gt;然后解压官中原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;将官中原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;和&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件一起移动到以下路径：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
-&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Documents/RenPy_Saves/com.luoqian.ShatteredMinds/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;details&gt;
-&lt;summary&gt;攻略mod&lt;/summary&gt;
-&lt;p&gt;&lt;strong&gt;攻略mod：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/yv7R3N" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/GpTGFURK" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;这里提供一个选项攻略mod&lt;/li&gt;
-&lt;li&gt;已经优化本体打完mod后，官中有些文本不会被读取到的bug。&lt;/li&gt;
-&lt;li&gt;有需要的水友，解压压缩包解压后，Game文件夹覆盖Game文件夹即可。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;通用焚诀UI mod&lt;/summary&gt;
-&lt;p&gt;&lt;strong&gt;通用焚诀 UI Mod：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/zqqJaz" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/3gVpbVuc" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;有水友反馈，右下角的焚诀显示不出来了&lt;/li&gt;
-&lt;li&gt;罪魁祸首是选项mod打在游戏本体的问题&lt;/li&gt;
-&lt;li&gt;其实也挺好修复的，先打补丁，再开游戏，右下角就有焚诀了，再把mod打到本体上，这样就解决了。&lt;/li&gt;
-&lt;li&gt;如果嫌麻烦的话，可以直接打一个上面优化好的UI mod&lt;/li&gt;
-&lt;li&gt;其实没有焚诀也无伤大雅，就是有的补丁会有双语，就一直显示双语，没有那个按钮可以关掉，这样就挺反人类的。&lt;/li&gt;
-&lt;li&gt;所以有需要的话，可以优化一下。&lt;/li&gt;
-&lt;li&gt;落谦这里偷个小懒，就不去重新打包上传了，等下次或者出现什么bug之后，会顺带优化的&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
-&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;官中原版：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://pixeldrain.com/u/CK3bBWWP" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;
-&lt;a class="link" href="https://vik1ngfile.site/f/sQaO6DLHfx" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;官中原版&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;官中原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
-&lt;li&gt;然后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;/details&gt;
 &lt;/details&gt;
 &lt;hr&gt;
 &lt;h2 id="使用帮助"&gt;使用帮助
