@@ -441,6 +441,13 @@ alt="封面图"
 &lt;span class="reading-update-detail"&gt;这个mod依旧在更新，不过最近一次更新的版本的汉化文本已集成至补丁&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.18&lt;/time&gt;&lt;span&gt; · 00:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;AI意译汉化补丁&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;修复一些不显示汉化的动态文本，以及集成Harem Mod、Multi Mod的对应汉化文本&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/details&gt;
 &lt;details&gt;
 &lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
