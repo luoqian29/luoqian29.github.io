@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 一落归谦</title><link>https://luoqian29.github.io/post/</link><description>Recent content in Posts on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Fri, 21 Aug 2026 10:55:02 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>博文更新计划与路线图</title><link>https://luoqian29.github.io/p/update/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/update/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPYeU18aYAAQf7U?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 一落归谦</title><link>https://luoqian29.github.io/post/</link><description>Recent content in Posts on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Fri, 21 Aug 2026 19:12:58 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>博文更新计划与路线图</title><link>https://luoqian29.github.io/p/update/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/update/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPYeU18aYAAQf7U?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="博文更新计划与路线图"&gt;博文更新计划与路线图
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HPYeU19awAAI_G2?format=jpg&amp;amp;name=large"
 loading="lazy"
@@ -201,87 +201,68 @@ alt="封面图"
 &lt;li&gt;如果你刚好需要购买梯子，通过上面的链接注册订阅，我能得到一点佣金，用于博客日常运营和 AI 汉化成本。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/aside&gt;
-&lt;/div&gt;</description></item><item><title>且玩且珍惜</title><link>https://luoqian29.github.io/p/other/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/other/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPW5MaRbUAAaKaC?format=jpg&amp;name=4096x4096" alt="Featured image of post 且玩且珍惜" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
-&lt;h1 id="且玩且珍惜"&gt;且玩且珍惜
-&lt;/h1&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HPW5MaQbsAAmQqt?format=jpg&amp;amp;name=large"
+&lt;/div&gt;</description></item><item><title>关于汉化模型升级与“免费充电”求助说明</title><link>https://luoqian29.github.io/p/api/</link><pubDate>Fri, 21 Aug 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/api/</guid><description>&lt;img src="https://pbs.twimg.com/media/HQPdq07bIAACBYb?format=jpg&amp;name=4096x4096" alt="Featured image of post 关于汉化模型升级与“免费充电”求助说明" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+&lt;h1 id="关于近期汉化补丁升级与薅羊毛求助"&gt;关于近期汉化补丁升级与“薅羊毛”求助
+&lt;/h1&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HQPdq02a8AAeJPH?format=jpg&amp;amp;name=large"
 loading="lazy"
 alt="封面图"
 &gt;&lt;/p&gt;
-&lt;h2 id="引言"&gt;引言
-&lt;/h2&gt;&lt;details&gt;
-&lt;summary&gt;先说结论&lt;/summary&gt;
-&lt;p&gt;先说结论吧：&lt;strong&gt;且玩且珍惜&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;按照目前的状况来讲，大概到今年，也就是 &lt;strong&gt;10月1号国庆节之后&lt;/strong&gt; 啊，刚好是博客的一周年。那我们的更新频率会明显的降低一点点，可能会进入一个 &lt;strong&gt;半停更状态&lt;/strong&gt;。当然也是一个佛系更新状态。
-啊，为什么会这样子呢？主要是因为 &lt;strong&gt;时间和精力实在是难以支撑&lt;/strong&gt; 啊。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="为什么会有这篇博文"&gt;为什么会有这篇博文？
+&lt;/h2&gt;&lt;p&gt;之前我仔细对比测试了 &lt;strong&gt;DeepSeek-V3&lt;/strong&gt; 与 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 两个大语言模型的翻译质量。由于 V3.1 确实更加稳定、幻觉更少，我原本打算&lt;strong&gt;把之前做过的汉化补丁全都重置为 V3.1 高质量版本&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;但是现实很骨感：&lt;strong&gt;我的 API Token 快被掏空了&lt;/strong&gt;。&lt;/p&gt;
+&lt;div class="mac-list-container reading-facts"&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;质量与成本&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;V3 虽然便宜但极易出现幻觉；V3.1 非常稳定，但费用是 V3 的两倍以上&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;单部游戏成本&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;以《老婆学院》为例，V3 约需 15 元，而 V3.1 飙升至 30~40 元；《永恒世界》V3 约 12 元，V3.1 则翻倍&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;文字海游戏&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;像《爱与性第二垒》《混沌种子》《恋爱课程》等超大文本量 2D 游戏，V3 跑一趟大概要 60 元，而 V3.1 直接飙升至 120~130 元&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;之前为了给大家做 AI 汉化（包括跑翻译、写脚本修主要人名、集成选项 Mod 以及多功能模组），除了以前实行的“七天后公开”的限时订阅制外，我再也没有收过大家的费用，&lt;strong&gt;连每次几十上百的 Token 费用，都是我自己掏腰包的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但目前，我自己真金白银砸进去的 2000 多块，加上之前在音符直播时大家扫码帮我薅的 2000 多代金券，&lt;strong&gt;加起来三四千元的 Token 费用已经彻底见底了&lt;/strong&gt;。我确实无法再继续用真金白银往里面硬砸了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="怎么免费帮我充电薅硅基流动羊毛"&gt;怎么免费帮我“充电”？（薅硅基流动羊毛）
+&lt;/h2&gt;&lt;p&gt;如果你觉得落谦的汉化补丁对你有帮助，现在有一个&lt;strong&gt;完全免费&lt;/strong&gt;的方式可以帮到我，那就是去薅“硅基流动”的羊毛。&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;具体操作步骤（实名白嫖 16 元）&lt;/summary&gt;
+&lt;p&gt;其实很简单，就是通过我的专属邀请链接或二维码注册一个账号。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;实名认证奖励&lt;/strong&gt;：现在注册需要实名认证，认证通过后，&lt;strong&gt;你和我都可以获得 16 元的 Token 费用&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;这笔费用是没法折现的，我只能用它去调用接口跑汉化（比如调用 DeepSeek 或 Gemini 等大模型）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;👉 &lt;a class="link" href="https://cloud.siliconflow.cn/i/f3XyeSQQ" target="_blank" rel="noopener"
+&gt;注册实名硅基流动&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;/details&gt;
-&lt;h2 id="心路历程与佛系更新"&gt;心路历程与佛系更新
-&lt;/h2&gt;&lt;div class="mac-timeline"&gt;
-&lt;div class="mac-timeline-item"&gt;
-&lt;div class="mac-timeline-date"&gt;最初的起点&lt;/div&gt;
-&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
-&lt;div class="mac-timeline-content"&gt;
-&lt;h3 class="mac-timeline-title"&gt;初衷 🌍&lt;/h3&gt;
-&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;一开始为什么会做这些汉化补丁呢？最初的原因非常简单，就是想 &lt;strong&gt;帮助一些看不懂英文的水友&lt;/strong&gt; 而已。&lt;/p&gt;
-&lt;p&gt;老水友都知道啊，以前啊我会在抖音直播午夜场，玩一些视觉小说游戏。那时候也会聊聊天、唠唠嗑。从交流中得知，有一部分水友是没有汉化资源的。&lt;/p&gt;
-&lt;p&gt;那时候 DeepSeek 刚好横空出世，而且又便宜，我一次性买了很多 token。然后我自己跑了上百个游戏，因为我自己没时间玩，但是 &lt;strong&gt;性价比极高&lt;/strong&gt; 嘛，跑完之后放在那里也是吃灰。那么刚好水友没有资源，就顺手把这些补丁制作出来分享一下。以前我会在抖音，还有公众号、爱发电发。但不知道为什么，公众号和抖音被人举报封掉了，这个就不清楚了。&lt;/p&gt;
-&lt;p&gt;其实呢，很感谢这些水友的陪伴。因为这段经历，我慢慢学会了 Python、Java、代码、AI 部署，以及 GitHub 的各种玩法。从某种意义上来讲，&lt;strong&gt;这段经历是非常值得的&lt;/strong&gt;，也是让我的生活跟 AI 息息相关了。&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-timeline-item"&gt;
-&lt;div class="mac-timeline-date"&gt;博客一周年&lt;/div&gt;
-&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
-&lt;div class="mac-timeline-content"&gt;
-&lt;h3 class="mac-timeline-title"&gt;沉淀 📦&lt;/h3&gt;
-&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;国庆节博客就满一周年了。从今年 2026 年二三月份全力更新至今，多亏了 DeepSeek，我已经制作了 &lt;strong&gt;近 200 个不同版本的汉化补丁&lt;/strong&gt;。当然我们现在跑的可能是 V3 模型，有些小瑕疵。之后我会把一些高质量的游戏换成 V3.1。因为有时候我自己玩，会对照 V3 跟 V3.1 的版本去拼凑一些金句，东拼西凑嘛。有玩过补丁的水友就知道，现在翻译得 &lt;strong&gt;特别接地气&lt;/strong&gt;，有时候 V3 可能会出现点小小的幻觉，嘿嘿。&lt;/p&gt;
-&lt;p&gt;但是两者的接地气是不相上下的。只不过 V3.1 处理奇幻风格是信手拈来，至于 V3 处理一些奇幻风格，就会疯狂出现文绉绉的幻觉了。这个的话，我会后续慢慢给大家优化一下。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;关于汉化标准&lt;/strong&gt;：这里说说关于汉化标准吧。大家玩这些难登大雅的下九流小说啊，大多数都是奔着 CG 来的，&lt;strong&gt;只要剧情能看懂，CG 能看到，不就 OK 了吗？&lt;/strong&gt; 当然萝卜青菜各有所爱，有人希望能达到官中水平，但我确实是 &lt;strong&gt;精力有限&lt;/strong&gt;。因为我当初想接一个官中，奈何自己实力没有达到能者居上，导致胎死腹中了，这是我觉得最可惜的一点，说多了都是泪啊。&lt;/p&gt;&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-timeline-item"&gt;
-&lt;div class="mac-timeline-date"&gt;精力的耗尽&lt;/div&gt;
-&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
-&lt;div class="mac-timeline-content"&gt;
-&lt;h3 class="mac-timeline-title"&gt;取舍 ⚠️&lt;/h3&gt;
-&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;肯定有人会问剩下的时间拿出来做简润或精润不行吗？其实是可以的。大家可能不知道，这种 AI 初版的，简单修一下专有名词、人名、幻觉 bug，再制作一下 mod，这期间的速度是非常快的。以前没有借助 Antigravity、Codex 这种 agent 智能体的辅助时，我纯手工一天能产出一两个；现在用智能体工具之后，几乎全交给他，&lt;strong&gt;一个小时能出两三个&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;但是，&lt;strong&gt;简润&lt;/strong&gt; 不能像做初版一样，Python 统一脚本就完事了。它需要人工一句句去检索遇到的小名、称谓、以及幻觉问题。&lt;strong&gt;这种消耗的资源是非常巨大的&lt;/strong&gt;，人力成本是最大的，文本量少了可能一两天，多则折腾半个月。&lt;/p&gt;
-&lt;p&gt;那如果是 &lt;strong&gt;精润&lt;/strong&gt; 呢？每一句就要符合角色人设、说话语气、上下文语境。这样的话我可能去跑 V3 跑三次，V3.1 跑三次，不同文风再跑三次，一共 12 次。这种制作出来绝对是非常完美的文本，但问题是，这些视觉小说它就是一个下九流，作者本身也没什么文化色彩。我个人觉得 &lt;strong&gt;绝大部分游戏直接做简润就 OK 了&lt;/strong&gt;。因为精润的成本是指数式上升的，不然哪怕烧再多的 token，用 agent 去当 AI 工程师，最后还得人工修复，会导致 &lt;strong&gt;token 没了，精力没了，时间也没了，付出跟收入完全不成正比&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;当然，也有例外。&lt;/strong&gt; 比如《老婆学院》、《喃喃自语》、《传染危机》、《领域入侵者》等几部欧美风或恋活游戏，这些 &lt;strong&gt;肯定会做精润&lt;/strong&gt;。因为我之前为了测试提示词，已经用不同模型、不同文风足足跑了七八次，跑都跑了，放着也是浪费。&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-timeline-item"&gt;
-&lt;div class="mac-timeline-date"&gt;闲言碎语&lt;/div&gt;
-&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
-&lt;div class="mac-timeline-content"&gt;
-&lt;h3 class="mac-timeline-title"&gt;杂音 💔&lt;/h3&gt;
-&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;然后这里再说一些闲言碎语吧，关于争议跟“圈米”的委屈。一直有人吐槽我汉化质量不好，甚至说我在圈米，这是 &lt;strong&gt;最让我难绷的事情了&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;我最初是真想圈米呀，我还效仿了某些圈内大佬开充电进群，按人头收费，因为那时候比比皆是。然后不知道为什么惹到了一些圈子。我寻思着自己就孤家寡人，惹不起我还躲不起吗？那时候被人挂上了盗狗的标签，说我盗别人的汉化，真的太离谱了。于是我就解散了群，直接换成 TG 群。为什么换 TG？因为有魔法门槛和注册门槛，筛选出来的都是 &lt;strong&gt;非常有礼貌的水友&lt;/strong&gt;。一般阴阳怪气喷我的人都是在 QQ 群那边，甚至可能连博客都打不开，因为他没有魔法，&lt;strong&gt;只会用国内网盘&lt;/strong&gt;，肯定能懂，嘿嘿嘿。&lt;/p&gt;
-&lt;p&gt;我开爱发电两年了，收到的大赏 &lt;strong&gt;只有两三千块钱！&lt;/strong&gt; 本来寻思工作之余赚点外快，多吃几次疯狂星期四，结果 &lt;strong&gt;连烧 AI 的 token 费和水电网费都没回本！&lt;/strong&gt; 我操他妈的，真是的。如果当时为了赚钱，我根本坚持不到今天。&lt;/p&gt;
-&lt;p&gt;以前我他妈的可以不做那些垃圾破补丁的时候，闲下来可以出去走走，骑骑车，跑跑步。妈的，现在工作之余，&lt;strong&gt;每天还要学代码，修 bug&lt;/strong&gt;。虽然现在有智能体了，但我还要莫名承受那些阴阳怪气。他妈的，我每次都在博客更新日志里边叠好甲了，我做汉化补丁只是为了 &lt;strong&gt;帮助一些有需要的水友，我自己根本没有时间玩&lt;/strong&gt;。说句实在话，我他妈的真不欠你们的。哪怕我最初热情满满，如今已经被消磨得差不多了。&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-timeline-item"&gt;
-&lt;div class="mac-timeline-date"&gt;10月之后&lt;/div&gt;
-&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
-&lt;div class="mac-timeline-content"&gt;
-&lt;h3 class="mac-timeline-title"&gt;前路 🍂&lt;/h3&gt;
-&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;10月份之后，&lt;strong&gt;佛系维护，避开节奏&lt;/strong&gt;。你是真不懂那种被阴阳怪气的滋味呀。但我会把 10 月份的存货全都做完了，可能会把 V3 之前跑的全都拿来备份，再跑一次 V3.1，因为 token 还剩下好几百，放在那里也是吃灰。顺利撒花完结，进入佛系的更新状态。&lt;/p&gt;
-&lt;p&gt;之后可能会做一些新游。至于修图，有些 UI 图片我会用 Codex 这种去 P 图，虽然有点贵（像《Being a Dik》花了我 30% 的周额度，但这大作没办法）。&lt;/p&gt;
-&lt;p&gt;那就是说我以后 &lt;strong&gt;不可能去第一时间做那些热门游戏的 AI 补丁了&lt;/strong&gt;。为什么呢？因为有很多大佬都在做精翻、跑 AI，我没必要去献丑；另一方面也是为了 &lt;strong&gt;避免不必要的误会跟节奏&lt;/strong&gt;。懂异世界天堂那波节奏的同学都应该懂。接个官中如果不跟圈内人打报告，人家就会喷你，人多力量大，我他妈当初直接被网暴得去跟他们道歉了，真的。&lt;/p&gt;
-&lt;p&gt;所以啊，&lt;strong&gt;多一事不如少一事&lt;/strong&gt;，你懂我意思吗？&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;h2 id="结语"&gt;结语
-&lt;/h2&gt;&lt;aside class="reading-notice" role="note"&gt;
-&lt;p&gt;最后呢，感谢一直支持我的水友，愿意使用补丁以及积极反馈提出意见的真实水友们。一路走下来真是太不容易了。博客从最初只有七八个补丁，到现在积累了 &lt;strong&gt;快接近 200 个&lt;/strong&gt;，已经非常非常超出我当初的想象了。&lt;/p&gt;
-&lt;p&gt;无论如何，&lt;strong&gt;且玩且珍惜，感谢大家的一路陪伴&lt;/strong&gt;。没有你们，就没有博客的今天，你们也是博客的一分子！&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="如果-token-真的烧完了怎么办"&gt;如果 Token 真的烧完了怎么办？
+&lt;/h2&gt;&lt;p&gt;如果大家愿意顺手帮个忙，薅一下这十几块钱的羊毛，我们就能继续愉快地用 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 给大家更新最高质量的补丁。&lt;/p&gt;
+&lt;aside class="reading-notice" role="note"&gt;
+&lt;p&gt;&lt;strong&gt;但如果代金券耗尽，落谦可能面临以下无奈之举：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;以后大家投稿的新游戏，我可能就没法第一时间跑了。除非你能提供你注册完后拿到的那 16 元 API 密钥给我（跑个小游戏还是够的，如果费用超了一点，我会自掏腰包帮你补上）。&lt;/li&gt;
+&lt;li&gt;全面退回使用便宜但不稳定的 DeepSeek-V3 模型（这意味着你游玩时可能会遇到报错、幻觉和翻译错乱）。&lt;/li&gt;
+&lt;/ol&gt;
 &lt;/aside&gt;
+&lt;p&gt;总之，这是一个双赢的白嫖机制。如果你有空，就顺手帮个小忙吧！如果实在不方便也没关系，落谦一样感谢大家一直以来的支持。&lt;/p&gt;
 &lt;/div&gt;</description></item><item><title>Hooked! 上瘾！</title><link>https://luoqian29.github.io/p/hooked/</link><pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/hooked/</guid><description>&lt;img src="https://img.itch.zone/aW1nLzE1Mzk5MjM0LnBuZw==/original/1l%2BjgV.png" alt="Featured image of post Hooked! 上瘾！" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="hooked-v060-blenderknight"&gt;Hooked! [v0.6.0] [BlenderKnight]
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://img.itch.zone/aW1nLzE1MzY2NDQ0LmdpZg==/original/ZueYnR.gif"
@@ -110453,6 +110434,87 @@ alt="预览图"
 &lt;/h2&gt;&lt;aside class="reading-notice" role="note"&gt;
 &lt;p&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播。&lt;br&gt;
 落谦不对因使用本文所产生的任何问题负责。&lt;/p&gt;
+&lt;/aside&gt;
+&lt;/div&gt;</description></item><item><title>且玩且珍惜</title><link>https://luoqian29.github.io/p/other/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/other/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPW5MaRbUAAaKaC?format=jpg&amp;name=4096x4096" alt="Featured image of post 且玩且珍惜" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+&lt;h1 id="且玩且珍惜"&gt;且玩且珍惜
+&lt;/h1&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HPW5MaQbsAAmQqt?format=jpg&amp;amp;name=large"
+loading="lazy"
+alt="封面图"
+&gt;&lt;/p&gt;
+&lt;h2 id="引言"&gt;引言
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary&gt;先说结论&lt;/summary&gt;
+&lt;p&gt;先说结论吧：&lt;strong&gt;且玩且珍惜&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;按照目前的状况来讲，大概到今年，也就是 &lt;strong&gt;10月1号国庆节之后&lt;/strong&gt; 啊，刚好是博客的一周年。那我们的更新频率会明显的降低一点点，可能会进入一个 &lt;strong&gt;半停更状态&lt;/strong&gt;。当然也是一个佛系更新状态。
+啊，为什么会这样子呢？主要是因为 &lt;strong&gt;时间和精力实在是难以支撑&lt;/strong&gt; 啊。&lt;/p&gt;
+&lt;/details&gt;
+&lt;h2 id="心路历程与佛系更新"&gt;心路历程与佛系更新
+&lt;/h2&gt;&lt;div class="mac-timeline"&gt;
+&lt;div class="mac-timeline-item"&gt;
+&lt;div class="mac-timeline-date"&gt;最初的起点&lt;/div&gt;
+&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
+&lt;div class="mac-timeline-content"&gt;
+&lt;h3 class="mac-timeline-title"&gt;初衷 🌍&lt;/h3&gt;
+&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;一开始为什么会做这些汉化补丁呢？最初的原因非常简单，就是想 &lt;strong&gt;帮助一些看不懂英文的水友&lt;/strong&gt; 而已。&lt;/p&gt;
+&lt;p&gt;老水友都知道啊，以前啊我会在抖音直播午夜场，玩一些视觉小说游戏。那时候也会聊聊天、唠唠嗑。从交流中得知，有一部分水友是没有汉化资源的。&lt;/p&gt;
+&lt;p&gt;那时候 DeepSeek 刚好横空出世，而且又便宜，我一次性买了很多 token。然后我自己跑了上百个游戏，因为我自己没时间玩，但是 &lt;strong&gt;性价比极高&lt;/strong&gt; 嘛，跑完之后放在那里也是吃灰。那么刚好水友没有资源，就顺手把这些补丁制作出来分享一下。以前我会在抖音，还有公众号、爱发电发。但不知道为什么，公众号和抖音被人举报封掉了，这个就不清楚了。&lt;/p&gt;
+&lt;p&gt;其实呢，很感谢这些水友的陪伴。因为这段经历，我慢慢学会了 Python、Java、代码、AI 部署，以及 GitHub 的各种玩法。从某种意义上来讲，&lt;strong&gt;这段经历是非常值得的&lt;/strong&gt;，也是让我的生活跟 AI 息息相关了。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-timeline-item"&gt;
+&lt;div class="mac-timeline-date"&gt;博客一周年&lt;/div&gt;
+&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
+&lt;div class="mac-timeline-content"&gt;
+&lt;h3 class="mac-timeline-title"&gt;沉淀 📦&lt;/h3&gt;
+&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;国庆节博客就满一周年了。从今年 2026 年二三月份全力更新至今，多亏了 DeepSeek，我已经制作了 &lt;strong&gt;近 200 个不同版本的汉化补丁&lt;/strong&gt;。当然我们现在跑的可能是 V3 模型，有些小瑕疵。之后我会把一些高质量的游戏换成 V3.1。因为有时候我自己玩，会对照 V3 跟 V3.1 的版本去拼凑一些金句，东拼西凑嘛。有玩过补丁的水友就知道，现在翻译得 &lt;strong&gt;特别接地气&lt;/strong&gt;，有时候 V3 可能会出现点小小的幻觉，嘿嘿。&lt;/p&gt;
+&lt;p&gt;但是两者的接地气是不相上下的。只不过 V3.1 处理奇幻风格是信手拈来，至于 V3 处理一些奇幻风格，就会疯狂出现文绉绉的幻觉了。这个的话，我会后续慢慢给大家优化一下。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;关于汉化标准&lt;/strong&gt;：这里说说关于汉化标准吧。大家玩这些难登大雅的下九流小说啊，大多数都是奔着 CG 来的，&lt;strong&gt;只要剧情能看懂，CG 能看到，不就 OK 了吗？&lt;/strong&gt; 当然萝卜青菜各有所爱，有人希望能达到官中水平，但我确实是 &lt;strong&gt;精力有限&lt;/strong&gt;。因为我当初想接一个官中，奈何自己实力没有达到能者居上，导致胎死腹中了，这是我觉得最可惜的一点，说多了都是泪啊。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-timeline-item"&gt;
+&lt;div class="mac-timeline-date"&gt;精力的耗尽&lt;/div&gt;
+&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
+&lt;div class="mac-timeline-content"&gt;
+&lt;h3 class="mac-timeline-title"&gt;取舍 ⚠️&lt;/h3&gt;
+&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;肯定有人会问剩下的时间拿出来做简润或精润不行吗？其实是可以的。大家可能不知道，这种 AI 初版的，简单修一下专有名词、人名、幻觉 bug，再制作一下 mod，这期间的速度是非常快的。以前没有借助 Antigravity、Codex 这种 agent 智能体的辅助时，我纯手工一天能产出一两个；现在用智能体工具之后，几乎全交给他，&lt;strong&gt;一个小时能出两三个&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;但是，&lt;strong&gt;简润&lt;/strong&gt; 不能像做初版一样，Python 统一脚本就完事了。它需要人工一句句去检索遇到的小名、称谓、以及幻觉问题。&lt;strong&gt;这种消耗的资源是非常巨大的&lt;/strong&gt;，人力成本是最大的，文本量少了可能一两天，多则折腾半个月。&lt;/p&gt;
+&lt;p&gt;那如果是 &lt;strong&gt;精润&lt;/strong&gt; 呢？每一句就要符合角色人设、说话语气、上下文语境。这样的话我可能去跑 V3 跑三次，V3.1 跑三次，不同文风再跑三次，一共 12 次。这种制作出来绝对是非常完美的文本，但问题是，这些视觉小说它就是一个下九流，作者本身也没什么文化色彩。我个人觉得 &lt;strong&gt;绝大部分游戏直接做简润就 OK 了&lt;/strong&gt;。因为精润的成本是指数式上升的，不然哪怕烧再多的 token，用 agent 去当 AI 工程师，最后还得人工修复，会导致 &lt;strong&gt;token 没了，精力没了，时间也没了，付出跟收入完全不成正比&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;当然，也有例外。&lt;/strong&gt; 比如《老婆学院》、《喃喃自语》、《传染危机》、《领域入侵者》等几部欧美风或恋活游戏，这些 &lt;strong&gt;肯定会做精润&lt;/strong&gt;。因为我之前为了测试提示词，已经用不同模型、不同文风足足跑了七八次，跑都跑了，放着也是浪费。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-timeline-item"&gt;
+&lt;div class="mac-timeline-date"&gt;闲言碎语&lt;/div&gt;
+&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
+&lt;div class="mac-timeline-content"&gt;
+&lt;h3 class="mac-timeline-title"&gt;杂音 💔&lt;/h3&gt;
+&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;然后这里再说一些闲言碎语吧，关于争议跟“圈米”的委屈。一直有人吐槽我汉化质量不好，甚至说我在圈米，这是 &lt;strong&gt;最让我难绷的事情了&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;我最初是真想圈米呀，我还效仿了某些圈内大佬开充电进群，按人头收费，因为那时候比比皆是。然后不知道为什么惹到了一些圈子。我寻思着自己就孤家寡人，惹不起我还躲不起吗？那时候被人挂上了盗狗的标签，说我盗别人的汉化，真的太离谱了。于是我就解散了群，直接换成 TG 群。为什么换 TG？因为有魔法门槛和注册门槛，筛选出来的都是 &lt;strong&gt;非常有礼貌的水友&lt;/strong&gt;。一般阴阳怪气喷我的人都是在 QQ 群那边，甚至可能连博客都打不开，因为他没有魔法，&lt;strong&gt;只会用国内网盘&lt;/strong&gt;，肯定能懂，嘿嘿嘿。&lt;/p&gt;
+&lt;p&gt;我开爱发电两年了，收到的大赏 &lt;strong&gt;只有两三千块钱！&lt;/strong&gt; 本来寻思工作之余赚点外快，多吃几次疯狂星期四，结果 &lt;strong&gt;连烧 AI 的 token 费和水电网费都没回本！&lt;/strong&gt; 我操他妈的，真是的。如果当时为了赚钱，我根本坚持不到今天。&lt;/p&gt;
+&lt;p&gt;以前我他妈的可以不做那些垃圾破补丁的时候，闲下来可以出去走走，骑骑车，跑跑步。妈的，现在工作之余，&lt;strong&gt;每天还要学代码，修 bug&lt;/strong&gt;。虽然现在有智能体了，但我还要莫名承受那些阴阳怪气。他妈的，我每次都在博客更新日志里边叠好甲了，我做汉化补丁只是为了 &lt;strong&gt;帮助一些有需要的水友，我自己根本没有时间玩&lt;/strong&gt;。说句实在话，我他妈的真不欠你们的。哪怕我最初热情满满，如今已经被消磨得差不多了。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-timeline-item"&gt;
+&lt;div class="mac-timeline-date"&gt;10月之后&lt;/div&gt;
+&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
+&lt;div class="mac-timeline-content"&gt;
+&lt;h3 class="mac-timeline-title"&gt;前路 🍂&lt;/h3&gt;
+&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;10月份之后，&lt;strong&gt;佛系维护，避开节奏&lt;/strong&gt;。你是真不懂那种被阴阳怪气的滋味呀。但我会把 10 月份的存货全都做完了，可能会把 V3 之前跑的全都拿来备份，再跑一次 V3.1，因为 token 还剩下好几百，放在那里也是吃灰。顺利撒花完结，进入佛系的更新状态。&lt;/p&gt;
+&lt;p&gt;之后可能会做一些新游。至于修图，有些 UI 图片我会用 Codex 这种去 P 图，虽然有点贵（像《Being a Dik》花了我 30% 的周额度，但这大作没办法）。&lt;/p&gt;
+&lt;p&gt;那就是说我以后 &lt;strong&gt;不可能去第一时间做那些热门游戏的 AI 补丁了&lt;/strong&gt;。为什么呢？因为有很多大佬都在做精翻、跑 AI，我没必要去献丑；另一方面也是为了 &lt;strong&gt;避免不必要的误会跟节奏&lt;/strong&gt;。懂异世界天堂那波节奏的同学都应该懂。接个官中如果不跟圈内人打报告，人家就会喷你，人多力量大，我他妈当初直接被网暴得去跟他们道歉了，真的。&lt;/p&gt;
+&lt;p&gt;所以啊，&lt;strong&gt;多一事不如少一事&lt;/strong&gt;，你懂我意思吗？&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="结语"&gt;结语
+&lt;/h2&gt;&lt;aside class="reading-notice" role="note"&gt;
+&lt;p&gt;最后呢，感谢一直支持我的水友，愿意使用补丁以及积极反馈提出意见的真实水友们。一路走下来真是太不容易了。博客从最初只有七八个补丁，到现在积累了 &lt;strong&gt;快接近 200 个&lt;/strong&gt;，已经非常非常超出我当初的想象了。&lt;/p&gt;
+&lt;p&gt;无论如何，&lt;strong&gt;且玩且珍惜，感谢大家的一路陪伴&lt;/strong&gt;。没有你们，就没有博客的今天，你们也是博客的一分子！&lt;/p&gt;
 &lt;/aside&gt;
 &lt;/div&gt;</description></item><item><title>The Better Deal 更好的交易</title><link>https://luoqian29.github.io/p/thebetterdeal/</link><pubDate>Wed, 24 Dec 2025 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/thebetterdeal/</guid><description>&lt;img src="https://cdn-public.oppaiman.com/cover-photos/zegamez.jpeg" alt="Featured image of post The Better Deal 更好的交易" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="the-better-deal-v08b-ze-gam-ez"&gt;The Better Deal [v0.8b] [Ze-gam-eZ]

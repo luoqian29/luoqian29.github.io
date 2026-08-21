@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>干货 on 一落归谦</title><link>https://luoqian29.github.io/categories/%E5%B9%B2%E8%B4%A7/</link><description>Recent content in 干货 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Tue, 11 Aug 2026 00:15:56 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E5%B9%B2%E8%B4%A7/index.xml" rel="self" type="application/rss+xml"/><item><title>高质量高性价比VPN魔法推荐</title><link>https://luoqian29.github.io/p/vpn/</link><pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/vpn/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPW5OVyaIAALolG?format=jpg&amp;name=4096x4096" alt="Featured image of post 高质量高性价比VPN魔法推荐" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>干货 on 一落归谦</title><link>https://luoqian29.github.io/categories/%E5%B9%B2%E8%B4%A7/</link><description>Recent content in 干货 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Fri, 21 Aug 2026 19:12:58 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E5%B9%B2%E8%B4%A7/index.xml" rel="self" type="application/rss+xml"/><item><title>高质量高性价比VPN魔法推荐</title><link>https://luoqian29.github.io/p/vpn/</link><pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/vpn/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPW5OVyaIAALolG?format=jpg&amp;name=4096x4096" alt="Featured image of post 高质量高性价比VPN魔法推荐" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="高质量高性价比vpn魔法推荐"&gt;高质量高性价比VPN魔法推荐
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HPW5OV0awAA7e17?format=jpg&amp;amp;name=large"
 loading="lazy"
@@ -75,4 +75,66 @@ alt="封面图"
 &lt;li&gt;如果你刚好需要购买梯子，通过上面的链接注册订阅，我能得到一点佣金，用于博客日常运营和 AI 汉化成本。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/aside&gt;
+&lt;/div&gt;</description></item><item><title>关于汉化模型升级与“免费充电”求助说明</title><link>https://luoqian29.github.io/p/api/</link><pubDate>Fri, 21 Aug 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/api/</guid><description>&lt;img src="https://pbs.twimg.com/media/HQPdq07bIAACBYb?format=jpg&amp;name=4096x4096" alt="Featured image of post 关于汉化模型升级与“免费充电”求助说明" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+&lt;h1 id="关于近期汉化补丁升级与薅羊毛求助"&gt;关于近期汉化补丁升级与“薅羊毛”求助
+&lt;/h1&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HQPdq02a8AAeJPH?format=jpg&amp;amp;name=large"
+loading="lazy"
+alt="封面图"
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="为什么会有这篇博文"&gt;为什么会有这篇博文？
+&lt;/h2&gt;&lt;p&gt;之前我仔细对比测试了 &lt;strong&gt;DeepSeek-V3&lt;/strong&gt; 与 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 两个大语言模型的翻译质量。由于 V3.1 确实更加稳定、幻觉更少，我原本打算&lt;strong&gt;把之前做过的汉化补丁全都重置为 V3.1 高质量版本&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;但是现实很骨感：&lt;strong&gt;我的 API Token 快被掏空了&lt;/strong&gt;。&lt;/p&gt;
+&lt;div class="mac-list-container reading-facts"&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;质量与成本&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;V3 虽然便宜但极易出现幻觉；V3.1 非常稳定，但费用是 V3 的两倍以上&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;单部游戏成本&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;以《老婆学院》为例，V3 约需 15 元，而 V3.1 飙升至 30~40 元；《永恒世界》V3 约 12 元，V3.1 则翻倍&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;文字海游戏&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;像《爱与性第二垒》《混沌种子》《恋爱课程》等超大文本量 2D 游戏，V3 跑一趟大概要 60 元，而 V3.1 直接飙升至 120~130 元&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;之前为了给大家做 AI 汉化（包括跑翻译、写脚本修主要人名、集成选项 Mod 以及多功能模组），除了以前实行的“七天后公开”的限时订阅制外，我再也没有收过大家的费用，&lt;strong&gt;连每次几十上百的 Token 费用，都是我自己掏腰包的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但目前，我自己真金白银砸进去的 2000 多块，加上之前在音符直播时大家扫码帮我薅的 2000 多代金券，&lt;strong&gt;加起来三四千元的 Token 费用已经彻底见底了&lt;/strong&gt;。我确实无法再继续用真金白银往里面硬砸了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="怎么免费帮我充电薅硅基流动羊毛"&gt;怎么免费帮我“充电”？（薅硅基流动羊毛）
+&lt;/h2&gt;&lt;p&gt;如果你觉得落谦的汉化补丁对你有帮助，现在有一个&lt;strong&gt;完全免费&lt;/strong&gt;的方式可以帮到我，那就是去薅“硅基流动”的羊毛。&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;具体操作步骤（实名白嫖 16 元）&lt;/summary&gt;
+&lt;p&gt;其实很简单，就是通过我的专属邀请链接或二维码注册一个账号。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;实名认证奖励&lt;/strong&gt;：现在注册需要实名认证，认证通过后，&lt;strong&gt;你和我都可以获得 16 元的 Token 费用&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;这笔费用是没法折现的，我只能用它去调用接口跑汉化（比如调用 DeepSeek 或 Gemini 等大模型）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;👉 &lt;a class="link" href="https://cloud.siliconflow.cn/i/f3XyeSQQ" target="_blank" rel="noopener"
+&gt;注册实名硅基流动&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="如果-token-真的烧完了怎么办"&gt;如果 Token 真的烧完了怎么办？
+&lt;/h2&gt;&lt;p&gt;如果大家愿意顺手帮个忙，薅一下这十几块钱的羊毛，我们就能继续愉快地用 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 给大家更新最高质量的补丁。&lt;/p&gt;
+&lt;aside class="reading-notice" role="note"&gt;
+&lt;p&gt;&lt;strong&gt;但如果代金券耗尽，落谦可能面临以下无奈之举：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;以后大家投稿的新游戏，我可能就没法第一时间跑了。除非你能提供你注册完后拿到的那 16 元 API 密钥给我（跑个小游戏还是够的，如果费用超了一点，我会自掏腰包帮你补上）。&lt;/li&gt;
+&lt;li&gt;全面退回使用便宜但不稳定的 DeepSeek-V3 模型（这意味着你游玩时可能会遇到报错、幻觉和翻译错乱）。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/aside&gt;
+&lt;p&gt;总之，这是一个双赢的白嫖机制。如果你有空，就顺手帮个小忙吧！如果实在不方便也没关系，落谦一样感谢大家一直以来的支持。&lt;/p&gt;
 &lt;/div&gt;</description></item></channel></rss>
