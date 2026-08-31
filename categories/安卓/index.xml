@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>安卓 on 一落归谦</title><link>https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/</link><description>Recent content in 安卓 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Sun, 30 Aug 2026 21:58:23 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/index.xml" rel="self" type="application/rss+xml"/><item><title>Murmur 低语</title><link>https://luoqian29.github.io/p/murmur/</link><pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/murmur/</guid><description>&lt;img src="https://img.itch.zone/aW1nLzUwMjI0MDUuanBn/original/j1UT1x.jpg" alt="Featured image of post Murmur 低语" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>安卓 on 一落归谦</title><link>https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/</link><description>Recent content in 安卓 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Mon, 31 Aug 2026 11:38:17 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/index.xml" rel="self" type="application/rss+xml"/><item><title>Murmur 低语</title><link>https://luoqian29.github.io/p/murmur/</link><pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/murmur/</guid><description>&lt;img src="https://img.itch.zone/aW1nLzUwMjI0MDUuanBn/original/j1UT1x.jpg" alt="Featured image of post Murmur 低语" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="murmur-v07-hotfix-devils-dad"&gt;Murmur [v0.7 Hotfix] [Devil&amp;rsquo;s Dad]
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://img.itch.zone/aW1nLzUwMjA5NTAuanBn/original/nUN0Ka.jpg"
 loading="lazy"
@@ -101,6 +101,13 @@ alt="封面图"
 &lt;div class="reading-update-main"&gt;
 &lt;strong class="reading-update-version"&gt;0.7&lt;/strong&gt;
 &lt;span class="reading-update-detail"&gt;Walkthrough Mod&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.31&lt;/time&gt;&lt;span&gt; · 12:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;简润补丁&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;使用Antigravity（Gemini 3.7 Flash High）再次简润，修复了部分突兀、文绉绉文风以及直译错翻的句子&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -638,11 +645,11 @@ alt="预览图"
 &lt;div class="reading-bento-grid"&gt;
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
-&lt;div class="reading-bento-desc"&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用&lt;strong&gt;Antigravity（Gemini 3.7 Flash High）&lt;/strong&gt;简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/div&gt;
+&lt;div class="reading-bento-desc"&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt;批量初翻，使用&lt;strong&gt;Antigravity（Gemini 3.7 Flash High）&lt;/strong&gt;简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge purple"&gt;🎨 算法P图&lt;/span&gt;
-&lt;div class="reading-bento-desc"&gt;使用 &lt;strong&gt;Codex（ChatGPT-5.6 Sol）&lt;/strong&gt; 视觉算法渲染对UI图片进行P图。&lt;/div&gt;
+&lt;div class="reading-bento-desc"&gt;使用 &lt;strong&gt;Codex（ChatGPT-5.6 Sol）&lt;/strong&gt;视觉算法渲染对UI图片进行P图。&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge orange"&gt;☕ 订阅专享&lt;/span&gt;
@@ -777,6 +784,44 @@ alt="预览图"
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;/h2&gt;&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/msh8hFeN" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/mhU5YtB8Kd" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/msh8hFeN" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/mhU5YtB8Kd" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/msh8hFeN" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/mhU5YtB8Kd" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
