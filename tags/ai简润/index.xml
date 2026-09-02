@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI简润 on 一落归谦</title><link>https://luoqian29.github.io/tags/ai%E7%AE%80%E6%B6%A6/</link><description>Recent content in AI简润 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Tue, 01 Sep 2026 21:11:11 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/ai%E7%AE%80%E6%B6%A6/index.xml" rel="self" type="application/rss+xml"/><item><title>Contagion Crisis 传染危机</title><link>https://luoqian29.github.io/p/contagioncrisis/</link><pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/contagioncrisis/</guid><description>&lt;img src="https://pbs.twimg.com/profile_banners/1748878231879532545/1712152687/1500x500" alt="Featured image of post Contagion Crisis 传染危机" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI简润 on 一落归谦</title><link>https://luoqian29.github.io/tags/ai%E7%AE%80%E6%B6%A6/</link><description>Recent content in AI简润 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Wed, 02 Sep 2026 22:45:55 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/ai%E7%AE%80%E6%B6%A6/index.xml" rel="self" type="application/rss+xml"/><item><title>Contagion Crisis 传染危机</title><link>https://luoqian29.github.io/p/contagioncrisis/</link><pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/contagioncrisis/</guid><description>&lt;img src="https://pbs.twimg.com/profile_banners/1748878231879532545/1712152687/1500x500" alt="Featured image of post Contagion Crisis 传染危机" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="contagion-crisis-v070-welovemonsters"&gt;Contagion Crisis [v0.7.0] [WeLoveMonsters]
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/G9jRvBoXgAALzoG?format=jpg&amp;amp;name=large"
 loading="lazy"
@@ -358,13 +358,24 @@ alt="screenshot0044"
 &lt;span class="reading-platform-title"&gt;AI简润汉化补丁&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;爱发电 · 订阅专享&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
 &lt;/summary&gt;
 &lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;a class="link" href="https://afdian.com/p/7244ec18a4fc11f1ad7652540025c377" target="_blank" rel="noopener"
-&gt;爱发电&lt;/a&gt;&lt;/p&gt;
+&lt;div class="reading-afdian-card"&gt;
+&lt;div class="reading-afdian-left"&gt;
+&lt;div class="reading-afdian-icon"&gt;⚡&lt;/div&gt;
+&lt;div class="reading-afdian-info"&gt;
+&lt;span class="reading-afdian-title"&gt;爱发电 · 订阅获取&lt;/span&gt;
+&lt;span class="reading-afdian-price"&gt;（¥10 / 月）&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;a href="https://afdian.com/p/7244ec18a4fc11f1ad7652540025c377" target="_blank" rel="noopener noreferrer" class="reading-afdian-btn"&gt;
+&lt;span&gt;前往订阅&lt;/span&gt;
+&lt;svg class="reading-afdian-arrow" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"&gt;&lt;path d="M14 5l7 7m0 0l-7 7m7-7H3"/&gt;&lt;/svg&gt;
+&lt;/a&gt;
+&lt;/div&gt;
 &lt;div class="reading-bento-grid"&gt;
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;基于 &lt;strong&gt;DeepSeek V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
+&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
@@ -389,7 +400,7 @@ alt="screenshot0044"
 &lt;/div&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;☕ 2. 为什么采用订阅制？&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
 &lt;p&gt;落谦个人时间精力非常有限，而且我不是为爱发电！不是为爱发电！不是为爱发电！重要的事情说三遍！开订阅制纯粹是为了回血一部分高昂的Token费用、精力的投入以及博客的日常运营成本。&lt;br&gt;
-&lt;strong&gt;AI简润补丁&lt;/strong&gt; 不会公开。因为公开的补丁，不仅没人反馈，还要白受各种阴阳怪气，这些大家心知肚明；而订阅支持我的水友不仅真诚尊重我的劳动，也更愿意主动交流反馈bug，毕竟是真金白银订阅的，哈哈。&lt;/p&gt;
+&lt;strong&gt;AI简润补丁&lt;/strong&gt;不会公开。因为公开的补丁，不仅没人反馈，还要白受各种阴阳怪气，这些大家心知肚明；而订阅支持我的水友不仅真诚尊重我的劳动，也更愿意主动交流反馈bug，毕竟是真金白银订阅的，哈哈。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;💰 3. 实打实的算力成本&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
@@ -1303,13 +1314,24 @@ alt="预览图"
 &lt;span class="reading-platform-title"&gt;AI简润汉化补丁&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;爱发电 · 订阅专享&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
 &lt;/summary&gt;
 &lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;a class="link" href="https://afdian.com/p/8656b3f8a47a11f181f552540025c377" target="_blank" rel="noopener"
-&gt;爱发电&lt;/a&gt;&lt;/p&gt;
+&lt;div class="reading-afdian-card"&gt;
+&lt;div class="reading-afdian-left"&gt;
+&lt;div class="reading-afdian-icon"&gt;⚡&lt;/div&gt;
+&lt;div class="reading-afdian-info"&gt;
+&lt;span class="reading-afdian-title"&gt;爱发电 · 订阅获取&lt;/span&gt;
+&lt;span class="reading-afdian-price"&gt;（¥10 / 月）&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;a href="https://afdian.com/p/8656b3f8a47a11f181f552540025c377" target="_blank" rel="noopener noreferrer" class="reading-afdian-btn"&gt;
+&lt;span&gt;前往订阅&lt;/span&gt;
+&lt;svg class="reading-afdian-arrow" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"&gt;&lt;path d="M14 5l7 7m0 0l-7 7m7-7H3"/&gt;&lt;/svg&gt;
+&lt;/a&gt;
+&lt;/div&gt;
 &lt;div class="reading-bento-grid"&gt;
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;基于 &lt;strong&gt;DeepSeek V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
+&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
@@ -1328,13 +1350,13 @@ alt="预览图"
 &lt;details&gt;
 &lt;summary style="color:#00A1D6;font-weight:600;"&gt;关于AI简润汉化补丁&lt;/summary&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛠️ 1. 大模型与文风&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;技术底座：&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Codex （ChatGPT-5.6 Sol）&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;技术底座&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Codex （ChatGPT-5.6 Sol）&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
 &lt;strong&gt;关于文风：&lt;/strong&gt; AI跑出来是什么文风就是什么文风。我个人很喜欢 DeepSeek 和 Gemini 的地道文风；如果追求极致文学级的翻译，圈内也有很多优秀的汉化大佬纯手工精翻，大家各取所需即可。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;☕ 2. 为什么采用订阅制？&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
 &lt;p&gt;落谦个人时间精力非常有限，而且我不是为爱发电！不是为爱发电！不是为爱发电！重要的事情说三遍！开订阅制纯粹是为了回血一部分高昂的Token费用、精力的投入以及博客的日常运营成本。&lt;br&gt;
-&lt;strong&gt;AI简润补丁&lt;/strong&gt; 不会公开。因为公开的补丁，不仅没人反馈，还要白受各种阴阳怪气，这些大家心知肚明；而订阅支持我的水友不仅真诚尊重我的劳动，也更愿意主动交流反馈bug，毕竟是真金白银订阅的，哈哈。&lt;/p&gt;
+&lt;strong&gt;AI简润补丁&lt;/strong&gt;不会公开。因为公开的补丁，不仅没人反馈，还要白受各种阴阳怪气，这些大家心知肚明；而订阅支持我的水友不仅真诚尊重我的劳动，也更愿意主动交流反馈bug，毕竟是真金白银订阅的，哈哈。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;💰 3. 实打实的算力成本&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
