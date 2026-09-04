@@ -1,4 +1,428 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>安卓 on 一落归谦</title><link>https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/</link><description>Recent content in 安卓 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Wed, 02 Sep 2026 22:59:30 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/index.xml" rel="self" type="application/rss+xml"/><item><title>Accord 协议</title><link>https://luoqian29.github.io/p/accord/</link><pubDate>Wed, 02 Sep 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/accord/</guid><description>&lt;img src="https://files.catbox.moe/6806ou.png" alt="Featured image of post Accord 协议" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>安卓 on 一落归谦</title><link>https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/</link><description>Recent content in 安卓 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Fri, 04 Sep 2026 11:55:29 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/index.xml" rel="self" type="application/rss+xml"/><item><title>Familiar Circumstances 熟悉的情境</title><link>https://luoqian29.github.io/p/familiarcircumstances/</link><pubDate>Fri, 04 Sep 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/familiarcircumstances/</guid><description>&lt;img src="https://img.itch.zone/aW1hZ2UvNDM2ODMzNC8yOTcyNzc5NS5qcGc=/original/WfUtOA.jpg" alt="Featured image of post Familiar Circumstances 熟悉的情境" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+&lt;h1 id="familiar-circumstances-v131-babyface"&gt;Familiar Circumstances [v1.3.1] [Babyface]
+&lt;/h1&gt;&lt;p&gt;&lt;img src="https://img.itch.zone/aW1hZ2UvNDM2ODMzNC8yOTcyNzc5My5qcGc=/original/nqOPNC.jpg"
+loading="lazy"
+alt="封面图"
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="overview"&gt;Overview
+&lt;/h1&gt;&lt;details&gt;
+&lt;summary&gt;剧情概要&lt;/summary&gt;
+&lt;p&gt;Remember pandemic? What was that about?&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="details"&gt;Details
+&lt;/h2&gt;&lt;details class="reading-note reading-game-info"&gt;
+&lt;summary&gt;游戏信息&lt;/summary&gt;
+&lt;div class="mac-list-container reading-game-info-list"&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏玩法&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;视觉小说&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;建模引擎&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;Koikatsu Sunshine&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;运行引擎&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;Ren&amp;rsquo;Py&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏画风&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;2.5次元&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;当前版本&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;1.3.1&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;发行日期&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;2026-08-24&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="developer入正地址"&gt;Developer（入正地址）
+&lt;/h2&gt;&lt;p&gt;&lt;a class="link" href="https://www.patreon.com/cw/babyface_" target="_blank" rel="noopener"
+&gt;Patreon&lt;/a&gt;
+&lt;a class="link" href="https://discord.com/invite/SKM6RsABBS" target="_blank" rel="noopener"
+&gt;Discord&lt;/a&gt;
+&lt;a class="link" href="https://f95babyface.itch.io/familiar-circumstances" target="_blank" rel="noopener"
+&gt;Itch.io&lt;/a&gt;
+&lt;a class="link" href="https://subscribestar.adult/babyface" target="_blank" rel="noopener"
+&gt;SubscribeStar&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="落谦酱便利贴"&gt;落谦酱便利贴
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary style="color:#c81e1e;font-weight:600;"&gt;PS&lt;/summary&gt;
+&lt;p&gt;我是吕子乔。&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class="reading-note reading-changelog"&gt;
+&lt;summary style="color:#00A1D6;"&gt;博文更新日志&lt;/summary&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.09.04&lt;/time&gt;&lt;span&gt; · 12:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;1.3.1&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;AI意译汉化补丁&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.09.04&lt;/time&gt;&lt;span&gt; · 12:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;1.3.1&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;AI简润汉化补丁&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
+&lt;div class="reading-patch-meta-bar"&gt;
+&lt;p&gt;&lt;span class="reading-patch-meta-pill"&gt;🤖 &lt;strong&gt;AI 模型：&lt;/strong&gt;DeepSeek-V3.1-Terminus&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="reading-patch-meta-pill"&gt;✍️ &lt;strong&gt;翻译作者：&lt;/strong&gt;落谦&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="reading-patch-meta-pill"&gt;📅 &lt;strong&gt;制作日期：&lt;/strong&gt;2026-09-04&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;⚠️ PS：关于 AI 幻觉与人工校对&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;由于 AI 会出现&lt;strong&gt;幻觉&lt;/strong&gt;，文本上下文中，偶尔会出现人名&lt;strong&gt;翻译误差&lt;/strong&gt;、&lt;strong&gt;中英文&lt;/strong&gt;夹杂、以及&lt;strong&gt;突兀文风&lt;/strong&gt;的句子。&lt;br&gt;
+目前落谦也只能统一&lt;strong&gt;主要角色&lt;/strong&gt;的人名，但难免还是会有&lt;strong&gt;个别遗漏&lt;/strong&gt;，毕竟落谦只有&lt;strong&gt;一个人&lt;/strong&gt;，时间和精力确实&lt;strong&gt;有限&lt;/strong&gt;。至于一些&lt;strong&gt;小名&lt;/strong&gt;、&lt;strong&gt;昵称&lt;/strong&gt;、&lt;strong&gt;缩写称呼&lt;/strong&gt;、&lt;strong&gt;称谓&lt;/strong&gt;、&lt;strong&gt;地点&lt;/strong&gt;、&lt;strong&gt;事件&lt;/strong&gt;，以及&lt;strong&gt;专有名词&lt;/strong&gt;，还有类似 &lt;strong&gt;sister、brother&lt;/strong&gt; 这种&lt;strong&gt;一词多义&lt;/strong&gt;的单词，则需要人工&lt;strong&gt;边玩边修正&lt;/strong&gt;。当然，如果在统一主要角色人名时，发现了&lt;strong&gt;相关专有名词&lt;/strong&gt;，也会&lt;strong&gt;顺手统一&lt;/strong&gt;一下。还请大家多多谅解，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛡️ 免死金牌&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;落谦的汉化补丁，无论是&lt;strong&gt;AI意译&lt;/strong&gt;版本还是&lt;strong&gt;逐句意译&lt;/strong&gt;版本，都远不及&lt;strong&gt;原文&lt;/strong&gt;或&lt;strong&gt;其他大佬&lt;/strong&gt;的汉化版本。&lt;br&gt;
+与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电 &lt;strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;/strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class="blur"&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
+&lt;div class="video-wrapper"&gt;
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
+scrolling="no"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true"
+&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="游戏预览图"&gt;游戏预览图
+&lt;/h2&gt;&lt;details class="reading-note reading-gallery"&gt;
+&lt;summary&gt;实图&lt;/summary&gt;
+&lt;p&gt;&lt;img src="https://files.catbox.moe/4889bb.png"
+loading="lazy"
+alt="screenshot0001"
+&gt;
+&lt;img src="https://files.catbox.moe/7req60.png"
+loading="lazy"
+alt="screenshot0002"
+&gt;
+&lt;img src="https://files.catbox.moe/n8yeee.png"
+loading="lazy"
+alt="screenshot0003"
+&gt;
+&lt;img src="https://files.catbox.moe/updqbr.png"
+loading="lazy"
+alt="screenshot0004"
+&gt;
+&lt;img src="https://files.catbox.moe/ey2rxx.png"
+loading="lazy"
+alt="screenshot0005"
+&gt;
+&lt;img src="https://files.catbox.moe/kvqd25.png"
+loading="lazy"
+alt="screenshot0006"
+&gt;
+&lt;img src="https://files.catbox.moe/7lgklx.png"
+loading="lazy"
+alt="screenshot0007"
+&gt;
+&lt;img src="https://files.catbox.moe/metsgm.png"
+loading="lazy"
+alt="screenshot0008"
+&gt;
+&lt;img src="https://files.catbox.moe/m4xwlx.png"
+loading="lazy"
+alt="screenshot0009"
+&gt;
+&lt;img src="https://files.catbox.moe/g1zdyr.png"
+loading="lazy"
+alt="screenshot0010"
+&gt;
+&lt;img src="https://files.catbox.moe/5l7g2m.png"
+loading="lazy"
+alt="screenshot0011"
+&gt;
+&lt;img src="https://files.catbox.moe/l3chjx.png"
+loading="lazy"
+alt="screenshot0012"
+&gt;
+&lt;img src="https://files.catbox.moe/exjvm3.png"
+loading="lazy"
+alt="screenshot0013"
+&gt;
+&lt;img src="https://files.catbox.moe/rn2q50.png"
+loading="lazy"
+alt="screenshot0014"
+&gt;
+&lt;img src="https://files.catbox.moe/bc39m7.png"
+loading="lazy"
+alt="screenshot0015"
+&gt;
+&lt;img src="https://files.catbox.moe/5j5vh0.png"
+loading="lazy"
+alt="screenshot0016"
+&gt;
+&lt;img src="https://files.catbox.moe/n66nu1.png"
+loading="lazy"
+alt="screenshot0017"
+&gt;
+&lt;img src="https://files.catbox.moe/cjuhh3.png"
+loading="lazy"
+alt="screenshot0018"
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;/h2&gt;&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;AI简润汉化补丁&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;爱发电 · 订阅专享&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;div class="reading-afdian-card"&gt;
+&lt;div class="reading-afdian-left"&gt;
+&lt;div class="reading-afdian-icon"&gt;⚡&lt;/div&gt;
+&lt;div class="reading-afdian-info"&gt;
+&lt;span class="reading-afdian-title"&gt;爱发电 · 订阅获取&lt;/span&gt;
+&lt;span class="reading-afdian-price"&gt;（¥10 / 月）&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;a href="https://afdian.com/p/cf62b59ca6dc11f1bf0b5254001e7c00" target="_blank" rel="noopener noreferrer" class="reading-afdian-btn"&gt;
+&lt;span&gt;前往订阅&lt;/span&gt;
+&lt;svg class="reading-afdian-arrow" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"&gt;&lt;path d="M14 5l7 7m0 0l-7 7m7-7H3"/&gt;&lt;/svg&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="reading-bento-grid"&gt;
+&lt;div class="reading-bento-card"&gt;
+&lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
+&lt;div class="reading-bento-desc"&gt;
+&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;DeepSeek-V3 API&lt;/strong&gt;简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-bento-card"&gt;
+&lt;span class="reading-bento-badge purple"&gt;🎨 算法P图&lt;/span&gt;
+&lt;div class="reading-bento-desc"&gt;
+&lt;p&gt;部分UI图片由 &lt;strong&gt;Antigravity (Gemini 3.8 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-bento-card"&gt;
+&lt;span class="reading-bento-badge orange"&gt;☕ 订阅专享&lt;/span&gt;
+&lt;div class="reading-bento-desc"&gt;
+&lt;p&gt;爱发电 &lt;strong&gt;¥10 / 月&lt;/strong&gt;（一杯瑞幸咖啡），简润汉化补丁获取，包含后续bug反馈与补丁优化。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;details&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;关于AI简润汉化补丁&lt;/summary&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛠️ 1. 大模型与文风&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;&lt;strong&gt;技术底座&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;DeepSeek-V3 API&lt;/strong&gt;简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Antigravity (Gemini 3.8 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
+&lt;strong&gt;关于文风：&lt;/strong&gt; AI跑出来是什么文风就是什么文风。我个人很喜欢 DeepSeek 和 Gemini 的地道文风；如果追求极致文学级的翻译，圈内也有很多优秀的汉化大佬纯手工精翻，大家各取所需即可。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;☕ 2. 为什么采用订阅制？&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;落谦个人时间精力非常有限，而且我不是为爱发电！不是为爱发电！不是为爱发电！重要的事情说三遍！开订阅制纯粹是为了回血一部分高昂的Token费用、精力的投入以及博客的日常运营成本。&lt;br&gt;
+&lt;strong&gt;AI简润补丁&lt;/strong&gt;不会公开。因为公开的补丁，不仅没人反馈，还要白受各种阴阳怪气，这些大家心知肚明；而订阅支持我的水友不仅真诚尊重我的劳动，也更愿意主动交流反馈bug，毕竟是真金白银订阅的，哈哈。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;💰 3. 实打实的算力成本&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;调 API 跑测试，DeepSeek V3.1 的单次费用是 V3 的两倍以上。对于某些游戏，如果每次版本更新作者都大修了大批文本，由于精力有限，我都会选择重新跑一次AI。&lt;br&gt;
+对于一些我个人特别喜欢的游戏，为了后续做精润，我会人工根据不同模型、不同文风跑出来的几个版本进行对比融合，提炼出最符合角色人设、最接地气且有金句的优质文本。这样反复跑下来，单部游戏的 API 成本少则五六十元，多则（如果用 V3.1 重跑多遍）成本会直接飙升至 &lt;strong&gt;上百甚至好几百&lt;/strong&gt;。&lt;br&gt;
+所以 &lt;strong&gt;¥10 / 月&lt;/strong&gt;（一杯瑞幸咖啡）的订阅真的就是白菜价，成本完全透明。大家可以自行去 DeepSeek 官网或中转站查看输入/输出以及缓存命中的 Token 资费，也可以自己调用 API 跑几个游戏测试一下。博客已有上百部 AI 意译补丁，订阅水友如果想让我做哪部游戏的&lt;strong&gt;AI简润&lt;/strong&gt;，欢迎随时向我投稿推荐！&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/Trglvx" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/gVBQrxLF" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/dUwuTq4E" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/rX6bHHFV" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件放入&lt;strong&gt;game&lt;/strong&gt;文件夹中&lt;/li&gt;
+&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/Trglvx" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/gVBQrxLF" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/dUwuTq4E" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/rX6bHHFV" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主体 APK：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/RToDf1Ll" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/XdDLT6vs" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;、&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
+&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
+&lt;li&gt;然后解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将英文原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;和&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件一起移动到以下路径：&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Documents/RenPy_Saves/com.luoqian.FamiliarCircumstances/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/Trglvx" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/gVBQrxLF" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/dUwuTq4E" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/rX6bHHFV" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;英文原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
+&lt;li&gt;然后将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件移动到以下路径：&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;我的iPhone/Spark/games/FamiliarCircumstances/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="使用帮助"&gt;使用帮助
+&lt;/h2&gt;&lt;div class="mac-list-container reading-help"&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;网络连接&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果打不开链接请科学上网，没有梯子可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/p/vpn/" target="_blank" rel="noopener"
+&gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;安装教程&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果看不懂安装步骤，可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/about/" target="_blank" rel="noopener"
+&gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;问题反馈&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果操作过程中遇到Bug或其他问题，欢迎在博文评论区留言反馈&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;创作支持&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果本文对你有帮助，欢迎在&lt;a class="link" href="https://afdian.com/a/luoqian" target="_blank" rel="noopener"
+&gt;爱发电&lt;/a&gt;投喂落谦&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;幸好有你&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="宇宙安全声明"&gt;宇宙安全声明！
+&lt;/h2&gt;&lt;aside class="reading-notice" role="note"&gt;
+&lt;p&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播。&lt;br&gt;
+落谦不对因使用本文所产生的任何问题负责。&lt;/p&gt;
+&lt;/aside&gt;
+&lt;/div&gt;</description></item><item><title>Accord 协议</title><link>https://luoqian29.github.io/p/accord/</link><pubDate>Wed, 02 Sep 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/accord/</guid><description>&lt;img src="https://files.catbox.moe/6806ou.png" alt="Featured image of post Accord 协议" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="accord-v047-messiah"&gt;Accord [v0.4.7] [Messiah]
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://files.catbox.moe/gd752y.png"
 loading="lazy"
@@ -254,7 +678,7 @@ alt="screenshot0013"
 &lt;span class="reading-afdian-price"&gt;（¥10 / 月）&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;a href="https://afdian.com/p/cf62b59ca6dc11f1bf0b5254001e7c00" target="_blank" rel="noopener noreferrer" class="reading-afdian-btn"&gt;
+&lt;a href="https://afdian.com/p/3ab4451ca81411f1a5dd5254001e7c00" target="_blank" rel="noopener noreferrer" class="reading-afdian-btn"&gt;
 &lt;span&gt;前往订阅&lt;/span&gt;
 &lt;svg class="reading-afdian-arrow" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"&gt;&lt;path d="M14 5l7 7m0 0l-7 7m7-7H3"/&gt;&lt;/svg&gt;
 &lt;/a&gt;
@@ -263,13 +687,13 @@ alt="screenshot0013"
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;DeepSeek-V3 API&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
+&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;DeepSeek-V3 API&lt;/strong&gt;简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge purple"&gt;🎨 算法P图&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;部分UI图片由 &lt;strong&gt;Codex （ChatGPT-5.6 Sol）&lt;/strong&gt; 视觉算法渲染P图完成。&lt;/p&gt;
+&lt;p&gt;部分UI图片由 &lt;strong&gt;Antigravity (Gemini 3.8 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
@@ -282,7 +706,7 @@ alt="screenshot0013"
 &lt;details&gt;
 &lt;summary style="color:#00A1D6;font-weight:600;"&gt;关于AI简润汉化补丁&lt;/summary&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛠️ 1. 大模型与文风&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;技术底座&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;DeepSeek-V3 API&lt;/strong&gt; 简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Codex （ChatGPT-5.6 Sol）&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;技术底座&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;DeepSeek-V3 API&lt;/strong&gt;简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Antigravity (Gemini 3.8 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
 &lt;strong&gt;关于文风：&lt;/strong&gt; AI跑出来是什么文风就是什么文风。我个人很喜欢 DeepSeek 和 Gemini 的地道文风；如果追求极致文学级的翻译，圈内也有很多优秀的汉化大佬纯手工精翻，大家各取所需即可。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -294,7 +718,7 @@ alt="screenshot0013"
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;💰 3. 实打实的算力成本&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
 &lt;p&gt;调 API 跑测试，DeepSeek V3.1 的单次费用是 V3 的两倍以上。对于某些游戏，如果每次版本更新作者都大修了大批文本，由于精力有限，我都会选择重新跑一次AI。&lt;br&gt;
 对于一些我个人特别喜欢的游戏，为了后续做精润，我会人工根据不同模型、不同文风跑出来的几个版本进行对比融合，提炼出最符合角色人设、最接地气且有金句的优质文本。这样反复跑下来，单部游戏的 API 成本少则五六十元，多则（如果用 V3.1 重跑多遍）成本会直接飙升至 &lt;strong&gt;上百甚至好几百&lt;/strong&gt;。&lt;br&gt;
-所以 &lt;strong&gt;¥10 / 月&lt;/strong&gt;（一杯瑞幸咖啡）的订阅真的就是白菜价，成本完全透明。大家可以自行去 DeepSeek 官网或中转站查看输入/输出以及缓存命中的 Token 资费，也可以自己调用 API 跑几个游戏测试一下。博客已有上百部 AI 意译补丁，订阅水友如果想让我做哪部游戏的&lt;strong&gt;AI 简润&lt;/strong&gt;，欢迎随时向我投稿推荐！&lt;/p&gt;
+所以 &lt;strong&gt;¥10 / 月&lt;/strong&gt;（一杯瑞幸咖啡）的订阅真的就是白菜价，成本完全透明。大家可以自行去 DeepSeek 官网或中转站查看输入/输出以及缓存命中的 Token 资费，也可以自己调用 API 跑几个游戏测试一下。博客已有上百部 AI 意译补丁，订阅水友如果想让我做哪部游戏的&lt;strong&gt;AI简润&lt;/strong&gt;，欢迎随时向我投稿推荐！&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -1206,7 +1630,7 @@ alt="screenshot0027"
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
+&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 **Antigravity (Gemini 3.7 Flash High)**简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
@@ -1225,7 +1649,7 @@ alt="screenshot0027"
 &lt;details&gt;
 &lt;summary style="color:#00A1D6;font-weight:600;"&gt;关于AI简润汉化补丁&lt;/summary&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛠️ 1. 大模型与文风&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;技术底座：&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Codex (ChatGPT-5.6 Sol)&lt;/strong&gt; 与 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;技术底座：&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 **Antigravity (Gemini 3.7 Flash High)**简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Codex (ChatGPT-5.6 Sol)&lt;/strong&gt; 与 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
 &lt;strong&gt;关于文风：&lt;/strong&gt; AI跑出来是什么文风就是什么文风。我个人很喜欢 DeepSeek 和 Gemini 的地道文风；如果追求极致文学级的翻译，圈内也有很多优秀的汉化大佬纯手工精翻，大家各取所需即可。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1237,7 +1661,7 @@ alt="screenshot0027"
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;💰 3. 实打实的算力成本&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
 &lt;p&gt;调 API 跑测试，DeepSeek V3.1 的单次费用是 V3 的两倍以上。对于某些游戏，如果每次版本更新作者都大修了大批文本，由于精力有限，我都会选择重新跑一次AI。&lt;br&gt;
 对于一些我个人特别喜欢的游戏，为了后续做精润，我会人工根据不同模型、不同文风跑出来的几个版本进行对比融合，提炼出最符合角色人设、最接地气且有金句的优质文本。这样反复跑下来，单部游戏的 API 成本少则五六十元，多则（如果用 V3.1 重跑多遍）成本会直接飙升至 &lt;strong&gt;上百甚至好几百&lt;/strong&gt;。&lt;br&gt;
-所以 &lt;strong&gt;¥10 / 月&lt;/strong&gt;（一杯瑞幸咖啡）的订阅真的就是白菜价，成本完全透明。大家可以自行去 DeepSeek 官网或中转站查看输入/输出以及缓存命中的 Token 资费，也可以自己调用 API 跑几个游戏测试一下。博客已有上百部 AI 意译补丁，订阅水友如果想让我做哪部游戏的&lt;strong&gt;AI 简润&lt;/strong&gt;，欢迎随时向我投稿推荐！&lt;/p&gt;
+所以 &lt;strong&gt;¥10 / 月&lt;/strong&gt;（一杯瑞幸咖啡）的订阅真的就是白菜价，成本完全透明。大家可以自行去 DeepSeek 官网或中转站查看输入/输出以及缓存命中的 Token 资费，也可以自己调用 API 跑几个游戏测试一下。博客已有上百部 AI 意译补丁，订阅水友如果想让我做哪部游戏的&lt;strong&gt;AI简润&lt;/strong&gt;，欢迎随时向我投稿推荐！&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -1852,7 +2276,7 @@ alt="screenshot0044"
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
+&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 **Antigravity (Gemini 3.7 Flash High)**简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
@@ -1871,7 +2295,7 @@ alt="screenshot0044"
 &lt;details&gt;
 &lt;summary style="color:#00A1D6;font-weight:600;"&gt;关于AI简润汉化补丁&lt;/summary&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛠️ 1. 大模型与文风&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;技术底座：&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由**Antigravity（Gemini 3.7 Flash High）**视觉算法渲染P图完成。&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;技术底座：&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 **Antigravity (Gemini 3.7 Flash High)&lt;strong&gt;简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由&lt;/strong&gt;Antigravity（Gemini 3.7 Flash High）**视觉算法渲染P图完成。&lt;br&gt;
 &lt;strong&gt;关于文风：&lt;/strong&gt; AI跑出来是什么文风就是什么文风。我个人很喜欢 DeepSeek 和 Gemini 的地道文风；如果追求极致文学级的翻译，圈内也有很多优秀的汉化大佬纯手工精翻，大家各取所需即可。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1883,7 +2307,7 @@ alt="screenshot0044"
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;💰 3. 实打实的算力成本&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
 &lt;p&gt;调 API 跑测试，DeepSeek V3.1 的单次费用是 V3 的两倍以上。对于某些游戏，如果每次版本更新作者都大修了大批文本，由于精力有限，我都会选择重新跑一次AI。&lt;br&gt;
 对于一些我个人特别喜欢的游戏，为了后续做精润，我会人工根据不同模型、不同文风跑出来的几个版本进行对比融合，提炼出最符合角色人设、最接地气且有金句的优质文本。这样反复跑下来，单部游戏的 API 成本少则五六十元，多则（如果用 V3.1 重跑多遍）成本会直接飙升至 &lt;strong&gt;上百甚至好几百&lt;/strong&gt;。&lt;br&gt;
-所以 &lt;strong&gt;¥10 / 月&lt;/strong&gt;（一杯瑞幸咖啡）的订阅真的就是白菜价，成本完全透明。大家可以自行去 DeepSeek 官网或中转站查看输入/输出以及缓存命中的 Token 资费，也可以自己调用 API 跑几个游戏测试一下。博客已有上百部 AI 意译补丁，订阅水友如果想让我做哪部游戏的&lt;strong&gt;AI 简润&lt;/strong&gt;，欢迎随时向我投稿推荐！&lt;/p&gt;
+所以 &lt;strong&gt;¥10 / 月&lt;/strong&gt;（一杯瑞幸咖啡）的订阅真的就是白菜价，成本完全透明。大家可以自行去 DeepSeek 官网或中转站查看输入/输出以及缓存命中的 Token 资费，也可以自己调用 API 跑几个游戏测试一下。博客已有上百部 AI 意译补丁，订阅水友如果想让我做哪部游戏的&lt;strong&gt;AI简润&lt;/strong&gt;，欢迎随时向我投稿推荐！&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -2808,7 +3232,7 @@ alt="预览图"
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
+&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 **Antigravity (Gemini 3.7 Flash High)**简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
@@ -2827,7 +3251,7 @@ alt="预览图"
 &lt;details&gt;
 &lt;summary style="color:#00A1D6;font-weight:600;"&gt;关于AI简润汉化补丁&lt;/summary&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛠️ 1. 大模型与文风&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;技术底座&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Codex （ChatGPT-5.6 Sol）&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;技术底座&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 **Antigravity (Gemini 3.7 Flash High)**简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Codex （ChatGPT-5.6 Sol）&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
 &lt;strong&gt;关于文风：&lt;/strong&gt; AI跑出来是什么文风就是什么文风。我个人很喜欢 DeepSeek 和 Gemini 的地道文风；如果追求极致文学级的翻译，圈内也有很多优秀的汉化大佬纯手工精翻，大家各取所需即可。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2839,7 +3263,7 @@ alt="预览图"
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;💰 3. 实打实的算力成本&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
 &lt;p&gt;调 API 跑测试，DeepSeek V3.1 的单次费用是 V3 的两倍以上。对于某些游戏，如果每次版本更新作者都大修了大批文本，由于精力有限，我都会选择重新跑一次AI。&lt;br&gt;
 对于一些我个人特别喜欢的游戏，为了后续做精润，我会人工根据不同模型、不同文风跑出来的几个版本进行对比融合，提炼出最符合角色人设、最接地气且有金句的优质文本。这样反复跑下来，单部游戏的 API 成本少则五六十元，多则（如果用 V3.1 重跑多遍）成本会直接飙升至 &lt;strong&gt;上百甚至好几百&lt;/strong&gt;。&lt;br&gt;
-所以 &lt;strong&gt;¥10 / 月&lt;/strong&gt;（一杯瑞幸咖啡）的订阅真的就是白菜价，成本完全透明。大家可以自行去 DeepSeek 官网或中转站查看输入/输出以及缓存命中的 Token 资费，也可以自己调用 API 跑几个游戏测试一下。博客已有上百部 AI 意译补丁，订阅水友如果想让我做哪部游戏的&lt;strong&gt;AI 简润&lt;/strong&gt;，欢迎随时向我投稿推荐！&lt;/p&gt;
+所以 &lt;strong&gt;¥10 / 月&lt;/strong&gt;（一杯瑞幸咖啡）的订阅真的就是白菜价，成本完全透明。大家可以自行去 DeepSeek 官网或中转站查看输入/输出以及缓存命中的 Token 资费，也可以自己调用 API 跑几个游戏测试一下。博客已有上百部 AI 意译补丁，订阅水友如果想让我做哪部游戏的&lt;strong&gt;AI简润&lt;/strong&gt;，欢迎随时向我投稿推荐！&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -84217,310 +84641,6 @@ alt="预览图"
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;我的iPhone/Spark/games/MyGirlLovesHandcuffs/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="使用帮助"&gt;使用帮助
-&lt;/h2&gt;&lt;div class="mac-list-container reading-help"&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;网络连接&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果打不开链接请科学上网，没有梯子可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/p/vpn/" target="_blank" rel="noopener"
-&gt;博文&lt;/a&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;安装教程&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果看不懂安装步骤，可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/about/" target="_blank" rel="noopener"
-&gt;博文&lt;/a&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;问题反馈&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果操作过程中遇到Bug或其他问题，欢迎在博文评论区留言反馈&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;创作支持&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果本文对你有帮助，欢迎在&lt;a class="link" href="https://afdian.com/a/luoqian" target="_blank" rel="noopener"
-&gt;爱发电&lt;/a&gt;投喂落谦&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;幸好有你&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;h2 id="宇宙安全声明"&gt;宇宙安全声明！
-&lt;/h2&gt;&lt;aside class="reading-notice" role="note"&gt;
-&lt;p&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播。&lt;br&gt;
-落谦不对因使用本文所产生的任何问题负责。&lt;/p&gt;
-&lt;/aside&gt;
-&lt;/div&gt;</description></item><item><title>Familiar Circumstances 熟悉的情境</title><link>https://luoqian29.github.io/p/familiarcircumstances/</link><pubDate>Mon, 18 May 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/familiarcircumstances/</guid><description>&lt;img src="https://img.itch.zone/aW1nLzI3MTYzNDA5LnBuZw==/original/4KZJfK.png" alt="Featured image of post Familiar Circumstances 熟悉的情境" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
-&lt;h1 id="familiar-circumstances-v12-babyface"&gt;Familiar Circumstances [v1.2] [Babyface]
-&lt;/h1&gt;&lt;p&gt;&lt;img src="https://img.itch.zone/aW1nLzI3MTYzNDA5LnBuZw==/original/4KZJfK.png"
-loading="lazy"
-alt="封面图"
-&gt;&lt;/p&gt;
-&lt;h1 id="overview"&gt;Overview
-&lt;/h1&gt;&lt;details&gt;
-&lt;summary&gt;剧情概要&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;Remember pandemic? What was that about?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h2 id="details"&gt;Details
-&lt;/h2&gt;&lt;details class="reading-note reading-game-info"&gt;
-&lt;summary&gt;游戏信息&lt;/summary&gt;
-&lt;div class="mac-list-container reading-game-info-list"&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏玩法&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;视觉小说&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;建模引擎&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;Koikatsu Sunshine&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;运行引擎&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;Ren&amp;rsquo;Py&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏画风&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;2.5次元&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;当前版本&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;1.2&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;发行日期&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;2026-05-09&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;h2 id="developer入正地址"&gt;Developer（入正地址）
-&lt;/h2&gt;&lt;p&gt;&lt;a class="link" href="https://www.patreon.com/cw/babyface_" target="_blank" rel="noopener"
-&gt;Patreon&lt;/a&gt;
-&lt;a class="link" href="https://discord.com/invite/SKM6RsABBS" target="_blank" rel="noopener"
-&gt;Discord&lt;/a&gt;
-&lt;a class="link" href="https://f95babyface.itch.io/familiar-circumstances" target="_blank" rel="noopener"
-&gt;Itch.io&lt;/a&gt;
-&lt;a class="link" href="https://subscribestar.adult/babyface" target="_blank" rel="noopener"
-&gt;SubscribeStar&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id="落谦酱便利贴"&gt;落谦酱便利贴
-&lt;/h2&gt;&lt;details&gt;
-&lt;summary style="color:#c81e1e;font-weight:600;"&gt;PS&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;我是吕子乔。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align: left"&gt;日期&lt;/th&gt;
-&lt;th style="text-align: left"&gt;更新详情&lt;/th&gt;
-&lt;th style="text-align: center"&gt;当前状态&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;strong&gt;2026.05.11 03:00&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align: left"&gt;&lt;strong&gt;1.2&lt;/strong&gt;：AI意译汉化补丁&lt;/td&gt;
-&lt;td style="text-align: center"&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;strong&gt;2026.05.18 03:00&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align: left"&gt;&lt;strong&gt;汉化补丁&lt;/strong&gt;：道友境订阅&lt;/td&gt;
-&lt;td style="text-align: center"&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;strong&gt;2026.05.18 03:00&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align: left"&gt;&lt;strong&gt;汉化补丁&lt;/strong&gt;：博文公开&lt;/td&gt;
-&lt;td style="text-align: center"&gt;📢&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;制作日期：&lt;strong&gt;2026-05-11&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;PS：由于AI会出现&lt;strong&gt;幻觉&lt;/strong&gt;，那么文本上下文中，偶尔会出现人名&lt;strong&gt;翻译误差&lt;/strong&gt;、&lt;strong&gt;中英文&lt;/strong&gt;夹杂、以及&lt;strong&gt;突兀文风&lt;/strong&gt;的句子。目前落谦也只能统一&lt;strong&gt;主要角色&lt;/strong&gt;的人名，但难免还是会有&lt;strong&gt;个别遗漏&lt;/strong&gt;，毕竟落谦只有&lt;strong&gt;一个人&lt;/strong&gt;，时间和精力确实&lt;strong&gt;有限&lt;/strong&gt;。至于一些&lt;strong&gt;小名&lt;/strong&gt;、&lt;strong&gt;昵称&lt;/strong&gt;、&lt;strong&gt;缩写称呼&lt;/strong&gt;、&lt;strong&gt;称谓&lt;/strong&gt;、&lt;strong&gt;地点&lt;/strong&gt;、&lt;strong&gt;事件&lt;/strong&gt;，以及&lt;strong&gt;专有名词&lt;/strong&gt;，还有类似&lt;strong&gt;sister、brother&lt;/strong&gt;这种&lt;strong&gt;一词多义&lt;/strong&gt;的单词，则需要人工&lt;strong&gt;边玩边修正&lt;/strong&gt;。当然，如果在统一主要角色人名时，发现了&lt;strong&gt;相关专有名词&lt;/strong&gt;，也会&lt;strong&gt;顺手统一&lt;/strong&gt;一下。还请大家多多谅解，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;免死金牌：&lt;strong&gt;落谦的汉化补丁，无论是&lt;/strong&gt;AI意译&lt;/strong&gt;版本还是&lt;strong&gt;逐句意译&lt;/strong&gt;版本，都远不及&lt;strong&gt;原文&lt;/strong&gt;或&lt;strong&gt;其他大佬&lt;/strong&gt;的汉化版本。与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电 &lt;strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;/strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class="blur"&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
-&lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
-scrolling="no"
-frameborder="no"
-framespacing="0"
-allowfullscreen="true"
-&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="游戏预览图"&gt;游戏预览图
-&lt;/h2&gt;&lt;details class="reading-note reading-gallery"&gt;
-&lt;summary style="color:#c81e1e;font-weight:600;"&gt;荤图&lt;/summary&gt;
-&lt;p&gt;&lt;img src="https://img.itch.zone/aW1hZ2UvNDM2ODMzNC8yNzE2MzQ4OC5wbmc=/original/pB941Y.png"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://img.itch.zone/aW1hZ2UvNDM2ODMzNC8yNzE2MzQ4OS5wbmc=/original/ypmp04.png"
-loading="lazy"
-alt="预览图"
-&gt;&lt;/p&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
-&lt;/h2&gt;&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/Trglvx" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/gVBQrxLF" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/BeLoNo" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/MUZG436M" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件放入&lt;strong&gt;game&lt;/strong&gt;文件夹中&lt;/li&gt;
-&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/Trglvx" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/gVBQrxLF" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/BeLoNo" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/MUZG436M" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;主体 APK：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/vRTYhz" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/MPkwq778" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;、&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
-&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
-&lt;li&gt;然后解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;将英文原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;和&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件一起移动到以下路径：&lt;/li&gt;
-&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
-&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Documents/RenPy_Saves/com.luoqian.FamiliarCircumstances/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
-&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/Trglvx" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/gVBQrxLF" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/BeLoNo" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/MUZG436M" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;英文原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
-&lt;li&gt;然后将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件移动到以下路径：&lt;/li&gt;
-&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
-&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;我的iPhone/Spark/games/FamiliarCircumstances/game
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;

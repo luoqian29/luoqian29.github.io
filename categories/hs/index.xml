@@ -361,7 +361,7 @@ alt="screenshot0027"
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
+&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 **Antigravity (Gemini 3.7 Flash High)**简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
@@ -380,7 +380,7 @@ alt="screenshot0027"
 &lt;details&gt;
 &lt;summary style="color:#00A1D6;font-weight:600;"&gt;关于AI简润汉化补丁&lt;/summary&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛠️ 1. 大模型与文风&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;技术底座：&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Codex (ChatGPT-5.6 Sol)&lt;/strong&gt; 与 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;技术底座：&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 **Antigravity (Gemini 3.7 Flash High)**简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Codex (ChatGPT-5.6 Sol)&lt;/strong&gt; 与 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
 &lt;strong&gt;关于文风：&lt;/strong&gt; AI跑出来是什么文风就是什么文风。我个人很喜欢 DeepSeek 和 Gemini 的地道文风；如果追求极致文学级的翻译，圈内也有很多优秀的汉化大佬纯手工精翻，大家各取所需即可。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -392,7 +392,7 @@ alt="screenshot0027"
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;💰 3. 实打实的算力成本&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
 &lt;p&gt;调 API 跑测试，DeepSeek V3.1 的单次费用是 V3 的两倍以上。对于某些游戏，如果每次版本更新作者都大修了大批文本，由于精力有限，我都会选择重新跑一次AI。&lt;br&gt;
 对于一些我个人特别喜欢的游戏，为了后续做精润，我会人工根据不同模型、不同文风跑出来的几个版本进行对比融合，提炼出最符合角色人设、最接地气且有金句的优质文本。这样反复跑下来，单部游戏的 API 成本少则五六十元，多则（如果用 V3.1 重跑多遍）成本会直接飙升至 &lt;strong&gt;上百甚至好几百&lt;/strong&gt;。&lt;br&gt;
-所以 &lt;strong&gt;¥10 / 月&lt;/strong&gt;（一杯瑞幸咖啡）的订阅真的就是白菜价，成本完全透明。大家可以自行去 DeepSeek 官网或中转站查看输入/输出以及缓存命中的 Token 资费，也可以自己调用 API 跑几个游戏测试一下。博客已有上百部 AI 意译补丁，订阅水友如果想让我做哪部游戏的&lt;strong&gt;AI 简润&lt;/strong&gt;，欢迎随时向我投稿推荐！&lt;/p&gt;
+所以 &lt;strong&gt;¥10 / 月&lt;/strong&gt;（一杯瑞幸咖啡）的订阅真的就是白菜价，成本完全透明。大家可以自行去 DeepSeek 官网或中转站查看输入/输出以及缓存命中的 Token 资费，也可以自己调用 API 跑几个游戏测试一下。博客已有上百部 AI 意译补丁，订阅水友如果想让我做哪部游戏的&lt;strong&gt;AI简润&lt;/strong&gt;，欢迎随时向我投稿推荐！&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -1007,7 +1007,7 @@ alt="screenshot0044"
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
+&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 **Antigravity (Gemini 3.7 Flash High)**简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
@@ -1026,7 +1026,7 @@ alt="screenshot0044"
 &lt;details&gt;
 &lt;summary style="color:#00A1D6;font-weight:600;"&gt;关于AI简润汉化补丁&lt;/summary&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛠️ 1. 大模型与文风&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;技术底座：&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由**Antigravity（Gemini 3.7 Flash High）**视觉算法渲染P图完成。&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;技术底座：&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 **Antigravity (Gemini 3.7 Flash High)&lt;strong&gt;简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由&lt;/strong&gt;Antigravity（Gemini 3.7 Flash High）**视觉算法渲染P图完成。&lt;br&gt;
 &lt;strong&gt;关于文风：&lt;/strong&gt; AI跑出来是什么文风就是什么文风。我个人很喜欢 DeepSeek 和 Gemini 的地道文风；如果追求极致文学级的翻译，圈内也有很多优秀的汉化大佬纯手工精翻，大家各取所需即可。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1038,7 +1038,7 @@ alt="screenshot0044"
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;💰 3. 实打实的算力成本&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
 &lt;p&gt;调 API 跑测试，DeepSeek V3.1 的单次费用是 V3 的两倍以上。对于某些游戏，如果每次版本更新作者都大修了大批文本，由于精力有限，我都会选择重新跑一次AI。&lt;br&gt;
 对于一些我个人特别喜欢的游戏，为了后续做精润，我会人工根据不同模型、不同文风跑出来的几个版本进行对比融合，提炼出最符合角色人设、最接地气且有金句的优质文本。这样反复跑下来，单部游戏的 API 成本少则五六十元，多则（如果用 V3.1 重跑多遍）成本会直接飙升至 &lt;strong&gt;上百甚至好几百&lt;/strong&gt;。&lt;br&gt;
-所以 &lt;strong&gt;¥10 / 月&lt;/strong&gt;（一杯瑞幸咖啡）的订阅真的就是白菜价，成本完全透明。大家可以自行去 DeepSeek 官网或中转站查看输入/输出以及缓存命中的 Token 资费，也可以自己调用 API 跑几个游戏测试一下。博客已有上百部 AI 意译补丁，订阅水友如果想让我做哪部游戏的&lt;strong&gt;AI 简润&lt;/strong&gt;，欢迎随时向我投稿推荐！&lt;/p&gt;
+所以 &lt;strong&gt;¥10 / 月&lt;/strong&gt;（一杯瑞幸咖啡）的订阅真的就是白菜价，成本完全透明。大家可以自行去 DeepSeek 官网或中转站查看输入/输出以及缓存命中的 Token 资费，也可以自己调用 API 跑几个游戏测试一下。博客已有上百部 AI 意译补丁，订阅水友如果想让我做哪部游戏的&lt;strong&gt;AI简润&lt;/strong&gt;，欢迎随时向我投稿推荐！&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -1963,7 +1963,7 @@ alt="预览图"
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
+&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 **Antigravity (Gemini 3.7 Flash High)**简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
@@ -1982,7 +1982,7 @@ alt="预览图"
 &lt;details&gt;
 &lt;summary style="color:#00A1D6;font-weight:600;"&gt;关于AI简润汉化补丁&lt;/summary&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛠️ 1. 大模型与文风&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;技术底座&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Codex （ChatGPT-5.6 Sol）&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;技术底座&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 **Antigravity (Gemini 3.7 Flash High)**简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Codex （ChatGPT-5.6 Sol）&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
 &lt;strong&gt;关于文风：&lt;/strong&gt; AI跑出来是什么文风就是什么文风。我个人很喜欢 DeepSeek 和 Gemini 的地道文风；如果追求极致文学级的翻译，圈内也有很多优秀的汉化大佬纯手工精翻，大家各取所需即可。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1994,7 +1994,7 @@ alt="预览图"
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;💰 3. 实打实的算力成本&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
 &lt;p&gt;调 API 跑测试，DeepSeek V3.1 的单次费用是 V3 的两倍以上。对于某些游戏，如果每次版本更新作者都大修了大批文本，由于精力有限，我都会选择重新跑一次AI。&lt;br&gt;
 对于一些我个人特别喜欢的游戏，为了后续做精润，我会人工根据不同模型、不同文风跑出来的几个版本进行对比融合，提炼出最符合角色人设、最接地气且有金句的优质文本。这样反复跑下来，单部游戏的 API 成本少则五六十元，多则（如果用 V3.1 重跑多遍）成本会直接飙升至 &lt;strong&gt;上百甚至好几百&lt;/strong&gt;。&lt;br&gt;
-所以 &lt;strong&gt;¥10 / 月&lt;/strong&gt;（一杯瑞幸咖啡）的订阅真的就是白菜价，成本完全透明。大家可以自行去 DeepSeek 官网或中转站查看输入/输出以及缓存命中的 Token 资费，也可以自己调用 API 跑几个游戏测试一下。博客已有上百部 AI 意译补丁，订阅水友如果想让我做哪部游戏的&lt;strong&gt;AI 简润&lt;/strong&gt;，欢迎随时向我投稿推荐！&lt;/p&gt;
+所以 &lt;strong&gt;¥10 / 月&lt;/strong&gt;（一杯瑞幸咖啡）的订阅真的就是白菜价，成本完全透明。大家可以自行去 DeepSeek 官网或中转站查看输入/输出以及缓存命中的 Token 资费，也可以自己调用 API 跑几个游戏测试一下。博客已有上百部 AI 意译补丁，订阅水友如果想让我做哪部游戏的&lt;strong&gt;AI简润&lt;/strong&gt;，欢迎随时向我投稿推荐！&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/details&gt;
