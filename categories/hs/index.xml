@@ -361,7 +361,7 @@ alt="screenshot0027"
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 **Antigravity (Gemini 3.7 Flash High)**简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
+&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
@@ -380,7 +380,7 @@ alt="screenshot0027"
 &lt;details&gt;
 &lt;summary style="color:#00A1D6;font-weight:600;"&gt;关于AI简润汉化补丁&lt;/summary&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛠️ 1. 大模型与文风&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;技术底座：&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 **Antigravity (Gemini 3.7 Flash High)**简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Codex (ChatGPT-5.6 Sol)&lt;/strong&gt; 与 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;技术底座：&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Codex (ChatGPT-5.6 Sol)&lt;/strong&gt; 与 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
 &lt;strong&gt;关于文风：&lt;/strong&gt; AI跑出来是什么文风就是什么文风。我个人很喜欢 DeepSeek 和 Gemini 的地道文风；如果追求极致文学级的翻译，圈内也有很多优秀的汉化大佬纯手工精翻，大家各取所需即可。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1007,13 +1007,13 @@ alt="screenshot0044"
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 **Antigravity (Gemini 3.7 Flash High)**简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
+&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge purple"&gt;🎨 算法P图&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;部分UI图片由**Antigravity（Gemini 3.7 Flash High）**视觉算法渲染P图完成。&lt;/p&gt;
+&lt;p&gt;部分UI图片由&lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
@@ -1026,7 +1026,7 @@ alt="screenshot0044"
 &lt;details&gt;
 &lt;summary style="color:#00A1D6;font-weight:600;"&gt;关于AI简润汉化补丁&lt;/summary&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛠️ 1. 大模型与文风&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;技术底座：&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 **Antigravity (Gemini 3.7 Flash High)&lt;strong&gt;简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由&lt;/strong&gt;Antigravity（Gemini 3.7 Flash High）**视觉算法渲染P图完成。&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;技术底座：&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由&lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
 &lt;strong&gt;关于文风：&lt;/strong&gt; AI跑出来是什么文风就是什么文风。我个人很喜欢 DeepSeek 和 Gemini 的地道文风；如果追求极致文学级的翻译，圈内也有很多优秀的汉化大佬纯手工精翻，大家各取所需即可。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1417,7 +1417,7 @@ alt="封面图"
 &lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.31&lt;/time&gt;&lt;span&gt; · 12:00&lt;/span&gt;&lt;/span&gt;
 &lt;div class="reading-update-main"&gt;
 &lt;strong class="reading-update-version"&gt;简润补丁&lt;/strong&gt;
-&lt;span class="reading-update-detail"&gt;使用Antigravity（Gemini 3.7 Flash High）再次简润，修复了部分突兀、文绉绉文风以及直译错翻的句子&lt;/span&gt;
+&lt;span class="reading-update-detail"&gt;使用Antigravity (Gemini 3.7 Flash High)再次简润，修复了部分突兀、文绉绉文风以及直译错翻的句子&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -1963,13 +1963,13 @@ alt="预览图"
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 **Antigravity (Gemini 3.7 Flash High)**简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
+&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge purple"&gt;🎨 算法P图&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;部分UI图片由 &lt;strong&gt;Codex （ChatGPT-5.6 Sol）&lt;/strong&gt; 视觉算法渲染P图完成。&lt;/p&gt;
+&lt;p&gt;部分UI图片由 &lt;strong&gt;Codex (ChatGPT-5.6 Sol)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
@@ -1982,7 +1982,7 @@ alt="预览图"
 &lt;details&gt;
 &lt;summary style="color:#00A1D6;font-weight:600;"&gt;关于AI简润汉化补丁&lt;/summary&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛠️ 1. 大模型与文风&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;技术底座&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 **Antigravity (Gemini 3.7 Flash High)**简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Codex （ChatGPT-5.6 Sol）&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;技术底座&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Codex (ChatGPT-5.6 Sol)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
 &lt;strong&gt;关于文风：&lt;/strong&gt; AI跑出来是什么文风就是什么文风。我个人很喜欢 DeepSeek 和 Gemini 的地道文风；如果追求极致文学级的翻译，圈内也有很多优秀的汉化大佬纯手工精翻，大家各取所需即可。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;

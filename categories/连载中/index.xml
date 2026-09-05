@@ -1,4 +1,967 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>连载中 on 一落归谦</title><link>https://luoqian29.github.io/categories/%E8%BF%9E%E8%BD%BD%E4%B8%AD/</link><description>Recent content in 连载中 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Sat, 05 Sep 2026 00:54:02 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E8%BF%9E%E8%BD%BD%E4%B8%AD/index.xml" rel="self" type="application/rss+xml"/><item><title>HSTutor 家庭教师</title><link>https://luoqian29.github.io/p/hstutor/</link><pubDate>Sat, 05 Sep 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/hstutor/</guid><description>&lt;img src="https://files.catbox.moe/s1xkem.png" alt="Featured image of post HSTutor 家庭教师" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>连载中 on 一落归谦</title><link>https://luoqian29.github.io/categories/%E8%BF%9E%E8%BD%BD%E4%B8%AD/</link><description>Recent content in 连载中 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Sat, 05 Sep 2026 18:09:20 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E8%BF%9E%E8%BD%BD%E4%B8%AD/index.xml" rel="self" type="application/rss+xml"/><item><title>Being a DIK 我的大学生活</title><link>https://luoqian29.github.io/p/beingadik/</link><pubDate>Sat, 05 Sep 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/beingadik/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPTpZv1bAAA-kqf?format=jpg&amp;name=medium" alt="Featured image of post Being a DIK 我的大学生活" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+&lt;h1 id="being-a-dik-v0121-drpinkcake"&gt;Being a DIK [v0.12.1] [DrPinkCake]
+&lt;/h1&gt;&lt;p&gt;&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/cc7f0e515ba3b54f9907f58941d44a30626f59fc.jpg"
+loading="lazy"
+alt="封面图"
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="overview"&gt;Overview
+&lt;/h1&gt;&lt;details&gt;
+&lt;summary&gt;剧情概要&lt;/summary&gt;
+&lt;p&gt;Being a DIK is a choice-driven adult Visual Novel focusing on the fun parts of college life. The game is packed with humor, sex, romance, drama and a rich story. Play as a young male attending college at B&amp;amp;R and guide him through the experience.&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="details"&gt;Details
+&lt;/h2&gt;&lt;details class="reading-note reading-game-info"&gt;
+&lt;summary&gt;游戏信息&lt;/summary&gt;
+&lt;div class="mac-list-container reading-game-info-list"&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏玩法&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;视觉小说&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;建模引擎&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;Daz Studio&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;运行引擎&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;Ren&amp;rsquo;Py&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏画风&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;欧美风&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;当前版本&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;0.12.1&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;发行日期&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;2026-08-16&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="developer入正地址"&gt;Developer（入正地址）
+&lt;/h2&gt;&lt;p&gt;&lt;a class="link" href="https://www.patreon.com/DrPinkCake/overview" target="_blank" rel="noopener"
+&gt;Patreon&lt;/a&gt;
+&lt;a class="link" href="https://bsky.app/profile/drpinkcake.bsky.social" target="_blank" rel="noopener"
+&gt;BlueSky&lt;/a&gt;
+&lt;a class="link" href="https://x.com/DrPinkCake" target="_blank" rel="noopener"
+&gt;Twitter&lt;/a&gt;
+&lt;a class="link" href="https://discord.com/invite/KyCc5E4" target="_blank" rel="noopener"
+&gt;Discord&lt;/a&gt;
+&lt;a class="link" href="https://store.steampowered.com/app/1126320/Being_a_DIK__Season_1/" target="_blank" rel="noopener"
+&gt;Steam&lt;/a&gt;
+&lt;a class="link" href="https://www.gog.com/en/game/being_a_dik" target="_blank" rel="noopener"
+&gt;GOG&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="落谦酱便利贴"&gt;落谦酱便利贴
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary style="color:#c81e1e;font-weight:600;"&gt;PS&lt;/summary&gt;
+&lt;p&gt;四个字总结，不玩白瞎。&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class="reading-note reading-changelog"&gt;
+&lt;summary style="color:#00A1D6;"&gt;博文更新日志&lt;/summary&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.09.05&lt;/time&gt;&lt;span&gt; · 18:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;0.12.1&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;AI意译汉化补丁&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.09.05&lt;/time&gt;&lt;span&gt; · 18:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;0.12.1&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;Multi Mod&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.09.05&lt;/time&gt;&lt;span&gt; · 18:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;0.12.1&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;Harem Mod&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
+&lt;div class="reading-patch-meta-bar"&gt;
+&lt;p&gt;&lt;span class="reading-patch-meta-pill"&gt;🤖 &lt;strong&gt;AI 模型：&lt;/strong&gt;DeepSeek-V3.1-Terminus&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="reading-patch-meta-pill"&gt;✍️ &lt;strong&gt;翻译作者：&lt;/strong&gt;落谦&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="reading-patch-meta-pill"&gt;📅 &lt;strong&gt;制作日期：&lt;/strong&gt;2026-09-05&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;⚠️ PS：关于 AI 幻觉与人工校对&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;由于 AI 会出现&lt;strong&gt;幻觉&lt;/strong&gt;，文本上下文中，偶尔会出现人名&lt;strong&gt;翻译误差&lt;/strong&gt;、&lt;strong&gt;中英文&lt;/strong&gt;夹杂、以及&lt;strong&gt;突兀文风&lt;/strong&gt;的句子。&lt;br&gt;
+目前落谦也只能统一&lt;strong&gt;主要角色&lt;/strong&gt;的人名，但难免还是会有&lt;strong&gt;个别遗漏&lt;/strong&gt;，毕竟落谦只有&lt;strong&gt;一个人&lt;/strong&gt;，时间和精力确实&lt;strong&gt;有限&lt;/strong&gt;。至于一些&lt;strong&gt;小名&lt;/strong&gt;、&lt;strong&gt;昵称&lt;/strong&gt;、&lt;strong&gt;缩写称呼&lt;/strong&gt;、&lt;strong&gt;称谓&lt;/strong&gt;、&lt;strong&gt;地点&lt;/strong&gt;、&lt;strong&gt;事件&lt;/strong&gt;，以及&lt;strong&gt;专有名词&lt;/strong&gt;，还有类似 &lt;strong&gt;sister、brother&lt;/strong&gt; 这种&lt;strong&gt;一词多义&lt;/strong&gt;的单词，则需要人工&lt;strong&gt;边玩边修正&lt;/strong&gt;。当然，如果在统一主要角色人名时，发现了&lt;strong&gt;相关专有名词&lt;/strong&gt;，也会&lt;strong&gt;顺手统一&lt;/strong&gt;一下。还请大家多多谅解，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛡️ 免死金牌&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;落谦的汉化补丁，无论是&lt;strong&gt;AI意译&lt;/strong&gt;版本还是&lt;strong&gt;逐句意译&lt;/strong&gt;版本，都远不及&lt;strong&gt;原文&lt;/strong&gt;或&lt;strong&gt;其他大佬&lt;/strong&gt;的汉化版本。&lt;br&gt;
+与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电 &lt;strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;/strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class="blur"&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
+&lt;div class="video-wrapper"&gt;
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
+scrolling="no"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true"
+&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="游戏预览图"&gt;游戏预览图
+&lt;/h2&gt;&lt;details class="reading-note reading-gallery"&gt;
+&lt;summary&gt;素图&lt;/summary&gt;
+&lt;p&gt;&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/c36e27f510020bf5a27f6b2c2c8b6d7cde6fa2aa.jpg"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/1f094db002c27b31442aaa8aa56f84c4564d4c38.jpg"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/4ac1e952c300f65e317603c37eee24e33afcedfc.jpg"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/f669c9001400f9bce4840104bcfc7c855c4d152d.jpg"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/2dfb467dc102043981e1778f2f0b8f678c9b9566.jpg"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/a47c98060ec390132c8d7dfad0db8162107eba7c.jpg"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/10b9dbd9fcaf5b052d99b665066b3e49207b3963.jpg"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/5992a7e36f977d5eb311644ab1d78e27d1dcdf8b.jpg"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/HMEYNLKWAAEmGfT?format=jpg&amp;amp;name=4096x4096"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/HKCItezXsAA2AGf?format=jpg&amp;amp;name=4096x4096"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/HGWvSYrXwAAjeIG?format=jpg&amp;amp;name=4096x4096"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/HEKwUcnWkAAtIJk?format=jpg&amp;amp;name=4096x4096"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/HC9jRx9a0AA9SnD?format=jpg&amp;amp;name=4096x4096"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/Gd3kRyoXgAAOt5R?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/GbnSjBVWUAAKVgg?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/GaZhKO1WoAAZY00?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/GZhMhljWAAQjOMB?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/GYKuGGGW0AAaeqT?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/F-gcvXAWYAA0f0b?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/F8uy3C5XcAAqWlk?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/FujPgm9X0AYyeXz?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/FiEy8beWYAAJ_oW?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/FZUZlBwXoAEGkTc?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/FYMVAp2WIAMrQl9?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/FCtDPZIXsAM8ETR?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/FCC6xnkXsAQxopn?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/FB0pdzFWYAgsfVB?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/FBQ1JG_WUAYdQBf?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/FAwkOLhXsA8yxIk?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/E5evUR6XEAYEvj2?format=jpg&amp;amp;name=4096x4096"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/EyMl-mBWYAILqmC?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/Ew6e6RNWUAUW2yk?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/EwmUWjWWgAEmmz_?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/EkMYvtEXsAAt0hH?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/EilBf-4XcAA3WdR?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/EY9l70oXkAAyuhP?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/ESqCn1hWsAEX0uY?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/ERDRN6qWoAAJUal?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/EJen6scWsAA5iHQ?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/EIrxKJ5X0AI3d7A?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/EAaXg1zXkAAZnRh?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/D-3-pNbWwAEwVJm?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/D-vO_JxWkAAKinE?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/D-glj6GXoAEhsbd?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/D-gfCT1XUAABkyE?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1126320/ss_1743d88c1c26c7557f054a8d1c5af34399e0d9e5.1920x1080.jpg?t=1723920705"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1126320/ss_871646b7baca62e952e756cfdf9215fcf5c77a51.1920x1080.jpg?t=1723920705"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1126320/ss_1f1f74fb12e31151cfc6ea5b1eee734aecb26bf6.1920x1080.jpg?t=1723920705"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1126320/ss_669301971d450bfd1040651d2998a812c6450935.1920x1080.jpg?t=1723920705"
+loading="lazy"
+alt="预览图"
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class="reading-note reading-gallery"&gt;
+&lt;summary&gt;荤图&lt;/summary&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/Ee4uHu0WsAAl0dh?format=jpg&amp;amp;name=medium"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://pbs.twimg.com/media/EerCaesWsAA92od?format=jpg&amp;amp;name=4096x4096"
+loading="lazy"
+alt="预览图"
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary&gt;0.12.1&lt;/summary&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;✨ 汉化说明与模型分工&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;这次第三季的文本初翻，我是直接调 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 批量跑出来的，都市校园味很冲，基本没啥生硬机翻感。&lt;br&gt;
+图片方面，大部分界面的修图渲染交给了 &lt;strong&gt;Codex 5.6 Sol&lt;/strong&gt;，还有几张是用&lt;strong&gt;Antigravity (Gemini 3.8 Flash High)&lt;/strong&gt; 搞定的；至于底层的游戏代码、外置 Mod 的兼容适配以及各种零零碎碎的杂活，全由Antigravity一手包办。&lt;br&gt;
+对话汉化率基本在 99% 以上了。不过这游戏底层机制比较奇葩，各版本旧存档容易死锁一些老旧英文。大家玩的时候如果碰到了，顺手截个图或者把存档丢给我，我有空就挨个补上。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🖥️ 版本兼容与 4K 画质说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;本补丁已完整兼容 &lt;strong&gt;Steam 原版&lt;/strong&gt;、&lt;strong&gt;GOG 版&lt;/strong&gt; 以及各种学习版，全画质均可正常游玩。&lt;br&gt;
+&lt;strong&gt;4K 与高清版说明：&lt;/strong&gt; 剧情对话文本在 4K 版和标准高清版均完美汉化；但目前补丁内置的&lt;strong&gt;汉化 UI 图片主要针对标准高清版&lt;/strong&gt;。如果你在 4K 模式下遇到个别 UI 图片没汉化，临时切回高清版瞅一眼即可，日常推进剧情正常开 4K 玩完全不影响。&lt;br&gt;
+&lt;strong&gt;后续 4K 独立包计划：&lt;/strong&gt; 目前有位热心水友一直在帮我深度反馈 4K 的各种小细节，我也在持续帮他跟进修复。为了避免每次补丁更新都塞入巨量 4K 图片导致包体过大臃肿，之后会考虑单独分出来一个 &lt;strong&gt;4K 专属 UI 图片补丁包&lt;/strong&gt;。大家在 4K 遇到 bug 也可以随时丢给我！&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🚀 深度简润规划（画大饼）&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;顺便给大家画个实打实的大饼，细心的水友已经发现了，最近部分博文已经上了AI简润补丁了。没错，我现在已经Coding出能够请求API批量去&lt;strong&gt;简润&lt;/strong&gt;的功能了，不用再利用反重力去优化，这样会减少很多不必要的AI幻觉。&lt;br&gt;
+后面打算用&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;来给全篇润色。虽然V3单价比较亲民，但因为简润得带上下文反复跑，整体 Token 算下来差不多是原本 V3 跑汉化的 &lt;strong&gt;1.5 倍&lt;/strong&gt;，成本依然是实打实的。&lt;br&gt;
+至于为什么这次更新不上简润？是因为文本量确实比较大，简润可能要连续跑十几个小时。月底吧，画个大饼，月底把第三季跟第一、二季的简润顺道一起端上来！&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;☕ 关于简润与赞助说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;经常有水友问：为什么&lt;strong&gt;AI意译补丁&lt;/strong&gt;是公开的，而AI简润补丁要放在爱发电订阅（¥10/月）？&lt;br&gt;
+&lt;strong&gt;实打实的算力成本：&lt;/strong&gt; 公开补丁主打免费管饱，难免有小瑕疵；而简润要带全量上下文深度跑，自己去调&lt;strong&gt;API&lt;/strong&gt;跑一次的成本都远超10块钱（一杯瑞幸而已）。&lt;br&gt;
+&lt;strong&gt;坦坦荡荡的定价逻辑：&lt;/strong&gt; 不收费挨某些人喷，收费了也要被贴标签，那我不如坦荡收个奶茶钱，专心服务愿意真诚反馈、共同把补丁改顺畅的铁杆水友。后续有充裕时间，个别心头好游戏我还会尝试多模型融合的终极精润。&lt;br&gt;
+&lt;strong&gt;免死金牌与免责声明：&lt;/strong&gt; 订阅纯属自愿赞助、请我喝杯咖啡，支持我的算力与精力。补丁发给你就相当于开源共享，你想自用、分享还是怎么折腾都是你自己的自由；本人仅作个人技术交流，第三方后续任何行为与我概不相干，大家玩得开心就完事了！&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Multi Mod&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;Mod&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/W4C9wrTv" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/K85uUpcC" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;模组说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;外网大佬制作的多功能辅助模组，自带&lt;strong&gt;好感选项透视、路线攻略提示、画廊全开、小游戏一键跳过&lt;/strong&gt;等实用作弊功能。&lt;br&gt;
+对应的汉化文本已全部整合打包在汉化补丁里，直接配合补丁使用即可。&lt;br&gt;
+&lt;strong&gt;安装方法：&lt;/strong&gt; 解压后直接把里面的文件复制进游戏的&lt;strong&gt;game&lt;/strong&gt;文件夹覆盖。&lt;br&gt;
+&lt;strong&gt;注意事项：&lt;/strong&gt; 游戏中如果偶尔遇到&lt;strong&gt;绿色字体的英文选项&lt;/strong&gt;，说明有极个别漏提取的词条，截个图反馈给我就行。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Harem Mod&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;Mod&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/JKVpTP8m" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/sBzkhnFQ" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;模组说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;原版游戏是没有后宫结局的，这是外网大佬用 &lt;strong&gt;ChatGPT (Codex 5.6 Sol)&lt;/strong&gt; 亲手魔改的全女主后宫线。&lt;br&gt;
+对应的汉化文本已全部整合打包在汉化补丁里，直接配合补丁使用即可。&lt;br&gt;
+&lt;strong&gt;安装方法：&lt;/strong&gt; 解压后直接把里面的文件复制进游戏的&lt;strong&gt;game&lt;/strong&gt;文件夹覆盖。&lt;br&gt;
+&lt;strong&gt;注意事项：&lt;/strong&gt; 作者底层代码写得有点反人类，个别作弊UI会有一两个单词显示不了汉化；但核心剧情对话99.9%均已汉化完毕。强迫症介意的话，推荐只打上面的多功能模组即可。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Sex Sound Patch¹&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;Mod&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/aJPT1h4p" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://datanodes.to/2wexkxcpm79k/BeingADIK-0.12.1-sex-sounds-patch.7z" target="_blank" rel="noopener"
+&gt;DATANODES&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/R5zoBvNa" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/IOsBTqQjOy" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;模组说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;这里提供一个上垒CG动态音效与音频补丁，给原本的无声演出增加动态声效。&lt;br&gt;
+&lt;strong&gt;兼容说明：&lt;/strong&gt; 打这个补丁&lt;strong&gt;绝对不会影响汉化&lt;/strong&gt;！包内纯粹全是声音素材，没有任何文本，想尝鲜的直接打就行。&lt;br&gt;
+&lt;strong&gt;安装方法：&lt;/strong&gt; 解压后直接把里面的文件复制进游戏的&lt;strong&gt;game&lt;/strong&gt;文件夹覆盖即可。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/AjBi7gLs" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://datanodes.to/366gr5s2smhr/BeingADIK-0.12.1-pc.zip" target="_blank" rel="noopener"
+&gt;DATANODES&lt;/a&gt;
+&lt;a class="link" href="https://uploadnow.io/en/share?utm_source=CXCCBsg" target="_blank" rel="noopener"
+&gt;UPLOADNOW&lt;/a&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/6Fw1pvrUch" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/qGMX8jHj" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/Kj2hVabR" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件放入&lt;strong&gt;game&lt;/strong&gt;文件夹中&lt;/li&gt;
+&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;a class="link" href="https://f95zone.to/threads/being-a-dik-v0-12-0-drpinkcake.25332/page-12944#post-12404775" target="_blank" rel="noopener"
+&gt;F95&lt;/a&gt;&lt;/p&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;⚠️ 安卓端兼容与存档避坑&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;说实话，第三季外挂移植版在手机上的兼容性目前未知，我之前测试把 PC 旧存档直接导过去容易出状况。&lt;br&gt;
+&lt;strong&gt;游玩建议：&lt;/strong&gt; 本作支线和选项极其庞杂，强烈推荐&lt;strong&gt;优先在 PC 电脑端游玩&lt;/strong&gt;，体验最稳。&lt;br&gt;
+&lt;strong&gt;如果非要在手机玩：&lt;/strong&gt; 可以尝试用 &lt;strong&gt;MTool&lt;/strong&gt; 或 &lt;strong&gt;JoiPlay 模拟器&lt;/strong&gt;加载；外挂移植版虽然能认一部分小存档，但之前的历史选择路线很可能会丢失，多路线游戏确实鱼与熊掌不可兼得。&lt;br&gt;
+&lt;strong&gt;技术参考：&lt;/strong&gt; 遇到疑难杂症，可以点击上方的 &lt;strong&gt;F95&lt;/strong&gt; 按钮，找找论坛里各路老哥的折腾方案。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/AjBi7gLs" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://datanodes.to/366gr5s2smhr/BeingADIK-0.12.1-pc.zip" target="_blank" rel="noopener"
+&gt;DATANODES&lt;/a&gt;
+&lt;a class="link" href="https://uploadnow.io/en/share?utm_source=CXCCBsg" target="_blank" rel="noopener"
+&gt;UPLOADNOW&lt;/a&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/6Fw1pvrUch" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/qGMX8jHj" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/Kj2hVabR" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主体 APK：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/NdLXbH" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/acLoWFmi" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;、&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
+&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
+&lt;li&gt;然后解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将英文原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;和&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件一起移动到以下路径：&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Documents/RenPy_Saves/com.luoqian.BeingADIKS1S2/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/AjBi7gLs" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://datanodes.to/366gr5s2smhr/BeingADIK-0.12.1-pc.zip" target="_blank" rel="noopener"
+&gt;DATANODES&lt;/a&gt;
+&lt;a class="link" href="https://uploadnow.io/en/share?utm_source=CXCCBsg" target="_blank" rel="noopener"
+&gt;UPLOADNOW&lt;/a&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/6Fw1pvrUch" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/qGMX8jHj" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/Kj2hVabR" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;英文原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
+&lt;li&gt;然后将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件移动到以下路径：&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;我的iPhone/Spark/games/BeingADIK/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;0.8.3&lt;/summary&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/KqBsX6" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/FhcC8Fyd" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/Aio5lo" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/f7wquttU" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件放入&lt;strong&gt;game&lt;/strong&gt;文件夹中&lt;/li&gt;
+&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;焚诀修复mod&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;mod&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/TaRJP1" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/onjf7D8V" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;
+如果移动端右下角不显示焚按钮，可以打一个修复mod，打在game文件夹中&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/KqBsX6" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/FhcC8Fyd" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/Aio5lo" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/f7wquttU" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主体 APK：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/afx57J" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/QdHQKdxG" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;、&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
+&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
+&lt;li&gt;然后解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将英文原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;和&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件一起移动到以下路径：&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Documents/RenPy_Saves/com.luoqian.BeingADIKS1S2/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/KqBsX6" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/FhcC8Fyd" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/Aio5lo" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/f7wquttU" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;英文原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
+&lt;li&gt;然后将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件移动到以下路径：&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;我的iPhone/Spark/games/BeingADIK/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;/h2&gt;&lt;details&gt;
+&lt;summary&gt;0.12.1&lt;/summary&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Sex Sound Patch&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;补丁&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/TSMdVQsO" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://www.mediafire.com/file/4pktzvqsbmln2r3" target="_blank" rel="noopener"
+&gt;MEDIAFIRE&lt;/a&gt;
+&lt;a class="link" href="https://datanodes.to/p5qyn1yjj90y/BeingADIK-0.12.1-sex-sounds-patch-Compressed.7z" target="_blank" rel="noopener"
+&gt;DATANODES&lt;/a&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/IoM66SFkSJ" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/omu5oJJ4" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;
+&lt;a class="link" href="https://workupload.com/file/nGfc43yEuw7" target="_blank" rel="noopener"
+&gt;WORKUPLOAD&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/TSMdVQsO" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://www.mediafire.com/file/4503l5kzdvojumv" target="_blank" rel="noopener"
+&gt;MEDIAFIRE&lt;/a&gt;
+&lt;a class="link" href="https://datanodes.to/f30mvurdndqp/BeingADIK-0.12.1-pc-Compressed.zip" target="_blank" rel="noopener"
+&gt;DATANODES&lt;/a&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/ykCAsu5S0B" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/NBEaG25D" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/TSMdVQsO" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://www.mediafire.com/file/4503l5kzdvojumv" target="_blank" rel="noopener"
+&gt;MEDIAFIRE&lt;/a&gt;
+&lt;a class="link" href="https://datanodes.to/f30mvurdndqp/BeingADIK-0.12.1-pc-Compressed.zip" target="_blank" rel="noopener"
+&gt;DATANODES&lt;/a&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/ykCAsu5S0B" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/NBEaG25D" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/TSMdVQsO" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://www.mediafire.com/file/4503l5kzdvojumv" target="_blank" rel="noopener"
+&gt;MEDIAFIRE&lt;/a&gt;
+&lt;a class="link" href="https://datanodes.to/f30mvurdndqp/BeingADIK-0.12.1-pc-Compressed.zip" target="_blank" rel="noopener"
+&gt;DATANODES&lt;/a&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/ykCAsu5S0B" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/NBEaG25D" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;0.8.3&lt;/summary&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Compressed Update Only to v0.8.3&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;补丁&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://www.mediafire.com/file/tf2xz8qlhuoeb5a/BaDIK&amp;#43;from&amp;#43;v0.8.0&amp;#43;to&amp;#43;v0.8.3&amp;#43;Update&amp;#43;Only_MQ.7z/file" target="_blank" rel="noopener"
+&gt;MEDIAFIRE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/q1drx9Dj" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;
+&lt;a class="link" href="https://workupload.com/file/dyhRPVWS6H2" target="_blank" rel="noopener"
+&gt;WORKUPLOAD&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://www.mediafire.com/file/0brj945cxpqsqf1/BeingADIK-0.8.2-pc-compressed.zip/file" target="_blank" rel="noopener"
+&gt;MEDIAFIRE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/XBq4aEhG" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://www.mediafire.com/file/0brj945cxpqsqf1/BeingADIK-0.8.2-pc-compressed.zip/file" target="_blank" rel="noopener"
+&gt;MEDIAFIRE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/XBq4aEhG" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://www.mediafire.com/file/0brj945cxpqsqf1/BeingADIK-0.8.2-pc-compressed.zip/file" target="_blank" rel="noopener"
+&gt;MEDIAFIRE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/XBq4aEhG" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="画廊mod"&gt;画廊Mod
+&lt;/h2&gt;&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;画廊 Mod：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/GFCv0c" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;画廊 Mod：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/GFCv0c" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;作弊Mod&lt;/strong&gt;或&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Documents/RenPy_Saves/com.luoqian.BeingADIKS1S2/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;作弊Mod&lt;/strong&gt;：将cheat_fix.rpy&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Documents/RenPy_Saves/com.luoqian.BeingADIKS1S2/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;画廊 Mod：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/GFCv0c" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;我的iPhone/Spark/games/BeingADIK/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="使用帮助"&gt;使用帮助
+&lt;/h2&gt;&lt;div class="mac-list-container reading-help"&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;网络连接&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果打不开链接请科学上网，没有梯子可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/p/vpn/" target="_blank" rel="noopener"
+&gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;安装教程&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果看不懂安装步骤，可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/about/" target="_blank" rel="noopener"
+&gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;问题反馈&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果操作过程中遇到Bug或其他问题，欢迎在博文评论区留言反馈&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;创作支持&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果本文对你有帮助，欢迎在&lt;a class="link" href="https://afdian.com/a/luoqian" target="_blank" rel="noopener"
+&gt;爱发电&lt;/a&gt;投喂落谦&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;幸好有你&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="宇宙安全声明"&gt;宇宙安全声明！
+&lt;/h2&gt;&lt;aside class="reading-notice" role="note"&gt;
+&lt;p&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播。&lt;br&gt;
+落谦不对因使用本文所产生的任何问题负责。&lt;/p&gt;
+&lt;/aside&gt;
+&lt;/div&gt;</description></item><item><title>HSTutor 家庭教师</title><link>https://luoqian29.github.io/p/hstutor/</link><pubDate>Sat, 05 Sep 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/hstutor/</guid><description>&lt;img src="https://files.catbox.moe/s1xkem.png" alt="Featured image of post HSTutor 家庭教师" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="hs-tutor-v0202-tk8000"&gt;HS Tutor [v0.20.2] [TK8000]
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://files.catbox.moe/n810z3.png"
 loading="lazy"
@@ -911,6 +1874,44 @@ alt="screenshot0018"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
+&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;/h2&gt;&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/IIhlhlv9wk" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/nv3sz8j8" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/IIhlhlv9wk" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/nv3sz8j8" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/IIhlhlv9wk" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/nv3sz8j8" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
 &lt;h2 id="使用帮助"&gt;使用帮助
 &lt;/h2&gt;&lt;div class="mac-list-container reading-help"&gt;
 &lt;div class="mac-list-item"&gt;
@@ -1228,7 +2229,7 @@ alt="screenshot0013"
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;DeepSeek-V3 API&lt;/strong&gt;简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
+&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;DeepSeek-V3 API&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
@@ -1247,7 +2248,7 @@ alt="screenshot0013"
 &lt;details&gt;
 &lt;summary style="color:#00A1D6;font-weight:600;"&gt;关于AI简润汉化补丁&lt;/summary&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛠️ 1. 大模型与文风&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;技术底座&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;DeepSeek-V3 API&lt;/strong&gt;简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Antigravity (Gemini 3.8 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;技术底座&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;DeepSeek-V3 API&lt;/strong&gt; 简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Antigravity (Gemini 3.8 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
 &lt;strong&gt;关于文风：&lt;/strong&gt; AI跑出来是什么文风就是什么文风。我个人很喜欢 DeepSeek 和 Gemini 的地道文风；如果追求极致文学级的翻译，圈内也有很多优秀的汉化大佬纯手工精翻，大家各取所需即可。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2171,7 +3172,7 @@ alt="screenshot0027"
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 **Antigravity (Gemini 3.7 Flash High)**简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
+&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
@@ -2190,7 +3191,7 @@ alt="screenshot0027"
 &lt;details&gt;
 &lt;summary style="color:#00A1D6;font-weight:600;"&gt;关于AI简润汉化补丁&lt;/summary&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛠️ 1. 大模型与文风&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;技术底座：&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 **Antigravity (Gemini 3.7 Flash High)**简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Codex (ChatGPT-5.6 Sol)&lt;/strong&gt; 与 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;技术底座：&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Codex (ChatGPT-5.6 Sol)&lt;/strong&gt; 与 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
 &lt;strong&gt;关于文风：&lt;/strong&gt; AI跑出来是什么文风就是什么文风。我个人很喜欢 DeepSeek 和 Gemini 的地道文风；如果追求极致文学级的翻译，圈内也有很多优秀的汉化大佬纯手工精翻，大家各取所需即可。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2817,13 +3818,13 @@ alt="screenshot0044"
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 **Antigravity (Gemini 3.7 Flash High)**简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
+&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge purple"&gt;🎨 算法P图&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;部分UI图片由**Antigravity（Gemini 3.7 Flash High）**视觉算法渲染P图完成。&lt;/p&gt;
+&lt;p&gt;部分UI图片由&lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
@@ -2836,7 +3837,7 @@ alt="screenshot0044"
 &lt;details&gt;
 &lt;summary style="color:#00A1D6;font-weight:600;"&gt;关于AI简润汉化补丁&lt;/summary&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛠️ 1. 大模型与文风&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;技术底座：&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 **Antigravity (Gemini 3.7 Flash High)&lt;strong&gt;简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由&lt;/strong&gt;Antigravity（Gemini 3.7 Flash High）**视觉算法渲染P图完成。&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;技术底座：&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由&lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
 &lt;strong&gt;关于文风：&lt;/strong&gt; AI跑出来是什么文风就是什么文风。我个人很喜欢 DeepSeek 和 Gemini 的地道文风；如果追求极致文学级的翻译，圈内也有很多优秀的汉化大佬纯手工精翻，大家各取所需即可。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -3227,7 +4228,7 @@ alt="封面图"
 &lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.31&lt;/time&gt;&lt;span&gt; · 12:00&lt;/span&gt;&lt;/span&gt;
 &lt;div class="reading-update-main"&gt;
 &lt;strong class="reading-update-version"&gt;简润补丁&lt;/strong&gt;
-&lt;span class="reading-update-detail"&gt;使用Antigravity（Gemini 3.7 Flash High）再次简润，修复了部分突兀、文绉绉文风以及直译错翻的句子&lt;/span&gt;
+&lt;span class="reading-update-detail"&gt;使用Antigravity (Gemini 3.7 Flash High)再次简润，修复了部分突兀、文绉绉文风以及直译错翻的句子&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/details&gt;
@@ -3773,13 +4774,13 @@ alt="预览图"
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 **Antigravity (Gemini 3.7 Flash High)**简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
+&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge purple"&gt;🎨 算法P图&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;部分UI图片由 &lt;strong&gt;Codex （ChatGPT-5.6 Sol）&lt;/strong&gt; 视觉算法渲染P图完成。&lt;/p&gt;
+&lt;p&gt;部分UI图片由 &lt;strong&gt;Codex (ChatGPT-5.6 Sol)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
@@ -3792,7 +4793,7 @@ alt="预览图"
 &lt;details&gt;
 &lt;summary style="color:#00A1D6;font-weight:600;"&gt;关于AI简润汉化补丁&lt;/summary&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛠️ 1. 大模型与文风&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;技术底座&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 **Antigravity (Gemini 3.7 Flash High)**简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Codex （ChatGPT-5.6 Sol）&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;技术底座&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;Antigravity (Gemini 3.7 Flash High)&lt;/strong&gt; 简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Codex (ChatGPT-5.6 Sol)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
 &lt;strong&gt;关于文风：&lt;/strong&gt; AI跑出来是什么文风就是什么文风。我个人很喜欢 DeepSeek 和 Gemini 的地道文风；如果追求极致文学级的翻译，圈内也有很多优秀的汉化大佬纯手工精翻，大家各取所需即可。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -15371,1053 +16372,6 @@ alt="预览图"
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class="lntd"&gt;
 &lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;我的iPhone/Spark/games/OriginStory/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="使用帮助"&gt;使用帮助
-&lt;/h2&gt;&lt;div class="mac-list-container reading-help"&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;网络连接&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果打不开链接请科学上网，没有梯子可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/p/vpn/" target="_blank" rel="noopener"
-&gt;博文&lt;/a&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;安装教程&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果看不懂安装步骤，可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/about/" target="_blank" rel="noopener"
-&gt;博文&lt;/a&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;问题反馈&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果操作过程中遇到Bug或其他问题，欢迎在博文评论区留言反馈&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;创作支持&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果本文对你有帮助，欢迎在&lt;a class="link" href="https://afdian.com/a/luoqian" target="_blank" rel="noopener"
-&gt;爱发电&lt;/a&gt;投喂落谦&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;幸好有你&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;hr&gt;
-&lt;h2 id="宇宙安全声明"&gt;宇宙安全声明！
-&lt;/h2&gt;&lt;aside class="reading-notice" role="note"&gt;
-&lt;p&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播。&lt;br&gt;
-落谦不对因使用本文所产生的任何问题负责。&lt;/p&gt;
-&lt;/aside&gt;
-&lt;/div&gt;</description></item><item><title>Being a DIK 我的大学生活</title><link>https://luoqian29.github.io/p/beingadik/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/beingadik/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPTpZv1bAAA-kqf?format=jpg&amp;name=medium" alt="Featured image of post Being a DIK 我的大学生活" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
-&lt;h1 id="being-a-dik-v0120-drpinkcake"&gt;Being a DIK [v0.12.0] [DrPinkCake]
-&lt;/h1&gt;&lt;p&gt;&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/cc7f0e515ba3b54f9907f58941d44a30626f59fc.jpg"
-loading="lazy"
-alt="封面图"
-&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1 id="overview"&gt;Overview
-&lt;/h1&gt;&lt;details&gt;
-&lt;summary&gt;剧情概要&lt;/summary&gt;
-&lt;p&gt;Being a DIK is a choice-driven adult Visual Novel focusing on the fun parts of college life. The game is packed with humor, sex, romance, drama and a rich story. Play as a young male attending college at B&amp;amp;R and guide him through the experience.&lt;/p&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="details"&gt;Details
-&lt;/h2&gt;&lt;details class="reading-note reading-game-info"&gt;
-&lt;summary&gt;游戏信息&lt;/summary&gt;
-&lt;div class="mac-list-container reading-game-info-list"&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏玩法&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;视觉小说&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;建模引擎&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;Daz Studio&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;运行引擎&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;Ren&amp;rsquo;Py&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏画风&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;欧美风&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;当前版本&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;0.12.0&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;发行日期&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;2026-08-07&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="developer入正地址"&gt;Developer（入正地址）
-&lt;/h2&gt;&lt;p&gt;&lt;a class="link" href="https://www.patreon.com/DrPinkCake/overview" target="_blank" rel="noopener"
-&gt;Patreon&lt;/a&gt;
-&lt;a class="link" href="https://bsky.app/profile/drpinkcake.bsky.social" target="_blank" rel="noopener"
-&gt;BlueSky&lt;/a&gt;
-&lt;a class="link" href="https://x.com/DrPinkCake" target="_blank" rel="noopener"
-&gt;Twitter&lt;/a&gt;
-&lt;a class="link" href="https://discord.com/invite/KyCc5E4" target="_blank" rel="noopener"
-&gt;Discord&lt;/a&gt;
-&lt;a class="link" href="https://store.steampowered.com/app/1126320/Being_a_DIK__Season_1/" target="_blank" rel="noopener"
-&gt;Steam&lt;/a&gt;
-&lt;a class="link" href="https://www.gog.com/en/game/being_a_dik" target="_blank" rel="noopener"
-&gt;GOG&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="落谦酱便利贴"&gt;落谦酱便利贴
-&lt;/h2&gt;&lt;details&gt;
-&lt;summary style="color:#c81e1e;font-weight:600;"&gt;PS&lt;/summary&gt;
-&lt;p&gt;四个字总结，不玩白瞎。&lt;/p&gt;
-&lt;/details&gt;
-&lt;details class="reading-note reading-changelog"&gt;
-&lt;summary style="color:#00A1D6;"&gt;博文更新日志&lt;/summary&gt;
-&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
-&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.10&lt;/time&gt;&lt;span&gt; · 05:00&lt;/span&gt;&lt;/span&gt;
-&lt;div class="reading-update-main"&gt;
-&lt;strong class="reading-update-version"&gt;0.12.0&lt;/strong&gt;
-&lt;span class="reading-update-detail"&gt;AI意译汉化补丁&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
-&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.10&lt;/time&gt;&lt;span&gt; · 05:00&lt;/span&gt;&lt;/span&gt;
-&lt;div class="reading-update-main"&gt;
-&lt;strong class="reading-update-version"&gt;0.12.0&lt;/strong&gt;
-&lt;span class="reading-update-detail"&gt;完整体mod&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
-&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.10&lt;/time&gt;&lt;span&gt; · 20:00&lt;/span&gt;&lt;/span&gt;
-&lt;div class="reading-update-main"&gt;
-&lt;strong class="reading-update-version"&gt;AI意译汉化补丁&lt;/strong&gt;
-&lt;span class="reading-update-detail"&gt;修复颜色文本效果会导致部分文本报错的bug，以及修复一些专有名词的错译&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
-&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.10&lt;/time&gt;&lt;span&gt; · 20:50&lt;/span&gt;&lt;/span&gt;
-&lt;div class="reading-update-main"&gt;
-&lt;strong class="reading-update-version"&gt;AI意译汉化补丁&lt;/strong&gt;
-&lt;span class="reading-update-detail"&gt;修复有些变量多加了!t，导致出现报错的bug&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
-&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.10&lt;/time&gt;&lt;span&gt; · 01:30&lt;/span&gt;&lt;/span&gt;
-&lt;div class="reading-update-main"&gt;
-&lt;strong class="reading-update-version"&gt;AI意译汉化补丁&lt;/strong&gt;
-&lt;span class="reading-update-detail"&gt;修复部分短信文本、地点文本、任务文本不显示汉化的bug&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
-&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.11&lt;/time&gt;&lt;span&gt; · 23:00&lt;/span&gt;&lt;/span&gt;
-&lt;div class="reading-update-main"&gt;
-&lt;strong class="reading-update-version"&gt;AI意译汉化补丁&lt;/strong&gt;
-&lt;span class="reading-update-detail"&gt;史诗级的优化。补丁写入外置模糊匹配mod，现已全面覆盖 Rooster 博客、角色档案与手机短信。无论你的英文存档多么久远或历经何种魔改，都能无视杂乱废案，百分之一百显示汉化，除了我漏提取的文本，但不知跑源代码汉化的中文存档，另外优化了一些不显示汉化文本，修复一些文本报错bug&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
-&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.16&lt;/time&gt;&lt;span&gt; · 07:00&lt;/span&gt;&lt;/span&gt;
-&lt;div class="reading-update-main"&gt;
-&lt;strong class="reading-update-version"&gt;0.12.0&lt;/strong&gt;
-&lt;span class="reading-update-detail"&gt;Harem Mod&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
-&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.16&lt;/time&gt;&lt;span&gt; · 07:00&lt;/span&gt;&lt;/span&gt;
-&lt;div class="reading-update-main"&gt;
-&lt;strong class="reading-update-version"&gt;AI意译汉化补丁&lt;/strong&gt;
-&lt;span class="reading-update-detail"&gt;修复一些不显示汉化的动态文本，以及集成Harem Mod/后宫mod的对应汉化文本&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
-&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.18&lt;/time&gt;&lt;span&gt; · 00:00&lt;/span&gt;&lt;/span&gt;
-&lt;div class="reading-update-main"&gt;
-&lt;strong class="reading-update-version"&gt;Multi Mod&lt;/strong&gt;
-&lt;span class="reading-update-detail"&gt;mod作者已经更新完这个mod，对应的汉化文本也集成到汉化补丁中&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
-&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.18&lt;/time&gt;&lt;span&gt; · 00:00&lt;/span&gt;&lt;/span&gt;
-&lt;div class="reading-update-main"&gt;
-&lt;strong class="reading-update-version"&gt;Harem Mod&lt;/strong&gt;
-&lt;span class="reading-update-detail"&gt;这个mod依旧在更新，不过最近一次更新的版本的汉化文本已集成至补丁&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
-&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.08.18&lt;/time&gt;&lt;span&gt; · 00:00&lt;/span&gt;&lt;/span&gt;
-&lt;div class="reading-update-main"&gt;
-&lt;strong class="reading-update-version"&gt;AI意译汉化补丁&lt;/strong&gt;
-&lt;span class="reading-update-detail"&gt;修复一些不显示汉化的动态文本，以及集成Harem Mod、Multi Mod的对应汉化文本&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3 / DeepSeek-V3.1-Terminus&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;制作日期：&lt;strong&gt;2026-08-18&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;PS：由于AI会出现&lt;strong&gt;幻觉&lt;/strong&gt;，那么文本上下文中，偶尔会出现人名&lt;strong&gt;翻译误差&lt;/strong&gt;、&lt;strong&gt;中英文&lt;/strong&gt;夹杂、以及&lt;strong&gt;突兀文风&lt;/strong&gt;的句子。目前落谦也只能统一&lt;strong&gt;主要角色&lt;/strong&gt;的人名，但难免还是会有&lt;strong&gt;个别遗漏&lt;/strong&gt;，毕竟落谦只有&lt;strong&gt;一个人&lt;/strong&gt;，时间和精力确实&lt;strong&gt;有限&lt;/strong&gt;。至于一些&lt;strong&gt;小名&lt;/strong&gt;、&lt;strong&gt;昵称&lt;/strong&gt;、&lt;strong&gt;缩写称呼&lt;/strong&gt;、&lt;strong&gt;称谓&lt;/strong&gt;、&lt;strong&gt;地点&lt;/strong&gt;、&lt;strong&gt;事件&lt;/strong&gt;，以及&lt;strong&gt;专有名词&lt;/strong&gt;，还有类似&lt;strong&gt;sister、brother&lt;/strong&gt;这种&lt;strong&gt;一词多义&lt;/strong&gt;的单词，则需要人工&lt;strong&gt;边玩边修正&lt;/strong&gt;。当然，如果在统一主要角色人名时，发现了&lt;strong&gt;相关专有名词&lt;/strong&gt;，也会&lt;strong&gt;顺手统一&lt;/strong&gt;一下。还请大家多多谅解，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;免死金牌：&lt;strong&gt;落谦的汉化补丁，无论是&lt;/strong&gt;AI意译&lt;/strong&gt;版本还是&lt;strong&gt;逐句意译&lt;/strong&gt;版本，都远不及&lt;strong&gt;原文&lt;/strong&gt;或&lt;strong&gt;其他大佬&lt;/strong&gt;的汉化版本。与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电 &lt;strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;/strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class="blur"&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
-&lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1tKuX6HESc"
-scrolling="no"
-frameborder="no"
-framespacing="0"
-allowfullscreen="true"
-&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="游戏预览图"&gt;游戏预览图
-&lt;/h2&gt;&lt;details class="reading-note reading-gallery"&gt;
-&lt;summary&gt;素图&lt;/summary&gt;
-&lt;p&gt;&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/c36e27f510020bf5a27f6b2c2c8b6d7cde6fa2aa.jpg"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/1f094db002c27b31442aaa8aa56f84c4564d4c38.jpg"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/4ac1e952c300f65e317603c37eee24e33afcedfc.jpg"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/f669c9001400f9bce4840104bcfc7c855c4d152d.jpg"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/2dfb467dc102043981e1778f2f0b8f678c9b9566.jpg"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/a47c98060ec390132c8d7dfad0db8162107eba7c.jpg"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/10b9dbd9fcaf5b052d99b665066b3e49207b3963.jpg"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://clan.fastly.steamstatic.com/images//36058373/5992a7e36f977d5eb311644ab1d78e27d1dcdf8b.jpg"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/HMEYNLKWAAEmGfT?format=jpg&amp;amp;name=4096x4096"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/HKCItezXsAA2AGf?format=jpg&amp;amp;name=4096x4096"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/HGWvSYrXwAAjeIG?format=jpg&amp;amp;name=4096x4096"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/HEKwUcnWkAAtIJk?format=jpg&amp;amp;name=4096x4096"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/HC9jRx9a0AA9SnD?format=jpg&amp;amp;name=4096x4096"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/Gd3kRyoXgAAOt5R?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/GbnSjBVWUAAKVgg?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/GaZhKO1WoAAZY00?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/GZhMhljWAAQjOMB?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/GYKuGGGW0AAaeqT?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/F-gcvXAWYAA0f0b?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/F8uy3C5XcAAqWlk?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/FujPgm9X0AYyeXz?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/FiEy8beWYAAJ_oW?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/FZUZlBwXoAEGkTc?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/FYMVAp2WIAMrQl9?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/FCtDPZIXsAM8ETR?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/FCC6xnkXsAQxopn?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/FB0pdzFWYAgsfVB?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/FBQ1JG_WUAYdQBf?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/FAwkOLhXsA8yxIk?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/E5evUR6XEAYEvj2?format=jpg&amp;amp;name=4096x4096"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/EyMl-mBWYAILqmC?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/Ew6e6RNWUAUW2yk?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/EwmUWjWWgAEmmz_?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/EkMYvtEXsAAt0hH?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/EilBf-4XcAA3WdR?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/EY9l70oXkAAyuhP?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/ESqCn1hWsAEX0uY?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/ERDRN6qWoAAJUal?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/EJen6scWsAA5iHQ?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/EIrxKJ5X0AI3d7A?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/EAaXg1zXkAAZnRh?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/D-3-pNbWwAEwVJm?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/D-vO_JxWkAAKinE?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/D-glj6GXoAEhsbd?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/D-gfCT1XUAABkyE?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1126320/ss_1743d88c1c26c7557f054a8d1c5af34399e0d9e5.1920x1080.jpg?t=1723920705"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1126320/ss_871646b7baca62e952e756cfdf9215fcf5c77a51.1920x1080.jpg?t=1723920705"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1126320/ss_1f1f74fb12e31151cfc6ea5b1eee734aecb26bf6.1920x1080.jpg?t=1723920705"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1126320/ss_669301971d450bfd1040651d2998a812c6450935.1920x1080.jpg?t=1723920705"
-loading="lazy"
-alt="预览图"
-&gt;&lt;/p&gt;
-&lt;/details&gt;
-&lt;details class="reading-note reading-gallery"&gt;
-&lt;summary&gt;荤图&lt;/summary&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/Ee4uHu0WsAAl0dh?format=jpg&amp;amp;name=medium"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://pbs.twimg.com/media/EerCaesWsAA92od?format=jpg&amp;amp;name=4096x4096"
-loading="lazy"
-alt="预览图"
-&gt;&lt;/p&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
-&lt;/h2&gt;&lt;details&gt;
-&lt;summary&gt;0.12.0&lt;/summary&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛡️ 叠甲&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;del&gt;OK啊，我们先叠个甲！怎么说呢，第三季的汉化补丁算是制作出来了，但是有个小瑕疵。什么小瑕疵呢？就是 Rooster 博客，以及角色背景的个人信息那里，有些文本是显示不了汉化的。&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;为什么会出现这种Bug呢？听我给你们盘一盘这个堪称“套娃”的终极难题：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最基础的原因，是游戏源代码里写的文本跟实际渲染出来的文本不一样（比如标点符号、大小写、拼写有差异）。更让人头疼的是这游戏逆天的存档继承机制。游戏不仅分 Steam 版、GOG 版，还有 F95 的学习版。如果你还打了一个外网大佬制作的 Mod，什么？！还有高手！这会产生一个极其恐怖的&lt;strong&gt;排列组合套娃&lt;/strong&gt;：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;作者从游戏发布至今，每次更新都会修改一些语法和文本，你存了档；&lt;/li&gt;
-&lt;li&gt;后来你又打了Mod，Mod作者更新时也会修改文本，你又存了档。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这导致你的旧存档里，死死地裹挟着各种不同版本的英文文本、废弃的标点和错别字！一套接一套，简直是无解的套娃！（当然，有些国内汉化大佬是直接跑源代码修改的，那种本地存档带的是中文，倒无伤大雅。）&lt;/p&gt;
-&lt;p&gt;&lt;del&gt;&lt;strong&gt;这问题有办法解决吗？&lt;/strong&gt; 有！但我先声明，因为这种“套娃”存档的存在，我没有办法像做其他游戏那样“修一处而修复所有”，&lt;strong&gt;我只能用最笨的方法：一个个去穷举&lt;/strong&gt;！怎么穷举？&lt;strong&gt;这需要你们向我反馈&lt;/strong&gt;！请截图那个出问题的具体位置发给我，或者直接把存档发给我，我去对应着修。&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;其实我这人&lt;strong&gt;吃软不吃硬&lt;/strong&gt;，特别好说话。遇到好几个水友，人家都非常有礼貌，你只要好好跟我说，有问题我肯定帮你弄。但如果你非常介意这些小瑕疵，又死活不愿意反馈，那我根本修不了。要是更逆天一点，玩完不反馈，还要跑去那种资源群、聊天群里疯狂吐槽我、阴阳怪气我，那我还给你改吗？我又不是傻子对吧，做也被喷，不做也被喷，那我图啥？&lt;/p&gt;
-&lt;p&gt;如果你非要用这个补丁，请截图那个出问题的具体位置发给我。所以我在开头就先叠过甲了，如果你非常介意这些小瑕疵，然后你又不反馈，那我根本修不了。要是更逆天一点，遇到问题不反馈还跑来阴阳怪气喷我，那我非常建议你不要使用我的补丁。我就是个捣鼓 AI 的半吊子，不是什么大佬，只是个小卡拉米。先叠个甲哈！&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;💔 释然&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;说到这里，我们来好好算算这笔账，顺便聊聊费用的事。&lt;/p&gt;
-&lt;p&gt;其实本来，我是想开订阅的（一个月10米）做点外快来着，寻思一个月能赚个两三千也还行。结果现在我一个月连300米都没圈到，但后来想了想：算了，不加了！&lt;/p&gt;
-&lt;p&gt;为什么？不管收没收费，都要挨骂挨喷。要是收了费，那肯定被喷得更惨！万一遇到极端人士，给我打上什么乱七八糟的标签，甚至直接把我户口给开了、把我盒给开了，那我不是倒了八辈子血霉？&lt;/p&gt;
-&lt;p&gt;我搞这些，原本就是想着帮助十几个愿意向我反馈的水友。有些老水友每次拿补丁非要打赏我，我觉得太见外了，才随便开了个“爱发电”和赞助，让大家自愿打赏。结果呢？就这一个月两三百块钱，还有人盯着我喷！&lt;/p&gt;
-&lt;p&gt;我就纳闷了，你们为啥不去喷那些搞“充电进群”的？不去喷那些把资源分卷压缩、东放一个盘西放一个盘、故意赚网盘费的人？我一没收你们网盘费，二没强买强卖。老盯着我一个人阴阳怪气干嘛？&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;📊 账本&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;叠完甲，我们来盘点一下这次第三季补丁大概用了多少费用和精力（网费、电费和人力精力就不算了，只算 AI 的开销）：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;• 文本翻译：DeepSeek V3.1。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这次第三季我没有像第一二季那样用 DeepSeek V3 去跑，而是用了 V3.1。为什么？因为 V3.1 更稳定，虽然费用是 V3 的两倍，但跑出来的汉化能帮我减少很多工作量。它极少出现那种幻觉 Bug，或者恶性的“突兀文邹邹幻觉”。之前有人在某些群里疯狂吐槽我，说文本出现幻觉，还以为是我人工瞎改的。哎呀，我没办法嘛！你遇到问题不反馈，还阴阳怪气我，那游戏我肯定就不去动它了啊，我又不是傻子对不对？你好好跟我反馈，我肯定会帮你修，甚至用 V3.1 重新给你跑一次都没问题。这次《我的大学生活》这种学院/都市题材，用 V3.1 跑出来的效果非常棒，非常接地气，图文风和幻觉极少。总共算下来，Token 消耗大概在 25 块钱左右。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;• 图片精修：Codex。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这次有些图片我进行了P图处理，但我自己不会用 PS，所以我用的是 Codex 这个 AI 来弄。Codex 消耗了我 Plus 会员（约 140 元/月）周额度的 30%，大家可以自己算算这笔费用。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;• 代码与 Mod：Gemini (反重力)。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这游戏的代码特别难崩！我本来想用Replace代码替换，结果太拉胯了。后来我干脆不跟它嘻嘻哈哈了，直接上了 Gemini（反重力），让它全局修改，还写了四五个外置 Mod。虽然我把这些 Mod 都集成在补丁里了，但目前没发现什么恶性 Bug（如果有，请告诉我，我再把它们从补丁里分出来优化）。Gemini 的 Pro 会员周额度我用了大概 50%，这个消耗算比较大了，因为这几天我每天都化身“Yes工程师”让它去操作。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;• 时间成本。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;大家可能不知道，今年 4 月份我做第一二季的时候，基本是纯手搓的，代码提取全靠自己写，除了文本用 AI 跑，整整耗费了一个星期的总时长（不是说每天下工作之余做两小时那种，是总时长加起来实打实的一个星期）。而这次第三季从发布到现在大概三天，刚好碰上周末，我每天花四五个小时配合 AI 搞定，总耗时可能都不超过 24 小时。&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;⚠️ 避坑&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;关于 Mod 集成的情况（很重要）：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这次我&lt;strong&gt;没有&lt;/strong&gt;把外网大佬制作的 Mod 本体直接集成在补丁里！大家必须自己去打那个外网大佬的 Mod，然后再配合我们的汉化补丁使用。&lt;/p&gt;
-&lt;p&gt;我们的补丁里&lt;strong&gt;只集成了对应 Mod 的汉化文本&lt;/strong&gt;。为什么要这样做？就是为了避免上面提到的各种排异报错和无解的问题。&lt;/p&gt;
-&lt;p&gt;所以，如果你自己打好了一切，却发现游戏中出现了绿色的选项并且是英文的，那 100% 是我漏提取了文本，这个你必须要向我反馈了，不反馈我也没辙了，反正我是没时间玩。&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🔄 重置&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;关于第一、二季的后续重置计划（重点填坑）：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;肯定有人会问，既然第三季用 V3.1 跑出来效果这么好，那第一、二季会重新优化吗？ &lt;strong&gt;会的！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我会抽个时间从头搞一下，全部换成 V3.1 重新跑一遍。&lt;/p&gt;
-&lt;p&gt;之前一二季有个毛病：当时我们把选项 Mod 直接集成到了 TL（翻译）文本里。但 TL 文本的机制是“一山不容二虎”，相同的英文文本会强制共用同一句翻译。这就导致前面剧情的选项翻译，会污染、影响到后面剧情的相同文本。那怎么解决呢？&lt;/p&gt;
-&lt;p&gt;首先，我会用 V3.1 从头再跑一遍 AI。虽然第二季的文本量比第三季还要多一点点，估计要花个二三十块钱，而且如果用 V3 确实会便宜不少，但既然 V3.1 质量这么顶，咱们就“用优不用旧”！&lt;/p&gt;
-&lt;p&gt;其次，一二季的 Mod 处理也会和这次第三季一样：&lt;strong&gt;不再集成 Mod 本体！&lt;/strong&gt; 必须由大家自己去打外网大佬制作的 Mod，然后我们的补丁&lt;strong&gt;只集成对应的汉化文本&lt;/strong&gt;。这样就不会再导致前面那种互相污染报错的问题了。&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🚀 未来&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;最后，聊聊现在的 AI：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;你们可能没概念我现在做补丁速度有多快。今年 4 月份做第一二季的时候，我纯手搓耗了一个多星期。而这次第三季，我每天花四五个小时，总耗时不到 24 小时就搞定了。&lt;/p&gt;
-&lt;p&gt;毕竟现在已经是 2026 年了，AI 这么发达。只要你充个 Pro 会员，开个 20 倍额度，甚至都不需要懂代码！只需要在路径里敲一行指令：“请帮我翻译这个文件，顺便制作出汉化补丁”，交给 AI，你自己化身“Yes工程师”一路回车确认就行了。&lt;/p&gt;
-&lt;p&gt;这需要什么门槛？只需要&lt;strong&gt;你的钱包够鼓，Token 足够烧！&lt;/strong&gt; 烧的钱越多，效果越好。我估计到了明年（2027 年），这玩意儿直接人手一个，只要有钱就能自己做。反正大家既然都在 Steam 上入了正版，肯定不缺这几个钱，缺的只是时间罢了。&lt;/p&gt;
-&lt;p&gt;总结一下，除了一些绿色选项和“终极套娃旧存档”导致的不显示中文 Bug 外，这次补丁的对话文本汉化率应该在 99.999% 左右了。如果你找不到其他汉化资源，非常想玩，可以试试我这个基于 F95 学习版制作的补丁。但如果遇到 Bug，还是那句话，希望大家能截个图或者带存档反馈一下。如果非常介意，请勿游玩；如果有一定英语基础，没有强迫症，大致能看懂，不反馈也无所谓。总之就是这样啦！&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;PS²&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;距离上次更新过了四五天啊，因为最近确实没空。&lt;br&gt;
-一是工作很忙。二是确实没时间出来做补丁。&lt;br&gt;
-三是因为我的汉化工具出了点小问题，这两天都用Codex或者反重力在优化那个工具，到时候更新Renpy引擎教程的时候，顺便把这个工具做的比较无脑一点嘛。现在的话是需要你解包什么乱七八糟的，到时候做一键就能翻译的那种。&lt;br&gt;
-总之就这样子吧，还是希望大家能够继续的向我反馈一些不显示汉化的文本。其大多文本都是一些变量文本、动态文本，这些的话都要去写一些外置mod啊，或者使用replace代码进行替换啊，又或者是一些mod的问题。&lt;br&gt;
-不过现在的话，补丁已经支持了两个mod，一个是后宫mod，一个是多功能mod，对应的汉化文本。&lt;/p&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Multi Mod&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;Mod&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/lZDDXNPm" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/wbA6g91B" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;
-这里提供一个Multi Mod，这是一位外网大佬制作的多功能模组，模组是包含选项mod、攻略mod以及作弊mod等等一些画廊mod解锁之类的。&lt;br&gt;
-这个mod已经更新完了，对应的汉化文本我也集成到补丁里面了。&lt;br&gt;
-如果你要打的话，依旧得搭配补丁使用，依旧是Game文件夹覆盖Game文件夹。&lt;br&gt;
-但是呢，也有可能一些文本我没有提取出来，如果显示绿色的、显示英文的，你可以向我反馈。&lt;/p&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Harem Mod&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;Mod&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/ea57BNYt" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/ZVEZMxky" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;
-这里提供一个Harem Mod，顾名思义啊，就是后宫线mod，原游戏是没有的，但外网有大佬拿了ChatGPT 5.6Sol制作了这样的mod。&lt;br&gt;
-至于功能的话，就是魔改上面那个SP多功能模组的，该有的功能都有了，只是比SP那个多了一个后宫线的。不过应该可以吧，毕竟使用了5.6 Sol比较屌的模型啊。&lt;br&gt;
-那怎么打呢？依旧是Game文件夹覆盖Game文件夹。&lt;br&gt;
-当然，这个mod也是一直在更新，所以这里提供的也是最近一次更新的版本。对应的汉化文本，也已集成到补丁中。我也不清楚什么时候发布最终版。&lt;br&gt;
-当然，因为是后宫线，mod作者改了很多文本，有些文本不显示汉化是正常的，你可以截图向我反馈&lt;/p&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Sex Sound Patch¹&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;Mod&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;a class="link" href="https://datanodes.to/yf5qjvix6a7b/BeingADIK-0.12.0-sex-sounds-patch.7z" target="_blank" rel="noopener"
-&gt;DATANODES&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/nbzn8ymt" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;
-&lt;a class="link" href="https://vik1ngfile.site/f/78yjDjyGir" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;
-这里是一个上垒CG补丁，好像有配音了，不知道是AI配音，还是作者拿了公用素材，还是请人做了CV。&lt;br&gt;
-这里把解压出来的文件，然后覆盖到Game文件夹里的文件。我这里覆盖之后，然后再把原版的汉化补丁打上去，再提取一下文本，是没有出现那种新增的文本啊。&lt;br&gt;
-我不知道你们其他人会不会出现这种情况，如果出现的话，可能会出现有些句子显示不了汉化的，你可以向我反馈一下。&lt;br&gt;
-目前的话，我确实是没有太多的时间去研究这游戏，因为最近特别忙。只是有几个水友催我做这个，我才做的。&lt;br&gt;
-而且我每天工作都要边工作边那个边让反重力去优化，我就点那个Yes啊，我没有耗太大的精力去优化这个了。&lt;/p&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/2lPusp" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://gofile.io/d/OupdBC" target="_blank" rel="noopener"
-&gt;GOFILE²&lt;/a&gt;
-&lt;a class="link" href="https://datanodes.to/jl9pll0xwxg7/BeingADIK-0.12.0-pc.zip" target="_blank" rel="noopener"
-&gt;DATANODES&lt;/a&gt;
-&lt;a class="link" href="https://uploadnow.io/en/share?utm_source=NkpXJg7" target="_blank" rel="noopener"
-&gt;UPLOADNOW&lt;/a&gt;
-&lt;a class="link" href="https://vik1ngfile.site/f/KlVfARBogl" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/O8riiGly" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/t9DTCtzt" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件放入&lt;strong&gt;game&lt;/strong&gt;文件夹中&lt;/li&gt;
-&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;我也不清楚。外挂移植的第三季能不能玩？我之前试着把存档移过去，好像不太行。我建议的话还是在电脑上玩吧，如果实在要玩，或者你可以试用一下这个MTOOL或者是Joiplay模拟器。&lt;br&gt;
-当然的话，我记得外挂移植可以兼容小存档，不过你之前的路线全都没有了。但是这是多路线，鱼和熊掌不能得兼。所以的话还是建议在电脑上玩吧，或者你可以看一下这个帖子。&lt;br&gt;
-&lt;a class="link" href="https://f95zone.to/threads/being-a-dik-v0-12-0-drpinkcake.25332/page-12944#post-12404775" target="_blank" rel="noopener"
-&gt;F95&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/2lPusp" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://gofile.io/d/OupdBC" target="_blank" rel="noopener"
-&gt;GOFILE²&lt;/a&gt;
-&lt;a class="link" href="https://datanodes.to/jl9pll0xwxg7/BeingADIK-0.12.0-pc.zip" target="_blank" rel="noopener"
-&gt;DATANODES&lt;/a&gt;
-&lt;a class="link" href="https://uploadnow.io/en/share?utm_source=NkpXJg7" target="_blank" rel="noopener"
-&gt;UPLOADNOW&lt;/a&gt;
-&lt;a class="link" href="https://vik1ngfile.site/f/KlVfARBogl" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/O8riiGly" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/t9DTCtzt" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;主体 APK：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/NdLXbH" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/acLoWFmi" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;、&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
-&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
-&lt;li&gt;然后解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;将英文原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;和&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件一起移动到以下路径：&lt;/li&gt;
-&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
-&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Documents/RenPy_Saves/com.luoqian.BeingADIKS1S2/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
-&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/2lPusp" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://gofile.io/d/OupdBC" target="_blank" rel="noopener"
-&gt;GOFILE²&lt;/a&gt;
-&lt;a class="link" href="https://datanodes.to/jl9pll0xwxg7/BeingADIK-0.12.0-pc.zip" target="_blank" rel="noopener"
-&gt;DATANODES&lt;/a&gt;
-&lt;a class="link" href="https://uploadnow.io/en/share?utm_source=NkpXJg7" target="_blank" rel="noopener"
-&gt;UPLOADNOW&lt;/a&gt;
-&lt;a class="link" href="https://vik1ngfile.site/f/KlVfARBogl" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/O8riiGly" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/t9DTCtzt" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;英文原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
-&lt;li&gt;然后将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件移动到以下路径：&lt;/li&gt;
-&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
-&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;我的iPhone/Spark/games/BeingADIK/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;0.8.3&lt;/summary&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/KqBsX6" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/FhcC8Fyd" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/Aio5lo" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/f7wquttU" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件放入&lt;strong&gt;game&lt;/strong&gt;文件夹中&lt;/li&gt;
-&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;焚诀修复mod&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;mod&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/TaRJP1" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/onjf7D8V" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;
-如果移动端右下角不显示焚按钮，可以打一个修复mod，打在game文件夹中&lt;/p&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/KqBsX6" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/FhcC8Fyd" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/Aio5lo" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/f7wquttU" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;主体 APK：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/afx57J" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/QdHQKdxG" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;、&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
-&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
-&lt;li&gt;然后解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;将英文原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;和&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件一起移动到以下路径：&lt;/li&gt;
-&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
-&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Documents/RenPy_Saves/com.luoqian.BeingADIKS1S2/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
-&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/KqBsX6" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/FhcC8Fyd" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/Aio5lo" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/f7wquttU" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;英文原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
-&lt;li&gt;然后将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件移动到以下路径：&lt;/li&gt;
-&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
-&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;我的iPhone/Spark/games/BeingADIK/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
-&lt;/h2&gt;&lt;details&gt;
-&lt;summary&gt;0.12.0&lt;/summary&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Sex Sound Patch&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;补丁&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/Agto8S" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://www.mediafire.com/file/iuhbez5h9gpblbe" target="_blank" rel="noopener"
-&gt;MEDIAFIRE&lt;/a&gt;
-&lt;a class="link" href="https://datanodes.to/kxmfdwhwu8ki/BeingADIK-0.12.0-sex-sounds-patch-Compressed.7z" target="_blank" rel="noopener"
-&gt;DATANODES&lt;/a&gt;
-&lt;a class="link" href="https://vik1ngfile.site/f/4KpXrhqzib" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/ScifieFG" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/Agto8S" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://www.mediafire.com/file/xhnej7szianaluh" target="_blank" rel="noopener"
-&gt;MEDIAFIRE&lt;/a&gt;
-&lt;a class="link" href="https://datanodes.to/f7pinlq0ara7/BeingADIK-0.12.0-pc-Compressed.zip" target="_blank" rel="noopener"
-&gt;DATANODES&lt;/a&gt;
-&lt;a class="link" href="https://vik1ngfile.site/f/IH6U4Wl8oI" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/57J8keoD" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/Agto8S" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://www.mediafire.com/file/xhnej7szianaluh" target="_blank" rel="noopener"
-&gt;MEDIAFIRE&lt;/a&gt;
-&lt;a class="link" href="https://datanodes.to/f7pinlq0ara7/BeingADIK-0.12.0-pc-Compressed.zip" target="_blank" rel="noopener"
-&gt;DATANODES&lt;/a&gt;
-&lt;a class="link" href="https://vik1ngfile.site/f/IH6U4Wl8oI" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/57J8keoD" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/Agto8S" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://www.mediafire.com/file/xhnej7szianaluh" target="_blank" rel="noopener"
-&gt;MEDIAFIRE&lt;/a&gt;
-&lt;a class="link" href="https://datanodes.to/f7pinlq0ara7/BeingADIK-0.12.0-pc-Compressed.zip" target="_blank" rel="noopener"
-&gt;DATANODES&lt;/a&gt;
-&lt;a class="link" href="https://vik1ngfile.site/f/IH6U4Wl8oI" target="_blank" rel="noopener"
-&gt;VIKINGFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/57J8keoD" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;0.8.3&lt;/summary&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Compressed Update Only to v0.8.3&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;补丁&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
-&lt;a class="link" href="https://www.mediafire.com/file/tf2xz8qlhuoeb5a/BaDIK&amp;#43;from&amp;#43;v0.8.0&amp;#43;to&amp;#43;v0.8.3&amp;#43;Update&amp;#43;Only_MQ.7z/file" target="_blank" rel="noopener"
-&gt;MEDIAFIRE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/q1drx9Dj" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;
-&lt;a class="link" href="https://workupload.com/file/dyhRPVWS6H2" target="_blank" rel="noopener"
-&gt;WORKUPLOAD&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
-&lt;a class="link" href="https://www.mediafire.com/file/0brj945cxpqsqf1/BeingADIK-0.8.2-pc-compressed.zip/file" target="_blank" rel="noopener"
-&gt;MEDIAFIRE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/XBq4aEhG" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
-&lt;a class="link" href="https://www.mediafire.com/file/0brj945cxpqsqf1/BeingADIK-0.8.2-pc-compressed.zip/file" target="_blank" rel="noopener"
-&gt;MEDIAFIRE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/XBq4aEhG" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
-&lt;a class="link" href="https://www.mediafire.com/file/0brj945cxpqsqf1/BeingADIK-0.8.2-pc-compressed.zip/file" target="_blank" rel="noopener"
-&gt;MEDIAFIRE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/XBq4aEhG" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="画廊mod"&gt;画廊Mod
-&lt;/h2&gt;&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;画廊 Mod：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/GFCv0c" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放入&lt;strong&gt;game&lt;/strong&gt;文件夹中即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;画廊 Mod：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/GFCv0c" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;作弊Mod&lt;/strong&gt;或&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
-&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Documents/RenPy_Saves/com.luoqian.BeingADIKS1S2/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;作弊Mod&lt;/strong&gt;：将cheat_fix.rpy&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
-&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Documents/RenPy_Saves/com.luoqian.BeingADIKS1S2/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
-&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;画廊 Mod：&lt;/strong&gt;
-&lt;a class="link" href="https://gofile.io/d/GFCv0c" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;画廊Mod&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;将解压出的&lt;strong&gt;文件&lt;/strong&gt;放到以下路径：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
-&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;我的iPhone/Spark/games/BeingADIK/game
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;
