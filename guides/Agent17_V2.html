@@ -1,0 +1,1413 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>《Agent17》特工17 · V2.0 终极多功能模组 官方全景互动说明书</title>
+    <style>
+        :root {
+            --bg-primary: #080c14;
+            --bg-secondary: #0f172a;
+            --bg-card: #172136;
+            --bg-card-hover: #1f2d48;
+            --border-subtle: #24324c;
+            --border-focus: #ef4444;
+            --accent-red: #ef4444;
+            --accent-red-glow: rgba(239, 68, 68, 0.4);
+            --accent-blue: #38bdf8;
+            --accent-blue-glow: rgba(56, 189, 248, 0.35);
+            --accent-green: #10b981;
+            --accent-green-glow: rgba(16, 185, 129, 0.3);
+            --accent-gold: #f59e0b;
+            --text-main: #f8fafc;
+            --text-secondary: #94a3b8;
+            --text-muted: #64748b;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+            background-color: var(--bg-primary);
+            color: var(--text-main);
+            line-height: 1.6;
+            padding-bottom: 60px;
+            overflow-x: hidden;
+        }
+
+        /* Top Sticky Glassmorphism Navigation Bar */
+        .top-navbar {
+            position: sticky;
+            top: 0;
+            z-index: 999;
+            background: rgba(8, 12, 20, 0.82);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+            padding: 12px 24px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+        }
+
+        .nav-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 16px;
+        }
+
+        .brand-logo-area {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .avatar-frame {
+            width: 38px;
+            height: 38px;
+            border-radius: 50%;
+            padding: 2px;
+            background: linear-gradient(135deg, var(--accent-red), var(--accent-blue));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 0 10px var(--accent-red-glow);
+            flex-shrink: 0;
+        }
+
+        .avatar-img {
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            object-fit: cover;
+            background: #1e293b;
+        }
+
+        .avatar-fallback {
+            display: none;
+            font-size: 16px;
+            font-weight: 800;
+            color: #ffffff;
+        }
+
+        .brand-text {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .brand-title {
+            font-size: 15px;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+            color: #ffffff;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .brand-badge {
+            background: rgba(239, 68, 68, 0.2);
+            color: #f87171;
+            border: 1px solid var(--accent-red);
+            font-size: 11px;
+            font-weight: 800;
+            padding: 1px 6px;
+            border-radius: 4px;
+        }
+
+        .brand-sub {
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+
+        .nav-links {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .nav-btn {
+            background: #1e293b;
+            color: #cbd5e1;
+            border: 1px solid var(--border-subtle);
+            padding: 6px 14px;
+            border-radius: 6px;
+            font-size: 13px;
+            font-weight: 600;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            transition: all 0.2s ease;
+        }
+
+        .nav-btn:hover {
+            background: #334155;
+            color: #ffffff;
+            border-color: var(--accent-blue);
+            transform: translateY(-1px);
+        }
+
+        .nav-btn.primary {
+            background: linear-gradient(135deg, #b91c1c, #dc2626);
+            color: #ffffff;
+            border-color: var(--accent-red);
+            box-shadow: 0 2px 10px var(--accent-red-glow);
+        }
+
+        .nav-btn.primary:hover {
+            background: linear-gradient(135deg, #dc2626, #ef4444);
+            box-shadow: 0 4px 14px rgba(239, 68, 68, 0.6);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 28px auto 0 auto;
+            padding: 0 16px;
+        }
+
+        /* Hero Banner */
+        .hero {
+            background: radial-gradient(circle at top right, rgba(56, 189, 248, 0.12), transparent 45%),
+                        radial-gradient(circle at bottom left, rgba(239, 68, 68, 0.15), transparent 50%),
+                        var(--bg-secondary);
+            border: 1px solid rgba(239, 68, 68, 0.35);
+            border-radius: 18px;
+            padding: 44px 32px;
+            text-align: center;
+            position: relative;
+            box-shadow: 0 12px 36px rgba(0, 0, 0, 0.65), 0 0 24px var(--accent-red-glow);
+            margin-bottom: 28px;
+            animation: heroGlow 4s infinite alternate ease-in-out;
+        }
+
+        @keyframes heroGlow {
+            0% { border-color: rgba(239, 68, 68, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.6), 0 0 15px rgba(239, 68, 68, 0.2); }
+            100% { border-color: rgba(239, 68, 68, 0.55); box-shadow: 0 14px 40px rgba(0,0,0,0.7), 0 0 30px rgba(239, 68, 68, 0.4); }
+        }
+
+        .hero-pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(239, 68, 68, 0.18);
+            border: 1px solid var(--accent-red);
+            color: #ffffff;
+            font-size: 13px;
+            font-weight: 800;
+            padding: 5px 16px;
+            border-radius: 30px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            margin-bottom: 18px;
+            box-shadow: 0 2px 12px var(--accent-red-glow);
+        }
+
+        .pulse-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #ef4444;
+            box-shadow: 0 0 8px #ef4444;
+            animation: pulseAnimation 1.6s infinite;
+        }
+
+        .pulse-dot.green {
+            background: #10b981;
+            box-shadow: 0 0 8px #10b981;
+        }
+
+        @keyframes pulseAnimation {
+            0% { transform: scale(0.9); opacity: 0.7; }
+            50% { transform: scale(1.3); opacity: 1; }
+            100% { transform: scale(0.9); opacity: 0.7; }
+        }
+
+        .hero h1 {
+            font-size: 36px;
+            font-weight: 800;
+            margin-bottom: 14px;
+            letter-spacing: -0.5px;
+            background: linear-gradient(90deg, #ffffff 0%, #fed7aa 40%, #ffffff 80%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .hero p.lead {
+            font-size: 16.5px;
+            color: var(--text-secondary);
+            max-width: 880px;
+            margin: 0 auto 24px auto;
+            line-height: 1.7;
+        }
+
+        .feature-tags {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        .feature-tag {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--border-subtle);
+            padding: 6px 14px;
+            border-radius: 8px;
+            font-size: 13px;
+            color: #e2e8f0;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            transition: border-color 0.2s;
+        }
+
+        .feature-tag:hover {
+            border-color: var(--accent-blue);
+        }
+
+        /* Interactive Master Control Bar */
+        .control-bar {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-subtle);
+            border-radius: 14px;
+            padding: 14px 20px;
+            margin-bottom: 28px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 20px;
+            flex-wrap: wrap;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.35);
+        }
+
+        .view-mode-toggle {
+            display: flex;
+            align-items: center;
+            background: #090d16;
+            padding: 4px;
+            border-radius: 8px;
+            border: 1px solid var(--border-subtle);
+        }
+
+        .mode-btn {
+            background: transparent;
+            color: var(--text-muted);
+            border: none;
+            padding: 7px 16px;
+            border-radius: 6px;
+            font-size: 13.5px;
+            font-weight: 700;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            transition: all 0.2s ease;
+        }
+
+        .mode-btn:hover {
+            color: #ffffff;
+        }
+
+        .mode-btn.active {
+            background: linear-gradient(135deg, #1e293b, #334155);
+            color: #ffffff;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .search-box-wrap {
+            flex: 1;
+            min-width: 280px;
+            max-width: 480px;
+            position: relative;
+        }
+
+        .search-box-wrap input {
+            width: 100%;
+            background: #090d16;
+            border: 1px solid var(--border-subtle);
+            border-radius: 8px;
+            padding: 9px 36px 9px 36px;
+            color: #ffffff;
+            font-size: 14px;
+            outline: none;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+
+        .search-box-wrap input:focus {
+            border-color: var(--accent-red);
+            box-shadow: 0 0 10px var(--accent-red-glow);
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-muted);
+            font-size: 14px;
+            pointer-events: none;
+        }
+
+        .search-clear {
+            position: absolute;
+            right: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-muted);
+            font-size: 15px;
+            cursor: pointer;
+            display: none;
+        }
+
+        .search-clear:hover {
+            color: #ffffff;
+        }
+
+        /* Section Titles */
+        .section-title {
+            font-size: 22px;
+            font-weight: 800;
+            margin: 36px 0 16px 0;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            color: #ffffff;
+            border-bottom: 2px solid #1e293b;
+            padding-bottom: 10px;
+        }
+
+        .section-title .title-left {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        /* Comparison Table */
+        .table-wrap {
+            overflow-x: auto;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-subtle);
+            border-radius: 14px;
+            margin-bottom: 32px;
+            box-shadow: 0 6px 24px rgba(0, 0, 0, 0.4);
+        }
+
+        table.compare-table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+            font-size: 14px;
+        }
+
+        table.compare-table th, table.compare-table td {
+            padding: 14px 18px;
+            border-bottom: 1px solid #1a2438;
+        }
+
+        table.compare-table th {
+            background: #141c2e;
+            color: #e2e8f0;
+            font-weight: 700;
+        }
+
+        table.compare-table tr:hover {
+            background: rgba(255, 255, 255, 0.025);
+        }
+
+        .badge-free {
+            background: #334155;
+            color: #94a3b8;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+
+        .badge-vip {
+            background: rgba(239, 68, 68, 0.15);
+            border: 1px solid var(--accent-red);
+            color: #f87171;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 700;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        /* System Navigation Tabs */
+        .tab-controls {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+        .tab-btn {
+            background: #131d2e;
+            color: #94a3b8;
+            border: 1px solid var(--border-subtle);
+            padding: 12px 22px;
+            border-radius: 10px;
+            font-size: 15px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.25s ease;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .tab-btn:hover {
+            background: #1f2b42;
+            color: #ffffff;
+            border-color: var(--accent-blue);
+        }
+
+        .tab-btn.active {
+            background: linear-gradient(135deg, #b91c1c, #ef4444);
+            color: #ffffff;
+            border-color: var(--accent-red);
+            box-shadow: 0 4px 16px var(--accent-red-glow);
+        }
+
+        .tab-content {
+            display: none;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-subtle);
+            border-radius: 16px;
+            padding: 28px;
+            margin-bottom: 32px;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+        }
+
+        .tab-content.active {
+            display: block;
+            animation: fadeIn 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(8px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Feature Cards Grid */
+        .grid-2 {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+            gap: 18px;
+            margin-top: 18px;
+        }
+
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 18px;
+            margin-top: 18px;
+        }
+
+        .card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-subtle);
+            border-radius: 12px;
+            padding: 20px 22px;
+            transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+            position: relative;
+        }
+
+        .card:hover {
+            transform: translateY(-4px);
+            border-color: var(--accent-blue);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5), 0 0 16px var(--accent-blue-glow);
+        }
+
+        .card.featured {
+            border-color: rgba(239, 68, 68, 0.4);
+            background: linear-gradient(145deg, #172136, #1d263b);
+        }
+
+        .card.featured:hover {
+            border-color: var(--accent-red);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5), 0 0 16px var(--accent-red-glow);
+        }
+
+        .card-top {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 8px;
+        }
+
+        .card-header {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 17.5px;
+            font-weight: 700;
+            color: #ffffff;
+        }
+
+        .expand-toggle {
+            background: rgba(255, 255, 255, 0.06);
+            color: var(--text-secondary);
+            border: 1px solid var(--border-subtle);
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-size: 11.5px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .expand-toggle:hover {
+            background: rgba(255, 255, 255, 0.15);
+            color: #ffffff;
+        }
+
+        .card-punchline {
+            font-size: 14px;
+            color: var(--accent-blue);
+            font-weight: 600;
+            margin-bottom: 6px;
+        }
+
+        .card-desc {
+            font-size: 14px;
+            color: var(--text-secondary);
+            line-height: 1.55;
+        }
+
+        .card-details {
+            margin-top: 12px;
+            padding-top: 10px;
+            border-top: 1px dashed rgba(255, 255, 255, 0.08);
+            transition: all 0.25s ease;
+        }
+
+        .card-details ul {
+            padding-left: 18px;
+            font-size: 13.5px;
+            color: #cbd5e1;
+        }
+
+        .card-details ul li {
+            margin-bottom: 5px;
+        }
+
+        /* Compact Mode Override */
+        body.mode-compact .card-details {
+            display: none;
+        }
+
+        body.mode-compact .card-details.manually-expanded {
+            display: block;
+        }
+
+        /* Hotkey Tag & Copy Micro-interaction */
+        .hotkey-tag {
+            background: #090d16;
+            border: 1px solid #334155;
+            padding: 3px 8px;
+            border-radius: 5px;
+            font-family: Consolas, Monaco, "Courier New", monospace;
+            font-size: 13px;
+            color: #38bdf8;
+            font-weight: bold;
+            cursor: pointer;
+            display: inline-block;
+            transition: all 0.2s ease;
+        }
+
+        .hotkey-tag:hover {
+            border-color: var(--accent-blue);
+            box-shadow: 0 0 8px var(--accent-blue-glow);
+            transform: scale(1.05);
+        }
+
+        /* Toast Notification */
+        .toast {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            background: linear-gradient(135deg, #059669, #10b981);
+            color: #ffffff;
+            font-size: 14px;
+            font-weight: 700;
+            padding: 10px 20px;
+            border-radius: 8px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
+            display: none;
+            z-index: 10000;
+            animation: toastIn 0.25s ease;
+        }
+
+        @keyframes toastIn {
+            from { transform: translateY(20px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+
+        /* Installation Steps */
+        .steps {
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+            margin-top: 16px;
+        }
+
+        .step-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-subtle);
+            border-radius: 12px;
+            padding: 18px 22px;
+            display: flex;
+            align-items: flex-start;
+            gap: 16px;
+            transition: border-color 0.2s;
+        }
+
+        .step-item:hover {
+            border-color: var(--accent-red);
+        }
+
+        .step-num {
+            background: linear-gradient(135deg, #b91c1c, #ef4444);
+            color: #ffffff;
+            font-weight: 800;
+            font-size: 16px;
+            width: 34px;
+            height: 34px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            box-shadow: 0 2px 10px var(--accent-red-glow);
+        }
+
+        .step-body h4 {
+            font-size: 16px;
+            color: #ffffff;
+            margin-bottom: 4px;
+        }
+
+        .step-body p {
+            font-size: 14px;
+            color: var(--text-secondary);
+        }
+
+        /* Footer */
+        footer {
+            margin-top: 56px;
+            padding: 32px 0;
+            border-top: 1px solid #1e293b;
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 14px;
+        }
+
+        footer a {
+            color: var(--accent-red);
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Top Sticky Glassmorphism Navigation Bar -->
+<header class="top-navbar">
+    <div class="nav-inner">
+        <a href="https://luoqian29.github.io/" target="_blank" class="brand-logo-area" title="访问落谦酱的博客主页">
+            <div class="avatar-frame">
+                <img src="https://luoqian29.github.io/img/avatar.png" alt="落谦" class="avatar-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                <span class="avatar-fallback">落</span>
+            </div>
+            <div class="brand-text">
+                <div class="brand-title">
+                    落谦酱 · 特工档案库
+                    <span class="brand-badge">V2.0 VIP</span>
+                </div>
+                <div class="brand-sub">luoqian29.github.io 官方发行</div>
+            </div>
+        </a>
+
+        <div class="nav-links">
+            <a href="https://luoqian29.github.io/" target="_blank" class="nav-btn">🏠 博客首页</a>
+            <a href="https://luoqian29.github.io/p/agent17/" target="_blank" class="nav-btn">📖 Agent17 专帖</a>
+            <a href="https://afdian.com/p/0a4ad47cb2be11f1a52a52540025c377" target="_blank" class="nav-btn primary">☕ 爱发电订阅</a>
+        </div>
+    </div>
+</header>
+
+<div class="container">
+
+    <!-- Hero Banner -->
+    <div class="hero">
+        <div class="hero-pill">
+            <span class="pulse-dot"></span>
+            AGENT17 MULTI-MOD V2.0 FLAGSHIP
+        </div>
+        <h1>《Agent17》特工17 · V2.0 终极多功能模组</h1>
+        <p class="lead">专为视觉小说神作《Agent17》打造的工业级终极扩展包。由 <strong>落谦 (luoqian)</strong> 与 Google DeepMind 智能体 <strong>Antigravity (Gemini 3.8 Flash)</strong> 深度结对研发。全新原生右侧闪电抽屉、全城 29 女主在场雷达、52首黑胶随身听与名场面剧情影院全面加持！</p>
+        <div class="feature-tags">
+            <div class="feature-tag">🛡️ 100% 零修改原厂脚本</div>
+            <div class="feature-tag">💾 0 存档污染 / 沙盒隔离</div>
+            <div class="feature-tag">🌐 简繁英三端完全汉化 (1148词条)</div>
+            <div class="feature-tag">⚡ 即插即用 / 即开即玩</div>
+            <div class="feature-tag">🔍 Ren'Py 8.5.2 官方 0 错误 0 警告</div>
+        </div>
+    </div>
+
+    <!-- Interactive Master Control Bar: Mode Toggle + Live Search -->
+    <div class="control-bar">
+        <div class="view-mode-toggle">
+            <button class="mode-btn active" id="btn-detailed-mode" onclick="setViewMode('detailed')">
+                <span>🔍</span> 深度图解模式
+            </button>
+            <button class="mode-btn" id="btn-compact-mode" onclick="setViewMode('compact')">
+                <span>⚡</span> 极简速览模式 (一目了然)
+            </button>
+        </div>
+
+        <div class="search-box-wrap">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="searchInput" placeholder="快速检索功能 (如: 拼酒 / 52首 / 雷达 / 露比 / 金币 / 抽屉)..." oninput="handleSearch()">
+            <span class="search-clear" id="searchClear" onclick="clearSearch()">✕</span>
+        </div>
+    </div>
+
+    <!-- Section 1: V1.0 vs V2.0 Comparison -->
+    <div class="section-title">
+        <div class="title-left">
+            <span style="font-size: 24px;">⚖️</span>
+            <h2>版本对比：V1.0 公开版 VS V2.0 终极订阅版</h2>
+        </div>
+        <span style="font-size: 13px; color: var(--accent-blue); font-weight: 600;">💎 尊享升级·一目了然</span>
+    </div>
+
+    <div class="table-wrap">
+        <table class="compare-table">
+            <thead>
+                <tr>
+                    <th style="width: 22%;">核心模块 / 功能特性</th>
+                    <th style="width: 38%;">🆓 V1.0 公开基础版</th>
+                    <th style="width: 40%;">💎 V2.0 终极旗舰版 (当前版本)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>右侧边栏随身抽屉</strong></td>
+                    <td><span class="badge-free">❌ 无</span> 仅能快捷键呼出大控制台</td>
+                    <td><span class="badge-vip">✅ 原厂第4槽位闪电抽屉</span> 像素级原生灰底框对齐，深灰圆角卡片质感</td>
+                </tr>
+                <tr>
+                    <td><strong>全城女主在场雷达</strong></td>
+                    <td><span class="badge-free">❌ 无</span> 需手动寻找女角</td>
+                    <td><span class="badge-vip">✅ 29 位全女角实时雷达</span> 动态透视在场女角，支持 1 秒一键瞬移偶遇</td>
+                </tr>
+                <tr>
+                    <td><strong>随身心智微调注入</strong></td>
+                    <td><span class="badge-free">❌ 无</span> 必须进控制台修改</td>
+                    <td><span class="badge-vip">✅ 极速随身注入</span> 近旁女角智能感知，随身 +10 好感 / 999/99/5 满额攻略</td>
+                </tr>
+                <tr>
+                    <td><strong>全城 52 首黑胶随身听</strong></td>
+                    <td><span class="badge-free">❌ 无</span> 仅游戏场景原生背景音</td>
+                    <td><span class="badge-vip">✅ Cyber Walkman 52 首点歌台</span> 解锁场景锁定，全城漫步自由随身点歌</td>
+                </tr>
+                <tr>
+                    <td><strong>名场面剧情发令枪</strong></td>
+                    <td><span class="badge-free">❌ 基础跳转</span> 容易卡前置条件</td>
+                    <td><span class="badge-vip">✅ 42 幕核心名场面高潮直达</span> 免跑繁琐前置任务，直享最精彩演出</td>
+                </tr>
+                <tr>
+                    <td><strong>3D 过场动画影院</strong></td>
+                    <td><span class="badge-free">❌ 无</span></td>
+                    <td><span class="badge-vip">✅ 24 部 3D CG 高清电影院</span> 沙盒隔离执行，零存档污染顺畅观影</td>
+                </tr>
+                <tr>
+                    <td><strong>剧情分支推演树</strong></td>
+                    <td><span class="badge-free">❌ 无</span> 容易陷入坏路线死锁</td>
+                    <td><span class="badge-vip">✅ 智能倾向拨正仪</span> 艾丽卡/达娜/诺拉关键路线倾向一键化解纠正</td>
+                </tr>
+                <tr>
+                    <td><strong>特工手机通讯中枢</strong></td>
+                    <td><span class="badge-free">❌ 仅原版手机</span></td>
+                    <td><span class="badge-vip">✅ 全员即时短信唤醒</span> 气泡短讯查看器 + 机密邮件档案解密</td>
+                </tr>
+                <tr>
+                    <td><strong>拍立得微型相簿</strong></td>
+                    <td><span class="badge-free">❌ 仅卧室相框</span></td>
+                    <td><span class="badge-vip">✅ 58 张加密微型彩图相纸</span> 随身相册图鉴随时翻阅欣赏</td>
+                </tr>
+                <tr>
+                    <td><strong>万能道具军火库</strong></td>
+                    <td><span class="badge-free">⚠️ 道具散落在不同页面</span></td>
+                    <td><span class="badge-vip">✅ 全归拢收纳至 Tab 1</span> 超跑、相机、秘籍、护甲、内裤集中补给</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Section 2: Interactive Feature Guide -->
+    <div class="section-title">
+        <div class="title-left">
+            <span style="font-size: 24px;">🎮</span>
+            <h2>三大核心系统深度图解与使用指南</h2>
+        </div>
+        <span style="font-size: 13px; color: var(--text-muted);">点击卡片右上角可展开/收起详情</span>
+    </div>
+
+    <!-- Tab Buttons -->
+    <div class="tab-controls">
+        <button class="tab-btn active" onclick="switchTab(0)">⚡ 原生右侧随身抽屉 (日常 90% 场景)</button>
+        <button class="tab-btn" onclick="switchTab(1)">🎛️ 【焚诀】深度沙盒控制台 (7大标签页)</button>
+        <button class="tab-btn" onclick="switchTab(2)">🌸 主菜单外置双模画廊 (459部演出)</button>
+    </div>
+
+    <!-- Tab 1: Slide-Out Drawer -->
+    <div class="tab-content active" id="tab-0">
+        <h3 style="color: #ffffff; font-size: 20px; margin-bottom: 8px;">⚡ 原生右侧边栏第4槽位随身抽屉 (`Screen_InventoryCheat`)</h3>
+        <p style="color: var(--text-secondary); margin-bottom: 16px;">
+            点击游戏主界面右侧原生工具栏第 4 个槽位的<strong>【闪电图标】</strong>即可平滑呼出。专为游戏日常 90% 的高频操作量身打造，原生深灰底框像素级对齐，原厂深灰圆角卡片质感，绝不遮挡游戏视线！
+        </p>
+
+        <div class="grid-2">
+            <div class="card" data-keywords="时区 时间 早晨 中午 傍晚 夜间 深夜 时区瞬切">
+                <div class="card-top">
+                    <div class="card-header"><span>⏰ 5 段时区即时瞬切</span></div>
+                    <button class="expand-toggle" onclick="toggleCard(this)">折叠详情</button>
+                </div>
+                <div class="card-punchline">早/中/下午/傍晚/夜间 一键瞬切，光影与NPC全自动同步</div>
+                <p class="card-desc">摆脱反复睡觉跳过时间的繁琐体验，随时调整六角城时间。</p>
+                <div class="card-details">
+                    <ul>
+                        <li>自动同步城市自然采光与光影氛围；</li>
+                        <li>全城 NPC 站位与事件触发点瞬间刷新；</li>
+                        <li>告别频繁睡觉刷时段的繁琐体验。</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card" data-keywords="传送 瞬移 场景 卧室 学校 咖啡厅 豪宅 露比 快速传送">
+                <div class="card-top">
+                    <div class="card-header"><span>🚀 4 大高频场景直通传送</span></div>
+                    <button class="expand-toggle" onclick="toggleCard(this)">折叠详情</button>
+                </div>
+                <div class="card-punchline">家、高中、商街咖啡厅、露比豪宅 2x2 网格秒达</div>
+                <p class="card-desc">整合最常跑图的4大核心据点，点击后自动顺滑收起抽屉面板。</p>
+                <div class="card-details">
+                    <ul>
+                        <li>🏠 <strong>主角家卧室</strong>：随身返回安全屋；</li>
+                        <li>🏫 <strong>圣十字高中</strong>：主走廊核心触发区；</li>
+                        <li>🏙️ <strong>市中心商街</strong>：咖啡厅与各类商店；</li>
+                        <li>🏰 <strong>露比豪华庄园</strong>：豪宅大厅直通。</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card" data-keywords="冷却 刷新 CD 限制 重置 循环约会 解冻 防卡死">
+                <div class="card-top">
+                    <div class="card-header"><span>🔄 每日冷却与限制一键清零</span></div>
+                    <button class="expand-toggle" onclick="toggleCard(this)">折叠详情</button>
+                </div>
+                <div class="card-punchline">清空全图 TodayOnce 限制，同日无限次触发约会与事件</div>
+                <p class="card-desc">突破单日剧情锁，不需要睡过整天，同一个下午即可连续攻略剧情。</p>
+                <div class="card-details">
+                    <ul>
+                        <li>一键重置全地图所有“每日限次一次”的事件锁；</li>
+                        <li>无需睡觉跳过天数，同一天即可连续触发多次约会与剧情；</li>
+                        <li>附带紧急防卡死与解冻自愈功能。</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card" data-keywords="雷达 女主 29位 在场 行踪 偶遇 瞬移 找人">
+                <div class="card-top">
+                    <div class="card-header"><span>🧭 29 位女主角实时行踪雷达</span></div>
+                    <button class="expand-toggle" onclick="toggleCard(this)">折叠详情</button>
+                </div>
+                <div class="card-punchline">动态透视在场女角色，点击任意名片直接传送到她身旁</div>
+                <p class="card-desc">全城 29 位女主角（19 核心 + 10 支线）全天候动态透视感知。</p>
+                <div class="card-details">
+                    <ul>
+                        <li>智能检测当前时段具体身处哪个房间（如“📍 学校 - 走廊”）；</li>
+                        <li>支持【🟢 当前在场】与【📋 全员名册】一键切换；</li>
+                        <li><strong>点击任意女主角名片，瞬间传送到她身边！</strong></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="card featured" style="margin-top: 18px;" data-keywords="好感 顺从 心情 心智 攻略 锁定 随身注入 999">
+            <div class="card-top">
+                <div class="card-header" style="color: #f87171;"><span>💖 近旁女主专属随身心智注入</span></div>
+                <button class="expand-toggle" onclick="toggleCard(this)">折叠详情</button>
+            </div>
+            <div class="card-punchline">智能感知同房间女角色，随身秒加好感或一键满额攻略</div>
+            <p class="card-desc">随身抽屉能智能感知当前房间的女主角，并提供即时调控：</p>
+            <div class="card-details">
+                <ul>
+                    <li><strong>[ 💖 好感 +10 ]</strong>：轻量微调好感度；</li>
+                    <li><strong>[ 👑 好感全满 ]</strong>：一键拉满至完全攻略状态 (好感 999 / 顺从 99 / 心情 5)；</li>
+                    <li><strong>[ 🛡️ 解除锁定 ]</strong>：秒解当前女主的冷却与剧情条件卡点；</li>
+                    <li>若当前房间无人，自动切换为【全员好感全满】与【全员顺从全满】兜底大卡片！</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tab 2: Master Console -->
+    <div class="tab-content" id="tab-1">
+        <h3 style="color: #ffffff; font-size: 20px; margin-bottom: 8px;">🎛️ 【焚诀】深度沙盒工作台 (1560x920 完整控制台)</h3>
+        <p style="color: var(--text-secondary); margin-bottom: 16px;">
+            通过按键 <span class="hotkey-tag" onclick="copyHotkey(this)" title="点击复制快捷键">~</span> 或 <span class="hotkey-tag" onclick="copyHotkey(this)" title="点击复制快捷键">F10</span> 或 <span class="hotkey-tag" onclick="copyHotkey(this)" title="点击复制快捷键">H</span> 随时呼出。专为深度定制、物资补给与宏观剧情调度设计：
+        </p>
+
+        <div class="grid-3">
+            <div class="card" data-keywords="金币 资产 道具 礼包 军火库 超跑 相机 护甲 内裤 钥匙 药水 矿石">
+                <div class="card-top">
+                    <div class="card-header"><span>💰 资源与道具</span></div>
+                    <button class="expand-toggle" onclick="toggleCard(this)">折叠详情</button>
+                </div>
+                <div class="card-punchline">一键天神毕业包 + 归拢式特工万能军火库</div>
+                <p class="card-desc">金币(999k)、特工三维(99,999)、机车、相机、被动书、素材集中供给。</p>
+                <div class="card-details">
+                    <ul>
+                        <li><strong>一键天神毕业大礼包</strong>（资产/属性/神装一键毕业）；</li>
+                        <li>金币资产 (+1k/+10k/+100k/999k/归零)；</li>
+                        <li>特工点数 (铁拳/黑客/行动力各 99,999)；</li>
+                        <li><strong>万能军火库</strong>：机车/针孔相机/秘籍书/护甲/内裤/拍立得集中补给；</li>
+                        <li>4大分类素材包 x99 一键补给。</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card" data-keywords="时间 日程 快进 天数 星期 冷却">
+                <div class="card-top">
+                    <div class="card-header"><span>⏰ 时间与日程</span></div>
+                    <button class="expand-toggle" onclick="toggleCard(this)">折叠详情</button>
+                </div>
+                <div class="card-punchline">5段时区精准穿梭 + 日程整周宏观跳跃</div>
+                <p class="card-desc">精细调校早中晚时分，或一键快进1天日常结算、7天整周跳跃。</p>
+                <div class="card-details">
+                    <ul>
+                        <li>5段时区精细穿梭（早/中/晚/夜/深夜）；</li>
+                        <li>日程宏观推进（+1天日常结算、+7天整周快进）；</li>
+                        <li>每日限次与冷却一键清零（无限循环触发同日事件）。</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card" data-keywords="属性 魅力 生命 锁血 攻击 防御 步进 还原 技能 血亲">
+                <div class="card-top">
+                    <div class="card-header"><span>⚡ 状态与战力</span></div>
+                    <button class="expand-toggle" onclick="toggleCard(this)">折叠详情</button>
+                </div>
+                <div class="card-punchline">魅力999无视门槛 + 阶梯步进器与安全还原</div>
+                <p class="card-desc">主角天神属性秒杀全场，或精准微调(+1/+5/+20/+100)，血亲热切换。</p>
+                <div class="card-details">
+                    <ul>
+                        <li>主角天神四维：魅力 999、HP 锁血、精力 6/6、攻防秒杀；</li>
+                        <li><strong>四维阶梯步进微调器</strong>：步进 +1/+5/+20/+100，或安全还原常人 10 点；</li>
+                        <li>特工全技能一键升满 Lv5；</li>
+                        <li>官方血亲分支补丁安全热切换。</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card" data-keywords="情报 遥测 音乐 随身听 52首 点歌台 唱片 衣橱 换装 导航">
+                <div class="card-top">
+                    <div class="card-header"><span>🏆 图鉴与情报</span></div>
+                    <button class="expand-toggle" onclick="toggleCard(this)">折叠详情</button>
+                </div>
+                <div class="card-punchline">全城情报遥测大盘 + 52首黑胶原声随身听</div>
+                <p class="card-desc">拍立得/黑胶/内裤/女角/密码 5维进度大盘，免场景锁定随身点歌。</p>
+                <div class="card-details">
+                    <ul>
+                        <li><strong>全城情报遥测大盘</strong>：拍立得/唱片/内裤/女角/密码 5维进度与特工评级勋章；</li>
+                        <li><strong>Cyber Walkman 52 首原声点歌台</strong>：全城漫步免场景锁定播放，6大流派分类过滤；</li>
+                        <li>13位女主角专属造型与泳装热切；</li>
+                        <li>快速穿梭导航直通档案。</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card" data-keywords="好感 顺从 心情 极乐 女主 29位 心灵 征服 罗盘 命运">
+                <div class="card-top">
+                    <div class="card-header"><span>❤️ 命运与好感</span></div>
+                    <button class="expand-toggle" onclick="toggleCard(this)">折叠详情</button>
+                </div>
+                <div class="card-punchline">29位女主双轨分类 + 好感/顺从/极乐三维滑块</div>
+                <p class="card-desc">19核心+10支线女角心灵矩阵，一键全员999/99/5完全征服，11组红蓝罗盘。</p>
+                <div class="card-details">
+                    <ul>
+                        <li>29位全女角双轨分类（19核心 + 10支线）；</li>
+                        <li>好感/顺从/极乐心情三维滑块精准调控；</li>
+                        <li>一键全员好感 999、顺从 99、极乐 5 完全征服；</li>
+                        <li>11组红蓝卡命运罗盘任意拨正。</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card" data-keywords="小游戏 拼图 拼酒 地下室 审讯 钓鱼 密码锁 传送 空间 任意门 圣诞 监狱">
+                <div class="card-top">
+                    <div class="card-header"><span>🎮 小游戏与传送</span></div>
+                    <button class="expand-toggle" onclick="toggleCard(this)">折叠详情</button>
+                </div>
+                <div class="card-punchline">全小游戏天神秒胜 + 13大核心场景空间任意门</div>
+                <p class="card-desc">TB拼图秒解、拼酒9999血、审讯恐惧100%，空间任意门直达全城。</p>
+                <div class="card-details">
+                    <ul>
+                        <li><strong>全小游戏秒解</strong>：TB_Puzzle拼图秒拼、拼酒9999血、地下室审讯恐惧100%、钓鱼秒钓、密码锁秒开；</li>
+                        <li>空间任意门：全城 13 大核心场景瞬移（带 say 状态守卫）；</li>
+                        <li>圣诞狂欢与女子监狱专属时空穿梭。</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="card featured" style="margin-top: 18px;" data-keywords="发令枪 电影院 影院 3D 过场 名场面 推演树 短信 邮件 拍立得 相册 通讯">
+            <div class="card-top">
+                <div class="card-header" style="color: #38bdf8;"><span>🎬 影视演播厅与绝密通讯中枢 (Tab 7 双轨架构)</span></div>
+                <button class="expand-toggle" onclick="toggleCard(this)">折叠详情</button>
+            </div>
+            <div class="card-punchline">42幕核心名场面高潮直达 + 24部3D电影 + 特工短信邮件与拍立得相册</div>
+            <p class="card-desc">全新重构为两大清晰主题大格局，告别狭窄挤压：</p>
+            <div class="card-details">
+                <ul>
+                    <li><strong>【🎬 影视与剧情演播厅】</strong>：
+                        <ul>
+                            <li><strong>随身剧情发令枪</strong>：直通 42 幕全女主角核心高潮名场面，免跑任务即刻观摩；</li>
+                            <li><strong>3D 过场动画影院</strong>：24 部高清 3D CG 电影零存档污染独立播放；</li>
+                            <li><strong>分支推演树</strong>：艾丽卡/达娜/诺拉关键路线倾向一键化解纠偏。</li>
+                        </ul>
+                    </li>
+                    <li><strong>【📡 特工绝密通讯中枢】</strong>：
+                        <ul>
+                            <li><strong>特工手机通讯簿</strong>：全员即时短信电话总控；</li>
+                            <li><strong>短信与机密邮件</strong>：交互式气泡短信查看器与解密邮件档案；</li>
+                            <li><strong>拍立得加密相簿</strong>：58 张微型彩图相纸与相框图鉴，随身翻阅。</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tab 3: Standalone Gallery -->
+    <div class="tab-content" id="tab-2">
+        <h3 style="color: #ffffff; font-size: 20px; margin-bottom: 8px;">🌸 主菜单独立全景画廊系统 (`mod_gallery/`)</h3>
+        <p style="color: var(--text-secondary); margin-bottom: 16px;">
+            在游戏主开始菜单原生注入【画廊 (Gallery)】实体按钮，局内按 <span class="hotkey-tag" onclick="copyHotkey(this)" title="点击复制快捷键">G</span> 或 <span class="hotkey-tag" onclick="copyHotkey(this)" title="点击复制快捷键">F9</span> 随时呼出。无需加载或创建任何游戏存档，开机即看！
+        </p>
+
+        <div class="grid-2">
+            <div class="card" data-keywords="画廊 剧情 42幕 回放 红卡 蓝卡 分歧 沙盒">
+                <div class="card-top">
+                    <div class="card-header"><span>🎬 42 幕核心剧情沙盒回放</span></div>
+                    <button class="expand-toggle" onclick="toggleCard(this)">折叠详情</button>
+                </div>
+                <div class="card-punchline">16位女角色 42 段核心高潮剧情与红蓝卡分歧回放</div>
+                <p class="card-desc">沙盒隔离执行机制，临时作用域与安全 Callback，零污染主线进度。</p>
+                <div class="card-details">
+                    <ul>
+                        <li>露比、诺拉、达娜、艾米丽、克洛伊、冰女王、艾丽卡、海伦、艾尔莎、樱花等全员收录；</li>
+                        <li><strong>沙盒隔离执行机制</strong>：内置临时作用域与安全 Callback，看完退出 0 污染主线进度；</li>
+                        <li>随心所欲重温所有红卡与蓝卡分支结局。</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card" data-keywords="画廊 动画 459部 演出 全屏 循环 动作">
+                <div class="card-top">
+                    <div class="card-header"><span>🎞️ 459 部原厂全量动态演出</span></div>
+                    <button class="expand-toggle" onclick="toggleCard(this)">折叠详情</button>
+                </div>
+                <div class="card-punchline">31位角色 459 段动态演出即点即看，支持按键切段</div>
+                <p class="card-desc">全屏沉浸观影，键盘方向键快速切上一段/下一段，Esc 退出。</p>
+                <div class="card-details">
+                    <ul>
+                        <li>支持全屏沉浸式观影模式；</li>
+                        <li>按键盘 <span class="hotkey-tag" onclick="copyHotkey(this)">←</span> / <span class="hotkey-tag" onclick="copyHotkey(this)">→</span> 键即可无缝切换上一段 / 下一段演出；</li>
+                        <li>原厂纸质 Modern Paper 风格控制条，点击空白区域或按 Esc 瞬间返回。</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="card" style="margin-top: 18px;" data-keywords="双语 翻译 方块字 乱码 英文 中文 JSON">
+            <div class="card-top">
+                <div class="card-header"><span>🌐 双语自适应 VFS 引擎</span></div>
+                <button class="expand-toggle" onclick="toggleCard(this)">折叠详情</button>
+            </div>
+            <div class="card-punchline">中英独立 JSON 架构，彻底消除海外方块字乱码</div>
+            <p class="card-desc">中文环境自动匹配全中文，英文环境自动匹配全英文，无方括号崩溃。</p>
+            <div class="card-details">
+                <ul>
+                    <li>中文语言环境下自动加载纯正中文剧名与动作描述；</li>
+                    <li>切换至英文环境时自动动态加载纯英版 JSON，<strong>彻底根除英文玩家常见的方块字 (Tofu Font) 乱码缺陷</strong>；</li>
+                    <li>施加了 <code>substitute False</code> 文本盾，彻底免疫 Ren'Py 方括号引发的 Python 语法崩溃。</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Section 3: Installation Guide -->
+    <div class="section-title">
+        <div class="title-left">
+            <span style="font-size: 24px;">🚀</span>
+            <h2>3 步极速安装与使用指南</h2>
+        </div>
+        <span style="font-size: 13px; color: var(--accent-green); font-weight: 700;">即插即用 · 0 门槛</span>
+    </div>
+
+    <div class="steps">
+        <div class="step-item">
+            <div class="step-num">1</div>
+            <div class="step-body">
+                <h4>下载并解压整合包</h4>
+                <p>下载解压 <code>Agent17-v0.26.10-luoqian-Mult-Mod-v2.0.zip</code>，解压后会得到一个 <strong><code>game</code></strong> 文件夹与一份说明文档。</p>
+            </div>
+        </div>
+
+        <div class="step-item">
+            <div class="step-num">2</div>
+            <div class="step-body">
+                <h4>复制覆盖到游戏根目录</h4>
+                <p>将解压出来的 <strong><code>game</code></strong> 文件夹直接拖入你的游戏根目录（即含有 <code>Agent17.exe</code> 的目录），当系统提示“是否覆盖/合并”时，选择<strong>“全部替换 / 合并”</strong>。</p>
+            </div>
+        </div>
+
+        <div class="step-item">
+            <div class="step-num">3</div>
+            <div class="step-body">
+                <h4>启动游戏，即刻享受</h4>
+                <p>启动游戏即可！在主菜单可直接点击【画廊】欣赏全景影音；进入存档后点击右侧工具栏闪电图标即可呼出随身抽屉，随时随地开启核武级游戏体验！</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Section 4: Hotkeys Summary -->
+    <div class="section-title">
+        <div class="title-left">
+            <span style="font-size: 24px;">⌨️</span>
+            <h2>快捷键与操作速查表</h2>
+        </div>
+        <span style="font-size: 13px; color: var(--text-muted);">点击任意按键标签即可一键复制快捷键</span>
+    </div>
+
+    <div class="table-wrap">
+        <table class="compare-table">
+            <thead>
+                <tr>
+                    <th style="width: 25%;">界面 / 功能</th>
+                    <th style="width: 25%;">入口 / 快捷键 (点击复制)</th>
+                    <th style="width: 50%;">功能说明</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>原生随身闪电抽屉</strong></td>
+                    <td>点击右侧栏第4槽位<strong>【闪电图标】</strong></td>
+                    <td>随时随地极速呼出右侧抽屉（时段、瞬移、CD刷新、29女主雷达、随身心智注入）</td>
+                </tr>
+                <tr>
+                    <td><strong>【焚诀】深度沙盒大控制台</strong></td>
+                    <td>
+                        <span class="hotkey-tag" onclick="copyHotkey(this)">~</span> 或 
+                        <span class="hotkey-tag" onclick="copyHotkey(this)">F10</span> 或 
+                        <span class="hotkey-tag" onclick="copyHotkey(this)">H</span>
+                    </td>
+                    <td>全局呼出 1560x920 完整修改终端，涵盖 7 大顶级标签页宏观控制</td>
+                </tr>
+                <tr>
+                    <td><strong>主菜单独立画廊</strong></td>
+                    <td>主菜单点击<strong>【画廊】</strong> / 局内按 <span class="hotkey-tag" onclick="copyHotkey(this)">G</span> 或 <span class="hotkey-tag" onclick="copyHotkey(this)">F9</span></td>
+                    <td>459 段动态动画演出与 42 幕核心剧情沙盒回放</td>
+                </tr>
+                <tr>
+                    <td><strong>动画上一段 / 下一段</strong></td>
+                    <td>
+                        <span class="hotkey-tag" onclick="copyHotkey(this)">←</span> / 
+                        <span class="hotkey-tag" onclick="copyHotkey(this)">→</span> 方向键
+                    </td>
+                    <td>在动态演出全屏播放器中即时无缝切换动作分段</td>
+                </tr>
+                <tr>
+                    <td><strong>快速安全返回 / 退出</strong></td>
+                    <td><span class="hotkey-tag" onclick="copyHotkey(this)">Esc</span> 键 或 点击外部暗黑遮罩</td>
+                    <td>退出当前回放、关闭画廊、或关闭控制台与抽屉面板</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Toast for Click-to-copy -->
+    <div class="toast" id="toast">快捷键已复制到剪贴板！</div>
+
+    <!-- Footer -->
+    <footer>
+        <p>🎮 <strong>《Agent17》 Multifunction Mod v2.0 (终极旗舰版)</strong></p>
+        <p style="margin-top: 8px;">
+            Mod 开发者：<a href="https://luoqian29.github.io/" target="_blank">落谦 (luoqian)</a> | 
+            AI 结对工程：Antigravity (Google DeepMind - Gemini 3.8 Flash) | 
+            赞助支持：<a href="https://afdian.com/a/luoqian" target="_blank">爱发电投喂</a>
+        </p>
+        <p style="margin-top: 6px; font-size: 12.5px; color: #4b5563;">本扩展模组完全遵循官方 Ren'Py 原生国际化架构规范，0 代码入侵、0 存档污染。仅供学习与个人游戏体验使用。</p>
+    </footer>
+
+</div>
+
+<script>
+    // Tab Switcher
+    function switchTab(index) {
+        const buttons = document.querySelectorAll('.tab-btn');
+        const contents = document.querySelectorAll('.tab-content');
+        
+        buttons.forEach((btn, i) => {
+            if (i === index) {
+                btn.classList.add('active');
+            } else {
+                btn.classList.remove('active');
+            }
+        });
+
+        contents.forEach((content, i) => {
+            if (i === index) {
+                content.classList.add('active');
+            } else {
+                content.classList.remove('active');
+            }
+        });
+
+        // Trigger search re-check
+        handleSearch();
+    }
+
+    // View Mode Toggle (Detailed vs Compact)
+    function setViewMode(mode) {
+        const body = document.body;
+        const btnDetailed = document.getElementById('btn-detailed-mode');
+        const btnCompact = document.getElementById('btn-compact-mode');
+
+        if (mode === 'compact') {
+            body.classList.add('mode-compact');
+            btnCompact.classList.add('active');
+            btnDetailed.classList.remove('active');
+            // Update all toggle button labels to "+ 展开"
+            document.querySelectorAll('.expand-toggle').forEach(btn => {
+                btn.textContent = '+ 展开详情';
+            });
+        } else {
+            body.classList.remove('mode-compact');
+            btnDetailed.classList.add('active');
+            btnCompact.classList.remove('active');
+            // Reset all cards to expanded
+            document.querySelectorAll('.card-details').forEach(el => {
+                el.classList.remove('manually-expanded');
+            });
+            document.querySelectorAll('.expand-toggle').forEach(btn => {
+                btn.textContent = '折叠详情';
+            });
+        }
+    }
+
+    // Card Details Accordion Toggle
+    function toggleCard(btn) {
+        const card = btn.closest('.card');
+        const details = card.querySelector('.card-details');
+        const isCompact = document.body.classList.contains('mode-compact');
+
+        if (isCompact) {
+            const isExpanded = details.classList.contains('manually-expanded');
+            if (isExpanded) {
+                details.classList.remove('manually-expanded');
+                btn.textContent = '+ 展开详情';
+            } else {
+                details.classList.add('manually-expanded');
+                btn.textContent = '折叠详情';
+            }
+        } else {
+            if (details.style.display === 'none') {
+                details.style.display = 'block';
+                btn.textContent = '折叠详情';
+            } else {
+                details.style.display = 'none';
+                btn.textContent = '+ 展开详情';
+            }
+        }
+    }
+
+    // Real-time Search Filter
+    function handleSearch() {
+        const input = document.getElementById('searchInput');
+        const clearBtn = document.getElementById('searchClear');
+        const filter = input.value.trim().toLowerCase();
+
+        if (filter.length > 0) {
+            clearBtn.style.display = 'block';
+        } else {
+            clearBtn.style.display = 'none';
+        }
+
+        const activeTab = document.querySelector('.tab-content.active');
+        if (!activeTab) return;
+
+        const cards = activeTab.querySelectorAll('.card');
+        cards.forEach(card => {
+            const keywords = (card.getAttribute('data-keywords') || '').toLowerCase();
+            const text = card.textContent.toLowerCase();
+            if (!filter || keywords.includes(filter) || text.includes(filter)) {
+                card.style.display = 'block';
+            } else {
+                card.style.display = 'none';
+            }
+        });
+    }
+
+    function clearSearch() {
+        const input = document.getElementById('searchInput');
+        input.value = '';
+        handleSearch();
+        input.focus();
+    }
+
+    // Hotkey Click-to-copy with Toast
+    function copyHotkey(element) {
+        const text = element.textContent.trim();
+        navigator.clipboard.writeText(text).then(() => {
+            showToast('已复制快捷键: ' + text);
+        }).catch(() => {
+            showToast('快捷键: ' + text);
+        });
+    }
+
+    let toastTimer = null;
+    function showToast(msg) {
+        const toast = document.getElementById('toast');
+        toast.textContent = msg;
+        toast.style.display = 'block';
+        if (toastTimer) clearTimeout(toastTimer);
+        toastTimer = setTimeout(() => {
+            toast.style.display = 'none';
+        }, 1800);
+    }
+</script>
+
+</body>
+</html>
