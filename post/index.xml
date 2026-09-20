@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 一落归谦</title><link>https://luoqian29.github.io/post/</link><description>Recent content in Posts on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Sun, 20 Sep 2026 19:20:44 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>博文更新计划与路线图</title><link>https://luoqian29.github.io/p/update/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/update/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPYeU18aYAAQf7U?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 一落归谦</title><link>https://luoqian29.github.io/post/</link><description>Recent content in Posts on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Sun, 20 Sep 2026 19:28:58 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>博文更新计划与路线图</title><link>https://luoqian29.github.io/p/update/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/update/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPYeU18aYAAQf7U?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="博文更新计划与路线图"&gt;博文更新计划与路线图
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HPYeU19awAAI_G2?format=jpg&amp;amp;name=large"
 loading="lazy"
@@ -440,27 +440,20 @@ alt="预览图"
 &lt;/summary&gt;
 &lt;div class="reading-platform-body"&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;杂谈&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;📢 &lt;strong&gt;【19:15 紧急修复：关于部分水友“批处理报错闪退”或“对话仍是英文”的问题】&lt;/strong&gt;&lt;br&gt;
-下午有水友反馈：打完补丁后，双击批处理一闪而过报错，或者进游戏后&lt;strong&gt;主菜单是中文、但对话全是英文&lt;/strong&gt;？&lt;br&gt;
-这是因为 GameMaker 引擎在 Windows 下偷偷建了英文缓存，且之前的 bat 脚本编码有点兼容问题。&lt;strong&gt;现在已经彻底修复并重新打包上传！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;解决方案（两种方法任选）：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;下载最新修复包（推荐）：&lt;/strong&gt; 重新下载覆盖后，&lt;strong&gt;双击运行 &lt;code&gt;【一键安装...】.bat&lt;/code&gt;&lt;/strong&gt;，这次绝对正常秒运行，自动帮你清空旧缓存并锁定全中文；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;不想重新下载的老哥（手动 1 秒恢复）：&lt;/strong&gt; 键盘按下 &lt;code&gt;Win + R&lt;/code&gt;，输入 &lt;code&gt;%localappdata%\Shale_Hill_Secrets&lt;/code&gt; 回车，把里面的 &lt;strong&gt;&lt;code&gt;data&lt;/code&gt; 文件夹直接删掉&lt;/strong&gt;，进游戏立刻恢复全中文！&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
 &lt;p&gt;OK啊，兄弟们，这游戏我终于给啃下来了！&lt;/p&gt;
-&lt;p&gt;其实从今年年初开始，就有好几位水友一直催我做这部，但我之前一直没动手，主要因为它是 &lt;strong&gt;GameMaker Studio 2 引擎&lt;/strong&gt;，底层结构跟咱们平时玩的 Ren&amp;rsquo;Py 完全不一样，之前一直不知道怎么解决它的高清中文字体注入。昨天（9月19号）下午我灵机一动，试着把逆向思路整理给反重力（Gemini 3.8 Flash High），没想到硬是给打通了！攻克了底层 8px 的 SDF 距离场字体渲染，实机 4K 分辨率下字迹非常圆润丝滑，彻底告别方块字和问号。&lt;/p&gt;
-&lt;p&gt;搞定字体后我就立马去跑 AI 翻译了，因为是已完结版本，全剧情有整整 8 万多句文本，这次直接调用了单价较高的 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt;，光是跑意译就烧了整整 &lt;strong&gt;30 块钱 Token 费&lt;/strong&gt;（要是用 V3 跑可能只要一半，但为了质量还是咬牙上 3.1 了）。&lt;/p&gt;
-&lt;p&gt;这次原本打算实行 7 天尝鲜制的，但考虑到这是我第一次做 GameMaker 新引擎，且目前只支持 PC 端（安卓和 iOS 没法玩），所以索性就直接免费公开给大家体验了！版本是基于 F95 学习版做的，买过 Steam 正版的老哥也可以试着打一下补丁。&lt;/p&gt;
-&lt;p&gt;关于 Mod 说明：因为 GameMaker 引擎机制限制，没法像 Ren&amp;rsquo;Py 那样做随时按键呼出的悬浮菜单，所以这次直接分包提供了两个版本供大家选择：&lt;/p&gt;
+&lt;p&gt;其实从今年年初开始，就有好几位水友一直催我做这部，但我之前一直没动手，主要因为它是 &lt;strong&gt;GameMaker Studio 2 引擎&lt;/strong&gt;，底层结构跟咱们平时玩的 Ren&amp;rsquo;Py 完全不一样，之前一直不知道怎么搞它的高清中文字体注入。昨天（9月19号）下午我灵机一动，试着把逆向思路整理喂给反重力（Gemini 3.8 Flash High），没想到硬是给打通了！攻克了底层 8px 的 SDF 距离场字体渲染，实机 4K 分辨率下字迹非常圆润丝滑，彻底告别方块字和问号，嘿嘿嘿。&lt;/p&gt;
+&lt;p&gt;搞定字体后我就立马去跑 AI 翻译了。因为是已完结版本，全剧情有整整 8 万多句文本，这次直接调用了单价较高的 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt;，光是跑意译就烧了整整 &lt;strong&gt;30 块钱 Token 费&lt;/strong&gt;，还是挺贵的（要是用 V3 跑可能只要一半，15 块那样子，但为了质量还是咬牙上 3.1 了）。&lt;/p&gt;
+&lt;p&gt;这次原本打算实行 7 天尝鲜制的，但考虑到这是我第一次做 GameMaker 新引擎，且目前只支持 PC 端（安卓和 iOS 几乎无缘了），所以索性就直接公开给大家体验了！版本是基于 F95 学习版做的，买过 Steam 正版的老哥也可以试着打一下补丁。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⚠️ 这里跟大家说个核心注意点：&lt;/strong&gt;&lt;br&gt;
+因为 GameMaker 这个引擎在 Windows 后台有个英文缓存机制，如果你之前运行过英文版，它可能会优先读旧缓存导致进游戏对话依然是英文。所以大家&lt;strong&gt;解压补丁覆盖后，务必双击运行一下游戏目录里的 &lt;code&gt;【一键安装...】.bat&lt;/code&gt;&lt;/strong&gt;！它会自动清理掉旧缓存并锁定全中文，省得大家手动去找文件夹删了，双击点一下就行。&lt;/p&gt;
+&lt;p&gt;关于 Mod 方面：因为 GameMaker 引擎机制限制，没法像 Ren&amp;rsquo;Py 那样做按键呼出的可选悬浮菜单，所以这次直接分包提供了两个版本：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;官方原味纯净版：&lt;/strong&gt; 仅包含 8 万句精校汉化与高清中文字体，不改动任何剧情数值与作弊，适合喜欢原汁原味通关的剧情党；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;全 MOD 豪华多功能版：&lt;/strong&gt; 直接把 &lt;strong&gt;438 处选项攻略透视&lt;/strong&gt;（好感度增减、CG 解锁、结局导向与纠正后的人名）无缝印在选项里；集成了 F95 内存补丁让&lt;strong&gt;所有月份的白金会员专属番外场景免密全开&lt;/strong&gt;；主菜单解锁 1~18 全剧集选关，并短路门槛&lt;strong&gt;直接放行 9 大角色的终章结局&lt;/strong&gt;！&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;官方原味纯净版：&lt;/strong&gt; 包含 8 万句精校汉化与高清中文字体，不改动任何剧情数值与作弊，适合喜欢原汁原味通关的剧情党；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;全 MOD 豪华多功能版：&lt;/strong&gt; 我把 &lt;strong&gt;438 处选项攻略透视&lt;/strong&gt;（好感度增减、CG 解锁、结局导向与纠正后的人名）直接做进了选项里，总比没有好嘛；另外还集成了内存补丁，让所有月份的白金会员专属番外场景免密全开，并且主菜单解锁 1~18 全剧集选关与终章放行。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;另外这次我们还做了一份超漂亮的&lt;strong&gt;网页版全景动效安装与排障指南&lt;/strong&gt;，带动态效果和安装演示，大家点开网页直接看，也可以本地离线保存：&lt;/p&gt;
+&lt;p&gt;另外这次我们还做了一份超漂亮的&lt;strong&gt;网页版全景动效安装指南&lt;/strong&gt;，带动态效果和安装演示，大家点开网页直接看，不用看枯燥的文字，本地也可以离线保存：&lt;/p&gt;
 &lt;p&gt;👉 &lt;strong&gt;&lt;a class="link" href="https://luoqian29.github.io/guides/Shale-Hill-Secrets-v0.18.9-luoqian-Guide.html" &gt;📖 点击在线查看《Shale Hill Secrets v0.18.9 汉化与全MOD终极指南》&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;安装方法非常简单，直接看网页指南或者解压覆盖就行。我自己平时没太多时间深度玩，大家遇到什么 bug 随时在评论区向我反馈！&lt;/p&gt;
+&lt;p&gt;总之就这个样子吧，有空的话我再看看要不要出一期简润（但简润消耗的 Token 更多了，几乎是在 30 的基础上乘以 1.5 得 45 块，白嫖的太多我也不太想掏这笔钱了，哈哈）。我自己平时没太多时间深度玩，大家游玩中遇到什么问题欢迎在评论区随时反馈！&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
