@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 一落归谦</title><link>https://luoqian29.github.io/post/</link><description>Recent content in Posts on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Sun, 20 Sep 2026 18:01:58 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>博文更新计划与路线图</title><link>https://luoqian29.github.io/p/update/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/update/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPYeU18aYAAQf7U?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 一落归谦</title><link>https://luoqian29.github.io/post/</link><description>Recent content in Posts on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Sun, 20 Sep 2026 18:15:20 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>博文更新计划与路线图</title><link>https://luoqian29.github.io/p/update/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/update/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPYeU18aYAAQf7U?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="博文更新计划与路线图"&gt;博文更新计划与路线图
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HPYeU19awAAI_G2?format=jpg&amp;amp;name=large"
 loading="lazy"
@@ -489,11 +489,9 @@ alt="预览图"
 &lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;压缩包并解压；&lt;/li&gt;
 &lt;li&gt;下载&lt;strong&gt;官方原味纯净版&lt;/strong&gt;或&lt;strong&gt;全MOD豪华多功能版&lt;/strong&gt;补丁压缩包（二选一）；&lt;/li&gt;
 &lt;li&gt;解压补丁压缩包，将里面的&lt;strong&gt;所有文件和文件夹直接复制并覆盖到游戏根目录&lt;/strong&gt;；&lt;/li&gt;
-&lt;li&gt;启动 &lt;code&gt;ShaleHillSecrets.exe&lt;/code&gt; 即可，进游戏直接就是高清简体中文！&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;避坑与指南：&lt;/strong&gt; 若进游戏对话仍显示英文，按 &lt;code&gt;Win + R&lt;/code&gt; 输入 &lt;code&gt;%localappdata%\Shale_Hill_Secrets&lt;/code&gt; 回车，把里面的 &lt;code&gt;data&lt;/code&gt; 文件夹删掉即可立刻恢复全中文（详细图文动效请查看：&lt;a class="link" href="https://luoqian29.github.io/guides/Shale-Hill-Secrets-v0.18.9-luoqian-Guide.html" &gt;👉《终极指南》&lt;/a&gt;）。&lt;/li&gt;
+&lt;li&gt;双击运行游戏目录里的 &lt;strong&gt;&lt;code&gt;【一键安装...】.bat&lt;/code&gt;&lt;/strong&gt; 批处理（会自动同步文件并清空旧英文缓存）；&lt;/li&gt;
+&lt;li&gt;启动 &lt;code&gt;ShaleHillSecrets.exe&lt;/code&gt; 即可畅玩！若对话仍是英文，按 &lt;code&gt;Win + R&lt;/code&gt; 输入 &lt;code&gt;%localappdata%\Shale_Hill_Secrets&lt;/code&gt; 删掉 &lt;code&gt;data&lt;/code&gt; 文件夹即可（&lt;a class="link" href="https://luoqian29.github.io/guides/Shale-Hill-Secrets-v0.18.9-luoqian-Guide.html" &gt;👉 详细动效指南&lt;/a&gt;）。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
-&lt;/details&gt;
 &lt;hr&gt;
 &lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
@@ -506,6 +504,8 @@ alt="预览图"
 &gt;PIXELDRAIN&lt;/a&gt;
 &lt;a class="link" href="https://workupload.com/file/jBrryL4gkH2" target="_blank" rel="noopener"
 &gt;WORKUPLOAD&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
