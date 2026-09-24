@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kiss of Sin · Comprehensive Mod Suite & Guide</title>
+    <style>
+        :root {
+            --bg-primary: #000000;
+            --bg-secondary: #0d0d0f;
+            --bg-card: rgba(22, 22, 26, 0.75);
+            --bg-card-hover: rgba(30, 30, 36, 0.85);
+            --border-subtle: rgba(255, 255, 255, 0.08);
+            --border-highlight: rgba(56, 239, 125, 0.4);
+            --text-primary: #f5f5f7;
+            --text-secondary: #86868b;
+            --text-tertiary: #515154;
+            --accent-green: #38ef7d;
+            --accent-green-light: #70ffaf;
+            --accent-gold: #d4af37;
+            --accent-blue: #2997ff;
+            --font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+            --radius-sm: 8px;
+            --radius-md: 14px;
+            --radius-lg: 20px;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* Language visibility toggles */
+        body.lang-zh .lang-en { display: none !important; }
+        body.lang-en .lang-zh { display: none !important; }
+
+        body {
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            font-family: var(--font-family);
+            line-height: 1.6;
+            padding: 40px 20px 80px;
+            overflow-x: hidden;
+            position: relative;
+        }
+
+        .container {
+            max-width: 980px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Nav / Floating Language Switcher */
+        .top-nav {
+            display: flex;
+            justify-content: flex-end;
+            margin-bottom: 20px;
+        }
+
+        .lang-capsule {
+            display: inline-flex;
+            align-items: center;
+            background: rgba(255, 255, 255, 0.06);
+            border: 1px solid var(--border-subtle);
+            border-radius: 999px;
+            padding: 3px;
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+        }
+
+        .lang-btn {
+            background: none;
+            border: none;
+            padding: 6px 14px;
+            border-radius: 999px;
+            color: var(--text-secondary);
+            font-size: 13px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            font-family: var(--font-family);
+        }
+
+        .lang-btn.active {
+            background: rgba(255, 255, 255, 0.15);
+            color: #ffffff;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        .lang-btn:hover:not(.active) {
+            color: var(--text-primary);
+        }
+
+        /* Header */
+        header {
+            text-align: center;
+            padding: 20px 0 50px;
+        }
+
+        .badge-pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 6px 14px;
+            background: rgba(56, 239, 125, 0.1);
+            border: 1px solid rgba(56, 239, 125, 0.25);
+            border-radius: 999px;
+            font-size: 13px;
+            font-weight: 500;
+            color: var(--accent-green);
+            margin-bottom: 20px;
+            letter-spacing: 0.5px;
+        }
+
+        .badge-pill::before {
+            content: "";
+            width: 6px;
+            height: 6px;
+            background: var(--accent-green);
+            border-radius: 50%;
+            box-shadow: 0 0 8px var(--accent-green);
+        }
+
+        h1 {
+            font-size: 42px;
+            font-weight: 600;
+            letter-spacing: -0.8px;
+            margin-bottom: 12px;
+            background: linear-gradient(180deg, #ffffff 0%, #a1a1a6 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+            font-size: 17px;
+            color: var(--text-secondary);
+            font-weight: 400;
+            max-width: 680px;
+            margin: 0 auto;
+        }
+
+        /* Glass Card Base */
+        .glass-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-subtle);
+            border-radius: var(--radius-lg);
+            backdrop-filter: blur(24px);
+            -webkit-backdrop-filter: blur(24px);
+            padding: 32px;
+            margin-bottom: 24px;
+            transition: border-color 0.25s ease, background 0.25s ease;
+        }
+
+        .glass-card:hover {
+            border-color: rgba(255, 255, 255, 0.16);
+            background: var(--bg-card-hover);
+        }
+
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 24px;
+        }
+
+        .section-num {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 28px;
+            height: 28px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.1);
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .section-title {
+            font-size: 22px;
+            font-weight: 600;
+            letter-spacing: -0.3px;
+        }
+
+        /* Step Grid */
+        .steps-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 18px;
+        }
+
+        .step-item {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--border-subtle);
+            border-radius: var(--radius-md);
+            padding: 24px 20px;
+            position: relative;
+        }
+
+        .step-badge {
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: var(--accent-green);
+            letter-spacing: 0.8px;
+            margin-bottom: 8px;
+        }
+
+        .step-heading {
+            font-size: 17px;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #ffffff;
+        }
+
+        .step-desc {
+            font-size: 14px;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        .code-pill {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.08);
+            border-radius: 6px;
+            padding: 2px 8px;
+            font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+            font-size: 13px;
+            color: #e5e5ea;
+            margin-top: 6px;
+        }
+
+        /* Feature Cards */
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 18px;
+        }
+
+        .feature-card {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid var(--border-subtle);
+            border-radius: var(--radius-md);
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .feature-icon-bar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .feature-icon {
+            font-size: 26px;
+        }
+
+        .feature-tag {
+            font-size: 11px;
+            padding: 3px 8px;
+            border-radius: 6px;
+            font-weight: 500;
+            background: rgba(255, 255, 255, 0.06);
+            color: var(--text-secondary);
+        }
+
+        .feature-tag.accent {
+            background: rgba(56, 239, 125, 0.12);
+            color: var(--accent-green);
+        }
+
+        .feature-name {
+            font-size: 17px;
+            font-weight: 600;
+            color: #ffffff;
+        }
+
+        .feature-desc {
+            font-size: 14px;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        /* Shortcut Bar */
+        .shortcut-banner {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 16px;
+            background: linear-gradient(90deg, rgba(56, 239, 125, 0.08) 0%, rgba(0, 0, 0, 0.2) 100%);
+            border: 1px solid rgba(56, 239, 125, 0.2);
+            border-radius: var(--radius-md);
+            padding: 18px 24px;
+            margin-top: 12px;
+        }
+
+        .keys-group {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .key-cap {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 32px;
+            height: 32px;
+            padding: 0 10px;
+            background: #242429;
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            border-bottom: 2px solid rgba(255, 255, 255, 0.25);
+            border-radius: 6px;
+            font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+            font-size: 13px;
+            font-weight: 600;
+            color: #ffffff;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            margin-top: 60px;
+            padding-top: 30px;
+            border-top: 1px solid var(--border-subtle);
+            color: var(--text-tertiary);
+            font-size: 13px;
+        }
+
+        footer a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        footer a:hover {
+            color: var(--text-primary);
+        }
+
+        @media (max-width: 680px) {
+            h1 { font-size: 30px; }
+            .glass-card { padding: 22px; }
+            .shortcut-banner { flex-direction: column; align-items: flex-start; }
+            .top-nav { justify-content: center; }
+        }
+    </style>
+</head>
+<body class="lang-en">
+
+<div class="container">
+
+    <!-- Top Navigation Language Switcher -->
+    <nav class="top-nav">
+        <div class="lang-capsule">
+            <button id="btn-en" class="lang-btn active" onclick="setLanguage('en')">English</button>
+            <button id="btn-zh" class="lang-btn" onclick="setLanguage('zh')">简体中文</button>
+        </div>
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <div class="badge-pill">
+            <span class="lang-en">KISS OF SIN · MASTER EDITION</span>
+            <span class="lang-zh">KISS OF SIN · 宗师典藏版</span>
+        </div>
+        <h1>
+            <span class="lang-en">Comprehensive Mod Suite & Controller</span>
+            <span class="lang-zh">综合辅助工坊与控制台</span>
+        </h1>
+        <p class="subtitle">
+            <span class="lang-en">100% Non-Invasive Architecture · Native HUD Integration · 3D Arcane Ring · Dual-Tab Apple-Glass Console</span>
+            <span class="lang-zh">100% 零侵入架构 · 原生立柱接驳 · 拟物化中世纪魔戒 · 双页控制台</span>
+        </p>
+    </header>
+
+    <!-- 1. Quick Installation -->
+    <section class="glass-card">
+        <div class="section-header">
+            <span class="section-num">1</span>
+            <h2 class="section-title">
+                <span class="lang-en">Quick Installation</span>
+                <span class="lang-zh">快速安装部署</span>
+            </h2>
+        </div>
+        <div class="steps-grid">
+            <div class="step-item">
+                <div class="step-badge">Step 01</div>
+                <div class="step-heading">
+                    <span class="lang-en">Extract Archive</span>
+                    <span class="lang-zh">解压模组包</span>
+                </div>
+                <div class="step-desc">
+                    <span class="lang-en">Extract or drag the <span class="code-pill">game/</span> folder from the zip directly into your game root directory.</span>
+                    <span class="lang-zh">将压缩包内的 <span class="code-pill">game/</span> 文件夹直接解压或拖拽到游戏根目录下。</span>
+                </div>
+            </div>
+            <div class="step-item">
+                <div class="step-badge">Step 02</div>
+                <div class="step-heading">
+                    <span class="lang-en">Confirm Folder Merge</span>
+                    <span class="lang-zh">确认目录合并</span>
+                </div>
+                <div class="step-desc">
+                    <span class="lang-en">Verify that the mod files reside at <span class="code-pill">game/mod_kissofsin/</span>. Loaded automatically.</span>
+                    <span class="lang-zh">确保模组文件位于 <span class="code-pill">game/mod_kissofsin/</span> 路径下，系统自动加载生效。</span>
+                </div>
+            </div>
+            <div class="step-item">
+                <div class="step-badge">Step 03</div>
+                <div class="step-heading">
+                    <span class="lang-en">Launch & Enjoy</span>
+                    <span class="lang-zh">启动游戏体验</span>
+                </div>
+                <div class="step-desc">
+                    <span class="lang-en">In exploration mode, find the 3D Arcane Ring sitting at Slot 4 on the left HUD column.</span>
+                    <span class="lang-zh">进入自由探索模式，左侧 HUD 立柱第四位即可看到暗金卢恩魔戒。</span>
+                </div>
+            </div>
+        </div>
+        <div class="shortcut-banner">
+            <div>
+                <span style="font-weight: 600; font-size: 15px; color: #ffffff;">
+                    <span class="lang-en">Global Hotkeys</span>
+                    <span class="lang-zh">全局快捷热键</span>
+                </span>
+                <span style="font-size: 13px; color: var(--text-secondary); margin-left: 8px;">
+                    <span class="lang-en">Toggle the cheat console anytime during dialogue or exploration</span>
+                    <span class="lang-zh">无论剧情还是漫游，随时一键唤出控制台</span>
+                </span>
+            </div>
+            <div class="keys-group">
+                <span class="key-cap">~</span>
+                <span style="color: var(--text-secondary); font-size: 13px;">
+                    <span class="lang-en">or</span>
+                    <span class="lang-zh">或</span>
+                </span>
+                <span class="key-cap">F10</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- 2. Core Features -->
+    <section class="glass-card">
+        <div class="section-header">
+            <span class="section-num">2</span>
+            <h2 class="section-title">
+                <span class="lang-en">Core System Features</span>
+                <span class="lang-zh">六大核心系统特性</span>
+            </h2>
+        </div>
+        <div class="feature-grid">
+            <!-- Feature 1 -->
+            <div class="feature-card">
+                <div class="feature-icon-bar">
+                    <span class="feature-icon">💍</span>
+                    <span class="feature-tag accent">
+                        <span class="lang-en">NATIVE HUD</span>
+                        <span class="lang-zh">原生接入</span>
+                    </span>
+                </div>
+                <div class="feature-name">
+                    <span class="lang-en">Native Arcane Ring (Slot 4)</span>
+                    <span class="lang-zh">原生暗金卢恩魔戒触点</span>
+                </div>
+                <div class="feature-desc">
+                    <span class="lang-en">Docked directly inside the native column container. Perfectly coaxial with the quest scroll, gallery frame, and codex grimoire. 3D ring with glowing runes, transparent center, and frosted glass tooltip.</span>
+                    <span class="lang-zh">深度接驳原生立柱排版容器，与任务卷轴、画框、圣典四圣物笔直同轴。中空透气木纹，悬停激活流金呼吸并弹出毛玻璃提示。</span>
+                </div>
+            </div>
+
+            <!-- Feature 2 -->
+            <div class="feature-card">
+                <div class="feature-icon-bar">
+                    <span class="feature-icon">⚡</span>
+                    <span class="feature-tag accent">
+                        <span class="lang-en">CONTROL CENTER</span>
+                        <span class="lang-zh">核心功能</span>
+                    </span>
+                </div>
+                <div class="feature-name">
+                    <span class="lang-en">2nd-Gen Apple-Glass Console</span>
+                    <span class="lang-zh">第二代双页集成控制台</span>
+                </div>
+                <div class="feature-desc">
+                    <span class="lang-en">Built with Apple-Glass V4.0 design language. Page 1 (Core Cheat) provides one-click max money, affection, and story progression. Page 2 (Utility Workshop) offers layout and font fine-tuning.</span>
+                    <span class="lang-zh">基于 Apple-Glass 设计语言构建。左页「核心作弊」支持金钱、好感、全事件一键推进；右页「辅助工坊」集成字幕与排版调节。</span>
+                </div>
+            </div>
+
+            <!-- Feature 3 -->
+            <div class="feature-card">
+                <div class="feature-icon-bar">
+                    <span class="feature-icon">🌐</span>
+                    <span class="feature-tag">
+                        <span class="lang-en">BILINGUAL</span>
+                        <span class="lang-zh">动态字幕</span>
+                    </span>
+                </div>
+                <div class="feature-name">
+                    <span class="lang-en">AOP Bilingual Subtitle Engine</span>
+                    <span class="lang-zh">AOP 动态双语对白引擎</span>
+                </div>
+                <div class="feature-desc">
+                    <span class="lang-en">Deep Python AOP interceptor extracts English lines on-the-fly and injects secondary subtitles without touching the 9MB JSON file. Zero save pollution, real-time toggle with -4px/-2px step sizes.</span>
+                    <span class="lang-zh">底层拦截提取原版英文并注入次级中灰对白。零存档污染，支持在工坊中自由开启/关闭，并提供 -4px/-2px 阶梯字号调节。</span>
+                </div>
+            </div>
+
+            <!-- Feature 4 -->
+            <div class="feature-card">
+                <div class="feature-icon-bar">
+                    <span class="feature-icon">💡</span>
+                    <span class="feature-tag">
+                        <span class="lang-en">CHOICE HINTS</span>
+                        <span class="lang-zh">剧情辅助</span>
+                    </span>
+                </div>
+                <div class="feature-name">
+                    <span class="lang-en">Choice Hints & Affection Insights</span>
+                    <span class="lang-zh">选项好感与剧情分支透视</span>
+                </div>
+                <div class="feature-desc">
+                    <span class="lang-en">Fourth-generation sibling fingerprint engine identifies branching choices, displaying affection bonuses, stat requirements, and secret story paths directly on choice buttons.</span>
+                    <span class="lang-zh">在分支抉择点直接标注选项属性、羁绊收益与结局走向，规避繁琐试错与漏支线遗憾。</span>
+                </div>
+            </div>
+
+            <!-- Feature 5 -->
+            <div class="feature-card">
+                <div class="feature-icon-bar">
+                    <span class="feature-icon">🔤</span>
+                    <span class="feature-tag">
+                        <span class="lang-en">TYPOGRAPHY</span>
+                        <span class="lang-zh">排版工坊</span>
+                    </span>
+                </div>
+                <div class="feature-name">
+                    <span class="lang-en">Multi-Font Switcher & Opacity</span>
+                    <span class="lang-zh">多字体热切与界面无级调光</span>
+                </div>
+                <div class="feature-desc">
+                    <span class="lang-en">Includes 4 curated Chinese typography styles with real-time in-game switching. Features stepless dialogue box opacity adjustment (0% to 100%) for uninhibited CG viewing.</span>
+                    <span class="lang-zh">内置 4 款精选衬线与圆体，支持游戏内动态热切换；配备对白框透明度无级滑动条，畅享无遮挡 CG 视效。</span>
+                </div>
+            </div>
+
+            <!-- Feature 6 -->
+            <div class="feature-card">
+                <div class="feature-icon-bar">
+                    <span class="feature-icon">🛡️</span>
+                    <span class="feature-tag">
+                        <span class="lang-en">SECURITY</span>
+                        <span class="lang-zh">安全防护</span>
+                    </span>
+                </div>
+                <div class="feature-name">
+                    <span class="lang-en">Full Gallery Unlock & Save Healer</span>
+                    <span class="lang-zh">全画廊解锁与坏档自动愈合</span>
+                </div>
+                <div class="feature-desc">
+                    <span class="lang-en">Dynamic persistent reflection unlocks all 100+ CGs, memories, and Extra/DLC scenes without completing the game. Built-in save healer repairs broken variables and unblocks Chinese input.</span>
+                    <span class="lang-zh">一键点亮全部成就与回忆 CG。内置动态存档自愈补丁，智能修复因版本更迭缺失的临时变量。</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 3. Clean Uninstall -->
+    <section class="glass-card">
+        <div class="section-header">
+            <span class="section-num">3</span>
+            <h2 class="section-title">
+                <span class="lang-en">100% Clean Uninstall</span>
+                <span class="lang-zh">完全纯净卸载</span>
+            </h2>
+        </div>
+        <p style="font-size: 15px; color: var(--text-secondary); line-height: 1.7;">
+            <span class="lang-en">
+                This mod strictly adheres to a <strong style="color: #ffffff;">100% green, non-invasive architecture</strong> with 0 bytes altered in original game files. To uninstall, simply delete the <span class="code-pill">game/mod_kissofsin/</span> directory. Your game immediately returns to the clean vanilla state without corrupting existing saves.
+            </span>
+            <span class="lang-zh">
+                本模组遵循严格的 <strong style="color: #ffffff;">100% 绿色无侵入规范</strong>，原版游戏脚本文件保持 0 字节改动。如需卸载，只需直接删除 <span class="code-pill">game/mod_kissofsin/</span> 文件夹，游戏即刻 1 秒还原为原始状态，且绝不损坏任何现存游戏存档。
+            </span>
+        </p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>Kiss of Sin · Comprehensive Mod Suite · Modder: <a href="https://luoqian29.github.io/" target="_blank">luoqian</a></p>
+    </footer>
+
+</div>
+
+<script>
+    function setLanguage(lang) {
+        document.body.className = 'lang-' + lang;
+        document.getElementById('btn-en').classList.toggle('active', lang === 'en');
+        document.getElementById('btn-zh').classList.toggle('active', lang === 'zh');
+        try {
+            localStorage.setItem('kof_mod_lang', lang);
+        } catch(e) {}
+        document.documentElement.lang = (lang === 'zh') ? 'zh-CN' : 'en';
+    }
+
+    // Auto-detect browser language or read from localStorage
+    (function initLang() {
+        let preferred = null;
+        try {
+            preferred = localStorage.getItem('kof_mod_lang');
+        } catch(e) {}
+
+        if (!preferred) {
+            const browserLang = (navigator.language || navigator.userLanguage || '').toLowerCase();
+            preferred = browserLang.startsWith('zh') ? 'zh' : 'en';
+        }
+        setLanguage(preferred);
+    })();
+</script>
+
+</body>
+</html>
