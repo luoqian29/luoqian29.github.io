@@ -1,0 +1,1053 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>全平台游戏与汉化补丁极简安装指南 · 落谦博客</title>
+    <style>
+        :root {
+            --bg-primary: #000000;
+            --bg-card: rgba(26, 26, 30, 0.75);
+            --bg-card-hover: rgba(36, 36, 42, 0.85);
+            --border-subtle: rgba(255, 255, 255, 0.08);
+            --border-highlight: rgba(0, 122, 255, 0.4);
+            --text-primary: #f5f5f7;
+            --text-secondary: #86868b;
+            --text-tertiary: #515154;
+            --accent-blue: #2997ff;
+            --accent-green: #30d158;
+            --accent-orange: #ff9f0a;
+            --code-bg: rgba(0, 0, 0, 0.45);
+            --code-border: rgba(255, 255, 255, 0.08);
+            --code-text: #d1d1d6;
+            --tab-bg: rgba(255, 255, 255, 0.06);
+            --tab-active-bg: rgba(255, 255, 255, 0.18);
+            --tab-active-color: #ffffff;
+            --tab-active-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+            --tip-bg: rgba(255, 255, 255, 0.03);
+            --tip-border: rgba(255, 255, 255, 0.06);
+            --tip-accent: #ff9f0a;
+            --heading-gradient: linear-gradient(180deg, #ffffff 0%, #a1a1a6 100%);
+            --subtab-bg: rgba(255, 255, 255, 0.05);
+            --subtab-active-bg: rgba(41, 151, 255, 0.16);
+            --subtab-active-border: rgba(41, 151, 255, 0.38);
+            --subtab-active-color: #2997ff;
+            --notice-banner-bg: rgba(41, 151, 255, 0.08);
+            --notice-banner-border: rgba(41, 151, 255, 0.22);
+            --notice-banner-text: #9ac7ff;
+            --font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+            --radius-sm: 8px;
+            --radius-md: 14px;
+            --radius-lg: 20px;
+        }
+
+        [data-theme="light"] {
+            --bg-primary: #f5f5f7;
+            --bg-card: rgba(255, 255, 255, 0.88);
+            --bg-card-hover: rgba(255, 255, 255, 0.98);
+            --border-subtle: rgba(0, 0, 0, 0.08);
+            --border-highlight: rgba(0, 113, 227, 0.4);
+            --text-primary: #1d1d1f;
+            --text-secondary: #6e6e73;
+            --text-tertiary: #86868b;
+            --accent-blue: #0071e3;
+            --accent-green: #34c759;
+            --accent-orange: #d76c00;
+            --code-bg: #ececf0;
+            --code-border: rgba(0, 0, 0, 0.06);
+            --code-text: #1d1d1f;
+            --tab-bg: rgba(0, 0, 0, 0.06);
+            --tab-active-bg: #ffffff;
+            --tab-active-color: #1d1d1f;
+            --tab-active-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+            --tip-bg: rgba(215, 108, 0, 0.05);
+            --tip-border: rgba(215, 108, 0, 0.16);
+            --tip-accent: #d76c00;
+            --heading-gradient: linear-gradient(180deg, #1d1d1f 0%, #424245 100%);
+            --subtab-bg: rgba(0, 0, 0, 0.04);
+            --subtab-active-bg: rgba(0, 113, 227, 0.1);
+            --subtab-active-border: rgba(0, 113, 227, 0.28);
+            --subtab-active-color: #0071e3;
+            --notice-banner-bg: rgba(0, 113, 227, 0.06);
+            --notice-banner-border: rgba(0, 113, 227, 0.18);
+            --notice-banner-text: #0056b3;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        body {
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            font-family: var(--font-family);
+            line-height: 1.6;
+            padding: 40px 20px 80px;
+            overflow-x: hidden;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        .container {
+            max-width: 860px;
+            margin: 0 auto;
+        }
+
+        /* Top Navigation */
+        .top-nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 24px;
+        }
+
+        .nav-back {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 500;
+            padding: 6px 14px;
+            background: var(--tab-bg);
+            border: 1px solid var(--border-subtle);
+            border-radius: 999px;
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            transition: all 0.2s ease;
+        }
+
+        .nav-back:hover {
+            color: var(--text-primary);
+            border-color: var(--border-highlight);
+        }
+
+        .nav-actions {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .brand-badge {
+            font-size: 13px;
+            color: var(--text-tertiary);
+            letter-spacing: 0.5px;
+        }
+
+        .theme-toggle-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: var(--tab-bg);
+            border: 1px solid var(--border-subtle);
+            border-radius: 999px;
+            padding: 6px 14px;
+            color: var(--text-secondary);
+            font-size: 13px;
+            font-weight: 500;
+            font-family: var(--font-family);
+            cursor: pointer;
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            transition: all 0.2s ease;
+        }
+
+        .theme-toggle-btn:hover {
+            color: var(--text-primary);
+            border-color: var(--border-highlight);
+        }
+
+        .theme-icon-indicator {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            border: 1px solid currentColor;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .theme-icon-indicator::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 50%;
+            height: 100%;
+            background: currentColor;
+        }
+
+        /* Header */
+        header {
+            text-align: center;
+            padding: 10px 0 36px;
+        }
+
+        .badge-pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 4px 12px;
+            background: rgba(41, 151, 255, 0.12);
+            border: 1px solid rgba(41, 151, 255, 0.28);
+            border-radius: 999px;
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--accent-blue);
+            margin-bottom: 16px;
+            letter-spacing: 0.5px;
+        }
+
+        h1 {
+            font-size: 34px;
+            font-weight: 700;
+            letter-spacing: -0.6px;
+            margin-bottom: 10px;
+            background: var(--heading-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+            font-size: 15px;
+            color: var(--text-secondary);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        /* Apple Primary Segmented Control */
+        .tab-segment-wrapper {
+            display: flex;
+            justify-content: center;
+            margin: 0 auto 32px;
+        }
+
+        .tab-segment {
+            display: inline-flex;
+            background: var(--tab-bg);
+            padding: 4px;
+            border-radius: 999px;
+            border: 1px solid var(--border-subtle);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+        }
+
+        .tab-btn {
+            background: none;
+            border: none;
+            padding: 8px 20px;
+            border-radius: 999px;
+            color: var(--text-secondary);
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s cubic-bezier(0.2, 0.8, 0.2, 1);
+            font-family: var(--font-family);
+        }
+
+        .tab-btn.active {
+            background: var(--tab-active-bg);
+            color: var(--tab-active-color);
+            box-shadow: var(--tab-active-shadow);
+        }
+
+        .tab-btn:hover:not(.active) {
+            color: var(--text-primary);
+        }
+
+        /* Content Containers */
+        .tab-content {
+            display: none;
+            animation: fadeIn 0.25s ease-out;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(6px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .glass-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-subtle);
+            border-radius: var(--radius-lg);
+            backdrop-filter: blur(24px);
+            -webkit-backdrop-filter: blur(24px);
+            padding: 28px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
+            transition: background 0.3s ease, border-color 0.3s ease;
+        }
+
+        .section-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 20px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid var(--border-subtle);
+        }
+
+        .section-title {
+            font-size: 19px;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .platform-tag {
+            font-size: 12px;
+            padding: 3px 10px;
+            border-radius: 999px;
+            font-weight: 500;
+            background: var(--tab-bg);
+            border: 1px solid var(--border-subtle);
+            color: var(--text-secondary);
+        }
+
+        /* Notice Banner */
+        .notice-banner {
+            background: var(--notice-banner-bg);
+            border: 1px solid var(--notice-banner-border);
+            border-radius: var(--radius-md);
+            padding: 12px 16px;
+            margin-bottom: 20px;
+            font-size: 13px;
+            line-height: 1.5;
+            color: var(--notice-banner-text);
+        }
+
+        .notice-banner strong {
+            font-weight: 600;
+        }
+
+        /* Universal Secondary Sub-segmented Control */
+        .subtab-wrapper {
+            margin-bottom: 24px;
+        }
+
+        .subtab-segment {
+            display: flex;
+            background: var(--subtab-bg);
+            padding: 4px;
+            border-radius: var(--radius-md);
+            border: 1px solid var(--border-subtle);
+            gap: 4px;
+        }
+
+        .subtab-btn {
+            flex: 1;
+            background: none;
+            border: 1px solid transparent;
+            padding: 8px 12px;
+            border-radius: 10px;
+            color: var(--text-secondary);
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-family: var(--font-family);
+            text-align: center;
+        }
+
+        .subtab-btn.active {
+            background: var(--subtab-active-bg);
+            border-color: var(--subtab-active-border);
+            color: var(--subtab-active-color);
+        }
+
+        .subtab-btn:hover:not(.active) {
+            color: var(--text-primary);
+        }
+
+        .subtab-content {
+            display: none;
+            animation: fadeIn 0.2s ease-out;
+        }
+
+        .subtab-content.active {
+            display: block;
+        }
+
+        /* Steps */
+        .step-row {
+            display: flex;
+            align-items: flex-start;
+            gap: 16px;
+            margin-bottom: 18px;
+        }
+
+        .step-row:last-child {
+            margin-bottom: 0;
+        }
+
+        .step-num {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 26px;
+            height: 26px;
+            border-radius: 50%;
+            background: rgba(41, 151, 255, 0.12);
+            border: 1px solid rgba(41, 151, 255, 0.28);
+            color: var(--accent-blue);
+            font-size: 13px;
+            font-weight: 700;
+            flex-shrink: 0;
+            margin-top: 2px;
+        }
+
+        .step-body {
+            flex: 1;
+        }
+
+        .step-title {
+            font-size: 15px;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 4px;
+        }
+
+        .step-desc {
+            font-size: 14px;
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+
+        /* Code and Path Box with Copy Action */
+        .path-box {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background: var(--code-bg);
+            border: 1px solid var(--code-border);
+            border-radius: var(--radius-sm);
+            padding: 8px 12px;
+            margin-top: 8px;
+            gap: 10px;
+        }
+
+        .path-text {
+            font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+            font-size: 13px;
+            color: var(--code-text);
+            word-break: break-all;
+        }
+
+        .copy-btn {
+            background: var(--tab-bg);
+            border: 1px solid var(--border-subtle);
+            border-radius: 6px;
+            color: var(--text-secondary);
+            font-size: 12px;
+            font-weight: 500;
+            padding: 4px 10px;
+            cursor: pointer;
+            white-space: nowrap;
+            transition: all 0.2s ease;
+            font-family: var(--font-family);
+        }
+
+        .copy-btn:hover {
+            color: var(--text-primary);
+            border-color: var(--border-highlight);
+        }
+
+        .copy-btn.copied {
+            color: var(--accent-green);
+            border-color: var(--accent-green);
+        }
+
+        /* Tip Cards */
+        .tip-card {
+            background: var(--tip-bg);
+            border: 1px solid var(--tip-border);
+            border-left: 3px solid var(--tip-accent);
+            border-radius: 0 var(--radius-md) var(--radius-md) 0;
+            padding: 14px 18px;
+            margin-top: 22px;
+        }
+
+        .tip-title {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--tip-accent);
+            margin-bottom: 4px;
+        }
+
+        .tip-text {
+            font-size: 13px;
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            padding-top: 24px;
+            border-top: 1px solid var(--border-subtle);
+            color: var(--text-tertiary);
+            font-size: 13px;
+        }
+
+        footer a {
+            color: var(--text-secondary);
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            color: var(--text-primary);
+        }
+
+        @media (max-width: 600px) {
+            body { padding: 24px 14px 60px; }
+            h1 { font-size: 25px; }
+            .tab-btn { padding: 6px 12px; font-size: 13px; }
+            .subtab-segment { flex-direction: column; }
+            .subtab-btn { text-align: left; padding: 8px 12px; }
+            .glass-card { padding: 20px 16px; }
+            .path-box { flex-direction: column; align-items: flex-start; }
+            .copy-btn { align-self: flex-end; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <!-- Top Navigation -->
+    <div class="top-nav">
+        <a href="https://luoqian29.github.io/" class="nav-back">‹ 返回落谦博客</a>
+        <div class="nav-actions">
+            <span class="brand-badge">LUOQIAN GUIDES</span>
+            <button id="theme-toggle" class="theme-toggle-btn" onclick="toggleTheme()" aria-label="切换明暗外观">
+                <span class="theme-icon-indicator"></span>
+                <span id="theme-text">浅色</span>
+            </button>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header>
+        <div class="badge-pill">UNIVERSAL GUIDE</div>
+        <h1>全平台游戏与汉化补丁极简安装指南</h1>
+        <p class="subtitle">三步上手，覆盖 Windows PC、安卓手机与苹果 iOS/iPad 端</p>
+    </header>
+
+    <!-- Primary Segmented Control Tabs -->
+    <div class="tab-segment-wrapper">
+        <div class="tab-segment">
+            <button class="tab-btn active" onclick="switchMainTab('pc')">Windows PC</button>
+            <button class="tab-btn" onclick="switchMainTab('android')">Android 安卓</button>
+            <button class="tab-btn" onclick="switchMainTab('ios')">iPhone / iPad</button>
+        </div>
+    </div>
+
+    <!-- 1. PC Tab -->
+    <div id="tab-pc" class="tab-content active">
+        <div class="glass-card">
+            <div class="section-header">
+                <h2 class="section-title">电脑端 Windows 极简指南</h2>
+                <span class="platform-tag">PC</span>
+            </div>
+
+            <!-- Architecture Notice -->
+            <div class="notice-banner">
+                <strong>核心认知：</strong>Windows 平台运行 Ren'Py 游戏，解压路径严禁包含任何中文或特殊符号，建议统一解压至纯英文路径，杜绝底层引擎识别报错。
+            </div>
+
+            <!-- PC Secondary Sub-segmented Control -->
+            <div class="subtab-wrapper">
+                <div class="subtab-segment">
+                    <button class="subtab-btn active" onclick="switchSubTab('pc', 'official')">官中原版 [解压即玩]</button>
+                    <button class="subtab-btn" onclick="switchSubTab('pc', 'patch')">汉化补丁 [放入game]</button>
+                    <button class="subtab-btn" onclick="switchSubTab('pc', 'mod')">画廊 Mod [覆盖激活]</button>
+                </div>
+            </div>
+
+            <!-- PC Scenario A: Official Chinese -->
+            <div id="pc-scenario-official" class="subtab-content active">
+                <div class="step-row">
+                    <div class="step-num">1</div>
+                    <div class="step-body">
+                        <div class="step-title">解压压缩包</div>
+                        <div class="step-desc">下载官中原版压缩包，完全解压出来。</div>
+                    </div>
+                </div>
+
+                <div class="step-row">
+                    <div class="step-num">2</div>
+                    <div class="step-body">
+                        <div class="step-title">运行主程序</div>
+                        <div class="step-desc">进入解压后的文件夹，双击 .exe 启动程序。</div>
+                    </div>
+                </div>
+
+                <div class="step-row">
+                    <div class="step-num">3</div>
+                    <div class="step-body">
+                        <div class="step-title">选择简体中文</div>
+                        <div class="step-desc">进入游戏，在设置中选择简体中文即可畅玩。</div>
+                    </div>
+                </div>
+
+                <div class="tip-card">
+                    <div class="tip-title">避坑小贴士</div>
+                    <div class="tip-text">
+                        官中原版无需放置任何补丁，解压即可运行。解压路径建议为纯英文。
+                    </div>
+                </div>
+            </div>
+
+            <!-- PC Scenario B: Patch (.rpa) -->
+            <div id="pc-scenario-patch" class="subtab-content">
+                <div class="step-row">
+                    <div class="step-num">1</div>
+                    <div class="step-body">
+                        <div class="step-title">解压英文原版</div>
+                        <div class="step-desc">将下载的英文原版压缩包完全解压出来。</div>
+                    </div>
+                </div>
+
+                <div class="step-row">
+                    <div class="step-num">2</div>
+                    <div class="step-body">
+                        <div class="step-title">放入汉化补丁</div>
+                        <div class="step-desc">将汉化补丁 [.rpa 文件或解压出的文件] 直接拖入 game 文件夹中。</div>
+                        <div class="path-box">
+                            <span class="path-text">[游戏根目录]/game/</span>
+                            <button class="copy-btn" onclick="copyPath(this, 'game/')">复制路径</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="step-row">
+                    <div class="step-num">3</div>
+                    <div class="step-body">
+                        <div class="step-title">启动游戏</div>
+                        <div class="step-desc">双击运行 .exe 启动游戏，选择简体中文即可畅玩。</div>
+                    </div>
+                </div>
+
+                <div class="tip-card">
+                    <div class="tip-title">避坑小贴士</div>
+                    <div class="tip-text">
+                        若读旧存档报错，请在游戏内使用坏档自愈，或备份后清空 game/saves/ 缓存重试。
+                    </div>
+                </div>
+            </div>
+
+            <!-- PC Scenario C: Mod -->
+            <div id="pc-scenario-mod" class="subtab-content">
+                <div class="step-row">
+                    <div class="step-num">1</div>
+                    <div class="step-body">
+                        <div class="step-title">解压 Mod</div>
+                        <div class="step-desc">下载画廊 Mod 压缩包并解压出补丁文件。</div>
+                    </div>
+                </div>
+
+                <div class="step-row">
+                    <div class="step-num">2</div>
+                    <div class="step-body">
+                        <div class="step-title">放入 game 文件夹</div>
+                        <div class="step-desc">将解压出的文件直接放入 game 文件夹中。</div>
+                        <div class="path-box">
+                            <span class="path-text">[游戏根目录]/game/</span>
+                            <button class="copy-btn" onclick="copyPath(this, 'game/')">复制路径</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="step-row">
+                    <div class="step-num">3</div>
+                    <div class="step-body">
+                        <div class="step-title">启动游戏</div>
+                        <div class="step-desc">重新启动游戏，全 CG 解锁即时生效。</div>
+                    </div>
+                </div>
+
+                <div class="tip-card">
+                    <div class="tip-title">避坑小贴士</div>
+                    <div class="tip-text">
+                        覆盖 Mod 前建议在游戏内存档备份；如需卸载 Mod，直接删除 game 目录下对应的 Mod 文件即可恢复原样。
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- 2. Android Tab -->
+    <div id="tab-android" class="tab-content">
+        <div class="glass-card">
+            <div class="section-header">
+                <h2 class="section-title">安卓手机端 Android 极简指南</h2>
+                <span class="platform-tag">Android</span>
+            </div>
+
+            <!-- Architecture Notice -->
+            <div class="notice-banner">
+                <strong>核心认知：</strong>Android 11 及以上系统对系统 data 目录限制严格，落谦补丁全量适配了免系统授权的 Documents/RenPy_Saves/ 标准存储路径，安全不卡权限。
+            </div>
+
+            <!-- Android Secondary Sub-segmented Control -->
+            <div class="subtab-wrapper">
+                <div class="subtab-segment">
+                    <button class="subtab-btn active" onclick="switchSubTab('android', 'official')">官中原版 [安装直玩]</button>
+                    <button class="subtab-btn" onclick="switchSubTab('android', 'patch')">汉化补丁 [移动rpa]</button>
+                    <button class="subtab-btn" onclick="switchSubTab('android', 'mod')">画廊 Mod [模组激活]</button>
+                </div>
+            </div>
+
+            <!-- Android Scenario A: Official Chinese -->
+            <div id="android-scenario-official" class="subtab-content active">
+                <div class="step-row">
+                    <div class="step-num">1</div>
+                    <div class="step-body">
+                        <div class="step-title">安装 APK</div>
+                        <div class="step-desc">下载官中原版并安装 APK 文件。</div>
+                    </div>
+                </div>
+
+                <div class="step-row">
+                    <div class="step-num">2</div>
+                    <div class="step-body">
+                        <div class="step-title">放行权限</div>
+                        <div class="step-desc">首次打开游戏，弹出存储权限提示点击允许。</div>
+                    </div>
+                </div>
+
+                <div class="step-row">
+                    <div class="step-num">3</div>
+                    <div class="step-body">
+                        <div class="step-title">畅玩游戏</div>
+                        <div class="step-desc">进入游戏选择简体中文即可畅玩。</div>
+                    </div>
+                </div>
+
+                <div class="tip-card">
+                    <div class="tip-title">避坑小贴士</div>
+                    <div class="tip-text">
+                        极少数附带数据包的游戏，将解压后的 game 文件夹移动到 Documents/RenPy_Saves/对应包名/game 即可。
+                    </div>
+                </div>
+            </div>
+
+            <!-- Android Scenario B: Patch (.rpa) -->
+            <div id="android-scenario-patch" class="subtab-content">
+                <div class="step-row">
+                    <div class="step-num">1</div>
+                    <div class="step-body">
+                        <div class="step-title">安装 APK</div>
+                        <div class="step-desc">安装游戏主体 APK，首次启动放行权限，闪退或手动大退。</div>
+                    </div>
+                </div>
+
+                <div class="step-row">
+                    <div class="step-num">2</div>
+                    <div class="step-body">
+                        <div class="step-title">移动文件</div>
+                        <div class="step-desc">将英文原版 game 文件夹里的所有文件和汉化补丁 .rpa 一起移动到以下路径：</div>
+                        <div class="path-box">
+                            <span class="path-text">内部存储/Documents/RenPy_Saves/[对应游戏包名]/game/</span>
+                            <button class="copy-btn" onclick="copyPath(this, 'Documents/RenPy_Saves/')">复制路径</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="step-row">
+                    <div class="step-num">3</div>
+                    <div class="step-body">
+                        <div class="step-title">启动游戏</div>
+                        <div class="step-desc">重新点击游戏图标启动，选择简体中文畅玩。</div>
+                    </div>
+                </div>
+
+                <div class="tip-card">
+                    <div class="tip-title">避坑小贴士</div>
+                    <div class="tip-text">
+                        请认准 Documents/RenPy_Saves/ 路径，不要移动到系统限制的 data 目录。
+                    </div>
+                </div>
+            </div>
+
+            <!-- Android Scenario C: Mod -->
+            <div id="android-scenario-mod" class="subtab-content">
+                <div class="step-row">
+                    <div class="step-num">1</div>
+                    <div class="step-body">
+                        <div class="step-title">解压 Mod</div>
+                        <div class="step-desc">下载画廊 Mod 压缩包并解压出补丁文件。</div>
+                    </div>
+                </div>
+
+                <div class="step-row">
+                    <div class="step-num">2</div>
+                    <div class="step-body">
+                        <div class="step-title">移动文件</div>
+                        <div class="step-desc">将解压出的文件移动到以下路径：</div>
+                        <div class="path-box">
+                            <span class="path-text">内部存储/Documents/RenPy_Saves/[对应游戏包名]/game/</span>
+                            <button class="copy-btn" onclick="copyPath(this, 'Documents/RenPy_Saves/')">复制路径</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="step-row">
+                    <div class="step-num">3</div>
+                    <div class="step-body">
+                        <div class="step-title">启动游戏</div>
+                        <div class="step-desc">重新打开游戏即可生效。</div>
+                    </div>
+                </div>
+
+                <div class="tip-card">
+                    <div class="tip-title">避坑小贴士</div>
+                    <div class="tip-text">
+                        覆盖 Mod 前建议在手机端提前备份存档，避免旧档冲突。
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- 3. iOS Tab -->
+    <div id="tab-ios" class="tab-content">
+        <div class="glass-card">
+            <div class="section-header">
+                <h2 class="section-title">苹果移动端 iPhone / iPad 极简指南</h2>
+                <span class="platform-tag">iOS / iPadOS</span>
+            </div>
+
+            <!-- Architecture Notice -->
+            <div class="notice-banner">
+                <strong>核心认知：</strong>苹果 Spark 模拟器原生支持直接运行 PC 架构游戏。因此苹果玩家直接下载博文中的 <strong>PC 版压缩包</strong> 即可，无需寻找专用 iOS 包。
+            </div>
+
+            <!-- iOS Secondary Sub-segmented Control -->
+            <div class="subtab-wrapper">
+                <div class="subtab-segment">
+                    <button class="subtab-btn active" onclick="switchSubTab('ios', 'official')">官中原版 [直接导入]</button>
+                    <button class="subtab-btn" onclick="switchSubTab('ios', 'patch')">汉化补丁 [移动rpa]</button>
+                    <button class="subtab-btn" onclick="switchSubTab('ios', 'mod')">画廊 Mod [模组激活]</button>
+                </div>
+            </div>
+
+            <!-- iOS Scenario A: Official Chinese -->
+            <div id="ios-scenario-official" class="subtab-content active">
+                <div class="step-row">
+                    <div class="step-num">1</div>
+                    <div class="step-body">
+                        <div class="step-title">准备原版</div>
+                        <div class="step-desc">下载 PC 官中原版压缩包 [.zip]。</div>
+                    </div>
+                </div>
+
+                <div class="step-row">
+                    <div class="step-num">2</div>
+                    <div class="step-body">
+                        <div class="step-title">导入模拟器</div>
+                        <div class="step-desc">
+                            打开 Spark 模拟器导入压缩包，<strong>不用解压，不用解压，不用解压</strong>。
+                        </div>
+                    </div>
+                </div>
+
+                <div class="step-row">
+                    <div class="step-num">3</div>
+                    <div class="step-body">
+                        <div class="step-title">启动游戏</div>
+                        <div class="step-desc">在模拟器内点击封面启动，选择简体中文即可。</div>
+                    </div>
+                </div>
+
+                <div class="tip-card">
+                    <div class="tip-title">避坑小贴士</div>
+                    <div class="tip-text">
+                        若导入时提示空间不足，请先检查 iPhone 存储空间是否预留了游戏体积的 2 倍以上大小。
+                    </div>
+                </div>
+            </div>
+
+            <!-- iOS Scenario B: Patch (.rpa) -->
+            <div id="ios-scenario-patch" class="subtab-content">
+                <div class="step-row">
+                    <div class="step-num">1</div>
+                    <div class="step-body">
+                        <div class="step-title">导入原版</div>
+                        <div class="step-desc">将 PC 英文原版压缩包导入 Spark 模拟器，<strong>不用解压</strong>。</div>
+                    </div>
+                </div>
+
+                <div class="step-row">
+                    <div class="step-num">2</div>
+                    <div class="step-body">
+                        <div class="step-title">移动补丁</div>
+                        <div class="step-desc">使用“文件”App 将汉化补丁 .rpa 移动到以下路径：</div>
+                        <div class="path-box">
+                            <span class="path-text">我的 iPhone/Spark/games/[对应游戏包名]/game/</span>
+                            <button class="copy-btn" onclick="copyPath(this, '我的 iPhone/Spark/games/')">复制路径</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="step-row">
+                    <div class="step-num">3</div>
+                    <div class="step-body">
+                        <div class="step-title">启动游戏</div>
+                        <div class="step-desc">在模拟器内启动游戏，选择简体中文即可。</div>
+                    </div>
+                </div>
+
+                <div class="tip-card">
+                    <div class="tip-title">避坑小贴士</div>
+                    <div class="tip-text">
+                        如果在“文件”App 的 Spark 目录下没有看到对应游戏文件夹，请先在 Spark 模拟器内启动一次游戏建立目录，退出后再移动补丁。
+                    </div>
+                </div>
+            </div>
+
+            <!-- iOS Scenario C: Mod -->
+            <div id="ios-scenario-mod" class="subtab-content">
+                <div class="step-row">
+                    <div class="step-num">1</div>
+                    <div class="step-body">
+                        <div class="step-title">解压 Mod</div>
+                        <div class="step-desc">下载画廊 Mod 压缩包并解压出文件。</div>
+                    </div>
+                </div>
+
+                <div class="step-row">
+                    <div class="step-num">2</div>
+                    <div class="step-body">
+                        <div class="step-title">移动文件</div>
+                        <div class="step-desc">使用“文件”App 将解压出的文件移动到以下路径：</div>
+                        <div class="path-box">
+                            <span class="path-text">我的 iPhone/Spark/games/[对应游戏包名]/game/</span>
+                            <button class="copy-btn" onclick="copyPath(this, '我的 iPhone/Spark/games/')">复制路径</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="step-row">
+                    <div class="step-num">3</div>
+                    <div class="step-body">
+                        <div class="step-title">启动游戏</div>
+                        <div class="step-desc">重新打开模拟器启动游戏即可生效。</div>
+                    </div>
+                </div>
+
+                <div class="tip-card">
+                    <div class="tip-title">避坑小贴士</div>
+                    <div class="tip-text">
+                        覆盖画廊 Mod 前建议在游戏内提前备份存档；若覆盖后载入旧存档异常，可在游戏内使用坏档自愈。
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>落谦博客 · 极简全平台安装指南 · <a href="https://luoqian29.github.io/">luoqian29.github.io</a></p>
+    </footer>
+
+</div>
+
+<script>
+    // Theme Management
+    function initTheme() {
+        const savedTheme = localStorage.getItem('lq_guide_theme');
+        if (savedTheme) {
+            setTheme(savedTheme);
+        } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) {
+            setTheme('light');
+        } else {
+            setTheme('dark');
+        }
+    }
+
+    function setTheme(theme) {
+        document.documentElement.setAttribute('data-theme', theme);
+        localStorage.setItem('lq_guide_theme', theme);
+        const textSpan = document.getElementById('theme-text');
+        if (textSpan) {
+            textSpan.textContent = theme === 'dark' ? '浅色' : '深色';
+        }
+    }
+
+    function toggleTheme() {
+        const currentTheme = document.documentElement.getAttribute('data-theme') || 'dark';
+        const nextTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        setTheme(nextTheme);
+    }
+
+    // Main Platform Tabs
+    function switchMainTab(platform) {
+        document.querySelectorAll('.tab-segment .tab-btn').forEach(btn => btn.classList.remove('active'));
+        document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
+
+        if (platform === 'pc') {
+            document.querySelectorAll('.tab-segment .tab-btn')[0].classList.add('active');
+            document.getElementById('tab-pc').classList.add('active');
+        } else if (platform === 'android') {
+            document.querySelectorAll('.tab-segment .tab-btn')[1].classList.add('active');
+            document.getElementById('tab-android').classList.add('active');
+        } else if (platform === 'ios') {
+            document.querySelectorAll('.tab-segment .tab-btn')[2].classList.add('active');
+            document.getElementById('tab-ios').classList.add('active');
+        }
+    }
+
+    // Universal Sub-tabs Switcher for all platforms
+    function switchSubTab(platform, scenario) {
+        const platformCard = document.getElementById('tab-' + platform);
+        if (!platformCard) return;
+
+        platformCard.querySelectorAll('.subtab-btn').forEach(btn => btn.classList.remove('active'));
+        platformCard.querySelectorAll('.subtab-content').forEach(content => content.classList.remove('active'));
+
+        const targetContent = document.getElementById(platform + '-scenario-' + scenario);
+        if (targetContent) {
+            targetContent.classList.add('active');
+        }
+
+        const buttons = platformCard.querySelectorAll('.subtab-btn');
+        if (scenario === 'official' && buttons[0]) buttons[0].classList.add('active');
+        if (scenario === 'patch' && buttons[1]) buttons[1].classList.add('active');
+        if (scenario === 'mod' && buttons[2]) buttons[2].classList.add('active');
+    }
+
+    // Copy Helper
+    function copyPath(button, text) {
+        navigator.clipboard.writeText(text).then(() => {
+            const originalText = button.textContent;
+            button.textContent = '已复制';
+            button.classList.add('copied');
+            setTimeout(() => {
+                button.textContent = originalText;
+                button.classList.remove('copied');
+            }, 2000);
+        }).catch(() => {
+            button.textContent = '复制失败';
+            setTimeout(() => {
+                button.textContent = '复制路径';
+            }, 2000);
+        });
+    }
+
+    // Initialize on load
+    initTheme();
+</script>
+
+</body>
+</html>

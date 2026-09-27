@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on 一落归谦</title><link>https://luoqian29.github.io/page/</link><description>Recent content in Pages on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Sun, 23 Aug 2026 07:46:32 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>归档</title><link>https://luoqian29.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/archives/</guid><description/></item><item><title>焚诀</title><link>https://luoqian29.github.io/link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://luoqian29.github.io/link/</guid><description>&lt;style&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on 一落归谦</title><link>https://luoqian29.github.io/page/</link><description>Recent content in Pages on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Sun, 27 Sep 2026 17:19:04 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>归档</title><link>https://luoqian29.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/archives/</guid><description/></item><item><title>焚诀</title><link>https://luoqian29.github.io/link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://luoqian29.github.io/link/</guid><description>&lt;style&gt;
 /* 1. 焚诀顶部白色主卡片收拢紧凑，距离下方链接方块更加协调 */
 .main-article {
 margin-bottom: 24px !important;
@@ -48,6 +48,19 @@ margin: 0 !important;
 padding: 0 !important;
 height: 0 !important;
 }
+/* 4. 链接卡片高级磨砂与悬浮交互 */
+.article-list--compact.links article {
+margin: 0 !important;
+border-radius: 16px !important;
+transition: transform 0.25s cubic-bezier(0.25, 1, 0.5, 1), box-shadow 0.25s ease !important;
+}
+.article-list--compact.links article:hover {
+transform: translateY(-2px);
+box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08) !important;
+}
+[data-scheme="dark"] .article-list--compact.links article:hover {
+box-shadow: 0 10px 24px rgba(0, 0, 0, 0.35) !important;
+}
 &lt;/style&gt;</description></item><item><title>关于</title><link>https://luoqian29.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://luoqian29.github.io/about/</guid><description>&lt;style&gt;
 /*
 * About 页专属标题样式，仅在本篇页面生效。
@@ -86,70 +99,82 @@ font-size: clamp(2.8rem, 9vw, 3.6rem); /* 移动端标题大小 */
 display: none !important;
 }
 &lt;/style&gt;
-&lt;div class="reading-layout native-details native-link-buttons"&gt;
-&lt;h1 id="博客时间线"&gt;博客时间线
-&lt;/h1&gt;&lt;section class="reading-section"&gt;
-&lt;div class="mac-timeline"&gt;
-&lt;div class="mac-timeline-item"&gt;
-&lt;div class="mac-timeline-date"&gt;2026 &amp;amp; 未来&lt;/div&gt;
-&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
-&lt;div class="mac-timeline-content"&gt;
-&lt;h3 class="mac-timeline-title"&gt;汉化教程 🚀&lt;/h3&gt;
-&lt;div class="mac-timeline-desc"&gt;&lt;p&gt;由于在国内平台发布容易“被抬走”，接下来的重点干货将全面转移至此：&lt;/p&gt;
+&lt;div class="reading-layout native-details"&gt;
+&lt;h1 id="站长名片与建站初衷"&gt;站长名片与建站初衷
+&lt;/h1&gt;&lt;p&gt;我是落谦，一名独立视觉小说汉化制作者与现代 AI 工具探索者。&lt;br&gt;
+建立这个博客的初衷非常简单：专注于欧美与独立视觉小说的高质量 AI 汉化、精修补丁与功能模组制作，帮助看不懂英文的水友无障碍爽玩心仪的作品。&lt;br&gt;
+在这里，没有花哨的套路，没有恶心的网盘分卷，只有原汁原味的游戏体验与硬核干货。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="博客基建与现代技术栈"&gt;博客基建与现代技术栈
+&lt;/h1&gt;&lt;div class="mac-list-container reading-facts"&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;视觉交互&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;Apple 极简设计 · 全平台响应 · 磨砂双模&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;托管基建&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;GitHub Pages 纯静态托管 · 全球稳定直连&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;汉化工具&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;Python 自动化 · DeepSeek-V3.1 · 智能体协同&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;博客全站采用纯静态架构，依托 GitHub Pages 基础网络进行内容交付，保障在各终端环境下快速流畅加载。在汉化流程中，依托 Python 批量提取脚本、DeepSeek-V3.1 大语言模型以及 Antigravity 与 Codex 智能体深度协同，实现高效且接地气的译文体验。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="资源分流与网盘直连原则"&gt;资源分流与网盘直连原则
+&lt;/h1&gt;&lt;p&gt;博客所有游戏本体资源均源自作者官网、Patreon、Itch 或 F95 社区，坚决杜绝国内网盘恶心的会员限速、多次解压码与分卷套路。&lt;br&gt;
+汉化补丁与模组统一采用海外高速网盘作为双重保障：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;优先更新&lt;/strong&gt;：Unity 引擎的图文硬核教程。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;后续安排&lt;/strong&gt;：RPG 与 Renpy 引擎教程，以及各种奇奇怪怪的干货。&lt;br&gt;
-优先出图文就是因为这里&lt;strong&gt;不需要审核&lt;/strong&gt;。当然，更新速度得看我有没有时间。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;
+&lt;li&gt;&lt;strong&gt;GoFile&lt;/strong&gt;：部分地区支持免翻直连，下载速度飞快；机制为 7 天内无人下载自动轮转失效；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pixeldrain&lt;/strong&gt;：高速稳定，配合梯子能跑满宽带上限；只要两月内有人下载资源即永久有效。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果遇到下载速度受限，可参考自用的 &lt;strong&gt;&lt;a class="link" href="https://luoqian29.github.io/p/vpn/" &gt;科学上网工具推荐&lt;/a&gt;&lt;/strong&gt;；若对游戏安装有疑问，可随时查阅 &lt;strong&gt;&lt;a class="link" href="https://luoqian29.github.io/guides/install.html" &gt;全平台交互式安装指南&lt;/a&gt;&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="运营机制与交流渠道"&gt;运营机制与交流渠道
+&lt;/h1&gt;&lt;p&gt;为了让博客长效稳定运转，同时覆盖高昂的 API Token 算力与服务器支出，博客实行透明良性的运营机制：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AI 意译补丁 [7天尝鲜制]&lt;/strong&gt;：新发布的热门补丁，赞助老哥享有 7 天首发尝鲜，期满后全量公开发布。学生党老哥完全不用有心理负担，多等几天一样免费玩；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI 简润补丁 [进阶专享]&lt;/strong&gt;：V3.1 初翻配合深度简润、精修专有名词与算法修图，属于高耗时特装版，用于平摊算力成本；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;良性循环机制&lt;/strong&gt;：支持能覆盖开销就保持高产输出，支持有限就退回平稳佛系，一切随缘，且玩且珍惜。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="mac-list-container reading-help"&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;微信联系&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;&lt;code&gt;luoqian292929&lt;/code&gt; [加好友直接发送问题截图]&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="mac-timeline-item"&gt;
-&lt;div class="mac-timeline-date"&gt;2025 - 2026&lt;/div&gt;
-&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
-&lt;div class="mac-timeline-content"&gt;
-&lt;h3 class="mac-timeline-title"&gt;不知不觉成了资源站 📦&lt;/h3&gt;
-&lt;div class="mac-timeline-desc"&gt;原本只想发发日常，没想到顺手搬运游戏、制作汉化补丁，搞了两三百个资源，妈的，累死我了。&lt;br&gt;
-其实之前是会给一些汉化补丁加上订阅制的，一个星期后公开，费用是一个月 10 RMB。但是我不知道为什么一堆人喷我，所以我就不加了，导致现在的更新速度就变成了随缘更新：&lt;br&gt;
-有的话我会搬运几个官中；没的话，看到喜欢的游戏更新了，或者有水友推荐，也会顺手做一下汉化补丁。&lt;br&gt;
-一般我会做一些博客没有的。因为有些游戏更新了就是挤牙膏，做了也是浪费时间，还不如不做，毕竟做了还会挨骂，对吧？哈哈。&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;动态频道&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;欢迎关注 &lt;a class="link" href="https://t.me/&amp;#43;tb_8juFEZGllMjFl" target="_blank" rel="noopener"
+&gt;Telegram 频道&lt;/a&gt; 获取最新补丁发布与通知&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="mac-timeline-item"&gt;
-&lt;div class="mac-timeline-date"&gt;2024 - 2025&lt;/div&gt;
-&lt;div class="mac-timeline-node"&gt;&lt;/div&gt;
-&lt;div class="mac-timeline-content"&gt;
-&lt;h3 class="mac-timeline-title"&gt;我想发就发&lt;/h3&gt;
-&lt;div class="mac-timeline-desc"&gt;其实也没什么好说的，一开始我就是来发一些自己喜欢的文章而已。&lt;br&gt;
-因为这里不用审核嘛，我自己就是审核员，我想发什么就发什么。之前在国内发一些视频，无论是在音符还是在小破站，都会被抬走，甚至我的公众号都被封了…… 哎，太缺德了他们，我不知道谁举报的。然后现在部署在 GitHub 上，基本是没有审核啊，嘿嘿。&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;安装指南&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;查看全平台交互式 &lt;a class="link" href="https://luoqian29.github.io/guides/install.html" &gt;安装指引&lt;/a&gt;&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/section&gt;
-&lt;h1 id="关于资源与网盘"&gt;关于资源与网盘
-&lt;/h1&gt;&lt;section class="reading-section"&gt;
-&lt;p&gt;博客里的游戏资源本体，基本源自作者官网、Patreon、Itch 或 F95。海外网盘（如 Gofile、Vikingfile、Mega 等）不会有国内网盘那种恶心的“会员限速”，下载速度完全取决于你的&lt;strong&gt;魔法&lt;/strong&gt;质量和本地带宽（好的梯子跑到 20MB/s 也很正常）。&lt;br&gt;
-至于我自己上传得 &lt;strong&gt;汉化补丁&lt;/strong&gt; 和 &lt;strong&gt;Mod&lt;/strong&gt;，一般会上传到 GoFile 和 Pixeldrain 作为双重保障：&lt;/p&gt;
-&lt;details&gt;
-&lt;summary&gt;GoFile&lt;/summary&gt;
-&lt;p&gt;部分地区（如广东）不需要科学上网就能访问。但它的机制是 7天内没人下载就会自动失效（并非资源被举报）。&lt;/p&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Pixeldrain&lt;/summary&gt;
-&lt;p&gt;比较稳定，但百分百需要魔法。它是只要有两个月内有人下载，文件就不会失效。基本除了官网崩掉，资源都应该在的。&lt;/p&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;为什么不用 QQ 群文件、百度网盘或迅雷？&lt;/summary&gt;
-&lt;p&gt;一是因为我本身没有资源本体，二是因为国内审核太严，太麻烦了。用国内盘还得搞什么多次压缩、解压，乱七八糟的我不会弄，也没那闲工夫。&lt;/p&gt;
-&lt;/details&gt;
-&lt;aside class="reading-notice" role="note"&gt;
-&lt;p&gt;我只是简简单单为了帮助一些水友，不是“为爱发电”，不可能事事都喂到你嘴里。&lt;br&gt;
-能用就用，用不了就算了；有需要我就给，不需要就算了，大家按自己的需求选择。&lt;/p&gt;
-&lt;/aside&gt;
-&lt;/section&gt;
-&lt;h1 id="关于订阅制"&gt;关于订阅制
-&lt;/h1&gt;&lt;section class="reading-section"&gt;
-&lt;p&gt;那不加订阅制之后，博客有没有收益啊？&lt;br&gt;
-其实收益非常少。以前不加订阅制寥寥无几，一个月就三四十块钱赞助。加了之后，最高一个月拿到过 700 多，最少也有 300 多，确实挺杯水车薪。除了大家投喂的收益，还有一个魔法推广佣金，一般也有几百块。&lt;br&gt;
-总之就是这样子吧，运营博客也没收多少费用，一个月跑 AI 大概就百来块，毕竟我自己也要玩一点。加上部署在 GitHub 上，费用也是挺少的，就当交点网费和电费而已~&lt;/p&gt;
-&lt;/section&gt;
 &lt;/div&gt;</description></item><item><title>搜索</title><link>https://luoqian29.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://luoqian29.github.io/search/</guid><description/></item></channel></rss>
