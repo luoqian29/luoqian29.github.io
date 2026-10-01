@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>欧美风 on 一落归谦</title><link>https://luoqian29.github.io/tags/%E6%AC%A7%E7%BE%8E%E9%A3%8E/</link><description>Recent content in 欧美风 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Wed, 30 Sep 2026 12:30:42 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/%E6%AC%A7%E7%BE%8E%E9%A3%8E/index.xml" rel="self" type="application/rss+xml"/><item><title>FreshWomen 新生也疯狂</title><link>https://luoqian29.github.io/p/freshwomen/</link><pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/freshwomen/</guid><description>&lt;img src="https://img.itch.zone/aW1nLzE0NDMyNjQ4LmpwZw==/original/fZpvRH.jpg" alt="Featured image of post FreshWomen 新生也疯狂" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>欧美风 on 一落归谦</title><link>https://luoqian29.github.io/tags/%E6%AC%A7%E7%BE%8E%E9%A3%8E/</link><description>Recent content in 欧美风 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Fri, 02 Oct 2026 01:24:53 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/%E6%AC%A7%E7%BE%8E%E9%A3%8E/index.xml" rel="self" type="application/rss+xml"/><item><title>FreshWomen 新生也疯狂</title><link>https://luoqian29.github.io/p/freshwomen/</link><pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/freshwomen/</guid><description>&lt;img src="https://img.itch.zone/aW1nLzE0NDMyNjQ4LmpwZw==/original/fZpvRH.jpg" alt="Featured image of post FreshWomen 新生也疯狂" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="freshwomen-season-3-88-oppaiman"&gt;FreshWomen [Season 3 88%] [OppaiMan]
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://cdn-uploads.oppaiman.com/67e2e5bc4f6bb78eb78666b6_20-08-2026-12-59-56-146_80-post.jpg"
 loading="lazy"
@@ -3230,7 +3230,7 @@ alt="screenshot0021.png"
 &lt;div class="reading-bento-card"&gt;
 &lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
 &lt;div class="reading-bento-desc"&gt;
-&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，使用 &lt;strong&gt;DeepSeek-V3 API&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
+&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，反代 &lt;strong&gt;Gemini 3.8 Flash High API&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-bento-card"&gt;
@@ -3249,7 +3249,7 @@ alt="screenshot0021.png"
 &lt;details&gt;
 &lt;summary style="color:#00A1D6;font-weight:600;"&gt;关于AI简润汉化补丁&lt;/summary&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛠️ 1. 大模型与文风&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;&lt;strong&gt;技术底座&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再使用 &lt;strong&gt;DeepSeek-V3 API&lt;/strong&gt; 简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Antigravity (Gemini 3.8 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;技术底座&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再反代 &lt;strong&gt;Gemini 3.8 Flash High API&lt;/strong&gt; 简润，统一校对角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Antigravity (Gemini 3.8 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
 &lt;strong&gt;关于文风：&lt;/strong&gt; AI跑出来是什么文风就是什么文风。我个人很喜欢 DeepSeek 和 Gemini 的地道文风；如果追求极致文学级的翻译，圈内也有很多优秀的汉化大佬纯手工精翻，大家各取所需即可。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
