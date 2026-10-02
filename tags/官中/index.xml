@@ -148,6 +148,25 @@ alt="预览图"
 &lt;h2 id="download官中"&gt;DOWNLOAD（官中）
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
+&lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;杂谈&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;坦白说，这部游戏我自己其实一直没时间去玩。之前看不少水友反馈，都说这是一部剧情质量很高的女子排球题材佳作。&lt;/p&gt;
+&lt;p&gt;之前发 0.3 版本的时候，有几位老哥跟我提过：游戏自带的官方中文稍微带点机翻味，台词偏生硬，部分对白不太契合角色人设。
+玩惯了大模型地道文风的朋友，读官中可能确实会有些隔阂。我之前甚至动过念头，要不要直接给它整一个支持 7 种文风自由切换的补丁矩阵：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5 档大模型意译：包括 DeepSeek-V3.1、DeepSeek-V3、Gemini 3.8 Flash High，以及两个顶尖模型 Claude Sonnet 4.6 和 Claude Opus 4.6 跑出来的各版本意译；&lt;/li&gt;
+&lt;li&gt;2 档进阶深度简润：以 DeepSeek-V3.1 为初翻底座，分别调用 DeepSeek-V3 与 Gemini 3.8 Flash High 进行精细微调润色。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;但转念一想，本作毕竟已经有官方中文能正常通关了。调 API 一口气跑完这 7 套文风的算力 Token 成本非常高，如果大家觉得现在的官中勉强能接受，我就把这些算力优先留给那些完全没有中文的优质生肉游戏。&lt;/p&gt;
+&lt;p&gt;大家如果确实对这种多模型、更地道自然的 7 文风汉化补丁有强烈需求，可以在评论区留言告诉我。如果呼声够高，后续我再抽时间给它全部跑出来；如果反响一般，大家就安心玩目前的官中原版即可。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
 &lt;/summary&gt;
 &lt;div class="reading-platform-body"&gt;
