@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="system">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wild Cats (v0.4) 官方中文 Mod 安装与使用指南</title>
+  <style>
+    /* 核心色彩系统定义 (暗黑默认 / 明亮适配) */
+    :root, [data-theme="dark"] {
+      --bg: #0d0f14;
+      --bg-gradient-1: rgba(56, 239, 125, 0.08);
+      --bg-gradient-2: rgba(10, 132, 255, 0.07);
+      --card-bg: rgba(26, 29, 36, 0.72);
+      --card-border: rgba(255, 255, 255, 0.08);
+      --card-hover: rgba(255, 255, 255, 0.15);
+      --card-shadow: 0 16px 36px rgba(0, 0, 0, 0.35);
+      --accent-green: #38ef7d;
+      --accent-green-glow: rgba(56, 239, 125, 0.25);
+      --accent-blue: #0a84ff;
+      --text-main: #f5f5f7;
+      --text-sub: #98989d;
+      --text-muted: #6e6e73;
+      --inner-box: rgba(18, 21, 28, 0.6);
+      --filename-bg: rgba(0, 0, 0, 0.4);
+      --filename-border: rgba(255, 255, 255, 0.06);
+      --code-bg: rgba(255, 255, 255, 0.08);
+      --code-color: #ffd60a;
+      --table-border: rgba(255, 255, 255, 0.08);
+      --table-row-border: rgba(255, 255, 255, 0.04);
+      --key-bg: rgba(255, 255, 255, 0.1);
+      --key-border: rgba(255, 255, 255, 0.18);
+      --key-text: #ffffff;
+      --pill-free-bg: rgba(255, 255, 255, 0.1);
+      --pill-free-text: #ffffff;
+      --header-title-gradient: linear-gradient(135deg, #ffffff 40%, #b0b0b8 100%);
+      --switch-bg: rgba(255, 255, 255, 0.08);
+      --switch-active-bg: rgba(255, 255, 255, 0.18);
+      --switch-text: #8e8e93;
+      --switch-active-text: #ffffff;
+    }
+
+    [data-theme="light"] {
+      --bg: #f5f5f7;
+      --bg-gradient-1: rgba(56, 239, 125, 0.15);
+      --bg-gradient-2: rgba(10, 132, 255, 0.10);
+      --card-bg: rgba(255, 255, 255, 0.85);
+      --card-border: rgba(0, 0, 0, 0.08);
+      --card-hover: rgba(0, 0, 0, 0.14);
+      --card-shadow: 0 12px 32px rgba(0, 0, 0, 0.08);
+      --accent-green: #248a4d;
+      --accent-green-glow: rgba(36, 138, 77, 0.2);
+      --accent-blue: #0071e3;
+      --text-main: #1d1d1f;
+      --text-sub: #6e6e73;
+      --text-muted: #86868b;
+      --inner-box: rgba(245, 245, 247, 0.9);
+      --filename-bg: rgba(235, 235, 240, 0.95);
+      --filename-border: rgba(0, 0, 0, 0.08);
+      --code-bg: rgba(0, 0, 0, 0.06);
+      --code-color: #b25000;
+      --table-border: rgba(0, 0, 0, 0.08);
+      --table-row-border: rgba(0, 0, 0, 0.05);
+      --key-bg: rgba(0, 0, 0, 0.05);
+      --key-border: rgba(0, 0, 0, 0.12);
+      --key-text: #1d1d1f;
+      --pill-free-bg: rgba(0, 0, 0, 0.07);
+      --pill-free-text: #1d1d1f;
+      --header-title-gradient: linear-gradient(135deg, #1d1d1f 30%, #48484a 100%);
+      --switch-bg: rgba(0, 0, 0, 0.06);
+      --switch-active-bg: #ffffff;
+      --switch-text: #6e6e73;
+      --switch-active-text: #1d1d1f;
+    }
+
+    /* 跟随系统模式媒体查询 */
+    @media (prefers-color-scheme: light) {
+      [data-theme="system"] {
+        --bg: #f5f5f7;
+        --bg-gradient-1: rgba(56, 239, 125, 0.15);
+        --bg-gradient-2: rgba(10, 132, 255, 0.10);
+        --card-bg: rgba(255, 255, 255, 0.85);
+        --card-border: rgba(0, 0, 0, 0.08);
+        --card-hover: rgba(0, 0, 0, 0.14);
+        --card-shadow: 0 12px 32px rgba(0, 0, 0, 0.08);
+        --accent-green: #248a4d;
+        --accent-green-glow: rgba(36, 138, 77, 0.2);
+        --accent-blue: #0071e3;
+        --text-main: #1d1d1f;
+        --text-sub: #6e6e73;
+        --text-muted: #86868b;
+        --inner-box: rgba(245, 245, 247, 0.9);
+        --filename-bg: rgba(235, 235, 240, 0.95);
+        --filename-border: rgba(0, 0, 0, 0.08);
+        --code-bg: rgba(0, 0, 0, 0.06);
+        --code-color: #b25000;
+        --table-border: rgba(0, 0, 0, 0.08);
+        --table-row-border: rgba(0, 0, 0, 0.05);
+        --key-bg: rgba(0, 0, 0, 0.05);
+        --key-border: rgba(0, 0, 0, 0.12);
+        --key-text: #1d1d1f;
+        --pill-free-bg: rgba(0, 0, 0, 0.07);
+        --pill-free-text: #1d1d1f;
+        --header-title-gradient: linear-gradient(135deg, #1d1d1f 30%, #48484a 100%);
+        --switch-bg: rgba(0, 0, 0, 0.06);
+        --switch-active-bg: #ffffff;
+        --switch-text: #6e6e73;
+        --switch-active-text: #1d1d1f;
+      }
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      transition: background-color 0.25s ease, border-color 0.25s ease, color 0.25s ease;
+    }
+
+    body {
+      background-color: var(--bg);
+      background-image: 
+        radial-gradient(circle at 15% 15%, var(--bg-gradient-1) 0%, transparent 40%),
+        radial-gradient(circle at 85% 75%, var(--bg-gradient-2) 0%, transparent 45%);
+      color: var(--text-main);
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      padding: 30px 20px 80px;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+    }
+
+    /* 顶部主题控制栏 */
+    .top-bar {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      margin-bottom: 24px;
+    }
+
+    .theme-segment {
+      display: inline-flex;
+      background: var(--switch-bg);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border: 1px solid var(--card-border);
+      border-radius: 999px;
+      padding: 3px;
+      gap: 2px;
+    }
+
+    .theme-btn {
+      background: transparent;
+      border: none;
+      padding: 6px 12px;
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--switch-text);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      outline: none;
+    }
+
+    .theme-btn:hover {
+      color: var(--text-main);
+    }
+
+    .theme-btn.active {
+      background: var(--switch-active-bg);
+      color: var(--switch-active-text);
+      box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+      font-weight: 600;
+    }
+
+    /* 头部 Header */
+    .header {
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    .badge-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 14px;
+      background: rgba(56, 239, 125, 0.12);
+      border: 1px solid rgba(56, 239, 125, 0.3);
+      border-radius: 999px;
+      color: var(--accent-green);
+      font-size: 13px;
+      font-weight: 500;
+      letter-spacing: 0.5px;
+      margin-bottom: 16px;
+      box-shadow: 0 0 20px var(--accent-green-glow);
+    }
+
+    .header h1 {
+      font-size: 38px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      background: var(--header-title-gradient);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 12px;
+    }
+
+    .header p {
+      font-size: 16px;
+      color: var(--text-sub);
+      max-width: 620px;
+      margin: 0 auto;
+    }
+
+    /* 苹果风毛玻璃卡片 */
+    .glass-card {
+      background: var(--card-bg);
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
+      border: 1px solid var(--card-border);
+      border-radius: 20px;
+      padding: 32px;
+      margin-bottom: 32px;
+      box-shadow: var(--card-shadow);
+    }
+
+    .glass-card:hover {
+      border-color: var(--card-hover);
+    }
+
+    .card-title {
+      font-size: 20px;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 20px;
+      color: var(--text-main);
+    }
+
+    .card-title .icon {
+      font-size: 22px;
+    }
+
+    /* 双版本交互对比 */
+    .version-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+      margin-top: 16px;
+    }
+
+    @media (max-width: 768px) {
+      .version-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .version-box {
+      background: var(--inner-box);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 24px;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .version-box.featured {
+      border-color: rgba(56, 239, 125, 0.4);
+      background: linear-gradient(180deg, rgba(56, 239, 125, 0.05) 0%, var(--inner-box) 100%);
+    }
+
+    .tag-pro {
+      position: absolute;
+      top: 16px;
+      right: 16px;
+      background: linear-gradient(135deg, #38ef7d, #11998e);
+      color: #0b0d13;
+      font-size: 11px;
+      font-weight: 700;
+      padding: 4px 10px;
+      border-radius: 6px;
+      letter-spacing: 0.5px;
+    }
+
+    .tag-free {
+      position: absolute;
+      top: 16px;
+      right: 16px;
+      background: var(--pill-free-bg);
+      color: var(--pill-free-text);
+      font-size: 11px;
+      font-weight: 600;
+      padding: 4px 10px;
+      border-radius: 6px;
+    }
+
+    .version-name {
+      font-size: 20px;
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+
+    .version-target {
+      font-size: 13px;
+      color: var(--text-sub);
+      margin-bottom: 16px;
+    }
+
+    .feature-list {
+      list-style: none;
+      margin-bottom: 24px;
+    }
+
+    .feature-list li {
+      font-size: 14px;
+      padding: 6px 0;
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      color: var(--text-main);
+    }
+
+    .feature-list li .check {
+      color: var(--accent-green);
+      font-weight: bold;
+    }
+
+    .feature-list li .cross {
+      color: var(--text-muted);
+    }
+
+    .filename-box {
+      background: var(--filename-bg);
+      border: 1px solid var(--filename-border);
+      border-radius: 8px;
+      padding: 10px 12px;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 12px;
+      color: var(--text-main);
+      word-break: break-all;
+    }
+
+    /* 安装步骤图解 */
+    .install-steps {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .step-item {
+      display: flex;
+      gap: 18px;
+      align-items: flex-start;
+      background: var(--inner-box);
+      border: 1px solid var(--card-border);
+      padding: 18px 20px;
+      border-radius: 14px;
+    }
+
+    .step-num {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background: rgba(56, 239, 125, 0.15);
+      color: var(--accent-green);
+      border: 1px solid rgba(56, 239, 125, 0.3);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 14px;
+      flex-shrink: 0;
+    }
+
+    .step-content h4 {
+      font-size: 15px;
+      font-weight: 600;
+      margin-bottom: 4px;
+      color: var(--text-main);
+    }
+
+    .step-content p {
+      font-size: 13px;
+      color: var(--text-sub);
+    }
+
+    .code-inline {
+      background: var(--code-bg);
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-family: monospace;
+      font-size: 12px;
+      color: var(--code-color);
+    }
+
+    /* 快捷键速查表格 */
+    .shortcut-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 14px;
+    }
+
+    .shortcut-table th {
+      text-align: left;
+      padding: 12px 14px;
+      color: var(--text-sub);
+      border-bottom: 1px solid var(--table-border);
+      font-weight: 500;
+      font-size: 13px;
+    }
+
+    .shortcut-table td {
+      padding: 14px;
+      border-bottom: 1px solid var(--table-row-border);
+      color: var(--text-main);
+    }
+
+    .key-badge {
+      display: inline-block;
+      padding: 3px 8px;
+      background: var(--key-bg);
+      border: 1px solid var(--key-border);
+      border-radius: 6px;
+      font-family: monospace;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--key-text);
+      box-shadow: 0 2px 0 rgba(0,0,0,0.15);
+    }
+
+    /* 底部声明 */
+    .footer {
+      text-align: center;
+      margin-top: 48px;
+      font-size: 13px;
+      color: var(--text-muted);
+    }
+
+    .footer a {
+      color: var(--accent-green);
+      text-decoration: none;
+      transition: opacity 0.2s;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
+    .pill-tag {
+      font-size: 11px;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-weight: 600;
+    }
+    .pill-green { background: rgba(56, 239, 125, 0.15); color: var(--accent-green); }
+    .pill-gold { background: rgba(255, 214, 10, 0.15); color: #c69500; }
+    [data-theme="dark"] .pill-gold { color: #ffd60a; }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <!-- 顶部主题切换器 (跟随系统 / 浅色 / 夜间) -->
+    <div class="top-bar">
+      <div class="theme-segment" id="themeSegment">
+        <button class="theme-btn active" data-theme="system" onclick="setTheme('system')">
+          <span>💻 跟随系统</span>
+        </button>
+        <button class="theme-btn" data-theme="light" onclick="setTheme('light')">
+          <span>☀️ 浅色</span>
+        </button>
+        <button class="theme-btn" data-theme="dark" onclick="setTheme('dark')">
+          <span>🌙 夜间</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- 头部 Header -->
+    <header class="header">
+      <div class="badge-pill">
+        <span>⚡ VisionOS 工业级架构 · 0 字节侵入原版 · 0 存档污染</span>
+      </div>
+      <h1>Wild Cats (v0.4) 官方中文 Mod</h1>
+      <p>为《野猫》打造的高内聚自包含模组系统 · 支持 PC / Android / iOS 全平台</p>
+    </header>
+
+    <!-- 版本对比板块 -->
+    <section class="glass-card">
+      <div class="card-title">
+        <span class="icon">📦</span>
+        <span>双版本发行阵列 (Edition Comparison)</span>
+      </div>
+      <p style="font-size: 14px; color: var(--text-sub); margin-bottom: 20px;">
+        根据您的实际游戏需求选择适合的模组包。所有版本均经过 Ren'Py 8 原生静态编译，即插即用。
+      </p>
+
+      <div class="version-grid">
+        <!-- 公开版 -->
+        <div class="version-box">
+          <span class="tag-free">公开版</span>
+          <div>
+            <div class="version-name" style="color: #64d2ff;">Walkthrough Mod</div>
+            <div class="version-target">剧情选项防踩雷攻略版 · 纯净体验</div>
+            <ul class="feature-list">
+              <li><span class="check">✓</span> <span><b>RPY+JSON 选项提示</b>：全量 137 处分支同胞指纹锁定</span></li>
+              <li><span class="check">✓</span> <span><b>10 处致命 Bad Ending 预警</b>：高对比度红绿染色</span></li>
+              <li><span class="check">✓</span> <span><b>3.5s 极简品牌开屏动效</b>：单例免打扰模式</span></li>
+              <li><span class="check">✓</span> <span><b>原生 IME 中文起名放行</b>：主角名输入零乱码</span></li>
+              <li><span class="check">✓</span> <span><b>右上角毛玻璃双态胶囊开关</b>：随时热开/热关</span></li>
+              <li><span class="cross">✕</span> <span style="color: var(--text-muted);">焚诀控制台 (属性/好感/路线修改)</span></li>
+              <li><span class="cross">✕</span> <span style="color: var(--text-muted);">一键全开画廊与 Replay 剧情回放</span></li>
+              <li><span class="cross">✕</span> <span style="color: var(--text-muted);">4 款高定中文字体平滑热切</span></li>
+              <li><span class="cross">✕</span> <span style="color: var(--text-muted);">动态中英双语对白字幕</span></li>
+            </ul>
+          </div>
+          <div>
+            <div style="font-size: 12px; color: var(--text-sub); margin-bottom: 6px;">压缩包文件名：</div>
+            <div class="filename-box">WildCats-v0.4-luoqian-Walkthrough-Mod.zip</div>
+          </div>
+        </div>
+
+        <!-- 订阅版 -->
+        <div class="version-box featured">
+          <span class="tag-pro">订阅版</span>
+          <div>
+            <div class="version-name" style="color: var(--accent-green);">Multi Mod</div>
+            <div class="version-target">多合一全功能天花板 · 上帝工坊</div>
+            <ul class="feature-list">
+              <li><span class="check">✓</span> <span><b>包含 Walkthrough 版全部攻略与补丁功能</b></span></li>
+              <li><span class="check">✓</span> <span><b>焚诀双页控制台</b>：6 女主好感/路线/Flag 无级修改</span></li>
+              <li><span class="check">✓</span> <span><b>底层字典同步</b>：修改联动 <code class="code-inline">init_char()</code> 0 坏档</span></li>
+              <li><span class="check">✓</span> <span><b>动态画廊全解</b>：瞬间去模糊、全 CG 与回放全放行</span></li>
+              <li><span class="check">✓</span> <span><b>4 款名家书法字体热切</b>：楷书/正圆/斜圆/行楷</span></li>
+              <li><span class="check">✓</span> <span><b>动态双语字幕</b>：-14px 视网膜英文副字幕</span></li>
+              <li><span class="check">✓</span> <span><b>高定原生双轨微标</b>：主菜单右上 / 局内左上智能避让</span></li>
+              <li><span class="check">✓</span> <span><b>工坊自适应直达</b>：主菜单点微标秒进排版与工坊设置</span></li>
+            </ul>
+          </div>
+          <div>
+            <div style="font-size: 12px; color: var(--text-sub); margin-bottom: 6px;">压缩包文件名：</div>
+            <div class="filename-box">WildCats-v0.4-luoqian-Multi-Mod.zip</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 安装指引 -->
+    <section class="glass-card">
+      <div class="card-title">
+        <span class="icon">🚀</span>
+        <span>3 秒极速安装指南 (Installation Guide)</span>
+      </div>
+
+      <div class="install-steps">
+        <div class="step-item">
+          <div class="step-num">1</div>
+          <div class="step-content">
+            <h4>下载并解压模组压缩包</h4>
+            <p>下载您所需的版本（<code class="code-inline">WildCats-v0.4-luoqian-Walkthrough-Mod.zip</code> 或 <code class="code-inline">Multi-Mod</code>），解压得到内含的 <code class="code-inline">game</code> 文件夹。</p>
+          </div>
+        </div>
+
+        <div class="step-item">
+          <div class="step-num">2</div>
+          <div class="step-content">
+            <h4>覆盖至游戏主目录</h4>
+            <p>将解压出来的 <code class="code-inline">game</code> 文件夹直接拖入游戏的根目录（即包含 <code class="code-inline">WildCats.exe</code> 的文件夹），若提示合并文件夹请点击“确认”。最终目录结构为：</p>
+            <div class="filename-box" style="margin-top: 8px;">
+              WildCats-0.4-pc/<br>
+              └── 📁 game/<br>
+              &nbsp;&nbsp;&nbsp;&nbsp;└── 📁 mod_wildcats/ &nbsp;&nbsp;👈 【Mod 完整自包含于此，0 字节改动原版代码】
+            </div>
+          </div>
+        </div>
+
+        <div class="step-item">
+          <div class="step-num">3</div>
+          <div class="step-content">
+            <h4>启动游戏即可享用</h4>
+            <p>双击启动游戏，进入游戏后即刻享受全新的攻略与工坊体验。如需卸载，只需删除 <code class="code-inline">game/mod_wildcats/</code> 文件夹，立即 100% 恢复纯净原版。</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 快捷键速查 -->
+    <section class="glass-card">
+      <div class="card-title">
+        <span class="icon">⌨️</span>
+        <span>全局快捷键与交互速查卡 (Controls & Hotkeys)</span>
+      </div>
+
+      <table class="shortcut-table">
+        <thead>
+          <tr>
+            <th>功能特性</th>
+            <th>交互触点位置</th>
+            <th>全局快捷键</th>
+            <th>适用版本</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><b>选项提示开关</b></td>
+            <td>出现选择题时屏幕右上角胶囊按钮</td>
+            <td><span class="key-badge">Shift + H</span> 或 <span class="key-badge">F8</span></td>
+            <td><span class="pill-tag pill-green">双版通用</span></td>
+          </tr>
+          <tr>
+            <td><b>焚诀控制台</b></td>
+            <td>主菜单右上角微标 / 局内左上角微标 / 底栏【Cheat】</td>
+            <td><span class="key-badge">Shift + C</span> / <span class="key-badge">F10</span> / <span class="key-badge">~</span></td>
+            <td><span class="pill-tag pill-gold">订阅版专属</span></td>
+          </tr>
+          <tr>
+            <td><b>动态双语字幕</b></td>
+            <td>控制台 Tab 2 “画面沉浸与双语” 开关</td>
+            <td><span class="key-badge">Shift + B</span> 或 <span class="key-badge">F9</span></td>
+            <td><span class="pill-tag pill-gold">订阅版专属</span></td>
+          </tr>
+          <tr>
+            <td><b>画廊与回放全开</b></td>
+            <td>主菜单/局内进入 Gallery 或 Selfies 界面右上角胶囊</td>
+            <td>进入界面自动联动展示</td>
+            <td><span class="pill-tag pill-gold">订阅版专属</span></td>
+          </tr>
+          <tr>
+            <td><b>4 款中文字体热切</b></td>
+            <td>控制台 Tab 2 “文字与字体排版” 5 档药丸按钮</td>
+            <td>控制台内秒级热切</td>
+            <td><span class="pill-tag pill-gold">订阅版专属</span></td>
+          </tr>
+          <tr>
+            <td><b>中文起名输入</b></td>
+            <td>开局起名对话框或任意输入界面</td>
+            <td>原生拼音/五笔 IME 输入法</td>
+            <td><span class="pill-tag pill-green">双版通用</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- 常见问题 -->
+    <section class="glass-card">
+      <div class="card-title">
+        <span class="icon">❓</span>
+        <span>常见问题与解答 (FAQ)</span>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 18px; font-size: 14px;">
+        <div>
+          <div style="font-weight: 600; margin-bottom: 4px;">Q1: 安装模组会损坏我现有的游戏存档吗？</div>
+          <div style="color: var(--text-sub);">A: 绝对不会！本项目遵循工业级 SSOT 规范，所有代码 100% 独立于 <code class="code-inline">mod_wildcats/</code> 目录，所有探针均为只读检测或无损动态拦截，对原生存档零污染、零篡改。</div>
+        </div>
+
+        <div>
+          <div style="font-weight: 600; margin-bottom: 4px;">Q2: 为什么主菜单点击微标打开的是“辅助工坊”，局内打开的是“核心作弊”？</div>
+          <div style="color: var(--text-sub);">A: 这是专门设计的防脏数据安全机制。主菜单尚未加载任何游戏存档，直接修改角色好感度可能引发数据冲突；因此主菜单点击默认直达工坊供您挑选字体与微标样式，进入局内游玩后点击即直达核心作弊。</div>
+        </div>
+
+        <div>
+          <div style="font-weight: 600; margin-bottom: 4px;">Q3: 为什么局内微标放在左上角？</div>
+          <div style="color: var(--text-sub);">A: 原版游戏的右上角有原作者的原生“任务写字板”和选项提示开关。为了彻底杜绝重叠遮挡，局内微标专门移至绝对左上角，形成完美的视觉避让与操作平衡。</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 页脚与署名 -->
+    <footer class="footer">
+      <p style="margin-bottom: 8px;">Produced with precision by <b>落谦 (luoqian)</b> · Industrial Game Localization & Architecture</p>
+      <p>博客主页：<a href="https://luoqian29.github.io/" target="_blank">luoqian29.github.io</a> · 交流与更新订阅请访问官方发布帖</p>
+    </footer>
+  </div>
+
+  <script>
+    // 主题切换逻辑 (支持跟随系统 / 浅色 / 夜间，并在 localStorage 中记忆)
+    function setTheme(mode) {
+      document.documentElement.setAttribute('data-theme', mode);
+      localStorage.setItem('lq_mod_guide_theme', mode);
+      
+      const buttons = document.querySelectorAll('.theme-btn');
+      buttons.forEach(btn => {
+        if (btn.getAttribute('data-theme') === mode) {
+          btn.classList.add('active');
+        } else {
+          btn.classList.remove('active');
+        }
+      });
+    }
+
+    // 页面载入时恢复保存的主题
+    (function initTheme() {
+      const savedTheme = localStorage.getItem('lq_mod_guide_theme') || 'system';
+      setTheme(savedTheme);
+    })();
+  </script>
+
+</body>
+</html>
