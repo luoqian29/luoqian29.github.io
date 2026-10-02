@@ -158,6 +158,57 @@ loading="lazy"
 alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
+&lt;details class="reading-note reading-gallery"&gt;
+&lt;summary&gt;实图&lt;/summary&gt;
+&lt;p&gt;&lt;img src="https://files.catbox.moe/x3bt23.png"
+loading="lazy"
+alt="screenshot0001.png"
+&gt;
+&lt;img src="https://files.catbox.moe/d8rhla.png"
+loading="lazy"
+alt="screenshot0002.png"
+&gt;
+&lt;img src="https://files.catbox.moe/etdyvl.png"
+loading="lazy"
+alt="screenshot0003.png"
+&gt;
+&lt;img src="https://files.catbox.moe/xcdys7.png"
+loading="lazy"
+alt="screenshot0004.png"
+&gt;
+&lt;img src="https://files.catbox.moe/3r5b37.png"
+loading="lazy"
+alt="screenshot0005.png"
+&gt;
+&lt;img src="https://files.catbox.moe/ntp2ne.png"
+loading="lazy"
+alt="screenshot0006.png"
+&gt;
+&lt;img src="https://files.catbox.moe/7tmxsz.png"
+loading="lazy"
+alt="screenshot0007.png"
+&gt;
+&lt;img src="https://files.catbox.moe/8fy63c.png"
+loading="lazy"
+alt="screenshot0008.png"
+&gt;
+&lt;img src="https://files.catbox.moe/82i51q.png"
+loading="lazy"
+alt="screenshot0009.png"
+&gt;
+&lt;img src="https://files.catbox.moe/50d5ci.png"
+loading="lazy"
+alt="screenshot0010.png"
+&gt;
+&lt;img src="https://files.catbox.moe/nk7wch.png"
+loading="lazy"
+alt="screenshot0011.png"
+&gt;
+&lt;img src="https://files.catbox.moe/x2um8t.png"
+loading="lazy"
+alt="screenshot0012.png"
+&gt;&lt;/p&gt;
+&lt;/details&gt;
 &lt;hr&gt;
 &lt;h2 id="download官中"&gt;DOWNLOAD（官中）
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
@@ -1496,7 +1547,7 @@ alt="screenshot0013.png"
 &lt;li&gt;&lt;strong&gt;神装秘宝与图鉴全满：&lt;/strong&gt; 赌场筹码、万能钥匙、永不磨损开锁器、全女主内裤与相框图鉴一键全收集，还贴心地加了“属性一键还原”功能，随时恢复正常人数值防止出戏。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;所有功能我们还做了一份非常精致的&lt;strong&gt;在线全景互动说明书&lt;/strong&gt;，所有操作演示都写在里面了，点击就能直接在浏览器看：&lt;/p&gt;
-&lt;p&gt;👉 &lt;strong&gt;&lt;a class="link" href="https://luoqian29.github.io/guides/Agent17_V2.html" &gt;📖 点击在线查看《V2.0 终极全景互动使用指南》&lt;/a&gt;&lt;/strong&gt;（支持手机/PC端直接浏览）&lt;/p&gt;
+&lt;p&gt;👉 &lt;strong&gt;&lt;a class="link" href="https://luoqian29.github.io/guides/Agent17-v2.0-Mod-Guide.html" &gt;📖 点击在线查看《V2.0 终极全景互动使用指南》&lt;/a&gt;&lt;/strong&gt;（支持手机/PC端直接浏览）&lt;/p&gt;
 &lt;p&gt;因为烧了一整个星期的模型算力，消耗的 Token 实在太多了，确实需要回点本，所以 &lt;strong&gt;1.0 版本公开，2.0 版本订阅&lt;/strong&gt;。爱发电 10 块钱一个月也是白菜价了，后续如果有人反馈问题，我会主力在这个 2.0 上继续维护迭代。我自己平时是不玩这游戏的，大家遇到什么 bug 随时反馈给我就行，嘿嘿。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;安装方法：&lt;/strong&gt; 解压压缩包，把解压出来的 &lt;strong&gt;game&lt;/strong&gt; 文件夹直接覆盖到游戏根目录的 &lt;strong&gt;game&lt;/strong&gt; 文件夹即可。&lt;/p&gt;
 &lt;/div&gt;
