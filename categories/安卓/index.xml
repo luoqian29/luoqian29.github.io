@@ -1,4 +1,516 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>安卓 on 一落归谦</title><link>https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/</link><description>Recent content in 安卓 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Tue, 20 Oct 2026 15:22:22 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/index.xml" rel="self" type="application/rss+xml"/><item><title>Eclipsis 日蚀之刻</title><link>https://luoqian29.github.io/p/eclipsis/</link><pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/eclipsis/</guid><description>&lt;img src="https://files.catbox.moe/7h9mj8.png" alt="Featured image of post Eclipsis 日蚀之刻" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>安卓 on 一落归谦</title><link>https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/</link><description>Recent content in 安卓 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Wed, 21 Oct 2026 08:56:48 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/%E5%AE%89%E5%8D%93/index.xml" rel="self" type="application/rss+xml"/><item><title>New Family 新家庭</title><link>https://luoqian29.github.io/p/newfamily/</link><pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/newfamily/</guid><description>&lt;img src="https://img.itch.zone/aW1nLzE4OTM0Mzk5LnBuZw==/original/AmO%2Bkq.png" alt="Featured image of post New Family 新家庭" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+&lt;h1 id="new-family-v100-king-peanut"&gt;New Family [v1.0.0] [King Peanut]
+&lt;/h1&gt;&lt;p&gt;&lt;img src="https://img.itch.zone/aW1nLzE4OTM0Mzk5LnBuZw==/original/AmO%2Bkq.png"
+loading="lazy"
+alt="封面图"
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="overview"&gt;Overview
+&lt;/h1&gt;&lt;details&gt;
+&lt;summary&gt;剧情概要&lt;/summary&gt;
+&lt;p&gt;The story begins with the main character, who lost their parents at a young age, being taken in by a new family. This new family, though not related by blood, is a small, close-knit community that relies on one another. As the main character lives and grows with them, they share in each other’s lives and experiences. The unfolding relationships within this family and the events they encounter together form the central storyline​&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="details"&gt;Details
+&lt;/h2&gt;&lt;details class="reading-note reading-game-info"&gt;
+&lt;summary&gt;游戏信息&lt;/summary&gt;
+&lt;div class="mac-list-container reading-game-info-list"&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏玩法&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;沙盒视觉小说&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;建模引擎&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;Koikatsu Sunshine&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;运行引擎&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;Ren&amp;rsquo;Py&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏画风&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;2.5次元&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;当前版本&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;1.0.0&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;发行日期&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;2026-09-29&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="developer入正地址"&gt;Developer（入正地址）
+&lt;/h2&gt;&lt;p&gt;&lt;a class="link" href="https://www.patreon.com/King_peanut" target="_blank" rel="noopener"
+&gt;Patreon&lt;/a&gt;
+&lt;a class="link" href="https://king-peanut.itch.io/new-family" target="_blank" rel="noopener"
+&gt;Itch.io&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="落谦酱便利贴"&gt;落谦酱便利贴
+&lt;/h2&gt;&lt;details class="reading-note reading-changelog"&gt;
+&lt;summary style="color:#00A1D6;"&gt;博文更新日志&lt;/summary&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.10.21&lt;/time&gt;&lt;span&gt; · 09:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;1.0.0&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;AI意译汉化补丁 · 公开&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.10.21&lt;/time&gt;&lt;span&gt; · 09:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;1.0.0&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;AI简润汉化补丁 · 订阅&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.10.21&lt;/time&gt;&lt;span&gt; · 09:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;画廊Mod&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;AI意译汉化补丁/AI简润汉化补丁均已集成&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.10.21&lt;/time&gt;&lt;span&gt; · 09:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;选项Mod&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;AI意译汉化补丁/AI简润汉化补丁均已集成&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.10.21&lt;/time&gt;&lt;span&gt; · 09:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;作弊Mod&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;AI意译汉化补丁/AI简润汉化补丁均已集成&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
+&lt;div class="reading-patch-meta-bar"&gt;
+&lt;p&gt;&lt;span class="reading-patch-meta-pill"&gt;🤖 &lt;strong&gt;AI 模型：&lt;/strong&gt;DeepSeek-V3.1-Terminus&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="reading-patch-meta-pill"&gt;✍️ &lt;strong&gt;翻译作者：&lt;/strong&gt;落谦&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="reading-patch-meta-pill"&gt;📅 &lt;strong&gt;制作日期：&lt;/strong&gt;2026-10-21&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;⚠️ PS：关于 AI 幻觉与人工校对&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;由于 AI 会出现&lt;strong&gt;幻觉&lt;/strong&gt;，文本上下文中，偶尔会出现人名&lt;strong&gt;翻译误差&lt;/strong&gt;、&lt;strong&gt;中英文&lt;/strong&gt;夹杂、以及&lt;strong&gt;突兀文风&lt;/strong&gt;的句子。&lt;br&gt;
+目前落谦也只能统一&lt;strong&gt;主要角色&lt;/strong&gt;的人名，但难免还是会有&lt;strong&gt;个别遗漏&lt;/strong&gt;，毕竟落谦只有&lt;strong&gt;一个人&lt;/strong&gt;，时间和精力确实&lt;strong&gt;有限&lt;/strong&gt;。至于一些&lt;strong&gt;小名&lt;/strong&gt;、&lt;strong&gt;昵称&lt;/strong&gt;、&lt;strong&gt;缩写称呼&lt;/strong&gt;、&lt;strong&gt;称谓&lt;/strong&gt;、&lt;strong&gt;地点&lt;/strong&gt;、&lt;strong&gt;事件&lt;/strong&gt;，以及&lt;strong&gt;专有名词&lt;/strong&gt;，还有类似 &lt;strong&gt;sister、brother&lt;/strong&gt; 这种&lt;strong&gt;一词多义&lt;/strong&gt;的单词，则需要人工&lt;strong&gt;边玩边修正&lt;/strong&gt;。当然，如果在统一主要角色人名时，发现了&lt;strong&gt;相关专有名词&lt;/strong&gt;，也会&lt;strong&gt;顺手统一&lt;/strong&gt;一下。还请大家多多谅解，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛡️ 免死金牌&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;落谦的汉化补丁，无论是&lt;strong&gt;AI意译&lt;/strong&gt;版本还是&lt;strong&gt;AI简润、AI精润&lt;/strong&gt;版本，都远不及&lt;strong&gt;原文&lt;/strong&gt;或&lt;strong&gt;其他大佬&lt;/strong&gt;的汉化版本。&lt;br&gt;
+与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电 &lt;strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;/strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class="blur"&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
+&lt;div class="video-wrapper"&gt;
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1d6es6DE2a"
+scrolling="no"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true"
+&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="游戏预览图"&gt;游戏预览图
+&lt;/h2&gt;&lt;details class="reading-note reading-gallery"&gt;
+&lt;summary style="color:#c81e1e;font-weight:600;"&gt;荤图&lt;/summary&gt;
+&lt;p&gt;&lt;img src="https://img.itch.zone/aW1hZ2UvMzE2OTk0MC8xOTU3MTIyOC5naWY=/original/eEFX3r.gif"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://img.itch.zone/aW1hZ2UvMzE2OTk0MC8xOTU3MTI0MS5naWY=/original/eWy1uE.gif"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://img.itch.zone/aW1hZ2UvMzE2OTk0MC8yMTUyNDg3My5naWY=/original/lm4Ux4.gif"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://img.itch.zone/aW1hZ2UvMzE2OTk0MC8yMTUyNDg3NC5naWY=/original/nusQlp.gif"
+loading="lazy"
+alt="预览图"
+&gt;
+&lt;img src="https://img.itch.zone/aW1hZ2UvMzE2OTk0MC8yMTUyNDg3NS5naWY=/original/xfDMZZ.gif"
+loading="lazy"
+alt="预览图"
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class="reading-note reading-gallery"&gt;
+&lt;summary&gt;实图&lt;/summary&gt;
+&lt;p&gt;&lt;img src="https://files.catbox.moe/jd5f0a.png"
+loading="lazy"
+alt="screenshot0001.png"
+&gt;
+&lt;img src="https://files.catbox.moe/x4vjj3.png"
+loading="lazy"
+alt="screenshot0002.png"
+&gt;
+&lt;img src="https://files.catbox.moe/6cyazl.png"
+loading="lazy"
+alt="screenshot0003.png"
+&gt;
+&lt;img src="https://files.catbox.moe/qtsfqh.png"
+loading="lazy"
+alt="screenshot0004.png"
+&gt;
+&lt;img src="https://files.catbox.moe/lwhfc6.png"
+loading="lazy"
+alt="screenshot0005.png"
+&gt;
+&lt;img src="https://files.catbox.moe/9zhi07.png"
+loading="lazy"
+alt="screenshot0006.png"
+&gt;
+&lt;img src="https://files.catbox.moe/585ugq.png"
+loading="lazy"
+alt="screenshot0007.png"
+&gt;
+&lt;img src="https://files.catbox.moe/0qij6b.png"
+loading="lazy"
+alt="screenshot0011.png"
+&gt;
+&lt;img src="https://files.catbox.moe/o9cdbg.png"
+loading="lazy"
+alt="screenshot0012.png"
+&gt;
+&lt;img src="https://files.catbox.moe/ys8xhw.png"
+loading="lazy"
+alt="screenshot0013.png"
+&gt;
+&lt;img src="https://files.catbox.moe/ukri83.png"
+loading="lazy"
+alt="screenshot0014.png"
+&gt;
+&lt;img src="https://files.catbox.moe/o0cfr2.png"
+loading="lazy"
+alt="screenshot0015.png"
+&gt;
+&lt;img src="https://files.catbox.moe/9w6j3g.png"
+loading="lazy"
+alt="screenshot0016.png"
+&gt;
+&lt;img src="https://files.catbox.moe/bb4urp.png"
+loading="lazy"
+alt="screenshot0017.png"
+&gt;
+&lt;img src="https://files.catbox.moe/vc1h75.png"
+loading="lazy"
+alt="screenshot0018.png"
+&gt;
+&lt;img src="https://files.catbox.moe/yy5t4d.png"
+loading="lazy"
+alt="screenshot0019.png"
+&gt;
+&lt;img src="https://files.catbox.moe/v292e5.png"
+loading="lazy"
+alt="screenshot0020.png"
+&gt;
+&lt;img src="https://files.catbox.moe/gnc01o.png"
+loading="lazy"
+alt="screenshot0021.png"
+&gt;
+&lt;img src="https://files.catbox.moe/opeunk.png"
+loading="lazy"
+alt="screenshot0022.png"
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
+&lt;/h2&gt;&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;杂谈&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;OK啊，这游戏非常好玩，非常推荐大家，全是小马拉大车，太爽了。&lt;/p&gt;
+&lt;p&gt;补丁里的 Mod 都是让Antigravity 反重力（Gemini 3.8 Flash High）Coding的，平时我没时间玩和测试，遇到 Bug 欢迎大家在评论区多多反馈，总之就这样子了！&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;AI简润汉化补丁&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;爱发电 · 订阅专享&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;div class="reading-afdian-card"&gt;
+&lt;div class="reading-afdian-left"&gt;
+&lt;div class="reading-afdian-icon"&gt;⚡&lt;/div&gt;
+&lt;div class="reading-afdian-info"&gt;
+&lt;span class="reading-afdian-title"&gt;爱发电&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;a href="https://afdian.com/p/0c91a75ccce911f1b05b5254001e7c00" target="_blank" rel="noopener noreferrer" class="reading-afdian-btn" aria-label="爱发电 ¥10 / 月"&gt;
+&lt;span&gt;¥10 / 月&lt;/span&gt;
+&lt;svg class="reading-afdian-arrow" viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"&gt;&lt;path d="M14 5l7 7m0 0l-7 7m7-7H3"/&gt;&lt;/svg&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="reading-bento-grid"&gt;
+&lt;div class="reading-bento-card"&gt;
+&lt;span class="reading-bento-badge blue"&gt;✨ 大模型翻译&lt;/span&gt;
+&lt;div class="reading-bento-desc"&gt;
+&lt;p&gt;基于 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 批量初翻，反代 &lt;strong&gt;Gemini 3.8 Flash High API&lt;/strong&gt; 简润；统一角色称谓与专有名词，修复初翻幻觉病句，地道俚语名梗润色。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-bento-card"&gt;
+&lt;span class="reading-bento-badge purple"&gt;🎨 算法P图&lt;/span&gt;
+&lt;div class="reading-bento-desc"&gt;
+&lt;p&gt;部分UI图片由 &lt;strong&gt;Antigravity (Gemini 3.8 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-bento-card"&gt;
+&lt;span class="reading-bento-badge orange"&gt;☕ 订阅专享&lt;/span&gt;
+&lt;div class="reading-bento-desc"&gt;
+&lt;p&gt;爱发电 &lt;strong&gt;¥10 / 月&lt;/strong&gt;（一杯瑞幸咖啡），简润汉化补丁获取，包含后续bug反馈与补丁优化。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;details&gt;
+&lt;summary style="color:#00A1D6;font-weight:600;"&gt;关于AI简润汉化补丁&lt;/summary&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛠️ 1. 大模型与文风&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;&lt;strong&gt;技术底座&lt;/strong&gt; 先调用 &lt;strong&gt;DeepSeek-V3.1 API&lt;/strong&gt; 进行批量初翻，再反代 &lt;strong&gt;Gemini 3.8 Flash High API&lt;/strong&gt; 简润，统一角色称谓与专有名词，修复初翻幻觉与病句，地道俚语名梗润色；部分UI图片由 &lt;strong&gt;Antigravity (Gemini 3.8 Flash High)&lt;/strong&gt; 视觉算法渲染P图完成。&lt;br&gt;
+&lt;strong&gt;关于文风：&lt;/strong&gt; AI跑出来是什么文风就是什么文风。我个人很喜欢 DeepSeek 和 Gemini 的地道文风；如果追求极致文学级的翻译，圈内也有很多优秀的汉化大佬纯手工精翻，大家各取所需即可。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;☕ 2. 为什么采用订阅制？&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;落谦个人时间精力非常有限，而且我不是为爱发电！不是为爱发电！不是为爱发电！重要的事情说三遍！开订阅制纯粹是为了回血一部分高昂的Token费用、精力的投入以及博客的日常运营成本。&lt;br&gt;
+&lt;strong&gt;AI简润补丁&lt;/strong&gt;不会公开。因为公开的补丁，不仅没人反馈，还要白受各种阴阳怪气，这些大家心知肚明；而订阅支持我的水友不仅真诚尊重我的劳动，也更愿意主动交流反馈bug，毕竟是真金白银订阅的，哈哈。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;💰 3. 实打实的算力成本&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;调 API 跑测试，DeepSeek V3.1 的单次费用是 V3 的两倍以上。对于某些游戏，如果每次版本更新作者都大修了大批文本，由于精力有限，我都会选择重新跑一次AI。&lt;br&gt;
+对于一些我个人特别喜欢的游戏，为了后续做精润，我会人工根据不同模型、不同文风跑出来的几个版本进行对比融合，提炼出最符合角色人设、最接地气且有金句的优质文本。这样反复跑下来，单部游戏的 API 成本少则五六十元，多则（如果用 V3.1 重跑多遍）成本会直接飙升至 &lt;strong&gt;上百甚至好几百&lt;/strong&gt;。&lt;br&gt;
+所以 &lt;strong&gt;¥10 / 月&lt;/strong&gt;（一杯瑞幸咖啡）的订阅真的就是白菜价，成本完全透明。大家可以自行去 DeepSeek 官网或中转站查看输入/输出以及缓存命中的 Token 资费，也可以自己调用 API 跑几个游戏测试一下。博客已有上百部 AI 意译补丁，订阅水友如果想让我做哪部游戏的&lt;strong&gt;AI简润&lt;/strong&gt;，欢迎随时向我投稿推荐！&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/qpHbGD2ayD" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/frEb9Xkm" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/a46LfSg0" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/QaaB8n3J" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件放入&lt;strong&gt;game&lt;/strong&gt;文件夹中&lt;/li&gt;
+&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/qpHbGD2ayD" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/frEb9Xkm" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/a46LfSg0" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/QaaB8n3J" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主体 APK：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/mGE1R0Sa" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/rtfFN27M" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;、&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
+&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
+&lt;li&gt;然后解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将英文原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;和&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件一起移动到以下路径：&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Documents/RenPy_Saves/com.luoqian.NewFamily/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/qpHbGD2ayD" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/frEb9Xkm" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/a46LfSg0" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/QaaB8n3J" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;英文原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
+&lt;li&gt;然后将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件移动到以下路径：&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;我的iPhone/Spark/games/NewFamily/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
+&lt;/h2&gt;&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/EuGPPPwx5J" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/tq5nzky9" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/EuGPPPwx5J" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/tq5nzky9" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://vik1ngfile.site/f/EuGPPPwx5J" target="_blank" rel="noopener"
+&gt;VIKINGFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/tq5nzky9" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;p&gt;&amp;ndash;&lt;/p&gt;
+&lt;h2 id="使用帮助"&gt;使用帮助
+&lt;/h2&gt;&lt;div class="mac-list-container reading-help"&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;网络连接&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果打不开链接请科学上网，没有梯子可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/p/vpn/" target="_blank" rel="noopener"
+&gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;安装教程&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果看不懂安装步骤，可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/about/" target="_blank" rel="noopener"
+&gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;问题反馈&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果操作过程中遇到Bug或其他问题，欢迎在博文评论区留言反馈&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;创作支持&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果本文对你有帮助，欢迎在&lt;a class="link" href="https://afdian.com/a/luoqian" target="_blank" rel="noopener"
+&gt;爱发电&lt;/a&gt;投喂落谦&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;幸好有你&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="宇宙安全声明"&gt;宇宙安全声明！
+&lt;/h2&gt;&lt;aside class="reading-notice" role="note"&gt;
+&lt;p&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播。&lt;br&gt;
+落谦不对因使用本文所产生的任何问题负责。&lt;/p&gt;
+&lt;/aside&gt;
+&lt;/div&gt;</description></item><item><title>Eclipsis 日蚀之刻</title><link>https://luoqian29.github.io/p/eclipsis/</link><pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/eclipsis/</guid><description>&lt;img src="https://files.catbox.moe/7h9mj8.png" alt="Featured image of post Eclipsis 日蚀之刻" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="eclipsis-ep3-lillio-works"&gt;Eclipsis [Ep.3] [Lillio Works]
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://files.catbox.moe/jqny88.png"
 loading="lazy"
@@ -234,7 +746,7 @@ alt="screenshot0012.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -409,7 +921,7 @@ alt="screenshot0012.png"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -776,7 +1288,7 @@ alt="screenshot0023.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -784,7 +1296,7 @@ alt="screenshot0023.png"
 &lt;div class="reading-platform-body"&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;杂谈&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
 &lt;p&gt;OK啊，红心之屋的汉化补丁也是Coding出来了。&lt;/p&gt;
-&lt;p&gt;补丁里的 Mod 都是让Antigravity 反重力（Gemini 3.8 Flash）去Coding，平时我没时间深度玩和测试，遇到 Bug 欢迎大家在评论区多多反馈，总之就这样子了！&lt;/p&gt;
+&lt;p&gt;补丁里的 Mod 都是让Antigravity 反重力（Gemini 3.8 Flash High）Coding的，平时我没时间玩和测试，遇到 Bug 欢迎大家在评论区多多反馈，总之就这样子了！&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -958,7 +1470,7 @@ alt="screenshot0023.png"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -1395,7 +1907,7 @@ alt="screenshot0016.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -1577,7 +2089,7 @@ alt="screenshot0016.png"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -1867,7 +2379,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -1928,7 +2440,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -2231,7 +2743,7 @@ alt="screenshot0016.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -2413,7 +2925,7 @@ alt="screenshot0016.png"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -2684,7 +3196,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -2745,7 +3257,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -3037,7 +3549,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -3389,7 +3901,7 @@ alt="screenshot0014.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -3573,7 +4085,7 @@ alt="screenshot0014.png"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -3975,7 +4487,7 @@ alt="screenshot0012.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -4053,7 +4565,7 @@ alt="screenshot0012.png"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -4230,7 +4742,7 @@ alt="screenshot0012.png"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -4522,7 +5034,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -4583,7 +5095,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -4966,7 +5478,7 @@ alt="screenshot0016.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -5027,7 +5539,7 @@ alt="screenshot0016.png"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -5208,7 +5720,7 @@ alt="screenshot0016.png"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -5491,7 +6003,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -5552,7 +6064,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -5863,7 +6375,7 @@ alt="screenshot0015.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -6051,7 +6563,7 @@ alt="screenshot0015.png"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -6434,7 +6946,7 @@ alt="screenshot0018.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -6615,7 +7127,7 @@ alt="screenshot0018.png"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -6883,7 +7395,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -7227,7 +7739,7 @@ alt="screenshot0013.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -7426,7 +7938,7 @@ alt="screenshot0013.png"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -7856,7 +8368,7 @@ alt="gallery007.webp"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;默认中文Mod&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;Mod&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -7938,7 +8450,7 @@ alt="gallery007.webp"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -8228,7 +8740,7 @@ alt="screenshot0012.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Multi Mod &amp;amp; Walkthrough Mod&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;Mod&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -8633,7 +9145,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;Season 3 - 88%&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -9013,7 +9525,7 @@ alt="预览图"
 &lt;/details&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;Season 3 - 88%&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -9777,7 +10289,7 @@ alt="screenshot0036.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -10074,7 +10586,7 @@ alt="screenshot0036.png"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;Season 2 - 0.10.1&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -10430,7 +10942,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -10491,7 +11003,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -10975,7 +11487,7 @@ alt="screenshot0050.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -11793,7 +12305,7 @@ alt="screenshot0036.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -11982,7 +12494,7 @@ alt="screenshot0036.png"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -12288,7 +12800,7 @@ alt="screenshot0001.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -12698,7 +13210,7 @@ alt="screenshot0022.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -12965,7 +13477,7 @@ alt="screenshot0022.png"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -13490,7 +14002,7 @@ alt="screenshot0023.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -13672,7 +14184,7 @@ Mod 这块依然是老规矩，让 &lt;strong&gt;Antigravity (Gemini 3.8 Flash)&
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -14533,7 +15045,7 @@ alt="screenshot0145.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -14762,7 +15274,7 @@ alt="screenshot0145.png"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -14987,7 +15499,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -15048,7 +15560,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -15497,7 +16009,7 @@ alt="screenshot0049.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -15685,7 +16197,7 @@ alt="screenshot0049.png"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -16028,7 +16540,7 @@ alt="screenshot0013.png"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;画廊Mod&amp;amp;作弊Mod&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;Mod&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -16776,7 +17288,7 @@ alt="screenshot0038"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -16960,7 +17472,7 @@ alt="screenshot0038"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -17691,7 +18203,7 @@ alt="screenshot0033"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -17892,7 +18404,7 @@ alt="screenshot0033"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -18177,7 +18689,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -18238,7 +18750,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -18883,7 +19395,7 @@ alt="screenshot0032"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;0.12.1&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -19248,7 +19760,7 @@ alt="screenshot0032"
 &lt;/details&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;0.12.1&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -19749,7 +20261,7 @@ alt="screenshot0027"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -19894,7 +20406,7 @@ alt="screenshot0027"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -20262,7 +20774,7 @@ alt="screenshot0018"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;AI简润汉化补丁&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;爱发电 · 订阅专享&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -20425,7 +20937,7 @@ alt="screenshot0018"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -20757,7 +21269,7 @@ alt="screenshot0013"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;AI简润汉化补丁&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;爱发电 · 订阅专享&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -20920,7 +21432,7 @@ alt="screenshot0013"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -21249,7 +21761,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -21699,7 +22211,7 @@ alt="screenshot0027"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;AI简润汉化补丁&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;爱发电 · 订阅专享&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -22344,7 +22856,7 @@ alt="screenshot0044"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;AI简润汉化补丁&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;爱发电 · 订阅专享&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -22507,7 +23019,7 @@ alt="screenshot0044"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -23286,7 +23798,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Walkthrough Mod&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;Mod&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -23462,7 +23974,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -23749,7 +24261,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -24395,7 +24907,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -24639,7 +25151,7 @@ alt="预览图"
 &lt;/details&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;Season 2 - Episode 5 - 1&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -26067,7 +26579,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;MULTI MOD&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;Mod&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -26186,7 +26698,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -26578,7 +27090,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -26697,7 +27209,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -27398,7 +27910,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -27503,7 +28015,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -27844,7 +28356,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -27905,7 +28417,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -28491,7 +29003,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -28623,7 +29135,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -28954,7 +29466,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -29071,7 +29583,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -29678,7 +30190,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -29783,7 +30295,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -30239,7 +30751,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -30356,7 +30868,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -31157,7 +31669,7 @@ alt="封面图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;Season 2 - 0.8.0&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -31364,7 +31876,7 @@ alt="封面图"
 &lt;/details&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;Season 2 - 0.8.0&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -31688,7 +32200,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -31749,7 +32261,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -32185,7 +32697,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -32468,7 +32980,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -32573,7 +33085,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -32791,7 +33303,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -32896,7 +33408,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -33218,7 +33730,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -33323,7 +33835,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -33613,7 +34125,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -33674,7 +34186,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -33871,7 +34383,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -33949,7 +34461,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -34227,7 +34739,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;0.10.5&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -34507,7 +35019,7 @@ alt="预览图"
 &lt;/details&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;0.10.5&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -34887,7 +35399,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -34992,7 +35504,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -35210,7 +35722,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -35315,7 +35827,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -35543,7 +36055,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -35648,7 +36160,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -35915,7 +36427,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -35976,7 +36488,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -36178,7 +36690,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -36239,7 +36751,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -36517,7 +37029,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary style="color:#c81e1e;font-weight:600;"&gt;PS&lt;/summary&gt;
 &lt;ul&gt;
@@ -36863,7 +37375,7 @@ alt="预览图"
 &lt;/details&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;Episode 5&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -37204,7 +37716,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -37265,7 +37777,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -37464,7 +37976,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;0.1.02&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -38072,7 +38584,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -38133,7 +38645,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -38332,7 +38844,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -38437,7 +38949,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -38676,7 +39188,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -39031,7 +39543,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -39431,7 +39943,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -39536,7 +40048,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -39854,7 +40366,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -39959,7 +40471,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -40245,7 +40757,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -40350,7 +40862,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -40656,7 +41168,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary style="color:#c81e1e;font-weight:600;"&gt;PS&lt;/summary&gt;
 &lt;ul&gt;
@@ -40725,7 +41237,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -41023,7 +41535,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -41128,7 +41640,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -41369,7 +41881,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;修复mod&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;Mod&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -41491,7 +42003,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -41696,7 +42208,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -41933,7 +42445,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -42236,7 +42748,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -42341,7 +42853,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -42556,7 +43068,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -42661,7 +43173,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -42962,7 +43474,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -43040,7 +43552,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -43311,7 +43823,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -43372,7 +43884,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -43575,7 +44087,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -43653,7 +44165,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -43929,7 +44441,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -44317,7 +44829,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -44422,7 +44934,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -44723,7 +45235,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -44801,7 +45313,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -45562,7 +46074,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -45623,7 +46135,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -45888,7 +46400,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -46152,7 +46664,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -46535,7 +47047,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -46640,7 +47152,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -46919,7 +47431,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -47291,7 +47803,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -47352,7 +47864,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -47557,7 +48069,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -47662,7 +48174,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -47880,7 +48392,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -47984,7 +48496,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -48213,7 +48725,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary style="color:#c81e1e;font-weight:600;"&gt;PS&lt;/summary&gt;
 &lt;ul&gt;
@@ -48371,7 +48883,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -48697,7 +49209,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -48802,7 +49314,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -49136,7 +49648,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -49277,7 +49789,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -49482,7 +49994,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -49543,7 +50055,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -49859,7 +50371,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;Week 3&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -50081,7 +50593,7 @@ alt="预览图"
 &lt;/details&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;&gt;Week 3&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -50458,7 +50970,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;Season 4&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -50769,7 +51281,7 @@ alt="预览图"
 &lt;/details&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;Season 4&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -51156,7 +51668,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -51234,7 +51746,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -51531,7 +52043,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;1.0.3&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -51674,7 +52186,7 @@ alt="预览图"
 &lt;/details&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;1.0.3&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -52007,7 +52519,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -52068,7 +52580,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -52384,7 +52896,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -52742,7 +53254,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -52818,7 +53330,7 @@ alt="预览图"
 &lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="compressed压缩版"&gt;Compressed（压缩版）
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -53076,7 +53588,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -53333,7 +53845,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary style="color:#c81e1e;font-weight:600;"&gt;PS&lt;/summary&gt;
 &lt;ul&gt;
@@ -53692,7 +54204,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -53936,7 +54448,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -54281,7 +54793,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -54562,7 +55074,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -54826,7 +55338,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary style="color:#c81e1e;font-weight:600;"&gt;PS&lt;/summary&gt;
 &lt;ul&gt;
@@ -55251,7 +55763,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -55612,7 +56124,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -56008,7 +56520,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;0.8.31 FinalBAnais1&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -56605,7 +57117,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -56952,7 +57464,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -57074,308 +57586,6 @@ alt="预览图"
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/details&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="使用帮助"&gt;使用帮助
-&lt;/h2&gt;&lt;div class="mac-list-container reading-help"&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;网络连接&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果打不开链接请科学上网，没有梯子可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/p/vpn/" target="_blank" rel="noopener"
-&gt;博文&lt;/a&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;安装教程&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果看不懂安装步骤，可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/about/" target="_blank" rel="noopener"
-&gt;博文&lt;/a&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;问题反馈&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果操作过程中遇到Bug或其他问题，欢迎在博文评论区留言反馈&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;创作支持&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;如果本文对你有帮助，欢迎在&lt;a class="link" href="https://afdian.com/a/luoqian" target="_blank" rel="noopener"
-&gt;爱发电&lt;/a&gt;投喂落谦&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;幸好有你&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;h2 id="宇宙安全声明"&gt;宇宙安全声明！
-&lt;/h2&gt;&lt;aside class="reading-notice" role="note"&gt;
-&lt;p&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播。&lt;br&gt;
-落谦不对因使用本文所产生的任何问题负责。&lt;/p&gt;
-&lt;/aside&gt;
-&lt;/div&gt;</description></item><item><title>New Family 新家庭</title><link>https://luoqian29.github.io/p/newfamily/</link><pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/newfamily/</guid><description>&lt;img src="https://img.itch.zone/aW1nLzE4OTM0Mzk5LnBuZw==/original/AmO%2Bkq.png" alt="Featured image of post New Family 新家庭" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
-&lt;h1 id="new-family-v080-king-peanut"&gt;New Family [v0.8.0] [King Peanut]
-&lt;/h1&gt;&lt;p&gt;&lt;img src="https://img.itch.zone/aW1nLzE4OTM0Mzk5LnBuZw==/original/AmO%2Bkq.png"
-loading="lazy"
-alt="封面图"
-&gt;&lt;/p&gt;
-&lt;h1 id="overview"&gt;Overview
-&lt;/h1&gt;&lt;details&gt;
-&lt;summary&gt;剧情概要&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;The story begins with the main character, who lost their parents at a young age, being taken in by a new family. This new family, though not related by blood, is a small, close-knit community that relies on one another. As the main character lives and grows with them, they share in each other’s lives and experiences. The unfolding relationships within this family and the events they encounter together form the central storyline​&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h2 id="details"&gt;Details
-&lt;/h2&gt;&lt;details class="reading-note reading-game-info"&gt;
-&lt;summary&gt;游戏信息&lt;/summary&gt;
-&lt;div class="mac-list-container reading-game-info-list"&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏玩法&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;沙盒视觉小说&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;建模引擎&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;Koikatsu Sunshine&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;运行引擎&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;Ren&amp;rsquo;Py&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏画风&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;2.5次元&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;当前版本&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;0.8.0&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-item"&gt;
-&lt;div class="mac-list-left"&gt;
-&lt;p&gt;&lt;span class="mac-list-key"&gt;发行日期&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="mac-list-right"&gt;
-&lt;span class="mac-list-value"&gt;2026-07-08&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;h2 id="developer入正地址"&gt;Developer（入正地址）
-&lt;/h2&gt;&lt;p&gt;&lt;a class="link" href="https://www.patreon.com/King_peanut" target="_blank" rel="noopener"
-&gt;Patreon&lt;/a&gt;
-&lt;a class="link" href="https://king-peanut.itch.io/new-family" target="_blank" rel="noopener"
-&gt;Itch.io&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id="落谦酱便利贴"&gt;落谦酱便利贴
-&lt;/h2&gt;&lt;details&gt;
-&lt;summary style="color:#c81e1e;font-weight:600;"&gt;PS&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;安卓的apk显示0.4.5版本是正常的，因为只是个载体而已，而且作者没用新版的renpy，所以没必要再次移植。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary style="color:#00A1D6;font-weight:600;"&gt;博文更新日志&lt;/summary&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align: left"&gt;日期&lt;/th&gt;
-&lt;th style="text-align: left"&gt;更新详情&lt;/th&gt;
-&lt;th style="text-align: center"&gt;当前状态&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;strong&gt;2026.07.12 17:00&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align: left"&gt;&lt;strong&gt;0.8.0&lt;/strong&gt;：AI意译汉化补丁&lt;/td&gt;
-&lt;td style="text-align: center"&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;AI模型：&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;翻译作者：&lt;strong&gt;落谦&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;制作日期：&lt;strong&gt;2026-07-09&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;PS：由于AI会出现&lt;strong&gt;幻觉&lt;/strong&gt;，那么文本上下文中，偶尔会出现人名&lt;strong&gt;翻译误差&lt;/strong&gt;、&lt;strong&gt;中英文&lt;/strong&gt;夹杂、以及&lt;strong&gt;突兀文风&lt;/strong&gt;的句子。目前落谦也只能统一&lt;strong&gt;主要角色&lt;/strong&gt;的人名，但难免还是会有&lt;strong&gt;个别遗漏&lt;/strong&gt;，毕竟落谦只有&lt;strong&gt;一个人&lt;/strong&gt;，时间和精力确实&lt;strong&gt;有限&lt;/strong&gt;。至于一些&lt;strong&gt;小名&lt;/strong&gt;、&lt;strong&gt;昵称&lt;/strong&gt;、&lt;strong&gt;缩写称呼&lt;/strong&gt;、&lt;strong&gt;称谓&lt;/strong&gt;、&lt;strong&gt;地点&lt;/strong&gt;、&lt;strong&gt;事件&lt;/strong&gt;，以及&lt;strong&gt;专有名词&lt;/strong&gt;，还有类似&lt;strong&gt;sister、brother&lt;/strong&gt;这种&lt;strong&gt;一词多义&lt;/strong&gt;的单词，则需要人工&lt;strong&gt;边玩边修正&lt;/strong&gt;。当然，如果在统一主要角色人名时，发现了&lt;strong&gt;相关专有名词&lt;/strong&gt;，也会&lt;strong&gt;顺手统一&lt;/strong&gt;一下。还请大家多多谅解，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;免死金牌：&lt;strong&gt;落谦的汉化补丁，无论是&lt;/strong&gt;AI意译&lt;/strong&gt;版本还是&lt;strong&gt;AI简润、AI精润&lt;/strong&gt;版本，都远不及&lt;strong&gt;原文&lt;/strong&gt;或&lt;strong&gt;其他大佬&lt;/strong&gt;的汉化版本。与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电 &lt;strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;/strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class="blur"&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
-&lt;div class="video-wrapper"&gt;
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1d6es6DE2a"
-scrolling="no"
-frameborder="no"
-framespacing="0"
-allowfullscreen="true"
-&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="游戏预览图"&gt;游戏预览图
-&lt;/h2&gt;&lt;details class="reading-note reading-gallery"&gt;
-&lt;summary style="color:#c81e1e;font-weight:600;"&gt;荤图&lt;/summary&gt;
-&lt;p&gt;&lt;img src="https://img.itch.zone/aW1hZ2UvMzE2OTk0MC8xOTU3MTIyOC5naWY=/original/eEFX3r.gif"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://img.itch.zone/aW1hZ2UvMzE2OTk0MC8xOTU3MTI0MS5naWY=/original/eWy1uE.gif"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://img.itch.zone/aW1hZ2UvMzE2OTk0MC8yMTUyNDg3My5naWY=/original/lm4Ux4.gif"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://img.itch.zone/aW1hZ2UvMzE2OTk0MC8yMTUyNDg3NC5naWY=/original/nusQlp.gif"
-loading="lazy"
-alt="预览图"
-&gt;
-&lt;img src="https://img.itch.zone/aW1hZ2UvMzE2OTk0MC8yMTUyNDg3NS5naWY=/original/xfDMZZ.gif"
-loading="lazy"
-alt="预览图"
-&gt;&lt;/p&gt;
-&lt;/details&gt;
-&lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
-&lt;/h2&gt;&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/5TnIWk" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/AvtYraoo" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/Whkkh5" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/gCZdVgC1" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件放入&lt;strong&gt;game&lt;/strong&gt;文件夹中&lt;/li&gt;
-&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/5TnIWk" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/AvtYraoo" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/Whkkh5" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/gCZdVgC1" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;主体 APK：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/f1tJiI" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/TytvRoJJ" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;、&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
-&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
-&lt;li&gt;然后解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
-&lt;li&gt;将英文原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;和&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件一起移动到以下路径：&lt;/li&gt;
-&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
-&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Documents/RenPy_Saves/com.luoqian.NewFamily/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;details class="reading-platform"&gt;
-&lt;summary&gt;
-&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
-&lt;/summary&gt;
-&lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
-&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/5TnIWk" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/AvtYraoo" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/Whkkh5" target="_blank" rel="noopener"
-&gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/gCZdVgC1" target="_blank" rel="noopener"
-&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;英文原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
-&lt;li&gt;然后将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件移动到以下路径：&lt;/li&gt;
-&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
-&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;我的iPhone/Spark/games/NewFamily/game
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
 &lt;/details&gt;
 &lt;hr&gt;
 &lt;h2 id="使用帮助"&gt;使用帮助
@@ -57575,7 +57785,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -58221,7 +58431,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary style="color:#c81e1e;font-weight:600;"&gt;PS&lt;/summary&gt;
 &lt;ul&gt;
@@ -58566,7 +58776,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary style="color:#c81e1e;font-weight:600;"&gt;PS&lt;/summary&gt;
 &lt;p&gt;&lt;strong&gt;第三章翻译：&lt;/strong&gt;&lt;/p&gt;
@@ -58855,7 +59065,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -59220,7 +59430,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary style="color:#c81e1e;font-weight:600;"&gt;PS&lt;/summary&gt;
 &lt;ul&gt;
@@ -59655,7 +59865,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -60074,7 +60284,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -60412,7 +60622,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;Season 2 - 13.00&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -60907,7 +61117,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -61289,7 +61499,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;0.12.0b&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -61853,7 +62063,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -62238,7 +62448,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -62817,7 +63027,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -63203,7 +63413,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -63488,7 +63698,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -63862,7 +64072,7 @@ alt="封面图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -64220,7 +64430,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -64591,7 +64801,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -65020,7 +65230,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -65282,7 +65492,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -65712,7 +65922,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -65950,7 +66160,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -66389,7 +66599,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -66827,7 +67037,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -67138,7 +67348,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -67505,7 +67715,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -67883,7 +68093,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -68242,7 +68452,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -68643,7 +68853,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -69036,7 +69246,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -69357,7 +69567,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -69609,7 +69819,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -69863,7 +70073,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -70286,7 +70496,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -70722,7 +70932,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -70981,7 +71191,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -71282,7 +71492,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -71657,7 +71867,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -71960,7 +72170,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -72306,7 +72516,7 @@ alt="封面图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;Book 2 Round 8&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -73038,7 +73248,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -73275,7 +73485,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -73652,7 +73862,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -73934,7 +74144,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -74221,7 +74431,7 @@ alt="封面图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -74619,7 +74829,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;完整体选项mod&lt;/summary&gt;
 &lt;p&gt;&lt;strong&gt;完整体选项 Mod：&lt;/strong&gt;&lt;/p&gt;
@@ -75098,7 +75308,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;0.3&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -75593,7 +75803,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -75989,7 +76199,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -76439,7 +76649,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -76921,7 +77131,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -77291,7 +77501,7 @@ allowfullscreen="true"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -77619,7 +77829,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -77922,7 +78132,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -78368,7 +78578,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -78664,7 +78874,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -79056,7 +79266,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -79338,7 +79548,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -79656,7 +79866,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -80013,7 +80223,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -80306,7 +80516,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -80689,7 +80899,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;Season 2 - 0.2&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -81171,7 +81381,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -81467,7 +81677,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -81785,7 +81995,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;Season 2 Chapter 12.5&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -82507,7 +82717,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -82882,7 +83092,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -83248,7 +83458,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -83569,7 +83779,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;Chapter2-0.37&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -84036,7 +84246,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -84632,7 +84842,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -84951,7 +85161,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;0.5&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -85428,7 +85638,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -85752,7 +85962,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -86168,7 +86378,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -86470,7 +86680,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -86841,7 +87051,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -87197,7 +87407,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;0.9.5&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -87910,7 +88120,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -88275,7 +88485,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -88592,7 +88802,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -88987,7 +89197,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -89291,7 +89501,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -89670,7 +89880,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -89950,7 +90160,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -90346,7 +90556,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -90737,7 +90947,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -91108,7 +91318,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -91561,7 +91771,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -91979,7 +92189,7 @@ allowfullscreen="true"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;1.3d&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -92397,7 +92607,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -92720,7 +92930,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -93204,7 +93414,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -93581,7 +93791,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;Episode 5&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -93977,7 +94187,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -94344,7 +94554,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -94693,7 +94903,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -95026,7 +95236,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -95419,7 +95629,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -95790,7 +96000,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -96184,7 +96394,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -96529,7 +96739,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;Season 2 - Episode 10&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -97120,7 +97330,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -97498,7 +97708,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -97900,7 +98110,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -98164,7 +98374,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -98525,7 +98735,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -98910,7 +99120,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -99275,7 +99485,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -99631,7 +99841,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -99968,7 +100178,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -100323,7 +100533,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -100658,7 +100868,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -101039,7 +101249,7 @@ allowfullscreen="true"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -101421,7 +101631,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -101722,7 +101932,7 @@ alt="封面图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -102103,7 +102313,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -102420,7 +102630,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -102899,7 +103109,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -103324,7 +103534,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -103638,7 +103848,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -104012,7 +104222,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -104267,7 +104477,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -104704,7 +104914,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -105437,7 +105647,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;Realm 3 - 1.04&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -105891,7 +106101,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -106279,7 +106489,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -106666,7 +106876,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -107041,7 +107251,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -107404,7 +107614,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -107718,7 +107928,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -108324,7 +108534,7 @@ alt="封面图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details&gt;
 &lt;summary&gt;Season 2 - Chapter 1 - 3 Beta&lt;/summary&gt;
 &lt;details class="reading-platform"&gt;
@@ -108838,7 +109048,7 @@ allowfullscreen="true"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -109260,7 +109470,7 @@ alt="封面图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -109615,7 +109825,7 @@ allowfullscreen="true"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -109931,7 +110141,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -110312,7 +110522,7 @@ alt="封面图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -110630,7 +110840,7 @@ allowfullscreen="true"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -111115,7 +111325,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -111484,7 +111694,7 @@ allowfullscreen="true"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -111766,7 +111976,7 @@ alt="封面图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -112136,7 +112346,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download汉化补丁"&gt;DOWNLOAD（汉化补丁）
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -112463,7 +112673,7 @@ allowfullscreen="true"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -112682,7 +112892,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -112896,7 +113106,7 @@ allowfullscreen="true"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -113084,7 +113294,7 @@ allowfullscreen="true"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -113280,7 +113490,7 @@ allowfullscreen="true"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -113523,7 +113733,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -113738,7 +113948,7 @@ allowfullscreen="true"
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -113996,7 +114206,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -114267,7 +114477,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -114511,7 +114721,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -114774,7 +114984,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -115019,7 +115229,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
@@ -115275,7 +115485,7 @@ alt="预览图"
 &gt;&lt;/p&gt;
 &lt;/details&gt;
 &lt;hr&gt;
-&lt;h2 id="download官中"&gt;DOWNLOAD（官中）
+&lt;h2 id="download-官中"&gt;DOWNLOAD (官中)
 &lt;/h2&gt;&lt;details class="reading-platform"&gt;
 &lt;summary&gt;
 &lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
