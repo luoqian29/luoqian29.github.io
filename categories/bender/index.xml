@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bender on 一落归谦</title><link>https://luoqian29.github.io/categories/bender/</link><description>Recent content in Bender on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Sun, 01 Nov 2026 19:11:58 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/bender/index.xml" rel="self" type="application/rss+xml"/><item><title>FreshWomen 新生也疯狂</title><link>https://luoqian29.github.io/p/freshwomen/</link><pubDate>Sun, 01 Nov 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/freshwomen/</guid><description>&lt;img src="https://img.itch.zone/aW1nLzE0NDMyNjQ4LmpwZw==/original/fZpvRH.jpg" alt="Featured image of post FreshWomen 新生也疯狂" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bender on 一落归谦</title><link>https://luoqian29.github.io/categories/bender/</link><description>Recent content in Bender on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Mon, 02 Nov 2026 01:03:29 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/bender/index.xml" rel="self" type="application/rss+xml"/><item><title>FreshWomen 新生也疯狂</title><link>https://luoqian29.github.io/p/freshwomen/</link><pubDate>Sun, 01 Nov 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/freshwomen/</guid><description>&lt;img src="https://img.itch.zone/aW1nLzE0NDMyNjQ4LmpwZw==/original/fZpvRH.jpg" alt="Featured image of post FreshWomen 新生也疯狂" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="freshwomen-s3-100-oppaiman"&gt;FreshWomen [S3 100%] [OppaiMan]
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://cdn-uploads.oppaiman.com/posts/fdc70fe9b1e89f333e7f6cce032d7531240d5e8328a37a05dca515f169118b65.gif"
 loading="lazy"
@@ -291,12 +291,10 @@ alt="预览图"
 &lt;a class="link" href="https://pixeldrain.com/u/E6rTYck7" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;Mod&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这个 Mod 是我在 F95 上找到的，有兴趣的可以去看看 &lt;strong&gt;&lt;a class="link" href="https://pixeldrain.com/u/E6rTYck7" target="_blank" rel="noopener"
-&gt;原帖&lt;/a&gt;&lt;/strong&gt;，我自己简单看了一下作者提供的说明。主要作用是绕过游戏过程中出现的 Steam 完整性验证，避免因为相关验证导致游戏玩到一半被强制要求进行正版授权校验。&lt;/p&gt;
-&lt;p&gt;安装方法也比较简单，将下载的文件解压后，放入游戏根目录下的 &lt;code&gt;game&lt;/code&gt; 文件夹即可。&lt;/p&gt;
-&lt;p&gt;需要注意的是，这个 Mod &lt;strong&gt;仅适用于第三季&lt;/strong&gt;，第一季和第二季不需要安装。&lt;/p&gt;
-&lt;p&gt;不过提前说明一下，由于我自己并没有实际游玩这款游戏，所以目前还无法确认这个 Mod 是否真的有效。如果大家安装后仍然遇到验证问题，或者出现其他异常，欢迎在评论区反馈。&lt;/p&gt;
-&lt;p&gt;如果确认这个 Mod 无法正常使用，后续有时间的话，我也会尝试借助 AI 重新编写一个修复 Mod。&lt;/p&gt;
+&lt;p&gt;从 F95 搬过来的过检测补丁（原帖戳 &lt;strong&gt;&lt;a class="link" href="https://f95zone.to/threads/integrity-check-disabler-freshwomen-season-3-100.311002/" target="_blank" rel="noopener"
+&gt;F95zone&lt;/a&gt;&lt;/strong&gt;），主要解决第三季玩到一半容易弹 Steam 完整性校验卡死的问题。&lt;/p&gt;
+&lt;p&gt;下载下来的 &lt;code&gt;.rpy&lt;/code&gt; 文件直接丢进游戏根目录下的 &lt;code&gt;game&lt;/code&gt; 文件夹就完事了（只针对第三季，前两季不用放）。&lt;/p&gt;
+&lt;p&gt;我自己还没来得及实机测试，大家装完要是还有问题随时在评论区踢我。如果确实失效了，等我抽空再琢磨重新手搓一个。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IOS on 一落归谦</title><link>https://luoqian29.github.io/categories/ios/</link><description>Recent content in IOS on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Sun, 01 Nov 2026 19:11:58 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/ios/index.xml" rel="self" type="application/rss+xml"/><item><title>FreshWomen 新生也疯狂</title><link>https://luoqian29.github.io/p/freshwomen/</link><pubDate>Sun, 01 Nov 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/freshwomen/</guid><description>&lt;img src="https://img.itch.zone/aW1nLzE0NDMyNjQ4LmpwZw==/original/fZpvRH.jpg" alt="Featured image of post FreshWomen 新生也疯狂" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IOS on 一落归谦</title><link>https://luoqian29.github.io/categories/ios/</link><description>Recent content in IOS on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Mon, 02 Nov 2026 01:03:29 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/categories/ios/index.xml" rel="self" type="application/rss+xml"/><item><title>FreshWomen 新生也疯狂</title><link>https://luoqian29.github.io/p/freshwomen/</link><pubDate>Sun, 01 Nov 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/freshwomen/</guid><description>&lt;img src="https://img.itch.zone/aW1nLzE0NDMyNjQ4LmpwZw==/original/fZpvRH.jpg" alt="Featured image of post FreshWomen 新生也疯狂" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="freshwomen-s3-100-oppaiman"&gt;FreshWomen [S3 100%] [OppaiMan]
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://cdn-uploads.oppaiman.com/posts/fdc70fe9b1e89f333e7f6cce032d7531240d5e8328a37a05dca515f169118b65.gif"
 loading="lazy"
@@ -291,12 +291,10 @@ alt="预览图"
 &lt;a class="link" href="https://pixeldrain.com/u/E6rTYck7" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;Mod&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这个 Mod 是我在 F95 上找到的，有兴趣的可以去看看 &lt;strong&gt;&lt;a class="link" href="https://pixeldrain.com/u/E6rTYck7" target="_blank" rel="noopener"
-&gt;原帖&lt;/a&gt;&lt;/strong&gt;，我自己简单看了一下作者提供的说明。主要作用是绕过游戏过程中出现的 Steam 完整性验证，避免因为相关验证导致游戏玩到一半被强制要求进行正版授权校验。&lt;/p&gt;
-&lt;p&gt;安装方法也比较简单，将下载的文件解压后，放入游戏根目录下的 &lt;code&gt;game&lt;/code&gt; 文件夹即可。&lt;/p&gt;
-&lt;p&gt;需要注意的是，这个 Mod &lt;strong&gt;仅适用于第三季&lt;/strong&gt;，第一季和第二季不需要安装。&lt;/p&gt;
-&lt;p&gt;不过提前说明一下，由于我自己并没有实际游玩这款游戏，所以目前还无法确认这个 Mod 是否真的有效。如果大家安装后仍然遇到验证问题，或者出现其他异常，欢迎在评论区反馈。&lt;/p&gt;
-&lt;p&gt;如果确认这个 Mod 无法正常使用，后续有时间的话，我也会尝试借助 AI 重新编写一个修复 Mod。&lt;/p&gt;
+&lt;p&gt;从 F95 搬过来的过检测补丁（原帖戳 &lt;strong&gt;&lt;a class="link" href="https://f95zone.to/threads/integrity-check-disabler-freshwomen-season-3-100.311002/" target="_blank" rel="noopener"
+&gt;F95zone&lt;/a&gt;&lt;/strong&gt;），主要解决第三季玩到一半容易弹 Steam 完整性校验卡死的问题。&lt;/p&gt;
+&lt;p&gt;下载下来的 &lt;code&gt;.rpy&lt;/code&gt; 文件直接丢进游戏根目录下的 &lt;code&gt;game&lt;/code&gt; 文件夹就完事了（只针对第三季，前两季不用放）。&lt;/p&gt;
+&lt;p&gt;我自己还没来得及实机测试，大家装完要是还有问题随时在评论区踢我。如果确实失效了，等我抽空再琢磨重新手搓一个。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1323,13 +1321,12 @@ alt="screenshot0023.png"
 &lt;/summary&gt;
 &lt;div class="reading-platform-body"&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;杂谈&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;OK啊，这次的补丁也总算是成功 Coding 出来了！&lt;/p&gt;
-&lt;p&gt;这次主要花费的时间还是在反复测试和优化上。因为最近一直在折腾一些新东西，包括新的 Mod UI排版，所以整体更新进度稍微慢了一些，前前后后差不多花了三四天。&lt;/p&gt;
-&lt;p&gt;其实这游戏更新0.1.4.0版本的时候，我就跑了AI了，不过当时还没有进一步处理人名、专有名词，也没有进行文风方面的优化。&lt;/p&gt;
-&lt;p&gt;正好趁着这两天把 Mod 部分也优化完成了，就顺手把Gemini文风、DeepSeek 文风以及简润功能也一并完善了。整体来说，这次补丁已经经过了多轮测试，完成度应该还是比较高的。&lt;/p&gt;
-&lt;p&gt;另外，这次游戏更新跨越了三四个版本，新增了不少剧情内容。不过嘛，大家都懂的，依旧是毕加索女士，哈哈哈。&lt;/p&gt;
-&lt;p&gt;最后补充一下：补丁里的 Mod 都是由 Antigravity 反重力 (Gemini 3.8 Flash High) Coding 的。由于平时没有太多时间实际游玩和全面测试，难免还会存在一些遗漏或 Bug。如果大家在使用过程中遇到问题，欢迎在评论区积极反馈，我会尽量跟进修复和完善。&lt;/p&gt;
-&lt;p&gt;总之就这样吧，感谢大家支持！&lt;/p&gt;
+&lt;p&gt;OK兄弟们，折腾了三四天，这期的补丁总算是给肝出来了！&lt;/p&gt;
+&lt;p&gt;这几天主要是在折腾新的 Mod UI 排版，来回测试优化花了点时间，所以更新慢了些。&lt;/p&gt;
+&lt;p&gt;其实游戏刚更新 0.1.4.0 的时候初版汉化就跑完了，但当时人名和专有名词没怎么校对，文风也没调，看着太糙。这次趁着把 Mod 弄顺手，顺便把 Gemini、DeepSeek 两种文风和简润功能全给补齐了，多轮跑下来完成度已经相当扎实。&lt;/p&gt;
+&lt;p&gt;这次游戏直接连跨了三四个小版本，剧情量加了不少。不过嘛……懂的都懂，依旧是熟悉的“毕加索女士”，哈哈哈！&lt;/p&gt;
+&lt;p&gt;顺便提一嘴：补丁里的 Mod 是用 Antigravity (Gemini 3.8 Flash High) 辅助手搓出来的。我自己平时没那么多精力把全流程深度跑通，难免会漏掉点小 Bug。大家游玩时要是碰到什么奇怪的毛病，评论区吼一声，我抽空跟进修。&lt;/p&gt;
+&lt;p&gt;行，就先唠这么多，大家玩得开心！&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
