@@ -1465,6 +1465,13 @@ alt="封面图"
 &lt;/h2&gt;&lt;details class="reading-note reading-changelog"&gt;
 &lt;summary style="color:#00A1D6;"&gt;博文更新日志&lt;/summary&gt;
 &lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.11.19&lt;/time&gt;&lt;span&gt; · 19:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;0.8.3&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;Hot Fix&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
 &lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.11.13&lt;/time&gt;&lt;span&gt; · 11:00&lt;/span&gt;&lt;/span&gt;
 &lt;div class="reading-update-main"&gt;
 &lt;strong class="reading-update-version"&gt;0.8.3&lt;/strong&gt;
@@ -2403,6 +2410,22 @@ alt="screenshot0032"
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;模组说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
 &lt;p&gt;之前有水友提过想要这个音乐恢复模组，这次正好想起来就顺手加上了。它可以把早期版本因版权调整而被替换掉的原版配乐（比如圣诞节等经典 BGM）重新补回来，体验更原汁原味。&lt;/p&gt;
 &lt;p&gt;虽然这个模组会改动一小部分游戏文本，但对应的汉化我也已经一并集成进补丁里了，解压覆盖进游戏目录、搭配补丁直接用就行。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;Hot Fix&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;Patch&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/dRhTaLSs" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/wrTdsfV4" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;补丁说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;这是一个报错热修复补丁。之前忘了给模组做一层兼容，有些水友在只打后宫模组、或者没打多功能模组的情况下，偶尔会触发类似 &lt;code&gt;KeyError: u'mod_...'&lt;/code&gt;（&lt;code&gt;menu_override&lt;/code&gt;）的报错，也有人不会遇到。&lt;/p&gt;
+&lt;p&gt;如果游玩时碰到了这种报错，直接下载这个修复包放进 &lt;code&gt;game&lt;/code&gt; 文件夹覆盖一下基本就能解决；没报错的话可以不用管。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;

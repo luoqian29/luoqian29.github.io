@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 一落归谦</title><link>https://luoqian29.github.io/post/</link><description>Recent content in Posts on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Tue, 17 Nov 2026 22:32:31 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>博文更新计划与路线图</title><link>https://luoqian29.github.io/p/update/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/update/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPYeU18aYAAQf7U?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 一落归谦</title><link>https://luoqian29.github.io/post/</link><description>Recent content in Posts on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Thu, 19 Nov 2026 18:23:23 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>博文更新计划与路线图</title><link>https://luoqian29.github.io/p/update/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/update/</guid><description>&lt;img src="https://pbs.twimg.com/media/HPYeU18aYAAQf7U?format=jpg&amp;name=4096x4096" alt="Featured image of post 博文更新计划与路线图" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="博文更新计划与路线图"&gt;博文更新计划与路线图
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HPYeU19awAAI_G2?format=jpg&amp;amp;name=large"
 loading="lazy"
@@ -192,6 +192,379 @@ alt="封面图"
 &lt;/h2&gt;&lt;aside class="reading-notice" role="note"&gt;
 &lt;p&gt;如果平时有空，顺手帮落谦点个注册认证，我们就能细水长流地把最高质量的 V3.1 补丁做下去。&lt;br&gt;
 后续如果有特别喜欢、但相对小众的新游戏想优先玩到汉化，也欢迎投稿时带上自己领到的 16 元 API 密钥。落谦出精力、出技术和脚本帮你做出来，万一文本超量超出额度，超出的部分由我自掏腰包补齐。感谢各位老哥一路以来的包容与支持！&lt;/p&gt;
+&lt;/aside&gt;
+&lt;/div&gt;</description></item><item><title>Finding Mia 寻找米娅</title><link>https://luoqian29.github.io/p/findingmia/</link><pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/findingmia/</guid><description>&lt;img src="https://img.itch.zone/aW1nLzI5Mjk5Nzc5LnBuZw==/original/9eYiBO.png" alt="Featured image of post Finding Mia 寻找米娅" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+&lt;h1 id="finding-mia-v03-untitled-goons"&gt;Finding Mia [v0.3] [Untitled-Goons]
+&lt;/h1&gt;&lt;p&gt;&lt;img src="https://img.itch.zone/aW1hZ2UvNDE0NjIwNi8zMjI1MjM5My5qcGc=/original/5ZWN07.jpg"
+loading="lazy"
+alt="1"
+&gt;
+&lt;img src="https://img.itch.zone/aW1hZ2UvNDE0NjIwNi8zMjI1MjM4NC5qcGc=/original/mWZAxN.jpg"
+loading="lazy"
+alt="1"
+&gt;
+&lt;img src="https://img.itch.zone/aW1hZ2UvNDE0NjIwNi8zMjIzMTQ2NS5naWY=/original/aXPx4c.gif"
+loading="lazy"
+alt="1"
+&gt;
+&lt;img src="https://img.itch.zone/aW1hZ2UvNDE0NjIwNi8zMjIzMTQ2MC5naWY=/original/I6N1jb.gif"
+loading="lazy"
+alt="1"
+&gt;
+&lt;img src="https://img.itch.zone/aW1hZ2UvNDE0NjIwNi8zMjIyNTU1My5naWY=/original/eODPm5.gif"
+loading="lazy"
+alt="1"
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="overview"&gt;Overview
+&lt;/h1&gt;&lt;details&gt;
+&lt;summary&gt;剧情概要&lt;/summary&gt;
+&lt;p&gt;Following your father&amp;rsquo;s recent death and a tragedy involving your girlfriend, you return to your hometown to put your life back in order and move on. Unbeknownst to you, sinister forces are moving in the shadows, attempting to draw you into a role you were born to play in a conspiracy that dates back further than you can imagine. As the choices pile up, you will decide whether to accept your newfound fate or defy it. With either option, you will meet a variety of interesting people and piece together more and more of what is going on, all with the ultimate goal of finding Mia.​&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="details"&gt;Details
+&lt;/h2&gt;&lt;details class="reading-note reading-game-info"&gt;
+&lt;summary&gt;游戏信息&lt;/summary&gt;
+&lt;div class="mac-list-container reading-game-info-list"&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏玩法&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;视觉小说&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;建模引擎&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;Blender&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;运行引擎&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;Ren&amp;rsquo;Py&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;游戏画风&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;亚洲风&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;当前版本&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;0.3&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;发行日期&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;2026-11-14&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="developer入正地址"&gt;Developer（入正地址）
+&lt;/h2&gt;&lt;p&gt;&lt;a class="link" href="https://untitled-goons.itch.io/finding-mia" target="_blank" rel="noopener"
+&gt;Itch.io&lt;/a&gt;
+&lt;a class="link" href="https://www.patreon.com/cw/UntitledGoons" target="_blank" rel="noopener"
+&gt;Patreon&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="落谦酱便利贴"&gt;落谦酱便利贴
+&lt;/h2&gt;&lt;details class="reading-note reading-changelog"&gt;
+&lt;summary style="color:#00A1D6;"&gt;博文更新日志&lt;/summary&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.11.19&lt;/time&gt;&lt;span&gt; · 19:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;0.3&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;AI意译汉化补丁 · 公开&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary style="color:#f0b6b5;font-weight:600;"&gt;关于汉化补丁&lt;/summary&gt;
+&lt;div class="reading-patch-meta-bar"&gt;
+&lt;p&gt;&lt;span class="reading-patch-meta-pill"&gt;🤖 &lt;strong&gt;AI 模型：&lt;/strong&gt;DeepSeek-V3.1-Terminus&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="reading-patch-meta-pill"&gt;✍️ &lt;strong&gt;翻译作者：&lt;/strong&gt;落谦&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="reading-patch-meta-pill"&gt;📅 &lt;strong&gt;制作日期：&lt;/strong&gt;2026-11-19&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;⚠️ PS：关于 AI 幻觉与人工校对&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;由于 AI 会出现&lt;strong&gt;幻觉&lt;/strong&gt;，文本上下文中，偶尔会出现人名&lt;strong&gt;翻译误差&lt;/strong&gt;、&lt;strong&gt;中英文&lt;/strong&gt;夹杂、以及&lt;strong&gt;突兀文风&lt;/strong&gt;的句子。&lt;/p&gt;
+&lt;p&gt;目前落谦也只能统一&lt;strong&gt;主要角色&lt;/strong&gt;的人名，但难免还是会有&lt;strong&gt;个别遗漏&lt;/strong&gt;，毕竟落谦只有&lt;strong&gt;一个人&lt;/strong&gt;，时间和精力确实&lt;strong&gt;有限&lt;/strong&gt;。至于一些&lt;strong&gt;小名&lt;/strong&gt;、&lt;strong&gt;昵称&lt;/strong&gt;、&lt;strong&gt;缩写称呼&lt;/strong&gt;、&lt;strong&gt;称谓&lt;/strong&gt;、&lt;strong&gt;地点&lt;/strong&gt;、&lt;strong&gt;事件&lt;/strong&gt;，以及&lt;strong&gt;专有名词&lt;/strong&gt;，还有类似 &lt;strong&gt;sister、brother&lt;/strong&gt; 这种&lt;strong&gt;一词多义&lt;/strong&gt;的单词，则需要人工&lt;strong&gt;边玩边修正&lt;/strong&gt;。当然，如果在统一主要角色人名时，发现了&lt;strong&gt;相关专有名词&lt;/strong&gt;，也会&lt;strong&gt;顺手统一&lt;/strong&gt;一下。还请大家多多谅解，总之不妨碍游玩，&lt;strong&gt;如果介意，还请勿玩&lt;/strong&gt;。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;🛡️ 免死金牌&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;落谦的汉化补丁，无论是&lt;strong&gt;AI意译&lt;/strong&gt;版本还是&lt;strong&gt;AI简润、AI精润&lt;/strong&gt;版本，都远不及&lt;strong&gt;原文&lt;/strong&gt;或&lt;strong&gt;其他大佬&lt;/strong&gt;的汉化版本。&lt;/p&gt;
+&lt;p&gt;与其他汉化大佬不同，落谦并非为了&lt;strong&gt;为爱发电 &lt;strong&gt;，而是纯粹希望提升文笔，所以会加入更多文化色彩，比如&lt;/strong&gt;网络热梗&lt;/strong&gt;？&lt;strong&gt;古诗词&lt;/strong&gt;？&lt;strong&gt;谚语&lt;/strong&gt;？&lt;strong&gt;俗语&lt;/strong&gt;？&lt;strong&gt;网文小说梗&lt;/strong&gt;？&lt;strong&gt;等等&lt;/strong&gt;？&lt;span class="blur"&gt;还请高抬贵手，别再阴阳怪气我了。&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary style="color:#AF52DE;font-weight:600;"&gt;落谦酱点评&lt;/summary&gt;
+&lt;div class="video-wrapper"&gt;
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ZAWk6CEpn"
+scrolling="no"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true"
+&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="游戏预览图"&gt;游戏预览图
+&lt;/h2&gt;&lt;details class="reading-note reading-gallery"&gt;
+&lt;summary&gt;实图&lt;/summary&gt;
+&lt;p&gt;&lt;img src="https://i.ibb.co/hF5mbSX9/screenshot0001.png"
+loading="lazy"
+alt="screenshot0001.png"
+&gt;
+&lt;img src="https://i.ibb.co/k22cHHqL/screenshot0002.png"
+loading="lazy"
+alt="screenshot0002.png"
+&gt;
+&lt;img src="https://i.ibb.co/GG5vndm/screenshot0003.png"
+loading="lazy"
+alt="screenshot0003.png"
+&gt;
+&lt;img src="https://i.ibb.co/8DW1gs3B/screenshot0004.png"
+loading="lazy"
+alt="screenshot0004.png"
+&gt;
+&lt;img src="https://i.ibb.co/Kx3gs5CX/screenshot0005.png"
+loading="lazy"
+alt="screenshot0005.png"
+&gt;
+&lt;img src="https://i.ibb.co/0R9N1BXN/screenshot0006.png"
+loading="lazy"
+alt="screenshot0006.png"
+&gt;
+&lt;img src="https://i.ibb.co/mVLDK9k7/screenshot0007.png"
+loading="lazy"
+alt="screenshot0007.png"
+&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="download-汉化补丁"&gt;DOWNLOAD (汉化补丁)
+&lt;/h2&gt;&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;PS&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;必看&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;杂谈&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;这作前几天下来看了一眼，建模还挺戳我审美的，顺手就跑了 AI 翻译，拖到今天才打包发出来。因为只是&lt;strong&gt;0.3&lt;/strong&gt;版本、文本量不大，加上没去折腾专有名词统一，整套做下来总共也就花了半小时左右（跑 AI 一两分钟，做补丁十几分钟，写博文上传七八分钟）。&lt;/p&gt;
+&lt;p&gt;主要角色的人名基本都用我自己写的工具统一过了（极个别地方要是 DeepSeek 抽风没按词表来也正常），整体读起来还是挺顺的。实在介意的话直接啃生肉也行，这类视觉小说基本都是简单日常口语，没什么门槛；毕竟半小时顺手搓出来的补丁，也不收大家订阅费，要什么自行车对吧？&lt;/p&gt;
+&lt;p&gt;正常玩应该不会有什么 Bug——而且我电脑里的游戏已经删了，除非遇到连游戏都进不去的大问题，不然小毛病我就等下次游戏更新再一起修了；万一真在某处卡住，临时切回英文原版或者把补丁移出去过掉那一段就行。祝大家玩得开心！&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://datanodes.to/2a93rcpuiwp1/FindingMia-v0.3-pc.zip" target="_blank" rel="noopener"
+&gt;DATANODES&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/YNZajDbc" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/QSWCG96x" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/vA72bEMu" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件放入&lt;strong&gt;game&lt;/strong&gt;文件夹中&lt;/li&gt;
+&lt;li&gt;启动&lt;strong&gt;exe&lt;/strong&gt;游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://datanodes.to/2a93rcpuiwp1/FindingMia-v0.3-pc.zip" target="_blank" rel="noopener"
+&gt;DATANODES&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/YNZajDbc" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/QSWCG96x" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/vA72bEMu" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主体 APK：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/tzFJr1yo" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/NXiJZrx8" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;、&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;和&lt;strong&gt;主体APK&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;安装&lt;strong&gt;APK&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;启动游戏，放行所有权限&lt;/li&gt;
+&lt;li&gt;这时游戏会&lt;strong&gt;闪退&lt;/strong&gt;，如果没有闪退，就自己手动大退&lt;/li&gt;
+&lt;li&gt;然后解压英文原版&lt;strong&gt;压缩包&lt;/strong&gt;文件&lt;/li&gt;
+&lt;li&gt;将英文原版&lt;strong&gt;game&lt;/strong&gt;文件夹中的&lt;strong&gt;所有文件及文件夹&lt;/strong&gt;和&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件一起移动到以下路径：&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Documents/RenPy_Saves/com.luoqian.FindingMia/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;环境配置：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;苹果端需使用&lt;strong&gt;Spark&lt;/strong&gt;模拟器进行游玩&lt;/li&gt;
+&lt;li&gt;Spark模拟器AppStore有售&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://datanodes.to/2a93rcpuiwp1/FindingMia-v0.3-pc.zip" target="_blank" rel="noopener"
+&gt;DATANODES&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/YNZajDbc" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI意译汉化补丁：&lt;/strong&gt;
+&lt;a class="link" href="https://gofile.io/d/QSWCG96x" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/vA72bEMu" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载&lt;strong&gt;英文原版&lt;/strong&gt;和&lt;strong&gt;AI意译汉化补丁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;打开&lt;strong&gt;Spark&lt;/strong&gt;模拟器导入&lt;strong&gt;英文原版&lt;/strong&gt;压缩包文件，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，&lt;strong&gt;不用解压&lt;/strong&gt;，重要的事情说三遍&lt;/li&gt;
+&lt;li&gt;然后将&lt;strong&gt;汉化补丁rpa&lt;/strong&gt;文件移动到以下路径：&lt;/li&gt;
+&lt;li&gt;最后启动游戏，选择&lt;strong&gt;简体中文&lt;/strong&gt;即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;我的iPhone/Spark/games/FindingMia/game
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="compressed-压缩版"&gt;Compressed (压缩版)
+&lt;/h2&gt;&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Windows&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;PC&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://www.mediafire.com/file/d6lzf91t623ughb" target="_blank" rel="noopener"
+&gt;MEDIAFIRE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/yJQaV7Y8" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;Android&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;安卓&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://www.mediafire.com/file/d6lzf91t623ughb" target="_blank" rel="noopener"
+&gt;MEDIAFIRE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/yJQaV7Y8" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;iPhone / iPad&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;iOS&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;strong&gt;英文原版：&lt;/strong&gt;
+&lt;a class="link" href="https://www.mediafire.com/file/d6lzf91t623ughb" target="_blank" rel="noopener"
+&gt;MEDIAFIRE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/yJQaV7Y8" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id="使用帮助"&gt;使用帮助
+&lt;/h2&gt;&lt;div class="mac-list-container reading-help"&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;网络连接&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果打不开链接请科学上网，没有梯子可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/p/vpn/" target="_blank" rel="noopener"
+&gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;安装教程&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果看不懂安装步骤，可以参考这篇&lt;a class="link" href="https://luoqian29.github.io/about/" target="_blank" rel="noopener"
+&gt;博文&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;问题反馈&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果操作过程中遇到Bug或其他问题，欢迎在博文评论区留言反馈&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;创作支持&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;如果本文对你有帮助，欢迎在&lt;a class="link" href="https://afdian.com/a/luoqian" target="_blank" rel="noopener"
+&gt;爱发电&lt;/a&gt;投喂落谦&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-item"&gt;
+&lt;div class="mac-list-left"&gt;
+&lt;p&gt;&lt;span class="mac-list-key"&gt;幸好有你&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mac-list-right"&gt;
+&lt;span class="mac-list-value"&gt;&lt;strong&gt;你的支持是我更新的最大动力！&lt;/strong&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="宇宙安全声明"&gt;宇宙安全声明！
+&lt;/h2&gt;&lt;aside class="reading-notice" role="note"&gt;
+&lt;p&gt;本文章仅供&lt;strong&gt;学习与交流&lt;/strong&gt;，请勿商用或非法传播。&lt;br&gt;
+落谦不对因使用本文所产生的任何问题负责。&lt;/p&gt;
 &lt;/aside&gt;
 &lt;/div&gt;</description></item><item><title>Companion of Darkness 黑暗伴侣</title><link>https://luoqian29.github.io/p/companionofdarkness/</link><pubDate>Tue, 17 Nov 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/companionofdarkness/</guid><description>&lt;img src="https://img.itch.zone/aW1nLzEzNDg1MzYzLnBuZw==/original/tPulIK.png" alt="Featured image of post Companion of Darkness 黑暗伴侣" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="companion-of-darkness-s2-ch13-berkili4"&gt;Companion of Darkness [S2 Ch.13] [Berkili4]
@@ -5255,6 +5628,13 @@ alt="封面图"
 &lt;/h2&gt;&lt;details class="reading-note reading-changelog"&gt;
 &lt;summary style="color:#00A1D6;"&gt;博文更新日志&lt;/summary&gt;
 &lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.11.19&lt;/time&gt;&lt;span&gt; · 19:00&lt;/span&gt;&lt;/span&gt;
+&lt;div class="reading-update-main"&gt;
+&lt;strong class="reading-update-version"&gt;0.8.3&lt;/strong&gt;
+&lt;span class="reading-update-detail"&gt;Hot Fix&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
 &lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.11.13&lt;/time&gt;&lt;span&gt; · 11:00&lt;/span&gt;&lt;/span&gt;
 &lt;div class="reading-update-main"&gt;
 &lt;strong class="reading-update-version"&gt;0.8.3&lt;/strong&gt;
@@ -6193,6 +6573,22 @@ alt="screenshot0032"
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;模组说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
 &lt;p&gt;之前有水友提过想要这个音乐恢复模组，这次正好想起来就顺手加上了。它可以把早期版本因版权调整而被替换掉的原版配乐（比如圣诞节等经典 BGM）重新补回来，体验更原汁原味。&lt;/p&gt;
 &lt;p&gt;虽然这个模组会改动一小部分游戏文本，但对应的汉化我也已经一并集成进补丁里了，解压覆盖进游戏目录、搭配补丁直接用就行。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title" style="color: #FF3B30;"&gt;Hot Fix&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;Patch&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/dRhTaLSs" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/wrTdsfV4" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;补丁说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;这是一个报错热修复补丁。之前忘了给模组做一层兼容，有些水友在只打后宫模组、或者没打多功能模组的情况下，偶尔会触发类似 &lt;code&gt;KeyError: u'mod_...'&lt;/code&gt;（&lt;code&gt;menu_override&lt;/code&gt;）的报错，也有人不会遇到。&lt;/p&gt;
+&lt;p&gt;如果游玩时碰到了这种报错，直接下载这个修复包放进 &lt;code&gt;game&lt;/code&gt; 文件夹覆盖一下基本就能解决；没报错的话可以不用管。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
