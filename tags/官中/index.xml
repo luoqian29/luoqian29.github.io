@@ -121,7 +121,7 @@ alt="预览图"
 &lt;a class="link" href="https://pixeldrain.com/u/M47K4V1y" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;模组说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这是一个通用的双语对照 Mod，Ren&amp;rsquo;Py 游戏基本都能用，把 &lt;code&gt;.rpy&lt;/code&gt; 文件放进游戏的 &lt;code&gt;game&lt;/code&gt; 文件夹就能同时显示中英文。&lt;/p&gt;
+&lt;p&gt;这是一个通用的双语Mod，Ren&amp;rsquo;Py 游戏基本都能用，把 &lt;code&gt;.rpy&lt;/code&gt; 文件放进游戏的 &lt;code&gt;game&lt;/code&gt; 文件夹就能同时显示中英文。&lt;/p&gt;
 &lt;p&gt;不过它没有做界面开关，想关掉只能进 &lt;code&gt;game&lt;/code&gt; 文件夹把它删掉或移出去，嫌麻烦的话干脆不打也行；另外我最近的新补丁大多已经自带双语了，如果补丁本身有双语就别重复打，会起冲突。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
