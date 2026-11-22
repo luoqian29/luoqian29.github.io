@@ -562,9 +562,9 @@ alt="screenshot0020.png"
 &lt;/summary&gt;
 &lt;div class="reading-platform-body"&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;杂谈&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这作以前用 DeepSeek-V3 直接跑过一版俄语的，这次改成了&lt;strong&gt;拿英文翻译反编译后&lt;/strong&gt;再用 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 重新跑——毕竟 DeepSeek 处理英文的效果比俄语自然得多。&lt;/p&gt;
-&lt;p&gt;这版同样公开、不收订阅费：主要角色的人名已经用工具统一过了，但地名和专有名词没再去细修，UI 修图、多文风和外置 Mod 也都没做，属于模型直出的轻量版，要什么自行车，大家先凑合着玩吧！如果实在介意，其实直接&lt;strong&gt;啃生肉&lt;/strong&gt;也行，这类视觉小说大多是日常口语，没什么阅读门槛。&lt;/p&gt;
-&lt;p&gt;这作整体素质还挺 OK 的，正常玩应该不会有啥 Bug。万一真在某处卡住，可以临时切回原版或把补丁移出去过掉那一段；要是遇到连游戏都进不去的问题，直接反馈给我，我肯定帮你修！&lt;/p&gt;
+&lt;p&gt;这作以前拿 DeepSeek-V3 直接跑过一版俄语的，这次改成了&lt;strong&gt;拿英文翻译反编译后&lt;/strong&gt;，再用 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 重新跑了一遍，毕竟 DeepSeek 翻英文比翻俄语自然多了。&lt;/p&gt;
+&lt;p&gt;这版照旧公开不收订阅费，主要角色的人名已经用工具统一过，地名和专有名词没再去细修，UI 修图、多文风、外置 Mod 也都没弄，纯模型直出，要啥自行车，大家先凑合玩吧！实在介意的话直接&lt;strong&gt;啃生肉&lt;/strong&gt;也行，这类视觉小说大多都是日常口语，没啥门槛。&lt;/p&gt;
+&lt;p&gt;还有游戏我已经删了，正常玩应该没啥 Bug。万一真在哪个地方卡住，切回原版或者把补丁移出去过掉那段就行。要是遇到连游戏都进不去的大问题，直接跟我说，我肯定帮你修！&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1012,9 +1012,9 @@ alt="预览图"
 &lt;a class="link" href="https://pixeldrain.com/u/SSNQusYi" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;补丁说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这作质量还挺不错的，以前用 DeepSeek-V3 做过一版，这次 &lt;code&gt;0.13.0&lt;/code&gt; 更新用 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 跑了增量包，&lt;strong&gt;需要搭配下面 &lt;code&gt;0.12.b&lt;/code&gt; 的旧补丁一起使用&lt;/strong&gt;。更新部分的人名已经用工具统一过了，专有名词没再细修；毕竟也是更给大伙儿尝鲜、不收订阅费，能顺畅玩上就行，实在介意也可以啃生肉（视觉小说大多是日常口语，门槛不高）。&lt;/p&gt;
-&lt;p&gt;之所以走这种轻量增量模式，主要是实在抽不开身——这么弄半小时就能出一版（跑 AI 几十秒到两三分钟，主要时间都花在写博文和传文件上）。顺便提一嘴，之前有水友说 &lt;code&gt;0.12&lt;/code&gt; 有漏翻，但我自己没玩过也不知道具体漏在哪，大家碰到漏翻不截图发我的话，就只能一直维持现状了。&lt;/p&gt;
-&lt;p&gt;我自己简单测了一圈基本没啥 Bug。游戏本体我已经删了，万一遇到一两个小问题，临时切回英文原版或者把补丁移出去过掉那一段就行；要是真碰到连游戏都进不去、或者大面积漏翻，直接反馈给我，我再把几百兆的压缩包下回来修！&lt;/p&gt;
+&lt;p&gt;这作质量还挺不错的，以前用 DeepSeek-V3 做过一版，这次 &lt;code&gt;0.13.0&lt;/code&gt; 更新拿 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 跑了个增量包，&lt;strong&gt;需要搭着下面 &lt;code&gt;0.12.b&lt;/code&gt; 的旧补丁一起用&lt;/strong&gt;。新增部分的人名已经用工具统一过，专有名词没再细修。反正也不收订阅费，能顺畅玩上尝个鲜就行，实在介意的话这类视觉小说大多都是日常口语，直接啃生肉也没啥门槛。&lt;/p&gt;
+&lt;p&gt;最近实在抽不开身，走这种增量包半小时就能出一版，跑 AI 也就几十秒到两三分钟，时间基本都花在写博文和传文件上了。顺便提一嘴，之前有水友说 &lt;code&gt;0.12&lt;/code&gt; 有漏翻，但我自己没玩过也不知道具体漏在哪儿，大家碰上漏翻要是不截图发我，我就真没法修了。&lt;/p&gt;
+&lt;p&gt;发之前我自己大概测了一圈，基本没啥 Bug。游戏本体我已经删了，万一碰上一两个小报错，切回英文原版或者把补丁移出去过掉那段就行。要是真遇到连游戏都进不去、或者大面积漏翻的情况，直接跟我说，我再把几百兆的压缩包下回来修！&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1635,9 +1635,9 @@ alt="预览图"
 &lt;a class="link" href="https://pixeldrain.com/u/GFsJ6AGg" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;补丁说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这作之前只做到 &lt;code&gt;0.20.0&lt;/code&gt;，中间隔了四个版本才做到现在的 &lt;code&gt;0.24.0&lt;/code&gt;。其实中间 &lt;code&gt;0.23.0&lt;/code&gt; 时用 &lt;strong&gt;Gemini 3.8 Flash&lt;/strong&gt; 跑过一版但没发出来，这次 &lt;code&gt;0.24.0&lt;/code&gt; 则是用 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 跑的——我用脚本花十几分钟把这几个版本的更新内容提取合并进了一个 &lt;code&gt;.rpy&lt;/code&gt; 文件里，顺便把上面 &lt;strong&gt;Multi-Mod&lt;/strong&gt; 的文本也一并集成进去了。这次做的依然是&lt;strong&gt;增量更新包，必须搭配下面 &lt;code&gt;0.20.0&lt;/code&gt; 的旧补丁一起使用&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;其中 DeepSeek-V3.1 跑的部分人名是 99% 统一的，不过它和 Gemini 3.8 Flash 一样都没有再单独统一专有名词，具体观感就看哪个模型发挥得更顶了。反正这种增量模式本来就是更给大伙儿尝鲜、不收订阅费的，能顺畅玩上新剧情就行。&lt;/p&gt;
-&lt;p&gt;我自己简单进游戏看了一圈，选项和运行都正常，基本没啥 Bug。不过游戏本体我已经删了，如果真在某个地方卡住，可以临时切回英文或把补丁移出去、过完剧情再移回来；要是连游戏都进不去，直接告诉我，我再帮你修！&lt;/p&gt;
+&lt;p&gt;这作之前只做到 &lt;code&gt;0.20.0&lt;/code&gt;，中间隔了四个版本才更到现在的 &lt;code&gt;0.24.0&lt;/code&gt;。其实 &lt;code&gt;0.23.0&lt;/code&gt; 那会儿用 &lt;strong&gt;Gemini 3.8 Flash&lt;/strong&gt; 跑过一版但没发，这次 &lt;code&gt;0.24.0&lt;/code&gt; 换 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 跑的。我拿脚本花了十几分钟把这几个版本的新增内容全合进了一个 &lt;code&gt;.rpy&lt;/code&gt; 文件里，顺手把上面 &lt;strong&gt;Multi-Mod&lt;/strong&gt; 的文本也塞进去了。这次依然是&lt;strong&gt;增量更新包，必须搭着下面 &lt;code&gt;0.20.0&lt;/code&gt; 的旧补丁一起用&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;DeepSeek-V3.1 跑的那部分人名基本 99% 统一了，不过它跟 Gemini 3.8 Flash 一样都没再单独弄专有名词，具体观感就看哪个模型发挥得更顶。反正增量包本来就是给大伙儿尝鲜的，也不收订阅费，能顺畅玩上新剧情就行。&lt;/p&gt;
+&lt;p&gt;发之前我进游戏大概瞅了一圈，选项和运行都正常，基本没啥 Bug。游戏本体我已经删了，真在哪个地方卡住的话，先切回英文或者把补丁移出去，过完那段再放回来就行。要是连游戏都进不去，直接跟我说，我再帮你修！&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2070,9 +2070,9 @@ alt="预览图"
 &lt;a class="link" href="https://pixeldrain.com/u/9ydjNqBG" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;补丁说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;前两天游戏更新了第 13 章，本来想顺手做一版润色，但这作专有名词实在太多，DeepSeek 遇到这种设定的原文又容易变得文绉绉的（尤其是 V3，V3.1 会稍微好一点，但多少还是会带点这种感觉），加上最近做简润、写 Mod、Coding 时 Gemini 的雷霆大思考实在太慢太折腾，我就懒得硬肝了。&lt;/p&gt;
-&lt;p&gt;这次直接用 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 单独跑了 Ch.13 的新增文本，&lt;strong&gt;需要搭配下面 &lt;code&gt;Ch.12.5&lt;/code&gt; 的旧版补丁一起使用&lt;/strong&gt;，大家先凑合着玩，后面有空了再看情况补简润或 V3.1 完整版。主要角色的人名我已经用工具统一好了，至于其他海量的专有名词就没精力逐个修了，毕竟这个更新包也没收订阅费，能玩就行，如果介意可以啃生肉，这种视觉小说都是很简单的口语。&lt;/p&gt;
-&lt;p&gt;顺便安利一下，这作从第一季第 9 章开始动画质量直接起飞（作者请了领域入侵者的作者外包，物理感和细节拉满，甚至比《永恒世界》还顶）。不过我自己没从头推剧情，也就进画廊看了看，这次也&lt;strong&gt;不再额外提供存档&lt;/strong&gt;了，大家可以自己找存档或者直接打下面的画廊 Mod 看个爽。&lt;/p&gt;
+&lt;p&gt;前两天游戏更了第 13 章，本来想顺手做一版润色，但这作专有名词实在太多，DeepSeek 碰到这种设定又特别容易翻得文绉绉的，尤其是 V3，V3.1 稍微好点但多少还是带点那味。再加上最近做简润、写 Mod、Coding 的时候，Gemini 的雷霆大思考实在太慢太折腾，我就懒得硬肝了。&lt;/p&gt;
+&lt;p&gt;这次直接拿 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 单跑了 Ch.13 的新增文本，&lt;strong&gt;得搭着下面 &lt;code&gt;Ch.12.5&lt;/code&gt; 的旧版补丁一起用&lt;/strong&gt;，大家先凑合玩，后面有空再看情况补简润或者 V3.1 完整版。主要角色的人名我已经用工具统一过，其他一堆专有名词实在没精力一个个修。反正更新包也不收订阅费，能玩就行，真介意的话直接啃生肉也行，这类视觉小说基本都是简单口语。&lt;/p&gt;
+&lt;p&gt;顺便安利一嘴，这作从第一季第 9 章开始动画质量直接起飞，作者请了《领域入侵者》的作者来外包，物理感和细节直接拉满，甚至比《永恒世界》还顶。不过我自己没从头推剧情，也就进画廊瞅了瞅，这次也&lt;strong&gt;不再额外提供存档&lt;/strong&gt;了，大家自己找存档或者直接打下面的画廊 Mod 看个爽就行。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2708,8 +2708,8 @@ alt="screenshot0013.png"
 &lt;/summary&gt;
 &lt;div class="reading-platform-body"&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;杂谈&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这作 15 号刚更新到&lt;strong&gt;0.2 - Beta&lt;/strong&gt;，之前&lt;strong&gt;0.1&lt;/strong&gt;版是用 DeepSeek-V3 跑的，这次换 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 重新跑了一遍。这版我花了好几个小时去整理和统一专有名词与人名，所以七天后再公开吧。&lt;/p&gt;
-&lt;p&gt;至于简润得等过阵子有空再补了——最近实在抽不开身，跑润色、写 Mod 再加上Coding，整套下来动辄四五个小时，太折腾了，大家先玩着这版！&lt;/p&gt;
+&lt;p&gt;这作 15 号刚更到 &lt;strong&gt;0.2 - Beta&lt;/strong&gt;，之前 &lt;strong&gt;0.1&lt;/strong&gt; 版是拿 DeepSeek-V3 跑的，这次换 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 重新跑了一遍。这版我光整理统一专有名词和人名就花了好几个小时，所以七天后再公开吧。&lt;/p&gt;
+&lt;p&gt;简润得等过阵子有空再补了，最近实在抽不开身，跑润色、写 Mod 再加上 Coding，整套折腾下来随随便便就四五个小时，实在扛不住，大家先玩着这版！&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -3275,8 +3275,8 @@ alt="screenshot0006.png"
 &lt;/summary&gt;
 &lt;div class="reading-platform-body"&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;杂谈&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这作其实我 10 月 24 号就已经跑了AI，今天才想起来发出来。整个游戏的动画质量还挺不错的，就是目前剧情流程比较短。&lt;/p&gt;
-&lt;p&gt;因为篇幅不长，几乎没什么容易出岔子的地方，我就没再去额外统一地名和专有名词了。毕竟这作也是没收大家订阅费的，要什么自行车，大家先凑合着体验一下吧！&lt;/p&gt;
+&lt;p&gt;这作其实 10 月 24 号就跑完 AI 了，今天才想起来发出来。游戏里的动画质量还挺不错的，就是目前剧情流程比较短。&lt;/p&gt;
+&lt;p&gt;因为篇幅不长，基本没啥容易出岔子的地方，我就没再去额外统一地名和专有名词了。反正也不收大家订阅费，要啥自行车，先凑合玩玩看吧！&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -3873,9 +3873,9 @@ alt="screenshot0013.png"
 &lt;/summary&gt;
 &lt;div class="reading-platform-body"&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;杂谈&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这作我 11 号就跑完了，还顺手试玩了一会儿、翻了下画廊。虽然没玩过重制前的老版本，但这次重制后的渲染和动画质量确实很高，非常推荐大家体验一下。&lt;/p&gt;
-&lt;p&gt;最近实在太忙，这版就先不做&lt;strong&gt;简润补丁&lt;/strong&gt;了，也没去折腾悬浮工作台。直接用意译快速跑了一遍，简单修了一下专有名词，然后在设置右下角加上了双语切换——这样出得快，不至于一直断更。&lt;/p&gt;
-&lt;p&gt;后面有空的话，简润、选项 Mod 和作弊 Mod 这些还是会看情况补上的。不过说实话，最近订阅确实不多、没啥收益，一个人硬肝全套实在太累了，这版大家就先凑合着玩吧！游玩时如果碰到什么 Bug，也欢迎在评论区告诉我。&lt;/p&gt;
+&lt;p&gt;这作我 11 号就跑完了，还顺手试玩了一会儿、翻了下画廊。虽然没玩过重制前的老版本，但重制后的渲染和动画质量确实顶，挺推荐大家玩玩看的。&lt;/p&gt;
+&lt;p&gt;最近实在太忙，这版就先不做&lt;strong&gt;简润补丁&lt;/strong&gt;了，也没去折腾悬浮工作台。直接用意译快速跑了一遍，简单修了下专有名词，顺手在设置右下角加上了双语切换，这样出得快，不至于一直断更。&lt;/p&gt;
+&lt;p&gt;后面有空的话，简润、选项 Mod、作弊 Mod 这些还是会看情况补上的。不过说实话，最近订阅确实不多、没啥收益，一个人硬肝全套实在太累了，这版大家先凑合玩吧！玩的时候碰上啥 Bug，直接在评论区跟我说就行。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -4442,10 +4442,10 @@ alt="预览图"
 &lt;a class="link" href="https://pixeldrain.com/u/ctmycWmq" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;补丁说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这游戏之前停更了快两年，本来以为彻底坑了，没想到最近突然又更了。以前用 V3 跑过一版玩了一半，渲染偏黄加上童颜巨乳的建模看得有点难绷，但抛开画风其实质量还挺高的（同类型我更喜欢日系一点的《低语》）。还有就是之前做&lt;strong&gt;0.9b&lt;/strong&gt;用 DeepSeek-V3.1 重跑时，测试自己写的提取工具失误，白白多花了二三十块钱，说多了都是泪。&lt;/p&gt;
-&lt;p&gt;这次&lt;strong&gt;0.10b&lt;/strong&gt;主要大改了 Day 5、 Day 7，Day 6，Day 2～4 有小幅调整，并新增了 Day 8 的剧情（看水友说只有 20 分钟流程，但实际文本量挺大的，正常玩估计有半个多小时）。这版其实单独只跑 Day 8 就行，但我手快连前面改动的也一起跑了，又花了 13 块。目前这里放的是 &lt;strong&gt;0.10b 新增内容的rpy文件&lt;/strong&gt;，下载后搭配下面的 &lt;strong&gt;0.9b 旧补丁&lt;/strong&gt;一起放进最新版英文原版的 &lt;strong&gt;game&lt;/strong&gt;文件夹就能直接玩；至于 Day 2～6 反复修改的部分，等正式版出来再统一重做，免得回头又白花钱。&lt;/p&gt;
-&lt;p&gt;这版主要角色的人名在跑翻译时已经通过自己Coding的工具统一好了，不会出现歧义乱译；至于没加进词汇表的次要人名和专有名词，就全靠 DeepSeek-V3.1 自己音译意译发挥，整体翻下来还是很顺的，属于比较标准的 AI 意译水准。另外这游戏本身自带选项提示，没必要再折腾选项 Mod，想看全 CG 直接打下面的画廊 Mod 就行。&lt;/p&gt;
-&lt;p&gt;顺便说一下为什么改成这种轻量模式：支持订阅我的水友大多是已经工作的老哥，而亚洲风这边不少受众是没有经济收入的学生党，偏偏又特别爱点评、动不动阴阳怪气，搞得我之前一度不想更新了。但真断更又对不起支持我的订阅水友，所以干脆折中采用&lt;strong&gt;旧补丁 + 新增文本包&lt;/strong&gt;的轻量模式——有空就修一修，没空就先让大家能玩上。毕竟这种模式也不会收大家订阅费，免费分享能玩就行；如果遇到特别精品的大作，后面可能会优先做意译补丁先让订阅水友提前 7 天体验，或者出简润补丁，希望大家多体谅啦。&lt;/p&gt;
+&lt;p&gt;这游戏之前停更了快两年，本来以为彻底坑了，没想到最近突然又更了。以前拿 V3 跑过一版玩了一半，渲染偏黄加上童颜巨乳的建模看得有点难绷，但抛开画风其实质量挺高的，不过同类型我还是更喜欢日系一点的《低语》。还有就是之前做 &lt;strong&gt;0.9b&lt;/strong&gt; 拿 DeepSeek-V3.1 重跑时，测自己写的提取工具翻车了，白白多花了二三十块钱，说多了都是泪。&lt;/p&gt;
+&lt;p&gt;这次 &lt;strong&gt;0.10b&lt;/strong&gt; 主要大改了 Day 5、6、7，Day 2～4 有小幅调整，还新增了 Day 8 的剧情。看水友说只有 20 分钟流程，但实际文本量挺大的，正常玩估计得半个多小时。这版其实单跑 Day 8 就行，但我手快连前面改动的也一起跑了，又花了 13 块。这里放的是 &lt;strong&gt;0.10b 新增内容的 rpy 文件&lt;/strong&gt;，下完搭着下面的 &lt;strong&gt;0.9b 旧补丁&lt;/strong&gt;一起放进最新版英文原版的 &lt;strong&gt;game&lt;/strong&gt; 文件夹就能直接玩。至于 Day 2～6 反复改的部分，等正式版出来再统一重做，免得回头又白花钱。&lt;/p&gt;
+&lt;p&gt;主要角色的人名跑翻译时已经用我自己写的小工具统一好了，不会出现歧义乱译。没加进词表的次要人名和专有名词就全靠 DeepSeek-V3.1 自己发挥，整体翻下来挺顺的，标准的 AI 意译水准。另外游戏本身自带选项提示，没必要再折腾选项 Mod，想看全 CG 直接打下面的画廊 Mod 就行。&lt;/p&gt;
+&lt;p&gt;顺便聊聊为啥改成这种轻量模式。支持订阅我的水友大多是已经工作的老哥，而亚洲风这边不少是没有收入的学生党，偏偏又特别爱点评、动不动阴阳怪气，搞得我之前一度都不想更了。但真断更又对不起支持我的订阅水友，干脆折中一下，用&lt;strong&gt;旧补丁 + 新增文本包&lt;/strong&gt;的轻量模式，有空就修一修，没空就先让大家能玩上。反正这种模式也不收订阅费，免费分享能玩就行。后面要是碰上特别精品的大作，可能会优先做意译补丁让订阅水友提前 7 天玩，或者出简润补丁，希望大家多体谅啦。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;

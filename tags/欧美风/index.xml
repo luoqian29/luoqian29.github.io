@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>欧美风 on 一落归谦</title><link>https://luoqian29.github.io/tags/%E6%AC%A7%E7%BE%8E%E9%A3%8E/</link><description>Recent content in 欧美风 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Sun, 22 Nov 2026 20:24:14 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/%E6%AC%A7%E7%BE%8E%E9%A3%8E/index.xml" rel="self" type="application/rss+xml"/><item><title>Demon Boy 恶魔男孩</title><link>https://luoqian29.github.io/p/demonboy/</link><pubDate>Sun, 22 Nov 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/demonboy/</guid><description>&lt;img src="https://i.ibb.co/tp7BzrQm/1654199529162.avif" alt="Featured image of post Demon Boy 恶魔男孩" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>欧美风 on 一落归谦</title><link>https://luoqian29.github.io/tags/%E6%AC%A7%E7%BE%8E%E9%A3%8E/</link><description>Recent content in 欧美风 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><lastBuildDate>Sun, 22 Nov 2026 23:08:56 +0800</lastBuildDate><atom:link href="https://luoqian29.github.io/tags/%E6%AC%A7%E7%BE%8E%E9%A3%8E/index.xml" rel="self" type="application/rss+xml"/><item><title>Demon Boy 恶魔男孩</title><link>https://luoqian29.github.io/p/demonboy/</link><pubDate>Sun, 22 Nov 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/demonboy/</guid><description>&lt;img src="https://i.ibb.co/tp7BzrQm/1654199529162.avif" alt="Featured image of post Demon Boy 恶魔男孩" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="demon-boy-v042-eromersive"&gt;Demon Boy [v0.42] [EroMersive]
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://i.ibb.co/tp7BzrQm/1654199529162.avif"
 loading="lazy"
@@ -153,6 +153,22 @@ alt="screenshot0005.png"
 &lt;p&gt;这游戏我其实没玩过，纯粹是看它画风很像《中庸之道》，特别符合我审美才拿来做的。游戏其实已经跑路弃坑（Abandoned）了，不过文本量挺短的，前几个月就顺手用 DeepSeek-V3.1 跑完翻译放着了。&lt;/p&gt;
 &lt;p&gt;人名这块作者在脚本里直接写了变量，省得我再用工具统一了，其他专有名词也就没再折腾。另外 F95 上确实有个多功能模组，但那位作者的模组太难提取，我就懒得搞了——反正也不收大家订阅费，游戏本身流程短，多打几遍肯定也能把 CG 全打出来。&lt;/p&gt;
 &lt;p&gt;游戏我已经删了，发之前测试过应该没什么 Bug。万一真碰上报错，切回英文原文过一下就能通。总之就这样吧，大家玩得开心！&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details class="reading-platform"&gt;
+&lt;summary&gt;
+&lt;span class="reading-platform-title"&gt;UI Mod&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;Mod&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;/summary&gt;
+&lt;div class="reading-platform-body"&gt;
+&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/dVnQ0Q9x" target="_blank" rel="noopener"
+&gt;GOFILE&lt;/a&gt;
+&lt;a class="link" href="https://pixeldrain.com/u/s3crxknR" target="_blank" rel="noopener"
+&gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
+&lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;模组说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
+&lt;p&gt;我自己写的一个通用 UI Mod，直接丢进 &lt;code&gt;game&lt;/code&gt; 文件夹就行。进游戏后按 &lt;strong&gt;&lt;code&gt;F6&lt;/code&gt;&lt;/strong&gt;，或者点右下角 &lt;code&gt;&amp;lt;&amp;lt;&lt;/code&gt; 展开就能呼出来，字号大小、对话框和选项框的位置、文字颜色、底框透明度都能自己调，还顺手塞了快捷菜单和音量控制进去。&lt;/p&gt;
+&lt;p&gt;以前这玩意是直接塞在补丁里的，后来想着有些水友可能用不上，就单独拆出来放这儿了，需要的自己打上就行。不过老补丁要是本来就集成过，千万别重复往里放，可能会冲突，我自己也没测过重复打会出啥事。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1021,8 +1037,8 @@ alt="screenshot0006.png"
 &lt;a class="link" href="https://pixeldrain.com/u/s3crxknR" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;模组说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这是一个我自己写的通用 UI 调节面板（放进 &lt;code&gt;game&lt;/code&gt; 文件夹后，游戏里按 &lt;strong&gt;&lt;code&gt;F6&lt;/code&gt;&lt;/strong&gt; 或点右下角 &lt;code&gt;&amp;lt;&amp;lt;&lt;/code&gt; 展开就能呼出），可以自己调字号大小、对话框/选项框位置、文字颜色和底框透明度，还顺带集成了快捷菜单和音量播放设置。&lt;/p&gt;
-&lt;p&gt;以前这东西是直接打包在补丁里的，现在考虑到有些水友不需要，就单独拆出来单放了，有需要的自己打上就行。&lt;strong&gt;注意别重复打&lt;/strong&gt;：如果你用的老补丁里本身已经集成过它，就千万别再放一遍了，可能会起冲突（我也没测过重复打会怎样）。&lt;/p&gt;
+&lt;p&gt;我自己写的一个通用 UI Mod，直接丢进 &lt;code&gt;game&lt;/code&gt; 文件夹就行。进游戏后按 &lt;strong&gt;&lt;code&gt;F6&lt;/code&gt;&lt;/strong&gt;，或者点右下角 &lt;code&gt;&amp;lt;&amp;lt;&lt;/code&gt; 展开就能呼出来，字号大小、对话框和选项框的位置、文字颜色、底框透明度都能自己调，还顺手塞了快捷菜单和音量控制进去。&lt;/p&gt;
+&lt;p&gt;以前这玩意是直接塞在补丁里的，后来想着有些水友可能用不上，就单独拆出来放这儿了，需要的自己打上就行。不过老补丁要是本来就集成过，千万别重复往里放，可能会冲突，我自己也没测过重复打会出啥事。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2216,8 +2232,8 @@ alt="预览图"
 &lt;a class="link" href="https://pixeldrain.com/u/69sA8TsV" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;模组说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这是一个通用的双语Mod，Ren&amp;rsquo;Py 游戏基本都能用，把 &lt;code&gt;.rpy&lt;/code&gt; 文件放进游戏的 &lt;code&gt;game&lt;/code&gt; 文件夹就能同时显示中英文。&lt;/p&gt;
-&lt;p&gt;不过它没有做界面开关，想关掉只能进 &lt;code&gt;game&lt;/code&gt; 文件夹把它删掉或移出去，嫌麻烦的话干脆不打也行；另外我最近的新补丁大多已经自带双语了，如果补丁本身有双语就别重复打，会起冲突。&lt;/p&gt;
+&lt;p&gt;一个通用的双语 Mod，Ren&amp;rsquo;Py 游戏基本都能用，把 &lt;code&gt;.rpy&lt;/code&gt; 文件丢进 &lt;code&gt;game&lt;/code&gt; 文件夹就能同时显示中英文。&lt;/p&gt;
+&lt;p&gt;不过它没做界面开关，想关只能进 &lt;code&gt;game&lt;/code&gt; 文件夹删掉或者移出去，嫌麻烦干脆不打也行。另外我最近的新补丁大多已经自带双语了，如果补丁本身就有双语千万别重复打，会起冲突。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2584,8 +2600,8 @@ alt="预览图"
 &lt;a class="link" href="https://pixeldrain.com/u/69sA8TsV" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;模组说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这是一个通用的双语Mod，Ren&amp;rsquo;Py 游戏基本都能用，把 &lt;code&gt;.rpy&lt;/code&gt; 文件放进游戏的 &lt;code&gt;game&lt;/code&gt; 文件夹就能同时显示中英文。&lt;/p&gt;
-&lt;p&gt;不过它没有做界面开关，想关掉只能进 &lt;code&gt;game&lt;/code&gt; 文件夹把它删掉或移出去，嫌麻烦的话干脆不打也行；另外我最近的新补丁大多已经自带双语了，如果补丁本身有双语就别重复打，会起冲突。&lt;/p&gt;
+&lt;p&gt;一个通用的双语 Mod，Ren&amp;rsquo;Py 游戏基本都能用，把 &lt;code&gt;.rpy&lt;/code&gt; 文件丢进 &lt;code&gt;game&lt;/code&gt; 文件夹就能同时显示中英文。&lt;/p&gt;
+&lt;p&gt;不过它没做界面开关，想关只能进 &lt;code&gt;game&lt;/code&gt; 文件夹删掉或者移出去，嫌麻烦干脆不打也行。另外我最近的新补丁大多已经自带双语了，如果补丁本身就有双语千万别重复打，会起冲突。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -3007,9 +3023,9 @@ alt="screenshot0013.png"
 &lt;/summary&gt;
 &lt;div class="reading-platform-body"&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;杂谈&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这作之前做过 &lt;code&gt;0.6&lt;/code&gt; 版，&lt;code&gt;0.7&lt;/code&gt; 跳过了没做，前阵子更新到 &lt;code&gt;0.8&lt;/code&gt; 顺手跑完 AI 今天就发出来。这次一样是用 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 跑的，主要角色人名已经统一好了，专有名词太耗时间就没去细修（反正 V3.1 自己发挥得也挺稳的）。另外游戏里少量地方用了动态文本，但我不想去改源代码，所以可能会有个别任务文本依然显示英文。&lt;/p&gt;
-&lt;p&gt;整体来说这作质量非常高，打上汉化直接玩就行——毕竟也不会收大家订阅费；实在介意这些小瑕疵的话，这类视觉小说大多是日常口语，直接啃生肉或者找其他资源也行。&lt;/p&gt;
-&lt;p&gt;我检查了一圈基本没啥 Bug，现在自己写的这条龙工具已经挺完善了，除了极少数动态文本外一般不会出错。游戏我已经删了，如果碰到小Bug，切回英文或者把补丁移出 &lt;code&gt;game&lt;/code&gt; 文件夹过掉那段再移回来就行（留到下次更新再优化）；要是遇到进不去游戏的重大 Bug 再直接联系我。&lt;/p&gt;
+&lt;p&gt;这作之前做过 &lt;code&gt;0.6&lt;/code&gt; 版，&lt;code&gt;0.7&lt;/code&gt; 跳过了没做，前阵子更到 &lt;code&gt;0.8&lt;/code&gt; 就顺手跑完 AI 发出来了。这次还是用 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 跑的，主要角色人名已经统一好，专有名词太费时间就没细修，反正 V3.1 自己发挥得也挺稳。另外游戏里有一小部分用了动态文本，我不想动源代码，所以个别任务提示可能还是英文。&lt;/p&gt;
+&lt;p&gt;这作本身质量挺高的，打上补丁直接玩就行，反正也不收订阅费。真介意这点小瑕疵的话，这类视觉小说基本都是日常口语，直接啃生肉或者找别的资源也行。&lt;/p&gt;
+&lt;p&gt;发之前我检查了一圈基本没啥 Bug，现在我自己写的一条龙工具已经挺稳了，除了极少数动态文本一般不会出错。游戏本体我已经删了，万一碰上小报错，切回英文或者把补丁从 &lt;code&gt;game&lt;/code&gt; 文件夹移出去，过了那段再放回来就行，小毛病等下次更新再修。要是遇到连游戏都进不去的大 Bug，直接联系我。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -3453,8 +3469,8 @@ alt="screenshot0011.png"
 &lt;/summary&gt;
 &lt;div class="reading-platform-body"&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;杂谈&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这作之前做过 &lt;code&gt;0.12.0&lt;/code&gt; 版，中间隔了一版给一位水友单独发过，到了 &lt;code&gt;0.14&lt;/code&gt; 本来懒得做了，想了想还是顺手搓一版出来吧。这个补丁是在以前 &lt;code&gt;0.12.0&lt;/code&gt;（DeepSeek-V3.1）的基础上，把 &lt;code&gt;0.13&lt;/code&gt; 和 &lt;code&gt;0.14&lt;/code&gt; 混用 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 和 &lt;strong&gt;Gemini 3.8 Flash&lt;/strong&gt; 跑出来的内容合并到了一起。所以前面章节的专有名词是统一的，后面新增部分就没再统了，全靠模型发挥（不过主要角色的人名基本都统一好了）。&lt;/p&gt;
-&lt;p&gt;另外我也把下面 F95 多功能模组的汉化文本移植进了主补丁里。我自己简单测了一圈没啥 Bug，不过游戏我已经删了，万一真在某个地方卡住，切回英文或者把补丁移出 &lt;code&gt;game&lt;/code&gt; 文件夹过掉那段再存档就行；要是遇到严重报错再反馈给我。毕竟这版也不会收大家订阅费，实在没精力去精修，介意的话建议直接啃生肉或找其他资源。祝大家玩得开心！&lt;/p&gt;
+&lt;p&gt;这作之前做过 &lt;code&gt;0.12.0&lt;/code&gt; 版，中间隔了一版只给水友单独发过，更到 &lt;code&gt;0.14&lt;/code&gt; 本来懒得弄了，想了想还是顺手搓一版出来吧。这次是在之前 &lt;code&gt;0.12.0&lt;/code&gt; 的 DeepSeek-V3.1 底子上，把 &lt;code&gt;0.13&lt;/code&gt; 和 &lt;code&gt;0.14&lt;/code&gt; 用 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 和 &lt;strong&gt;Gemini 3.8 Flash&lt;/strong&gt; 混着跑的新增文本合进去了。前面章节的专有名词是统一的，后面新增部分没再折腾、全靠模型自己发挥，不过主要角色的人名基本都统一好了。&lt;/p&gt;
+&lt;p&gt;下面那个 F95 多功能模组的汉化文本我也顺手塞进主补丁里了。发之前简单测了一圈没啥 Bug，游戏本体我已经删了，万一在哪个地方卡住，切回英文或者把补丁从 &lt;code&gt;game&lt;/code&gt; 文件夹移出去，过了那段存个档再放回来就行。要是遇到严重报错直接跟我说，反正这版也不收订阅费，实在没精力精修，介意的话直接啃生肉或者找别的资源也行。祝大家玩得开心！&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -3469,7 +3485,7 @@ alt="screenshot0011.png"
 &lt;a class="link" href="https://pixeldrain.com/u/b3aCPk5k" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;模组说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这是从 F95 搬过来的多功能模组，对应的汉化文本我已经直接集成到上面的主补丁里了，&lt;strong&gt;需要搭配汉化补丁一起用&lt;/strong&gt;，不然模组内容会显示成英文。下载解压后直接覆盖进游戏的 &lt;code&gt;game&lt;/code&gt; 文件夹就行。&lt;/p&gt;
+&lt;p&gt;从 F95 搬过来的多功能模组，里面的汉化文本我已经顺手合进主补丁了，&lt;strong&gt;得搭着汉化补丁一起用&lt;/strong&gt;，不然模组里会显示英文。下完解压，直接覆盖到游戏的 &lt;code&gt;game&lt;/code&gt; 文件夹里就行。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -4093,9 +4109,9 @@ alt="screenshot0013.png"
 &lt;/summary&gt;
 &lt;div class="reading-platform-body"&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;杂谈&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这作其实一个月前我就用 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 跑完 AI 了，一直拖到现在才做出来，也应水友要求做过，哈哈，之前 &lt;code&gt;0.3&lt;/code&gt; 版 那会儿用的 DeepSeek-V3，还顺手搬了 F95 的选项 Mod 集成进去。这次实在没空折腾，就只是简单把新版文本跑了一遍。&lt;/p&gt;
-&lt;p&gt;主要角色的人名已经用工具统一过了，但专有名词没再去细修；另外 UI 图没 P，游戏里也可能有少量动态文本没显示汉化。毕竟是不会收订阅费的补丁，如果实在介意这些小瑕疵，这类视觉小说大多是日常口语，直接啃生肉或找其他资源也行。&lt;/p&gt;
-&lt;p&gt;我自己简单测了一圈基本没啥 Bug。另外游戏我已经删了，真遇到小问题的话，临时切回英文原版过掉那一段就行（要是原版也报错那多半是游戏本身的问题），剩下的就等下次更新再一起优化啦！&lt;/p&gt;
+&lt;p&gt;这作其实一个月前就用 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 跑完 AI 了，一直拖到现在才做出来。之前应水友要求做过 &lt;code&gt;0.3&lt;/code&gt; 版，那会儿用的还是 DeepSeek-V3，还顺手把 F95 的选项 Mod 塞进去了，这次实在没空折腾，就只把新版文本跑了一遍。&lt;/p&gt;
+&lt;p&gt;主要角色的人名已经用工具统一过，其他专有名词没再去细修。另外 UI 图没 P，游戏里也可能有一小部分动态文本没显示中文。反正也不收订阅费，真介意这点小瑕疵的话，这类视觉小说大多都是日常口语，直接啃生肉或者找别的资源也行。&lt;/p&gt;
+&lt;p&gt;发之前我自己大概测了一圈，基本没啥 Bug。游戏本体我已经删了，真碰上小报错，先切回英文原版过掉那段就行，要是原版也报错那多半就是游戏本身的问题了，剩下的等下次更新再一起修吧！&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -4891,9 +4907,9 @@ alt="预览图"
 &lt;a class="link" href="https://pixeldrain.com/u/EP7SdWto" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;补丁说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这游戏 11 号刚更新，应水友要求顺手把新版本也做了。虽然全篇一万多行用 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 重跑花了二十多块，但博文更新的是&lt;strong&gt;增量更新包，需要搭配下面 &lt;code&gt;0.6.7Ra&lt;/code&gt; 的旧补丁一起使用&lt;/strong&gt;。更新部分只统一了人名、没细修专有名词，而且有可能部分词条忘记提取出来了，我写完博文才发现的，有些句子不显示汉化，但是对话是 100% 显示汉化了。总之这也比较忙，确实没办法。&lt;/p&gt;
-&lt;p&gt;另外顺便搬了 F95 上新出的 &lt;strong&gt;Gallery/Walkthrough Mod（画廊与攻略提示）&lt;/strong&gt;。它是外挂 Hook 式的，好处是不污染存档，但因为机制是靠英文原句去匹配触发提示的，如果把选项翻成中文反而会让攻略提示失效，所以鱼和熊掌不可兼得——目前只能翻译攻略提示，原选项会显示英文。本来也能让 AI 慢慢写适配，但最近实在没时间等 AI 雷霆大思考去折腾了。如果非常介意选项变英文，直接不打这个 Mod 就行。&lt;/p&gt;
-&lt;p&gt;加上这作本身玩的人不多，又没收大家订阅费，而且最近确实没空，更新的博文都是这种轻量轻量模式，所以只能凑合着玩吧，等后面有空了再慢慢补全！&lt;/p&gt;
+&lt;p&gt;这游戏 11 号刚更新，应水友要求顺手把新版也做了。虽然全篇一万多行拿 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 重跑花了二十多块，但博文里放的是&lt;strong&gt;增量更新包，需要搭着下面 &lt;code&gt;0.6.7Ra&lt;/code&gt; 的旧补丁一起用&lt;/strong&gt;。新增部分只统一了人名，专有名词没细修，而且我写完博文才发现可能漏提了一小部分词条，个别句子会没显示中文，不过对话部分是 100% 汉化了的，最近实在太忙，确实没办法。&lt;/p&gt;
+&lt;p&gt;另外顺手搬了 F95 新出的 &lt;strong&gt;Gallery/Walkthrough Mod&lt;/strong&gt;（画廊加攻略提示）。它是外挂 Hook 式的，好处是不污染存档，但机制是靠英文原句去匹配触发提示，把选项翻成中文反而会让攻略提示失效，所以目前只能翻攻略提示，原选项还是英文。本来也能让 AI 慢慢写适配，但最近真没时间等它雷霆大思考去折腾了，特别介意选项变英文的话直接不打这个 Mod 就行。&lt;/p&gt;
+&lt;p&gt;这作本身玩的人就不多，也不收大家订阅费，加上最近实在没空，更新基本都走这种轻量模式，大家先凑合玩吧，等后面有空了再慢慢补全！&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -5186,8 +5202,8 @@ alt="预览图"
 &lt;a class="link" href="https://pixeldrain.com/u/RPZT7u11" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;补丁说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这游戏虽然有官中，但只有正式版才带；这次搬运的是 &lt;strong&gt;0.22 测试版（Beta）&lt;/strong&gt;，新增和改动的剧情还没官方中文。我顺手把这部分更新文本全提出来，用 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 花了 &lt;strong&gt;¥1.25&lt;/strong&gt; 跑了一遍 AI 意译（没做补丁之前我自己也是速通用的）。所以没专门去统一人名和专有名词，全靠模型自己发挥，不过实测读起来效果还挺不错的。&lt;/p&gt;
-&lt;p&gt;想抢先玩中文的话，下载解压后把里面的 &lt;strong&gt;game&lt;/strong&gt; 文件夹直接覆盖 &lt;strong&gt;game&lt;/strong&gt; 文件夹就行；如果介意人名不统一，也可以先啃生肉，或者等后面正式版和 Steam 上架直接玩官中。&lt;/p&gt;
+&lt;p&gt;这游戏虽然有官中，但只有正式版才带。这次搬运的是 &lt;strong&gt;0.22 测试版（Beta）&lt;/strong&gt;，新增和改动的剧情还没来得及上官中，我顺手把这部分文本全提出来，拿 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 花了 &lt;strong&gt;¥1.25&lt;/strong&gt; 跑了遍 AI 意译。原本做补丁前我自己也是拿来速通用的，所以没专门统一人名和专有名词，全靠模型自己发挥，不过实测读着还挺顺的。&lt;/p&gt;
+&lt;p&gt;想抢先玩中文的话，下完解压，把里面的 &lt;strong&gt;game&lt;/strong&gt; 文件夹直接覆盖 &lt;strong&gt;game&lt;/strong&gt; 文件夹就行。要是介意人名不统一，也可以先啃生肉，或者等后面正式版和 Steam 上架直接玩官中。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -5690,9 +5706,9 @@ alt="screenshot0012.png"
 &lt;/summary&gt;
 &lt;div class="reading-platform-body"&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;杂谈&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这游戏从&lt;strong&gt;0.5&lt;/strong&gt; 更新到&lt;strong&gt;0.6&lt;/strong&gt;了。最近实在没空，&lt;strong&gt;这版先不做简润补丁&lt;/strong&gt;，直接用老补丁打底适配的新版；另外之前 AI 做的选项 Mod 有点问题，这次也干脆砍掉了。&lt;/p&gt;
-&lt;p&gt;这次升级了底层代码并&lt;strong&gt;新增了双语切换&lt;/strong&gt;，但悬浮工作台还没来得及做上去，目前选语言和字体暂时还得去设置右下角调。本来我是打算直接做个轻量热补丁省事的，但没办法，这游戏原生底包是韩语，没法直接热修，只能去反编译原游戏的英文版来做——不然开双语对照时原文会直接变成韩语，中文字体又渲染不出来，全屏都会变方框。&lt;/p&gt;
-&lt;p&gt;等过一周左右有空了，再把带悬浮工作台和多模型文风的简润补丁补上。大家玩的时候遇到 Bug 记得随时反馈，我会尽快修复。&lt;/p&gt;
+&lt;p&gt;这游戏从 &lt;strong&gt;0.5&lt;/strong&gt; 更到 &lt;strong&gt;0.6&lt;/strong&gt; 了。最近实在没空，&lt;strong&gt;这版先不做简润补丁&lt;/strong&gt;，直接拿老补丁打底适配的新版。另外之前让 AI 写的选项 Mod 有点问题，这次也干脆砍掉了。&lt;/p&gt;
+&lt;p&gt;这次升级了底层代码，顺带&lt;strong&gt;新增了双语切换&lt;/strong&gt;，不过悬浮工作台还没来得及做上去，选语言和字体暂时还得去设置右下角调。本来我想做个轻量热补丁图省事，但没办法，这游戏原生底包是韩语，没法直接热修，只能去反编译英文版来做，不然开双语的时候原文全变成韩语，中文字体渲染不出来，满屏都是方框。&lt;/p&gt;
+&lt;p&gt;等过一周左右有空了，再把带悬浮工作台和多模型文风的简润补丁补上。玩的时候碰上啥 Bug 直接跟我说，我尽快修。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -5712,8 +5728,8 @@ alt="screenshot0012.png"
 &lt;a class="link" href="https://pixeldrain.com/u/N7JUwfvS" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;补丁说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这次&lt;strong&gt;0.6`&lt;strong&gt;我拿到的是水友发来的 Mac 版资源，我自己是反编译还原成了 PC 版（也同步发在 F95 论坛了）。打包时 AI 漏掉了一个底层文件，导致&lt;/strong&gt;一打开设置（Settings）就会直接报错崩溃&lt;/strong&gt;。玩英文原版可能没啥感觉，但咱们玩中文&lt;strong&gt;必须进设置里切语言&lt;/strong&gt;，所以这个热修复&lt;strong&gt;必打&lt;/strong&gt;，不打没法调中文。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装方法&lt;/strong&gt;：解压后，直接把里面的同名文件夹（&lt;strong&gt;renpy&lt;/strong&gt;）复制到游戏根目录覆盖即可。&lt;/p&gt;
+&lt;p&gt;这次 &lt;strong&gt;0.6&lt;/strong&gt; 拿到的是水友发来的 Mac 版资源，我自己反编译还原成了 PC 版，也同步发在 F95 论坛了。打包时 AI 漏掉了一个底层文件，导致&lt;strong&gt;一打开设置（Settings）就会直接报错崩溃&lt;/strong&gt;。玩英文原版可能没啥感觉，但咱们玩中文&lt;strong&gt;必须进设置里切语言&lt;/strong&gt;，所以这个热修复&lt;strong&gt;必打&lt;/strong&gt;，不打没法调中文。&lt;/p&gt;
+&lt;p&gt;解压后把里面的 &lt;strong&gt;renpy&lt;/strong&gt; 文件夹直接复制到游戏根目录覆盖就行。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;

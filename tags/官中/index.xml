@@ -1795,8 +1795,8 @@ alt="预览图"
 &lt;a class="link" href="https://pixeldrain.com/u/69sA8TsV" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;模组说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这是一个通用的双语Mod，Ren&amp;rsquo;Py 游戏基本都能用，把 &lt;code&gt;.rpy&lt;/code&gt; 文件放进游戏的 &lt;code&gt;game&lt;/code&gt; 文件夹就能同时显示中英文。&lt;/p&gt;
-&lt;p&gt;不过它没有做界面开关，想关掉只能进 &lt;code&gt;game&lt;/code&gt; 文件夹把它删掉或移出去，嫌麻烦的话干脆不打也行；另外我最近的新补丁大多已经自带双语了，如果补丁本身有双语就别重复打，会起冲突。&lt;/p&gt;
+&lt;p&gt;一个通用的双语 Mod，Ren&amp;rsquo;Py 游戏基本都能用，把 &lt;code&gt;.rpy&lt;/code&gt; 文件丢进 &lt;code&gt;game&lt;/code&gt; 文件夹就能同时显示中英文。&lt;/p&gt;
+&lt;p&gt;不过它没做界面开关，想关只能进 &lt;code&gt;game&lt;/code&gt; 文件夹删掉或者移出去，嫌麻烦干脆不打也行。另外我最近的新补丁大多已经自带双语了，如果补丁本身就有双语千万别重复打，会起冲突。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2163,8 +2163,8 @@ alt="预览图"
 &lt;a class="link" href="https://pixeldrain.com/u/69sA8TsV" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;模组说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这是一个通用的双语Mod，Ren&amp;rsquo;Py 游戏基本都能用，把 &lt;code&gt;.rpy&lt;/code&gt; 文件放进游戏的 &lt;code&gt;game&lt;/code&gt; 文件夹就能同时显示中英文。&lt;/p&gt;
-&lt;p&gt;不过它没有做界面开关，想关掉只能进 &lt;code&gt;game&lt;/code&gt; 文件夹把它删掉或移出去，嫌麻烦的话干脆不打也行；另外我最近的新补丁大多已经自带双语了，如果补丁本身有双语就别重复打，会起冲突。&lt;/p&gt;
+&lt;p&gt;一个通用的双语 Mod，Ren&amp;rsquo;Py 游戏基本都能用，把 &lt;code&gt;.rpy&lt;/code&gt; 文件丢进 &lt;code&gt;game&lt;/code&gt; 文件夹就能同时显示中英文。&lt;/p&gt;
+&lt;p&gt;不过它没做界面开关，想关只能进 &lt;code&gt;game&lt;/code&gt; 文件夹删掉或者移出去，嫌麻烦干脆不打也行。另外我最近的新补丁大多已经自带双语了，如果补丁本身就有双语千万别重复打，会起冲突。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -3035,8 +3035,8 @@ alt="预览图"
 &lt;a class="link" href="https://pixeldrain.com/u/RPZT7u11" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;补丁说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这游戏虽然有官中，但只有正式版才带；这次搬运的是 &lt;strong&gt;0.22 测试版（Beta）&lt;/strong&gt;，新增和改动的剧情还没官方中文。我顺手把这部分更新文本全提出来，用 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 花了 &lt;strong&gt;¥1.25&lt;/strong&gt; 跑了一遍 AI 意译（没做补丁之前我自己也是速通用的）。所以没专门去统一人名和专有名词，全靠模型自己发挥，不过实测读起来效果还挺不错的。&lt;/p&gt;
-&lt;p&gt;想抢先玩中文的话，下载解压后把里面的 &lt;strong&gt;game&lt;/strong&gt; 文件夹直接覆盖 &lt;strong&gt;game&lt;/strong&gt; 文件夹就行；如果介意人名不统一，也可以先啃生肉，或者等后面正式版和 Steam 上架直接玩官中。&lt;/p&gt;
+&lt;p&gt;这游戏虽然有官中，但只有正式版才带。这次搬运的是 &lt;strong&gt;0.22 测试版（Beta）&lt;/strong&gt;，新增和改动的剧情还没来得及上官中，我顺手把这部分文本全提出来，拿 &lt;strong&gt;DeepSeek-V3.1&lt;/strong&gt; 花了 &lt;strong&gt;¥1.25&lt;/strong&gt; 跑了遍 AI 意译。原本做补丁前我自己也是拿来速通用的，所以没专门统一人名和专有名词，全靠模型自己发挥，不过实测读着还挺顺的。&lt;/p&gt;
+&lt;p&gt;想抢先玩中文的话，下完解压，把里面的 &lt;strong&gt;game&lt;/strong&gt; 文件夹直接覆盖 &lt;strong&gt;game&lt;/strong&gt; 文件夹就行。要是介意人名不统一，也可以先啃生肉，或者等后面正式版和 Steam 上架直接玩官中。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
