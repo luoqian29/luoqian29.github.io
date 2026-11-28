@@ -10,9 +10,9 @@
   --surface: rgba(255, 255, 255, 0.88);
   --surface-solid: #ffffff;
   --surface-muted: #f0f0f3;
-  --nav-bg: rgba(251, 251, 253, 0.78);
+  --nav-bg: rgba(251, 251, 253, 0.80);
   --border: rgba(0, 0, 0, 0.08);
-  --border-strong: rgba(0, 0, 0, 0.14);
+  --border-strong: rgba(0, 0, 0, 0.15);
   --text: #1d1d1f;
   --text-secondary: #6e6e73;
   --accent: #0071e3;
@@ -22,19 +22,23 @@
   --warn: #b45309;
   --warn-bg: rgba(245, 158, 11, 0.10);
   --warn-border: rgba(245, 158, 11, 0.28);
+  --code-bg: #f3f4f6;
+  --dialogue-bg: rgba(16, 20, 29, 0.90);
+  --dialogue-border: rgba(255, 255, 255, 0.14);
   --shadow: 0 8px 30px rgba(0, 0, 0, 0.04);
-  --radius-lg: 20px;
-  --radius-md: 14px;
+  --radius-lg: 18px;
+  --radius-md: 12px;
+  --radius-btn: 9px;
 }
 
 html[data-theme="dark"] {
   --bg: #0b0d12;
-  --surface: rgba(26, 30, 39, 0.82);
+  --surface: rgba(24, 28, 37, 0.84);
   --surface-solid: #161a22;
   --surface-muted: #1e2430;
-  --nav-bg: rgba(15, 18, 25, 0.78);
+  --nav-bg: rgba(14, 17, 24, 0.82);
   --border: rgba(255, 255, 255, 0.10);
-  --border-strong: rgba(255, 255, 255, 0.18);
+  --border-strong: rgba(255, 255, 255, 0.20);
   --text: #f5f5f7;
   --text-secondary: #98989f;
   --accent: #0a84ff;
@@ -44,7 +48,10 @@ html[data-theme="dark"] {
   --warn: #fbbf24;
   --warn-bg: rgba(245, 158, 11, 0.12);
   --warn-border: rgba(251, 191, 36, 0.30);
-  --shadow: 0 12px 36px rgba(0, 0, 0, 0.35);
+  --code-bg: #11151e;
+  --dialogue-bg: rgba(10, 13, 20, 0.94);
+  --dialogue-border: rgba(255, 255, 255, 0.16);
+  --shadow: 0 12px 36px rgba(0, 0, 0, 0.36);
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -57,6 +64,8 @@ body {
   -webkit-font-smoothing: antialiased;
   transition: background-color 0.25s ease, color 0.25s ease;
 }
+
+section { scroll-margin-top: 78px; }
 
 /* Navigation */
 .nav {
@@ -111,7 +120,7 @@ body {
   align-items: center;
   height: 34px;
   padding: 0 13px;
-  border-radius: 999px;
+  border-radius: var(--radius-btn);
   font-size: 13px;
   font-weight: 500;
   text-decoration: none;
@@ -119,7 +128,7 @@ body {
   background: var(--surface-solid);
   color: var(--text);
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: all 0.18s ease;
 }
 .pill-link:hover {
   border-color: var(--border-strong);
@@ -134,13 +143,12 @@ body {
   opacity: 0.92;
 }
 
-/* Language switcher matching Cockpit icon scale */
 .lang-seg {
   display: inline-flex;
   align-items: center;
   height: 34px;
   padding: 3px;
-  border-radius: 9px;
+  border-radius: var(--radius-btn);
   border: 1px solid var(--border);
   background: var(--surface-solid);
   gap: 2px;
@@ -165,11 +173,10 @@ body {
   color: var(--text);
 }
 
-/* Cockpit 34x34 Moon/Sun SVG icon button */
 .theme-btn {
   width: 34px;
   height: 34px;
-  border-radius: 9px;
+  border-radius: var(--radius-btn);
   border: 1px solid var(--border);
   background: var(--surface-solid);
   color: var(--text-secondary);
@@ -194,13 +201,13 @@ body {
 .wrap {
   max-width: 1080px;
   margin: 0 auto;
-  padding: 48px 24px 72px;
+  padding: 40px 24px 72px;
 }
 
 /* Hero */
 .hero {
   text-align: center;
-  padding: 16px 0 40px;
+  padding: 12px 0 28px;
 }
 .eyebrow {
   display: inline-block;
@@ -211,27 +218,27 @@ body {
   background: var(--accent-soft);
   padding: 5px 14px;
   border-radius: 999px;
-  margin-bottom: 16px;
+  margin-bottom: 14px;
 }
 .hero h1 {
-  font-size: clamp(28px, 4.5vw, 44px);
+  font-size: clamp(28px, 4.4vw, 42px);
   font-weight: 700;
   letter-spacing: -0.025em;
   line-height: 1.18;
-  margin-bottom: 14px;
+  margin-bottom: 12px;
 }
 .hero p {
-  max-width: 700px;
-  margin: 0 auto 28px;
-  font-size: 16.5px;
+  max-width: 720px;
+  margin: 0 auto 24px;
+  font-size: 16px;
   color: var(--text-secondary);
 }
 .spec-strip {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 12px;
-  max-width: 940px;
-  margin: 0 auto;
+  max-width: 960px;
+  margin: 0 auto 18px;
 }
 .spec-item {
   background: var(--surface);
@@ -240,6 +247,10 @@ body {
   padding: 14px 16px;
   box-shadow: var(--shadow);
   text-align: left;
+  transition: border-color 0.2s ease;
+}
+.spec-item:hover {
+  border-color: var(--border-strong);
 }
 .spec-label {
   font-size: 12px;
@@ -247,10 +258,97 @@ body {
   margin-bottom: 4px;
 }
 .spec-val {
-  font-size: 14.5px;
-  font-weight: 600;
-  letter-spacing: -0.01em;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  color: var(--text);
 }
+.spec-sub {
+  font-size: 12px;
+  color: var(--text-secondary);
+  margin-top: 2px;
+}
+
+/* Anchor Jump Bar */
+.anchor-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 8px auto 16px;
+}
+.anchor-link {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 12px;
+  border-radius: var(--radius-btn);
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-secondary);
+  font-size: 12.5px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.16s ease;
+}
+.anchor-link:hover {
+  color: var(--text);
+  border-color: var(--border-strong);
+  background: var(--surface-solid);
+}
+
+/* Changelog Details */
+details.changelog {
+  max-width: 960px;
+  margin: 10px auto 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 12px 18px;
+  box-shadow: var(--shadow);
+  text-align: left;
+}
+details.changelog summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 13.5px;
+  font-weight: 600;
+  color: var(--text);
+}
+details.changelog summary::-webkit-details-marker { display: none; }
+.cl-head-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+details.changelog summary::after {
+  content: "+";
+  font-size: 17px;
+  font-weight: 400;
+  color: var(--text-secondary);
+  flex-shrink: 0;
+}
+details.changelog[open] summary::after { content: "−"; }
+.changelog-body {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px 16px;
+}
+.cl-item {
+  font-size: 13px;
+  color: var(--text-secondary);
+  padding-left: 10px;
+  border-left: 2px solid var(--accent);
+}
+.cl-item strong { color: var(--text); }
 
 /* Section Head */
 .sec-head {
@@ -258,7 +356,7 @@ body {
   align-items: baseline;
   justify-content: space-between;
   gap: 12px;
-  margin: 48px 0 18px;
+  margin: 46px 0 18px;
 }
 .sec-head h2 {
   font-size: 24px;
@@ -271,6 +369,11 @@ body {
 }
 
 /* Cards & Grids */
+.grid-4 {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+}
 .grid-3 {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -314,11 +417,136 @@ body {
   padding-left: 18px;
 }
 .card ul li {
-  margin-bottom: 4px;
+  margin-bottom: 5px;
 }
 .meta-id {
   font-size: 12px;
   color: var(--text-secondary);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+/* Entry Visual Wireframes */
+.entry-strip {
+  margin-top: 16px;
+}
+.entry-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 14px;
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.entry-card svg {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+  background: var(--surface-muted);
+  border: 1px solid var(--border);
+}
+.entry-title {
+  font-size: 13.5px;
+  font-weight: 600;
+  color: var(--text);
+}
+.entry-desc {
+  font-size: 12.5px;
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+/* Directory Tree & Copy Action */
+.tree-card {
+  margin-top: 16px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 20px 22px;
+  box-shadow: var(--shadow);
+}
+.tree-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+.tree-head h3 {
+  font-size: 16px;
+  font-weight: 600;
+}
+.tree-sub {
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+.tree-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+.tree-group {
+  background: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 14px 16px;
+}
+.tree-group-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 10px;
+  font-size: 13px;
+  font-weight: 600;
+}
+.tree-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 5px 0;
+  border-top: 1px dashed var(--border);
+  font-size: 13px;
+}
+.tree-row:first-of-type { border-top: none; }
+.tree-row code {
+  font-size: 12.5px;
+  font-weight: 600;
+  flex-shrink: 0;
+}
+.tree-row span {
+  font-size: 12.5px;
+  color: var(--text-secondary);
+  text-align: right;
+}
+
+.copy-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 30px;
+  padding: 0 11px;
+  border-radius: var(--radius-btn);
+  border: 1px solid var(--border-strong);
+  background: var(--surface-solid);
+  color: var(--text);
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.16s ease;
+  flex-shrink: 0;
+}
+.copy-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+.copy-btn.copied {
+  border-color: var(--green);
+  color: var(--green);
 }
 
 .notice {
@@ -328,11 +556,18 @@ body {
   border-radius: var(--radius-md);
   padding: 16px 20px;
 }
+.notice-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 6px;
+}
 .notice-title {
   font-size: 14px;
   font-weight: 600;
   color: var(--warn);
-  margin-bottom: 4px;
 }
 .notice p {
   font-size: 13.5px;
@@ -340,7 +575,7 @@ body {
 }
 code {
   font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-  font-size: 0.9em;
+  font-size: 0.89em;
   background: var(--surface-muted);
   border: 1px solid var(--border);
   padding: 1px 6px;
@@ -400,7 +635,7 @@ tr:last-child td { border-bottom: none; }
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 14px;
+  gap: 12px;
   flex-wrap: wrap;
   margin-bottom: 18px;
 }
@@ -409,7 +644,7 @@ tr:last-child td { border-bottom: none; }
   background: var(--surface-muted);
   border: 1px solid var(--border);
   padding: 4px;
-  border-radius: 12px;
+  border-radius: 11px;
   gap: 4px;
   flex-wrap: wrap;
 }
@@ -419,26 +654,32 @@ tr:last-child td { border-bottom: none; }
   color: var(--text-secondary);
   font-size: 13px;
   font-weight: 500;
-  padding: 7px 14px;
-  border-radius: 9px;
+  padding: 6px 13px;
+  border-radius: 7px;
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: all 0.18s ease;
 }
 .seg button.active {
   background: var(--surface-solid);
   color: var(--text);
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
+.search-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex: 1;
+  min-width: 260px;
+  max-width: 420px;
+}
 .search-box {
   position: relative;
   flex: 1;
-  min-width: 240px;
-  max-width: 340px;
 }
 .search-box input {
   width: 100%;
-  padding: 9px 34px 9px 14px;
-  border-radius: 11px;
+  padding: 8px 32px 8px 13px;
+  border-radius: var(--radius-btn);
   border: 1px solid var(--border);
   background: var(--surface-solid);
   color: var(--text);
@@ -457,9 +698,19 @@ tr:last-child td { border-bottom: none; }
   border: none;
   background: transparent;
   color: var(--text-secondary);
-  font-size: 14px;
+  font-size: 15px;
   cursor: pointer;
   display: none;
+}
+.count-badge {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  background: var(--surface-muted);
+  border: 1px solid var(--border);
+  padding: 5px 10px;
+  border-radius: 999px;
+  white-space: nowrap;
 }
 
 .feat-top {
@@ -470,6 +721,12 @@ tr:last-child td { border-bottom: none; }
   margin-bottom: 8px;
 }
 .feat-card.hidden { display: none; }
+.feat-card.span-full { grid-column: 1 / -1; }
+.feat-card.span-full ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px 28px;
+}
 .empty-hint {
   display: none;
   text-align: center;
@@ -479,6 +736,73 @@ tr:last-child td { border-bottom: none; }
   background: var(--surface);
   border: 1px dashed var(--border-strong);
   border-radius: var(--radius-lg);
+}
+
+/* Interactive Font & Bilingual Showcase */
+.font-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  margin-top: 12px;
+}
+.font-chip {
+  background: var(--surface-muted);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 10px 12px;
+}
+.font-chip-name {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+}
+.font-chip-desc {
+  font-size: 12px;
+  color: var(--text-secondary);
+  margin-top: 2px;
+}
+.preview-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 12px;
+}
+.dialogue-mock {
+  background: var(--dialogue-bg);
+  border: 1px solid var(--dialogue-border);
+  border-radius: var(--radius-md);
+  padding: 18px 20px;
+  color: #f9fafb;
+  min-height: 128px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 6px;
+}
+.dialogue-speaker {
+  font-size: 14px;
+  font-weight: 700;
+  color: #93c5fd;
+  letter-spacing: 0.02em;
+}
+.dialogue-main {
+  font-size: 16.5px;
+  color: #ffffff;
+  line-height: 1.55;
+}
+.dialogue-sub {
+  font-size: 13px;
+  color: #b8c2d0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Malgun Gothic", sans-serif;
+  line-height: 1.45;
+  padding-top: 2px;
+}
+.dialogue-note {
+  margin-top: 10px;
+  font-size: 12.5px;
+  color: var(--text-secondary);
 }
 
 /* FAQ Accordion */
@@ -510,6 +834,7 @@ details.faq summary::after {
   font-size: 18px;
   font-weight: 400;
   color: var(--text-secondary);
+  flex-shrink: 0;
 }
 details.faq[open] summary::after {
   content: "−";
@@ -520,6 +845,32 @@ details.faq .faq-body {
   border-top: 1px solid var(--border);
   font-size: 14px;
   color: var(--text-secondary);
+}
+
+/* Back to Top */
+.back-top {
+  position: fixed;
+  right: 22px;
+  bottom: 24px;
+  z-index: 90;
+  width: 38px;
+  height: 38px;
+  border-radius: var(--radius-btn);
+  border: 1px solid var(--border-strong);
+  background: var(--surface-solid);
+  color: var(--text);
+  box-shadow: var(--shadow);
+  cursor: pointer;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.18s ease, border-color 0.18s ease;
+}
+.back-top.show { display: inline-flex; }
+.back-top:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent);
+  color: var(--accent);
 }
 
 footer {
@@ -540,11 +891,17 @@ footer a {
 }
 footer a:hover { text-decoration: underline; }
 
+@media (max-width: 920px) {
+  .grid-4 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
 @media (max-width: 860px) {
-  .spec-strip, .grid-3, .grid-2 { grid-template-columns: 1fr; }
+  .spec-strip, .grid-3, .grid-2, .tree-list, .changelog-body, .font-grid, .feat-card.span-full ul { grid-template-columns: 1fr; }
   .nav-inner { flex-direction: column; align-items: flex-start; }
   .sec-head { flex-direction: column; gap: 4px; }
   th, td { padding: 12px 14px; }
+}
+@media (max-width: 540px) {
+  .grid-4 { grid-template-columns: 1fr; }
 }
 </style>
 </head>
@@ -575,62 +932,196 @@ footer a:hover { text-decoration: underline; }
 
 <main class="wrap">
   <section class="hero">
-    <div class="eyebrow" data-i18n="hero_eyebrow">Agent17 v0.26.10 · 落谦 &amp; Antigravity (Gemini 4 Hydrogen)</div>
+    <div class="eyebrow" data-i18n="hero_eyebrow">Agent17 v0.26.10 · 落谦 &amp; Antigravity (Gemini 4 Hydrogen) · 2026-11-28</div>
     <h1 data-i18n="hero_title">简洁、干净的 Agent17 辅助与画廊工具</h1>
-    <p data-i18n-html="hero_desc">全模块集中收纳于 <code>game/mod_luoqian</code>，不改写游戏原版脚本，不损坏已有存档。全鼠标交互，支持简体中文、繁体中文与英文环境。</p>
+    <p data-i18n-html="hero_desc">全模块集中收纳于 <code>game/mod_luoqian</code>，不改写游戏原版脚本，不损坏已有存档。全鼠标微圆角交互，支持简体中文、繁体中文与英文环境。</p>
     <div class="spec-strip">
       <div class="spec-item">
         <div class="spec-label" data-i18n="spec_1_l">发行版本</div>
         <div class="spec-val" data-i18n="spec_1_v">v1.0.1 公开 / v2.0.1 订阅</div>
+        <div class="spec-sub" data-i18n="spec_1_s">5 核心底座 · 7 完整套件</div>
       </div>
       <div class="spec-item">
         <div class="spec-label" data-i18n="spec_2_l">呼出方式</div>
         <div class="spec-val" data-i18n="spec_2_v">纯鼠标点选 · Esc 返回</div>
+        <div class="spec-sub" data-i18n="spec_2_s">无冲突热键 · H 键藏界面</div>
       </div>
       <div class="spec-item">
         <div class="spec-label" data-i18n="spec_3_l">独立画廊</div>
-        <div class="spec-val" data-i18n="spec_3_v">459 动画 · 62 剧情</div>
+        <div class="spec-val" data-i18n="spec_3_v">459 动画 · 70 剧情</div>
+        <div class="spec-sub" data-i18n="spec_3_s">31 动画分类 · 28 剧情章节</div>
       </div>
       <div class="spec-item">
         <div class="spec-label" data-i18n="spec_4_l">内容覆盖</div>
-        <div class="spec-val" data-i18n="spec_4_v">32 角色 · 52 唱片 · 33 传送</div>
+        <div class="spec-val" data-i18n="spec_4_v">32 角色 · 52 曲 · 33 传送</div>
+        <div class="spec-sub" data-i18n="spec_4_s">4 字库 · 51 拍立得 · 286 贴纸</div>
       </div>
     </div>
+
+    <nav class="anchor-bar" aria-label="Quick Navigation">
+      <a class="anchor-link" href="#install" data-i18n="anchor_install">安装与入口</a>
+      <a class="anchor-link" href="#tree" data-i18n="anchor_tree">目录结构</a>
+      <a class="anchor-link" href="#compare" data-i18n="anchor_compare">版本对照</a>
+      <a class="anchor-link" href="#features" data-i18n="anchor_feat">模块详解</a>
+      <a class="anchor-link" href="#fonts-showcase" data-i18n="anchor_font">字体与双语预览</a>
+      <a class="anchor-link" href="#faq" data-i18n="anchor_faq">常见问题</a>
+    </nav>
+
+    <details class="changelog">
+      <summary>
+        <span class="cl-head-left">
+          <span class="tag tag-sub" style="margin-bottom:0;" data-i18n="cl_badge">2026-11-28 近期重点更新</span>
+          <span data-i18n="cl_title">v1.0.1 / v2.0.1 四大体验升级速览</span>
+        </span>
+      </summary>
+      <div class="changelog-body">
+        <div class="cl-item" data-i18n-html="cl_1"></div>
+        <div class="cl-item" data-i18n-html="cl_2"></div>
+        <div class="cl-item" data-i18n-html="cl_3"></div>
+        <div class="cl-item" data-i18n-html="cl_4"></div>
+      </div>
+    </details>
   </section>
 
-  <section>
+  <section id="install">
     <div class="sec-head">
-      <h2 data-i18n="sec_install">安装与切换说明</h2>
-      <span class="sec-sub" data-i18n="sec_install_sub">三步完成安装，随时卸载还原</span>
+      <h2 data-i18n="sec_install">安装、入口与目录结构</h2>
+      <span class="sec-sub" data-i18n="sec_install_sub">三步完成安装，看图找入口，热插拔切换版本</span>
     </div>
     <div class="grid-3">
       <div class="card">
         <span class="step-tag" data-i18n="step1_tag">第 1 步 · 安装</span>
         <h3 data-i18n-html="step1_t">复制覆盖 <code>game</code> 文件夹</h3>
-        <p data-i18n-html="step1_p"><strong>PC 端</strong>：将压缩包里的 <code>game</code> 文件夹复制到游戏根目录覆盖。<br><strong>安卓端</strong>：用电脑数据线连手机或 <strong>MT 管理器</strong>，将 <code>mod_luoqian</code> 放入 <code>Android/data/&lt;包名&gt;/files/game/</code>（无 <code>game</code> 则新建）。</p>
+        <p data-i18n-html="step1_p"></p>
       </div>
       <div class="card">
         <span class="step-tag" data-i18n="step2_tag">第 2 步 · 入口</span>
         <h3 data-i18n-html="step2_t">全鼠标点击打开</h3>
-        <p data-i18n-html="step2_p">新版已移除易冲突的全局快捷键。开始页面点击<strong>【画廊】</strong>看全部演出；进游戏后点击画面右侧工具栏<strong>【闪电】</strong>打开快捷抽屉，或<strong>【滑块】</strong>打开完整控制台。</p>
+        <p data-i18n-html="step2_p"></p>
       </div>
       <div class="card">
         <span class="step-tag" data-i18n="step3_tag">第 3 步 · 切换与卸载</span>
         <h3 data-i18n-html="step3_t">模块热插拔</h3>
-        <p data-i18n-html="step3_p">删除 <code>game/mod_luoqian/</code> 即可完全还原官方原版。在 <code>v2.0.1</code> 基础上移出 <code>mod_heroine_collection</code> 与 <code>mod_minigames_unlock</code> 至游戏外即可切换为 <code>v1.0.1</code>。</p>
+        <p data-i18n-html="step3_p"></p>
+      </div>
+    </div>
+
+    <div class="grid-4 entry-strip">
+      <div class="entry-card">
+        <svg viewBox="0 0 240 120" aria-hidden="true">
+  <rect x="8" y="8" width="224" height="104" rx="6" fill="var(--surface-solid)" stroke="var(--border-strong)" stroke-width="1"/>
+  <text x="20" y="28" font-size="9" font-weight="700" fill="var(--text-secondary)" data-i18n="svg_mm_hdr">AGENT17 主菜单</text>
+  <rect x="20" y="40" width="66" height="14" rx="3" fill="var(--surface-muted)"/>
+  <rect x="20" y="60" width="66" height="14" rx="3" fill="var(--surface-muted)"/>
+  <rect x="20" y="80" width="66" height="18" rx="4" fill="var(--accent)" opacity="0.92"/>
+  <text x="53" y="92" font-size="8.5" font-weight="700" text-anchor="middle" fill="#ffffff" data-i18n="svg_mm_btn">画廊</text>
+  <rect x="104" y="28" width="114" height="72" rx="5" fill="var(--surface-muted)" stroke="var(--border)"/>
+  <circle cx="161" cy="56" r="14" fill="var(--accent-soft)" stroke="var(--accent)" stroke-width="1"/>
+  <text x="161" y="84" font-size="8" text-anchor="middle" fill="var(--text-secondary)" data-i18n="svg_mm_sub">70 剧情 · 459 动画</text>
+</svg>
+        <div class="entry-title" data-i18n="ent1_t">开始菜单 ·【画廊】</div>
+        <div class="entry-desc" data-i18n-html="ent1_d"></div>
+      </div>
+      <div class="entry-card">
+        <svg viewBox="0 0 240 120" aria-hidden="true">
+  <rect x="8" y="8" width="224" height="104" rx="6" fill="var(--surface-solid)" stroke="var(--border-strong)" stroke-width="1"/>
+  <rect x="18" y="20" width="166" height="80" rx="5" fill="var(--surface-muted)"/>
+  <text x="101" y="63" font-size="8.5" text-anchor="middle" fill="var(--text-secondary)" data-i18n="svg_sb_room">游戏房间主画面</text>
+  <rect x="194" y="14" width="28" height="92" rx="4" fill="var(--surface-muted)" stroke="var(--border)"/>
+  <rect x="198" y="20" width="20" height="12" rx="3" fill="var(--border-strong)" opacity="0.45"/>
+  <rect x="198" y="36" width="20" height="12" rx="3" fill="var(--border-strong)" opacity="0.45"/>
+  <rect x="198" y="54" width="20" height="18" rx="4" fill="var(--warn)" opacity="0.90"/>
+  <path d="M209 57 L204 63 L208 63 L207 69 L212 62 L208 62 Z" fill="#ffffff"/>
+  <rect x="198" y="76" width="20" height="18" rx="4" fill="var(--accent)" opacity="0.92"/>
+  <path d="M202 82 H214 M202 85 H214 M202 88 H214" stroke="#ffffff" stroke-width="1.3" stroke-linecap="round"/>
+  <circle cx="206" cy="82" r="1.4" fill="#ffffff"/>
+  <circle cx="211" cy="85" r="1.4" fill="#ffffff"/>
+  <circle cx="205" cy="88" r="1.4" fill="#ffffff"/>
+</svg>
+        <div class="entry-title" data-i18n="ent2_t">右侧栏 ·【闪电】与【滑块】</div>
+        <div class="entry-desc" data-i18n-html="ent2_d"></div>
+      </div>
+      <div class="entry-card">
+        <svg viewBox="0 0 240 120" aria-hidden="true">
+  <rect x="8" y="8" width="224" height="104" rx="6" fill="#131823" stroke="var(--border-strong)" stroke-width="1"/>
+  <rect x="18" y="16" width="14" height="14" rx="4" fill="#0a84ff"/>
+  <text x="25" y="26" font-size="7" font-weight="700" text-anchor="middle" fill="#ffffff">LQ</text>
+  <text x="38" y="26" font-size="8" font-weight="600" fill="#e5e7eb" data-i18n="svg_con_ttl">控制台</text>
+  <rect x="182" y="16" width="40" height="14" rx="4" fill="#252c3b" stroke="#ffffff22"/>
+  <text x="202" y="25.5" font-size="7.5" text-anchor="middle" fill="#d1d5db" data-i18n="svg_con_cls">Esc 关闭</text>
+  <rect x="18" y="36" width="46" height="58" rx="4" fill="#1b2230"/>
+  <rect x="22" y="42" width="38" height="11" rx="3" fill="#0a84ff"/>
+  <rect x="22" y="57" width="38" height="11" rx="3" fill="#283142"/>
+  <rect x="22" y="72" width="38" height="11" rx="3" fill="#283142"/>
+  <rect x="70" y="36" width="152" height="58" rx="4" fill="#1b2230"/>
+  <rect x="78" y="44" width="64" height="20" rx="4" fill="#263042"/>
+  <rect x="148" y="44" width="64" height="20" rx="4" fill="#263042"/>
+  <rect x="78" y="69" width="134" height="18" rx="4" fill="#263042"/>
+  <rect x="18" y="99" width="76" height="5" rx="2.5" fill="#2d3748"/>
+  <rect x="18" y="99" width="52" height="5" rx="2.5" fill="#32d74b"/>
+</svg>
+        <div class="entry-title" data-i18n="ent3_t">控制台 · LQ 徽标与底栏</div>
+        <div class="entry-desc" data-i18n-html="ent3_d"></div>
+      </div>
+      <div class="entry-card">
+        <svg viewBox="0 0 240 120" aria-hidden="true">
+  <rect x="8" y="8" width="224" height="104" rx="6" fill="#121621" stroke="var(--border-strong)" stroke-width="1"/>
+  <rect x="18" y="16" width="68" height="20" rx="4.5" fill="#1b202c" stroke="#ffffff33"/>
+  <rect x="24" y="21" width="3" height="10" rx="1.5" fill="#ff453a"/>
+  <text x="32" y="29" font-size="8" font-weight="600" fill="#f3f4f6" data-i18n="svg_rep_ex">退出回放</text>
+  <rect x="20" y="74" width="200" height="30" rx="5" fill="#0d111a" stroke="#ffffff22"/>
+  <text x="30" y="86" font-size="7.5" font-weight="700" fill="#e5e7eb" data-i18n="svg_rep_main">Ruby: 中文对白主字幕</text>
+  <text x="30" y="97" font-size="6.8" fill="#9ca3af">English / 한국어 Bilingual Sub</text>
+</svg>
+        <div class="entry-title" data-i18n="ent4_t">回放中 · 左上角【退出回放】</div>
+        <div class="entry-desc" data-i18n-html="ent4_d"></div>
+      </div>
+    </div>
+
+    <div class="tree-card" id="tree">
+      <div class="tree-head">
+        <div>
+          <h3 data-i18n-html="tree_title"><code>game/mod_luoqian/</code> 模块目录对照</h3>
+          <div class="tree-sub" data-i18n="tree_sub">保留前 5 个即公开版（v1.0.1）；保留全部 7 个即订阅版（v2.0.1）</div>
+        </div>
+        <button class="copy-btn" type="button" onclick="copyText('game/mod_luoqian/', this)" data-i18n="copy_tree_btn">复制安装目录路径</button>
+      </div>
+      <div class="tree-list">
+        <div class="tree-group">
+          <div class="tree-group-title">
+            <span data-i18n="tree_g1_t">基础核心层（v1.0.1 &amp; v2.0.1 必留 5 项）</span>
+            <span class="tag tag-pub" style="margin-bottom:0;">v1.0.1+</span>
+          </div>
+          <div class="tree-row"><code>mod_core/</code><span data-i18n="tr_core"></span></div>
+          <div class="tree-row"><code>mod_basic_cheats/</code><span data-i18n="tr_basic"></span></div>
+          <div class="tree-row"><code>mod_font_manager/</code><span data-i18n="tr_font"></span></div>
+          <div class="tree-row"><code>mod_gallery/</code><span data-i18n="tr_gal"></span></div>
+          <div class="tree-row"><code>mod_quick_drawer/</code><span data-i18n="tr_quick"></span></div>
+        </div>
+        <div class="tree-group">
+          <div class="tree-group-title">
+            <span data-i18n="tree_g2_t">订阅扩展层（v2.0.1 专属 · 移走即变 v1.0.1）</span>
+            <span class="tag tag-sub" style="margin-bottom:0;">v2.0.1</span>
+          </div>
+          <div class="tree-row"><code>mod_heroine_collection/</code><span data-i18n="tr_hero"></span></div>
+          <div class="tree-row"><code>mod_minigames_unlock/</code><span data-i18n="tr_mini"></span></div>
+        </div>
       </div>
     </div>
 
     <div class="notice">
-      <div class="notice-title" data-i18n="warn_title">老版本升级必读（防止同名屏幕冲突）</div>
-      <p data-i18n-html="warn_p">如果你之前装过早期的单文件旧版 Mod，升级新版前请先前往游戏 <code>game/</code> 目录删除以下旧目录和文件，然后再放入新版的 <code>game/mod_luoqian/</code>：<code>game/mod_cheats/</code>、<code>game/mod_gallery/</code>、<code>game/script/Menu/zz_mainmenu_gallery.rpy*</code>。</p>
+      <div class="notice-head">
+        <div class="notice-title" data-i18n="warn_title">老版本升级必读（防止同名屏幕冲突）</div>
+        <button class="copy-btn" type="button" onclick="copyText('game/mod_cheats/\ngame/mod_gallery/\ngame/script/Menu/zz_mainmenu_gallery.rpy*', this)" data-i18n="copy_clean_btn">复制旧版清理路径</button>
+      </div>
+      <p data-i18n-html="warn_p"></p>
     </div>
   </section>
 
-  <section>
+  <section id="compare">
     <div class="sec-head">
       <h2 data-i18n="sec_compare">版本功能对照</h2>
-      <span class="sec-sub" data-i18n="sec_compare_sub">同一套底座架构，按模块物理区分</span>
+      <span class="sec-sub" data-i18n="sec_compare_sub">同一套底座架构，按文件夹物理区分</span>
     </div>
     <div class="table-card">
       <table>
@@ -643,34 +1134,34 @@ footer a:hover { text-decoration: underline; }
         </thead>
         <tbody>
           <tr>
-            <td data-i18n-html="cmp1_name"><strong>主菜单与独立画廊</strong><br><span class="meta-id">mod_gallery</span></td>
-            <td data-i18n-html="cmp1_pub"><span class="tag tag-pub">完整包含</span><br>主菜单入口、459 段动画浏览、62 幕真实剧情沙盒回放、画廊隐藏遮罩</td>
-            <td data-i18n-html="cmp1_sub"><span class="tag tag-pub">完整包含</span><br>同公开版全部画廊与隐藏模式功能</td>
+            <td data-i18n-html="cmp1_name"></td>
+            <td data-i18n-html="cmp1_pub"></td>
+            <td data-i18n-html="cmp1_sub"></td>
           </tr>
           <tr>
-            <td data-i18n-html="cmp2_name"><strong>右侧闪电快捷工作台</strong><br><span class="meta-id">mod_quick_drawer</span></td>
-            <td data-i18n-html="cmp2_pub"><span class="tag tag-pub">基础工作台</span><br>打开控制台、清除当日冷却与锁定、5 时段与工作日切换、4 处高频传送</td>
-            <td data-i18n-html="cmp2_sub"><span class="tag tag-sub">含实时人物雷达</span><br>包含基础工作台全部功能 + <strong>32 位角色当前行踪检测与一键瞬移找人</strong></td>
+            <td data-i18n-html="cmp2_name"></td>
+            <td data-i18n-html="cmp2_pub"></td>
+            <td data-i18n-html="cmp2_sub"></td>
           </tr>
           <tr>
-            <td data-i18n-html="cmp3_name"><strong>基础数值与世界调节</strong><br><span class="meta-id">mod_basic_cheats</span></td>
-            <td data-i18n-html="cmp3_pub"><span class="tag tag-pub">完整包含（前 3 页）</span><br>资产与道具、时间与世界（含天气与圣诞/监狱线切换）、属性与特工技能</td>
-            <td data-i18n-html="cmp3_sub"><span class="tag tag-pub">完整包含（前 3 页）</span><br>支持与扩展模块联动，开局补给包同步发放收藏与拼图奖励</td>
+            <td data-i18n-html="cmp3_name"></td>
+            <td data-i18n-html="cmp3_pub"></td>
+            <td data-i18n-html="cmp3_sub"></td>
           </tr>
           <tr>
-            <td data-i18n-html="cmp4_name"><strong>显示、字体与双语字幕</strong><br><span class="meta-id">mod_font_manager</span></td>
-            <td data-i18n-html="cmp4_pub"><span class="tag tag-pub">完整包含（第 4 页）</span><br>4 款中文运行字体、<strong>中英 / 中韩双语字幕</strong>、字号位移与透明度微调</td>
-            <td data-i18n-html="cmp4_sub"><span class="tag tag-pub">完整包含（第 4 页）</span><br>同公开版全部字体与双语字幕能力</td>
+            <td data-i18n-html="cmp4_name"></td>
+            <td data-i18n-html="cmp4_pub"></td>
+            <td data-i18n-html="cmp4_sub"></td>
           </tr>
           <tr>
-            <td data-i18n-html="cmp5_name"><strong>角色、命运分支与图鉴</strong><br><span class="meta-id">mod_heroine_collection</span></td>
-            <td data-i18n-html="cmp5_pub"><span class="tag tag-none">未包含</span><br>保留原版流程体验</td>
-            <td data-i18n-html="cmp5_sub"><span class="tag tag-sub">订阅专属（第 5、6 页）</span><br>32 人好感/服从/外观与红蓝命运卡、进行中任务追踪、52 首随身听、51 拍立得、邮件、内裤与摄像头解锁</td>
+            <td data-i18n-html="cmp5_name"></td>
+            <td data-i18n-html="cmp5_pub"></td>
+            <td data-i18n-html="cmp5_sub"></td>
           </tr>
           <tr>
-            <td data-i18n-html="cmp6_name"><strong>小游戏秒过与全城传送</strong><br><span class="meta-id">mod_minigames_unlock</span></td>
-            <td data-i18n-html="cmp6_pub"><span class="tag tag-none">未包含</span><br>保留抽屉内 4 处基础传送</td>
-            <td data-i18n-html="cmp6_sub"><span class="tag tag-sub">订阅专属（第 7 页）</span><br>777/自动撬锁/迷宫攻防/拼酒免伤开关、12 项小游戏直接完成、27 拼图与 286 贴纸收集、33 房间全城传送</td>
+            <td data-i18n-html="cmp6_name"></td>
+            <td data-i18n-html="cmp6_pub"></td>
+            <td data-i18n-html="cmp6_sub"></td>
           </tr>
         </tbody>
       </table>
@@ -690,171 +1181,213 @@ footer a:hover { text-decoration: underline; }
         <button data-filter="sub" onclick="setFilter('sub', this)" data-i18n="f_sub">订阅版专属 (v2.0.1)</button>
         <button data-filter="gallery" onclick="setFilter('gallery', this)" data-i18n="f_gal">画廊与字体双语</button>
       </div>
-      <div class="search-box">
-        <input id="searchInput" type="text" data-i18n-placeholder="search_ph" placeholder="搜索功能（如：双语字幕、随身听、传送、隐藏、拼酒）" oninput="applyFilters()">
-        <button class="search-clear" id="clearBtn" type="button" onclick="clearSearch()">×</button>
+      <div class="search-wrap">
+        <div class="search-box">
+          <input id="searchInput" type="text" data-i18n-placeholder="search_ph" placeholder="搜索功能（如：70 剧情、退出回放、三极行楷、双语、随身听、传送）" oninput="applyFilters()">
+          <button class="search-clear" id="clearBtn" type="button" onclick="clearSearch()">×</button>
+        </div>
+        <span class="count-badge" id="filterCount">9 / 9</span>
       </div>
     </div>
 
     <div class="grid-2" id="featureGrid">
-      <article class="card feat-card" data-cat="public" data-keys="工作台 抽屉 闪电 时段 冷却 传送 雷达 人物 drawer lightning quick timeslot cooldown warp radar actor">
+      <article class="card feat-card" data-cat="public" data-keys="工作台 抽屉 闪电 时段 冷却 传送 雷达 人物 屈服 心情 drawer lightning quick timeslot cooldown warp radar actor">
         <div class="feat-top">
-          <h3 data-i18n="c1_t">右侧闪电快捷工作台</h3>
-          <span class="tag tag-pub" data-i18n="c1_b">公开基础 / 订阅完全体</span>
+          <h3 data-i18n="c1_t"></h3>
+          <span class="tag tag-pub" data-i18n="c1_b"></span>
         </div>
-        <p data-i18n-html="c1_p">紧贴游戏右侧原生工具栏第 4 个图标，随点随关，不进入大控制台就能处理高频日常操作。</p>
+        <p data-i18n-html="c1_p"></p>
         <ul>
-          <li data-i18n-html="c1_l1"><strong>两版共有</strong>：打开主控制台、一键清除今日冷却与锁定、5 段时段切换、工作日/周末切换、卧室/学院/商街/露比别墅传送。</li>
-          <li data-i18n-html="c1_l2"><strong>订阅版额外</strong>：底部实时扫描当前地图在场的 32 位角色，点击名片直接传到对方身边或快捷调节好感。</li>
+          <li data-i18n-html="c1_l1"></li>
+          <li data-i18n-html="c1_l2"></li>
         </ul>
       </article>
 
-      <article class="card feat-card" data-cat="public" data-keys="资产 道具 金币 筹码 监狱 免费购物 无限 载具 跑车 钥匙 礼物 assets gold money items vehicles cars keys gifts casino">
+      <article class="card feat-card" data-cat="public" data-keys="资产 道具 金币 筹码 监狱 免费购物 无限 载具 跑车 钥匙 礼物 lobster assets gold money items vehicles cars keys gifts casino prison">
         <div class="feat-top">
-          <h3 data-i18n="c2_t">第 1 页 · 资产与道具</h3>
-          <span class="tag tag-pub" data-i18n="c2_b">v1.0.1 / v2.0.1</span>
+          <h3 data-i18n="c2_t"></h3>
+          <span class="tag tag-pub" data-i18n="c2_b"></span>
         </div>
-        <p data-i18n-html="c2_p">统一管理金钱、任务点、赌场筹码、监狱现金以及游戏内各类合法道具包，静默入包不弹刷屏提示。</p>
+        <p data-i18n-html="c2_p"></p>
         <ul>
-          <li data-i18n-html="c2_l1">支持金币倍率调节（1x~10x）、消费免扣金币、道具/书籍/行动点不消耗开关。</li>
-          <li data-i18n-html="c2_l2">按分类发放常用工具、钥匙门禁卡、矿石材料、礼物道具、战斗药剂装备与 6 辆合法跑车（含高魅力装备保留）。</li>
+          <li data-i18n-html="c2_l1"></li>
+          <li data-i18n-html="c2_l2"></li>
         </ul>
       </article>
 
-      <article class="card feat-card" data-cat="public" data-keys="时间 世界 日期 天气 圣诞 监狱 冷却 软锁 卡关 schedule time calendar weather christmas prison softlock">
+      <article class="card feat-card" data-cat="public" data-keys="时间 世界 日期 天气 圣诞 监狱 飘雪 迷雾 冷却 软锁 卡关 schedule time calendar weather christmas prison softlock snow mist">
         <div class="feat-top">
-          <h3 data-i18n="c3_t">第 2 页 · 时间与世界</h3>
-          <span class="tag tag-pub" data-i18n="c3_b">v1.0.1 / v2.0.1</span>
+          <h3 data-i18n="c3_t"></h3>
+          <span class="tag tag-pub" data-i18n="c3_b"></span>
         </div>
-        <p data-i18n-html="c3_p">控制昼夜时段、天数推进、日记天气与特殊剧本线路，附带动作冷却绕过与卡死解冻。</p>
+        <p data-i18n-html="c3_p"></p>
         <ul>
-          <li data-i18n-html="c3_l1">支持跳过每日角色动作锁定、解除等待计时与常见软锁状态。</li>
-          <li data-i18n-html="c3_l2">提供天气锁定与下雪/薄雾氛围效果，并可安全切换六角城、圣诞世界与女子监狱剧本线。</li>
+          <li data-i18n-html="c3_l1"></li>
+          <li data-i18n-html="c3_l2"></li>
         </ul>
       </article>
 
-      <article class="card feat-card" data-cat="public" data-keys="属性 技能 魅力 生命 精力 攻击 防御 血亲 好感保护 复原 stats skills charm hp energy love protection">
+      <article class="card feat-card" data-cat="public" data-keys="属性 技能 魅力 生命 精力 拼酒体力 好感保护 复原 开锁 潜行 stats skills charm hp stamina vigor love protection lockpick stealth">
         <div class="feat-top">
-          <h3 data-i18n="c4_t">第 3 页 · 属性与技能</h3>
-          <span class="tag tag-pub" data-i18n="c4_b">v1.0.1 / v2.0.1</span>
+          <h3 data-i18n="c4_t"></h3>
+          <span class="tag tag-pub" data-i18n="c4_b"></span>
         </div>
-        <p data-i18n-html="c4_p">支持主角 6 项基础属性与 8 项特工技能的精细加减，同时保留一键重置为正常人数值的按钮。</p>
+        <p data-i18n-html="c4_p"></p>
         <ul>
-          <li data-i18n-html="c4_l1">支持开启「好感防降保护」、快速回满生命，以及在未装小游戏模块时重置赌场与轮盘次数限制。</li>
-          <li data-i18n-html="c4_l2">属性面板严格对齐原版上限，不影响后续剧情触发条件。</li>
+          <li data-i18n-html="c4_l1"></li>
+          <li data-i18n-html="c4_l2"></li>
         </ul>
       </article>
 
-      <article class="card feat-card" data-cat="gallery" data-keys="字体 双语字幕 中英 中韩 位置 字号 透明度 韩文 泰文 font bilingual subtitle korean thai opacity">
+      <article class="card feat-card" data-cat="gallery" data-keys="字体 文源圆体 般若楷书 寒蝉圆体 三极行楷 双语字幕 中英 中韩 位置 字号 行距 透明度 韩文 泰文 fontgroup font bilingual subtitle korean thai opacity">
         <div class="feat-top">
-          <h3 data-i18n="c5_t">第 4 页 · 显示与字体工坊</h3>
-          <span class="tag tag-pub" data-i18n="c5_b">v1.0.1 / v2.0.1</span>
+          <h3 data-i18n="c5_t"></h3>
+          <span class="tag tag-pub" data-i18n="c5_b"></span>
         </div>
-        <p data-i18n-html="c5_p">专为中文体验打造，支持运行时无重启更换字体、双语对照阅读以及对话框外观精细排版。</p>
+        <p data-i18n-html="c5_p"></p>
         <ul>
-          <li data-i18n-html="c5_l1">内置 4 款中文字体切换，且自动放行原版韩文与泰文字体路径，切换语言不会出现方块乱码。</li>
-          <li data-i18n-html="c5_l2">支持开启<strong>中文 + 英文</strong>或<strong>中文 + 韩文</strong>双语字幕，可单独调节译文字号、名字偏移与框体透明度。</li>
+          <li data-i18n-html="c5_l1"></li>
+          <li data-i18n-html="c5_l2"></li>
         </ul>
       </article>
 
-      <article class="card feat-card" data-cat="sub" data-keys="角色 分支 好感 服从 心情 红蓝卡 命运 艾丽卡 露比 樱花 外观 任务 heroines branches love submission mood fate cards wardrobe quests">
+      <article class="card feat-card" data-cat="sub" data-keys="角色 分支 好感 服从 心情 红蓝卡 命运 13组 艾丽卡 露比 樱花 换装 任务 情报指南 heroines branches love submission mood fate cards wardrobe quests">
         <div class="feat-top">
-          <h3 data-i18n="c6_t">第 5 页 · 角色与分支</h3>
-          <span class="tag tag-sub" data-i18n="c6_b">v2.0.1 订阅专属</span>
+          <h3 data-i18n="c6_t"></h3>
+          <span class="tag tag-sub" data-i18n="c6_b"></span>
         </div>
-        <p data-i18n-html="c6_p">集中管理全部 32 位角色（19 位主要角色 + 13 位支线角色）的好感状态、剧情倾向与任务进度。</p>
+        <p data-i18n-html="c6_p"></p>
         <ul>
-          <li data-i18n-html="c6_l1">可批量或逐一调节好感（兼容原版 6 心上限显示）、服从与心情；支持真实红蓝命运卡牌选择及清空重置。</li>
-          <li data-i18n-html="c6_l2">支持切换 10 套角色外观造型、查看当前激活任务并直达现场，以及查阅全角色攻略与礼物偏好。</li>
+          <li data-i18n-html="c6_l1"></li>
+          <li data-i18n-html="c6_l2"></li>
         </ul>
       </article>
 
-      <article class="card feat-card" data-cat="sub" data-keys="收藏 图鉴 随身听 音乐 黑胶 52首 拍立得 51 邮件 内裤 摄像头 collection archive walkman music tracks polaroids mail panties camera">
+      <article class="card feat-card" data-cat="sub" data-keys="收藏 图鉴 随身听 音乐 52首 拍立得 51 藏书 82 邮件 内裤 15 摄像头 海报 collection archive walkman music tracks polaroids books mail panties camera">
         <div class="feat-top">
-          <h3 data-i18n="c7_t">第 6 页 · 收藏与图鉴</h3>
-          <span class="tag tag-sub" data-i18n="c7_b">v2.0.1 订阅专属</span>
+          <h3 data-i18n="c7_t"></h3>
+          <span class="tag tag-sub" data-i18n="c7_b"></span>
         </div>
-        <p data-i18n-html="c7_p">集成了 52 首游戏原声随身听与全部收集要素管理，脱离房间限制自由点歌与阅览图鉴。</p>
+        <p data-i18n-html="c7_p"></p>
         <ul>
-          <li data-i18n-html="c7_l1"><strong>随身听 (52)</strong>：按日常休闲、角色主题、战斗行动等 5 种曲风筛选，随时切歌或恢复房间默认背景音乐。</li>
-          <li data-i18n-html="c7_l2"><strong>相册与通讯</strong>：51 张拍立得逐页预览、全部内裤/书籍/摄像头一键同步、加密邮件归档阅读与图片附件查看。</li>
+          <li data-i18n-html="c7_l1"></li>
+          <li data-i18n-html="c7_l2"></li>
         </ul>
       </article>
 
-      <article class="card feat-card" data-cat="sub" data-keys="小游戏 传送 777 老虎机 撬锁 拼酒 迷宫 拼图 贴纸 286 27 33房间 minigames warp slot lockpick drink battle puzzles stickers rooms">
+      <article class="card feat-card" data-cat="sub" data-keys="小游戏 传送 777 老虎机 撬锁 拼酒 迷宫 拼图 贴纸 286 27 33房间 12项 minigames warp slot lockpick drink battle puzzles stickers rooms">
         <div class="feat-top">
-          <h3 data-i18n="c8_t">第 7 页 · 小游戏与传送</h3>
-          <span class="tag tag-sub" data-i18n="c8_b">v2.0.1 订阅专属</span>
+          <h3 data-i18n="c8_t"></h3>
+          <span class="tag tag-sub" data-i18n="c8_b"></span>
         </div>
-        <p data-i18n-html="c8_p">大幅减轻重复小游戏与全城跑图负担，并统一核对过 0.26.10 原版全部有效房间与收集上限。</p>
+        <p data-i18n-html="c8_p"></p>
         <ul>
-          <li data-i18n-html="c8_l1">常驻开关支持老虎机 777、撬锁直接通过、露娜密码自动破译、迷宫高攻防、拼酒体力不减；12 项当前小游戏支持亮蓝灯一键跳过。</li>
-          <li data-i18n-html="c8_l2">提供 27 项拼图秒解、8 项公开赞助礼包与 286 张娃娃机贴纸解锁，以及 33 处跨世界地点传送（六角城 21 + 圣诞 6 + 监狱 6）。</li>
+          <li data-i18n-html="c8_l1"></li>
+          <li data-i18n-html="c8_l2"></li>
         </ul>
       </article>
 
-      <article class="card feat-card" data-cat="gallery" data-keys="画廊 动画 影院 剧情 回放 459 62 沙盒 画廊隐藏 录屏 gallery animation cinema story replay sandbox hide">
+      <article class="card feat-card" data-cat="gallery" data-keys="画廊 动画 影院 剧情 回放 459 70 28 31 退出回放 沙盒 画廊隐藏 录屏 gallery animation cinema story replay sandbox exit hide">
         <div class="feat-top">
-          <h3 data-i18n="c9_t">第 8 页 / 主菜单 · 独立画廊与剧情馆</h3>
-          <span class="tag tag-pub" data-i18n="c9_b">v1.0.1 / v2.0.1</span>
+          <h3 data-i18n="c9_t"></h3>
+          <span class="tag tag-pub" data-i18n="c9_b"></span>
         </div>
-        <p data-i18n-html="c9_p">可在主菜单直接打开，无需加载存档即可播放全量演出；所有剧情回放均在独立沙盒上下文中运行。</p>
+        <p data-i18n-html="c9_p"></p>
         <ul>
-          <li data-i18n-html="c9_l1"><strong>剧情回放 (62 幕)</strong>：覆盖 25 个主题与角色，补全原版真实选卡事件，结束后自动清理临时变量并安全退出，不破坏已有存档。</li>
-          <li data-i18n-html="c9_l2"><strong>动画影院 (459 段)</strong>：全量补齐缩略图预览，支持上一幕/下一幕切换与「画廊隐藏」模式（一键遮蔽封面与剧情标题，方便演示与录屏）。</li>
+          <li data-i18n-html="c9_l1"></li>
+          <li data-i18n-html="c9_l2"></li>
         </ul>
       </article>
     </div>
 
-    <div class="empty-hint" id="emptyHint" data-i18n="empty_hint">没有找到匹配的模块说明，可以尝试清空关键词重新筛选。</div>
+    <div class="empty-hint" id="emptyHint" data-i18n="empty_hint"></div>
   </section>
 
-  <section>
+  <section id="fonts-showcase">
+    <div class="sec-head">
+      <h2 data-i18n="sec_font_show">字体工坊与双语效果预览</h2>
+      <span class="sec-sub" data-i18n="sec_font_show_sub">4 款内嵌字库与双语实时排版示意</span>
+    </div>
+    <div class="grid-2">
+      <div class="card">
+        <h3 data-i18n="font_card_t">第 4 页内置 4 款精选字库（仅作用于简繁中文）</h3>
+        <p data-i18n-html="font_card_p"></p>
+        <div class="font-grid">
+          <div class="font-chip">
+            <div class="font-chip-name" data-i18n="f1_n"></div>
+            <div class="font-chip-desc" data-i18n="f1_d"></div>
+          </div>
+          <div class="font-chip">
+            <div class="font-chip-name" data-i18n="f2_n"></div>
+            <div class="font-chip-desc" data-i18n="f2_d"></div>
+          </div>
+          <div class="font-chip">
+            <div class="font-chip-name" data-i18n="f3_n"></div>
+            <div class="font-chip-desc" data-i18n="f3_d"></div>
+          </div>
+          <div class="font-chip">
+            <div class="font-chip-name" data-i18n="f4_n"></div>
+            <div class="font-chip-desc" data-i18n="f4_d"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="preview-head">
+          <h3 style="margin-bottom:0;" data-i18n="pv_title">双语字幕对白框效果示意</h3>
+          <div class="seg" role="group" aria-label="Bilingual Preview">
+            <button type="button" data-bi="off" onclick="setPreviewMode('off', this)" data-i18n="pv_off">仅中文</button>
+            <button type="button" class="active" data-bi="en" onclick="setPreviewMode('en', this)" data-i18n="pv_en">中英对照</button>
+            <button type="button" data-bi="kr" onclick="setPreviewMode('kr', this)" data-i18n="pv_kr">中韩对照</button>
+          </div>
+        </div>
+        <div class="dialogue-mock">
+          <div class="dialogue-speaker">Ruby</div>
+          <div class="dialogue-main" data-i18n="pv_main">我一直在等你。</div>
+          <div class="dialogue-sub" id="pvSubText">I've been waiting.</div>
+        </div>
+        <p class="dialogue-note" data-i18n-html="pv_note"></p>
+      </div>
+    </div>
+  </section>
+
+  <section id="faq">
     <div class="sec-head">
       <h2 data-i18n="sec_faq">常见问题</h2>
       <span class="sec-sub" data-i18n="sec_faq_sub">实机使用与排错答疑</span>
     </div>
     <div class="faq-list">
-      <details class="faq">
-        <summary data-i18n="faq1_q">为什么按 F10、G、H 等快捷键打不开控制台或画廊？</summary>
-        <div class="faq-body" data-i18n-html="faq1_a">为了彻底避免与游戏原版按键及中文输入法产生冲突，新版已取消全部全局快捷键（仅保留 <code>Esc</code> 关闭界面）。主菜单点击<strong>【画廊】</strong>，进入游戏后直接点击画面右侧工具栏的<strong>【闪电】</strong>或<strong>【滑块】</strong>图标即可。</div>
-      </details>
-      <details class="faq">
-        <summary data-i18n="faq2_q">如何开启中英或中韩双语字幕？会影响语言切换菜单的韩文显示吗？</summary>
-        <div class="faq-body" data-i18n-html="faq2_a">打开控制台进入第 4 页「显示与字体」，在「双语字幕」一栏选择 <code>中文 + 英文</code> 或 <code>中文 + 韩文</code> 即可实时生效，旁边可独立调节双语字号大小。新版字体拦截已主动放行原版韩文与泰文字体路径，官方语言切换菜单不会出现方块字。</div>
-      </details>
-      <details class="faq">
-        <summary data-i18n="faq3_q">录屏或直播时，怎么把画廊里的封面和直白标题遮住？</summary>
-        <div class="faq-body" data-i18n-html="faq3_a">在控制台第 8 页「画廊」开启「画廊隐藏」，或者进入独立画廊后点击右上角【画廊隐藏】按钮，即可把所有封面替换为深色占位框并将标题遮罩为纯序号显示，依然可以直接点击播放，关闭后立即恢复。</div>
-      </details>
-      <details class="faq">
-        <summary data-i18n="faq4_q">控制台左上角的 LQ 图标有什么作用？</summary>
-        <div class="faq-body" data-i18n-html="faq4_a">点击控制台左上角的 LQ 徽标与标题，可直接用默认浏览器访问作者 Hugo 主页（<code>luoqian29.github.io</code>）查看后续更新动态。</div>
-      </details>
-      <details class="faq">
-        <summary data-i18n="faq5_q">如何确认当前加载的是公开版还是订阅版？</summary>
-        <div class="faq-body" data-i18n-html="faq5_a">打开控制台查看顶部徽标，或查看第 4 页「显示与字体」右下角状态栏：安装 5 个基础模块时自动显示 <code>v1.0.1 公开版</code>，完整安装 7 个模块时自动显示 <code>v2.0.1 订阅版</code>。</div>
-      </details>
-      <details class="faq">
-        <summary data-i18n="faq6_q">安卓手机怎么安装这个 Mod？复制不进 Android/data 目录怎么办？</summary>
-        <div class="faq-body" data-i18n-html="faq6_a">用电脑数据线连接手机，或使用已授权目录访问的 <strong>MT 管理器</strong>，进入 <code>手机存储/Android/data/&lt;Agent17包名&gt;/files/</code>（查找含 <code>agent17</code> 或 <code>hexatail</code> 的包名文件夹），在 <code>files</code> 内新建名为 <code>game</code> 的文件夹，再将解压出来的 <code>mod_luoqian</code> 复制进 <code>files/game/</code> 里面即可（注意要放进新建的 <code>game</code> 文件夹，不要直接丢在 <code>files</code> 下）；进阶用户也可用 MT 管理器直接将文件打包进 APK。</div>
-      </details>
+      <details class="faq"><summary data-i18n="faq1_q"></summary><div class="faq-body" data-i18n-html="faq1_a"></div></details>
+      <details class="faq"><summary data-i18n="faq2_q"></summary><div class="faq-body" data-i18n-html="faq2_a"></div></details>
+      <details class="faq"><summary data-i18n="faq3_q"></summary><div class="faq-body" data-i18n-html="faq3_a"></div></details>
+      <details class="faq"><summary data-i18n="faq7_q"></summary><div class="faq-body" data-i18n-html="faq7_a"></div></details>
+      <details class="faq"><summary data-i18n="faq8_q"></summary><div class="faq-body" data-i18n-html="faq8_a"></div></details>
+      <details class="faq"><summary data-i18n="faq9_q"></summary><div class="faq-body" data-i18n-html="faq9_a"></div></details>
+      <details class="faq"><summary data-i18n="faq4_q"></summary><div class="faq-body" data-i18n-html="faq4_a"></div></details>
+      <details class="faq"><summary data-i18n="faq5_q"></summary><div class="faq-body" data-i18n-html="faq5_a"></div></details>
+      <details class="faq"><summary data-i18n="faq6_q"></summary><div class="faq-body" data-i18n-html="faq6_a"></div></details>
     </div>
   </section>
 
   <footer>
-    <span data-i18n="foot_author">作者：落谦 (luoqian) · 由 Antigravity (Gemini 4 Hydrogen) 协助构建</span>
-    <span data-i18n-html="foot_home">主页：<a href="https://luoqian29.github.io/" target="_blank" rel="noopener">luoqian29.github.io</a></span>
+    <span data-i18n="foot_author"></span>
+    <span data-i18n-html="foot_home"></span>
   </footer>
 </main>
 
+<button class="back-top" id="backTopBtn" type="button" aria-label="Back to Top" onclick="window.scrollTo({top:0, behavior:'smooth'})">
+  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 15l-6-6-6 6"/></svg>
+</button>
+
 <script>
-const I18N = {"chs": {"page_title": "Agent17 功能扩展使用指南 · v1.0.1 / v2.0.1", "nav_title": "Agent17 功能扩展使用指南", "nav_sub": "适配游戏 v0.26.10 · 支持 v1.0.1 公开版 / v2.0.1 订阅版", "nav_blog": "博客主页", "nav_post": "Agent17 专帖", "nav_support": "爱发电支持", "theme_title": "切换深浅色外观", "lang_title": "切换页面语言", "hero_eyebrow": "Agent17 v0.26.10 · 落谦 & Antigravity (Gemini 4 Hydrogen)", "hero_title": "简洁、干净的 Agent17 辅助与画廊工具", "hero_desc": "全模块集中收纳于 <code>game/mod_luoqian</code>，不改写游戏原版脚本，不损坏已有存档。全鼠标交互，支持简体中文、繁体中文与英文环境。", "spec_1_l": "发行版本", "spec_1_v": "v1.0.1 公开 / v2.0.1 订阅", "spec_2_l": "呼出方式", "spec_2_v": "纯鼠标点选 · Esc 返回", "spec_3_l": "独立画廊", "spec_3_v": "459 动画 · 62 剧情", "spec_4_l": "内容覆盖", "spec_4_v": "32 角色 · 52 唱片 · 33 传送", "sec_install": "安装与切换说明", "sec_install_sub": "三步完成安装，随时卸载还原", "step1_tag": "第 1 步 · 安装", "step1_t": "复制覆盖 <code>game</code> 文件夹", "step1_p": "<strong>PC 端</strong>：将压缩包里的 <code>game</code> 文件夹复制到游戏根目录覆盖。<br><strong>安卓端</strong>：用电脑数据线连手机或 <strong>MT 管理器</strong>，将 <code>mod_luoqian</code> 放入 <code>Android/data/&lt;包名&gt;/files/game/</code>（无 <code>game</code> 则新建）。", "step2_tag": "第 2 步 · 入口", "step2_t": "全鼠标点击打开", "step2_p": "新版已移除易冲突的全局快捷键。开始页面点击<strong>【画廊】</strong>看全部演出；进游戏后点击画面右侧工具栏<strong>【闪电】</strong>打开快捷抽屉，或<strong>【滑块】</strong>打开完整控制台。", "step3_tag": "第 3 步 · 切换与卸载", "step3_t": "模块热插拔", "step3_p": "删除 <code>game/mod_luoqian/</code> 即可完全还原官方原版。在 <code>v2.0.1</code> 基础上移出 <code>mod_heroine_collection</code> 与 <code>mod_minigames_unlock</code> 至游戏外即可切换为 <code>v1.0.1</code>。", "warn_title": "老版本升级必读（防止同名屏幕冲突）", "warn_p": "如果你之前装过早期的单文件旧版 Mod，升级新版前请先前往游戏 <code>game/</code> 目录删除以下旧目录和文件，然后再放入新版的 <code>game/mod_luoqian/</code>：<code>game/mod_cheats/</code>、<code>game/mod_gallery/</code>、<code>game/script/Menu/zz_mainmenu_gallery.rpy*</code>。", "sec_compare": "版本功能对照", "sec_compare_sub": "同一套底座架构，按模块物理区分", "th_mod": "功能板块", "th_pub": "v1.0.1 公开版（5 模块）", "th_sub": "v2.0.1 订阅版（7 模块）", "cmp1_name": "<strong>主菜单与独立画廊</strong><br><span class=\"meta-id\">mod_gallery</span>", "cmp1_pub": "<span class=\"tag tag-pub\">完整包含</span><br>主菜单入口、459 段动画浏览、62 幕真实剧情沙盒回放、画廊隐藏遮罩", "cmp1_sub": "<span class=\"tag tag-pub\">完整包含</span><br>同公开版全部画廊与隐藏模式功能", "cmp2_name": "<strong>右侧闪电快捷工作台</strong><br><span class=\"meta-id\">mod_quick_drawer</span>", "cmp2_pub": "<span class=\"tag tag-pub\">基础工作台</span><br>打开控制台、清除当日冷却与锁定、5 时段与工作日切换、4 处高频传送", "cmp2_sub": "<span class=\"tag tag-sub\">含实时人物雷达</span><br>包含基础工作台全部功能 + <strong>32 位角色当前行踪检测与一键瞬移找人</strong>", "cmp3_name": "<strong>基础数值与世界调节</strong><br><span class=\"meta-id\">mod_basic_cheats</span>", "cmp3_pub": "<span class=\"tag tag-pub\">完整包含（前 3 页）</span><br>资产与道具、时间与世界（含天气与圣诞/监狱线切换）、属性与特工技能", "cmp3_sub": "<span class=\"tag tag-pub\">完整包含（前 3 页）</span><br>支持与扩展模块联动，开局补给包同步发放收藏与拼图奖励", "cmp4_name": "<strong>显示、字体与双语字幕</strong><br><span class=\"meta-id\">mod_font_manager</span>", "cmp4_pub": "<span class=\"tag tag-pub\">完整包含（第 4 页）</span><br>4 款中文运行字体、<strong>中英 / 中韩双语字幕</strong>、字号位移与透明度微调", "cmp4_sub": "<span class=\"tag tag-pub\">完整包含（第 4 页）</span><br>同公开版全部字体与双语字幕能力", "cmp5_name": "<strong>角色、命运分支与图鉴</strong><br><span class=\"meta-id\">mod_heroine_collection</span>", "cmp5_pub": "<span class=\"tag tag-none\">未包含</span><br>保留原版流程体验", "cmp5_sub": "<span class=\"tag tag-sub\">订阅专属（第 5、6 页）</span><br>32 人好感/服从/外观与红蓝命运卡、进行中任务追踪、52 首随身听、51 拍立得、邮件、内裤与摄像头解锁", "cmp6_name": "<strong>小游戏秒过与全城传送</strong><br><span class=\"meta-id\">mod_minigames_unlock</span>", "cmp6_pub": "<span class=\"tag tag-none\">未包含</span><br>保留抽屉内 4 处基础传送", "cmp6_sub": "<span class=\"tag tag-sub\">订阅专属（第 7 页）</span><br>777/自动撬锁/迷宫攻防/拼酒免伤开关、12 项小游戏直接完成、27 拼图与 286 贴纸收集、33 房间全城传送", "sec_feat": "全模块功能详解", "sec_feat_sub": "可按版本筛选或输入关键词快速定位", "f_all": "全部模块", "f_pub": "公开版可用 (v1.0.1+)", "f_sub": "订阅版专属 (v2.0.1)", "f_gal": "画廊与字体双语", "search_ph": "搜索功能（如：双语字幕、随身听、传送、隐藏、拼酒）", "c1_t": "右侧闪电快捷工作台", "c1_b": "公开基础 / 订阅完全体", "c1_p": "紧贴游戏右侧原生工具栏第 4 个图标，随点随关，不进入大控制台就能处理高频日常操作。", "c1_l1": "<strong>两版共有</strong>：打开主控制台、一键清除今日冷却与锁定、5 段时段切换、工作日/周末切换、卧室/学院/商街/露比别墅传送。", "c1_l2": "<strong>订阅版额外</strong>：底部实时扫描当前地图在场的 32 位角色，点击名片直接传到对方身边或快捷调节好感。", "c2_t": "第 1 页 · 资产与道具", "c2_b": "v1.0.1 / v2.0.1", "c2_p": "统一管理金钱、任务点、赌场筹码、监狱现金以及游戏内各类合法道具包，静默入包不弹刷屏提示。", "c2_l1": "支持金币倍率调节（1x~10x）、消费免扣金币、道具/书籍/行动点不消耗开关。", "c2_l2": "按分类发放常用工具、钥匙门禁卡、矿石材料、礼物道具、战斗药剂装备与 6 辆合法跑车（含高魅力装备保留）。", "c3_t": "第 2 页 · 时间与世界", "c3_b": "v1.0.1 / v2.0.1", "c3_p": "控制昼夜时段、天数推进、日记天气与特殊剧本线路，附带动作冷却绕过与卡死解冻。", "c3_l1": "支持跳过每日角色动作锁定、解除等待计时与常见软锁状态。", "c3_l2": "提供天气锁定与下雪/薄雾氛围效果，并可安全切换六角城、圣诞世界与女子监狱剧本线。", "c4_t": "第 3 页 · 属性与技能", "c4_b": "v1.0.1 / v2.0.1", "c4_p": "支持主角 6 项基础属性与 8 项特工技能的精细加减，同时保留一键重置为正常人数值的按钮。", "c4_l1": "支持开启「好感防降保护」、快速回满生命，以及在未装小游戏模块时重置赌场与轮盘次数限制。", "c4_l2": "属性面板严格对齐原版上限，不影响后续剧情触发条件。", "c5_t": "第 4 页 · 显示与字体工坊", "c5_b": "v1.0.1 / v2.0.1", "c5_p": "专为中文体验打造，支持运行时无重启更换字体、双语对照阅读以及对话框外观精细排版。", "c5_l1": "内置 4 款中文字体切换，且自动放行原版韩文与泰文字体路径，切换语言不会出现方块乱码。", "c5_l2": "支持开启<strong>中文 + 英文</strong>或<strong>中文 + 韩文</strong>双语字幕，可单独调节译文字号、名字偏移与框体透明度。", "c6_t": "第 5 页 · 角色与分支", "c6_b": "v2.0.1 订阅专属", "c6_p": "集中管理全部 32 位角色（19 位主要角色 + 13 位支线角色）的好感状态、剧情倾向与任务进度。", "c6_l1": "可批量或逐一调节好感（兼容原版 6 心上限显示）、服从与心情；支持真实红蓝命运卡牌选择及清空重置。", "c6_l2": "支持切换 10 套角色外观造型、查看当前激活任务并直达现场，以及查阅全角色攻略与礼物偏好。", "c7_t": "第 6 页 · 收藏与图鉴", "c7_b": "v2.0.1 订阅专属", "c7_p": "集成了 52 首游戏原声随身听与全部收集要素管理，脱离房间限制自由点歌与阅览图鉴。", "c7_l1": "<strong>随身听 (52)</strong>：按日常休闲、角色主题、战斗行动等 5 种曲风筛选，随时切歌或恢复房间默认背景音乐。", "c7_l2": "<strong>相册与通讯</strong>：51 张拍立得逐页预览、全部内裤/书籍/摄像头一键同步、加密邮件归档阅读与图片附件查看。", "c8_t": "第 7 页 · 小游戏与传送", "c8_b": "v2.0.1 订阅专属", "c8_p": "大幅减轻重复小游戏与全城跑图负担，并统一核对过 0.26.10 原版全部有效房间与收集上限。", "c8_l1": "常驻开关支持老虎机 777、撬锁直接通过、露娜密码自动破译、迷宫高攻防、拼酒体力不减；12 项当前小游戏支持亮蓝灯一键跳过。", "c8_l2": "提供 27 项拼图秒解、8 项公开赞助礼包与 286 张娃娃机贴纸解锁，以及 33 处跨世界地点传送（六角城 21 + 圣诞 6 + 监狱 6）。", "c9_t": "第 8 页 / 主菜单 · 独立画廊与剧情馆", "c9_b": "v1.0.1 / v2.0.1", "c9_p": "可在主菜单直接打开，无需加载存档即可播放全量演出；所有剧情回放均在独立沙盒上下文中运行。", "c9_l1": "<strong>剧情回放 (62 幕)</strong>：覆盖 25 个主题与角色，补全原版真实选卡事件，结束后自动清理临时变量并安全退出，不破坏已有存档。", "c9_l2": "<strong>动画影院 (459 段)</strong>：全量补齐缩略图预览，支持上一幕/下一幕切换与「画廊隐藏」模式（一键遮蔽封面与剧情标题，方便演示与录屏）。", "empty_hint": "没有找到匹配的模块说明，可以尝试清空关键词重新筛选。", "sec_faq": "常见问题", "sec_faq_sub": "实机使用与排错答疑", "faq1_q": "为什么按 F10、G、H 等快捷键打不开控制台或画廊？", "faq1_a": "为了彻底避免与游戏原版按键及中文输入法产生冲突，新版已取消全部全局快捷键（仅保留 <code>Esc</code> 关闭界面）。主菜单点击<strong>【画廊】</strong>，进入游戏后直接点击画面右侧工具栏的<strong>【闪电】</strong>或<strong>【滑块】</strong>图标即可。", "faq2_q": "如何开启中英或中韩双语字幕？会影响语言切换菜单的韩文显示吗？", "faq2_a": "打开控制台进入第 4 页「显示与字体」，在「双语字幕」一栏选择 <code>中文 + 英文</code> 或 <code>中文 + 韩文</code> 即可实时生效，旁边可独立调节双语字号大小。新版字体拦截已主动放行原版韩文与泰文字体路径，官方语言切换菜单不会出现方块字。", "faq3_q": "录屏或直播时，怎么把画廊里的封面和直白标题遮住？", "faq3_a": "在控制台第 8 页「画廊」开启「画廊隐藏」，或者进入独立画廊后点击右上角【画廊隐藏】按钮，即可把所有封面替换为深色占位框并将标题遮罩为纯序号显示，依然可以直接点击播放，关闭后立即恢复。", "faq4_q": "控制台左上角的 LQ 图标有什么作用？", "faq4_a": "点击控制台左上角的 LQ 徽标与标题，可直接用默认浏览器访问作者 Hugo 主页（<code>luoqian29.github.io</code>）查看后续更新动态。", "faq5_q": "如何确认当前加载的是公开版还是订阅版？", "faq5_a": "打开控制台查看顶部徽标，或查看第 4 页「显示与字体」右下角状态栏：安装 5 个基础模块时自动显示 <code>v1.0.1 公开版</code>，完整安装 7 个模块时自动显示 <code>v2.0.1 订阅版</code>。", "foot_author": "作者：落谦 (luoqian) · 由 Antigravity (Gemini 4 Hydrogen) 协助构建", "foot_home": "主页：<a href=\"https://luoqian29.github.io/\" target=\"_blank\" rel=\"noopener\">luoqian29.github.io</a>", "faq6_q": "安卓手机怎么安装这个 Mod？复制不进 Android/data 目录怎么办？", "faq6_a": "用电脑数据线连接手机，或使用已授权目录访问的 <strong>MT 管理器</strong>，进入 <code>手机存储/Android/data/&lt;Agent17包名&gt;/files/</code>（查找含 <code>agent17</code> 或 <code>hexatail</code> 的包名文件夹），在 <code>files</code> 内新建名为 <code>game</code> 的文件夹，再将解压出来的 <code>mod_luoqian</code> 复制进 <code>files/game/</code> 里面即可（注意要放进新建的 <code>game</code> 文件夹，不要直接丢在 <code>files</code> 下）；进阶用户也可用 MT 管理器直接将文件打包进 APK。"}, "cht": {"page_title": "Agent17 功能擴展使用指南 · v1.0.1 / v2.0.1", "nav_title": "Agent17 功能擴展使用指南", "nav_sub": "適配遊戲 v0.26.10 · 支援 v1.0.1 公開版 / v2.0.1 訂閱版", "nav_blog": "部落格首頁", "nav_post": "Agent17 專帖", "nav_support": "愛發電支持", "theme_title": "切換深淺色外觀", "lang_title": "切換頁面語言", "hero_eyebrow": "Agent17 v0.26.10 · 落謙 & Antigravity (Gemini 4 Hydrogen)", "hero_title": "簡潔、乾淨的 Agent17 輔助與畫廊工具", "hero_desc": "全模組集中收納於 <code>game/mod_luoqian</code>，不改寫遊戲原版腳本，不損壞已有存檔。全滑鼠互動，支援簡體中文、繁體中文與英文環境。", "spec_1_l": "發行版本", "spec_1_v": "v1.0.1 公開 / v2.0.1 訂閱", "spec_2_l": "開啟方式", "spec_2_v": "純滑鼠點選 · Esc 返回", "spec_3_l": "獨立畫廊", "spec_3_v": "459 動畫 · 62 劇情", "spec_4_l": "內容覆蓋", "spec_4_v": "32 角色 · 52 唱片 · 33 傳送", "sec_install": "安裝與切換說明", "sec_install_sub": "三步完成安裝，隨時卸載還原", "step1_tag": "第 1 步 · 安裝", "step1_t": "複製覆蓋 <code>game</code> 資料夾", "step1_p": "<strong>PC 端</strong>：將壓縮包裡的 <code>game</code> 資料夾複製到遊戲根目錄覆蓋。<br><strong>安卓端</strong>：用電腦傳輸線連手機或透過 <strong>MT 管理器</strong>，將 <code>mod_luoqian</code> 放入 <code>Android/data/&lt;包名&gt;/files/game/</code>（無 <code>game</code> 則新建）。", "step2_tag": "第 2 步 · 入口", "step2_t": "全滑鼠點擊開啟", "step2_p": "新版已移除易衝突的全域快捷鍵。開始頁面點擊<strong>【畫廊】</strong>觀看全部演出；進遊戲後點擊畫面右側工具欄<strong>【閃電】</strong>開啟快捷抽屜，或<strong>【滑桿】</strong>開啟完整控制台。", "step3_tag": "第 3 步 · 切換與卸載", "step3_t": "模組熱插拔", "step3_p": "刪除 <code>game/mod_luoqian/</code> 即可完全還原官方原版。在 <code>v2.0.1</code> 基礎上移出 <code>mod_heroine_collection</code> 與 <code>mod_minigames_unlock</code> 至遊戲外即可切換為 <code>v1.0.1</code>。", "warn_title": "舊版本升級必讀（防止同名畫面衝突）", "warn_p": "如果你之前裝過早期的單檔舊版 Mod，升級新版前請先前往遊戲 <code>game/</code> 目錄刪除以下舊資料夾與檔案，然後再放入新版的 <code>game/mod_luoqian/</code>：<code>game/mod_cheats/</code>、<code>game/mod_gallery/</code>、<code>game/script/Menu/zz_mainmenu_gallery.rpy*</code>。", "sec_compare": "版本功能對照", "sec_compare_sub": "同一套底座架構，依模組實體區分", "th_mod": "功能板塊", "th_pub": "v1.0.1 公開版（5 模組）", "th_sub": "v2.0.1 訂閱版（7 模組）", "cmp1_name": "<strong>主選單與獨立畫廊</strong><br><span class=\"meta-id\">mod_gallery</span>", "cmp1_pub": "<span class=\"tag tag-pub\">完整包含</span><br>主選單入口、459 段動畫瀏覽、62 幕真實劇情沙盒重播、畫廊隱藏遮罩", "cmp1_sub": "<span class=\"tag tag-pub\">完整包含</span><br>同公開版全部畫廊與隱藏模式功能", "cmp2_name": "<strong>右側閃電快捷工作台</strong><br><span class=\"meta-id\">mod_quick_drawer</span>", "cmp2_pub": "<span class=\"tag tag-pub\">基礎工作台</span><br>開啟控制台、清除當日冷卻與鎖定、5 時段與平日/週末切換、4 處高頻傳送", "cmp2_sub": "<span class=\"tag tag-sub\">含即時人物雷達</span><br>包含基礎工作台全部功能 + <strong>32 位角色目前行蹤偵測與一鍵瞬移找人</strong>", "cmp3_name": "<strong>基礎數值與世界調節</strong><br><span class=\"meta-id\">mod_basic_cheats</span>", "cmp3_pub": "<span class=\"tag tag-pub\">完整包含（前 3 頁）</span><br>資產與道具、時間與世界（含天氣與聖誕/監獄線切換）、屬性與特工技能", "cmp3_sub": "<span class=\"tag tag-pub\">完整包含（前 3 頁）</span><br>支援與擴展模組聯動，開局補給包同步發放收藏與拼圖獎勵", "cmp4_name": "<strong>顯示、字體與雙語字幕</strong><br><span class=\"meta-id\">mod_font_manager</span>", "cmp4_pub": "<span class=\"tag tag-pub\">完整包含（第 4 頁）</span><br>4 款中文執行字體、<strong>中英 / 中韓雙語字幕</strong>、字號位移與透明度微調", "cmp4_sub": "<span class=\"tag tag-pub\">完整包含（第 4 頁）</span><br>同公開版全部字體與雙語字幕能力", "cmp5_name": "<strong>角色、命運分支與圖鑑</strong><br><span class=\"meta-id\">mod_heroine_collection</span>", "cmp5_pub": "<span class=\"tag tag-none\">未包含</span><br>保留原版流程體驗", "cmp5_sub": "<span class=\"tag tag-sub\">訂閱專屬（第 5、6 頁）</span><br>32 人好感/服從/外觀與紅藍命運卡、進行中任務追蹤、52 首隨身聽、51 拍立得、郵件、內褲與攝影機解鎖", "cmp6_name": "<strong>小遊戲秒過與全城傳送</strong><br><span class=\"meta-id\">mod_minigames_unlock</span>", "cmp6_pub": "<span class=\"tag tag-none\">未包含</span><br>保留抽屜內 4 處基礎傳送", "cmp6_sub": "<span class=\"tag tag-sub\">訂閱專屬（第 7 頁）</span><br>777/自動撬鎖/迷宮攻防/拼酒免傷開關、12 項小遊戲直接完成、27 拼圖與 286 貼紙收集、33 房間全城傳送", "sec_feat": "全模組功能詳解", "sec_feat_sub": "可依版本篩選或輸入關鍵字快速定位", "f_all": "全部模組", "f_pub": "公開版可用 (v1.0.1+)", "f_sub": "訂閱版專屬 (v2.0.1)", "f_gal": "畫廊與字體雙語", "search_ph": "搜尋功能（如：雙語字幕、隨身聽、傳送、隱藏、拼酒）", "c1_t": "右側閃電快捷工作台", "c1_b": "公開基礎 / 訂閱完全體", "c1_p": "緊貼遊戲右側原生工具欄第 4 個圖示，隨點隨關，不進入大控制台就能處理高頻日常操作。", "c1_l1": "<strong>兩版共有</strong>：開啟主控制台、一鍵清除今日冷卻與鎖定、5 段時段切換、平日/週末切換、臥室/學院/商街/露比別墅傳送。", "c1_l2": "<strong>訂閱版額外</strong>：底部即時掃描目前地圖在場的 32 位角色，點擊名片直接傳到對方身邊或快捷調節好感。", "c2_t": "第 1 頁 · 資產與道具", "c2_b": "v1.0.1 / v2.0.1", "c2_p": "統一管理金錢、任務點、賭場籌碼、監獄現金以及遊戲內各類合法道具包，靜默入包不彈洗版提示。", "c2_l1": "支援金幣倍率調節（1x~10x）、消費免扣金幣、道具/書籍/行動點不消耗開關。", "c2_l2": "依分類發放常用工具、鑰匙門禁卡、礦石材料、禮物道具、戰鬥藥劑裝備與 6 輛合法跑車（含高魅力裝備保留）。", "c3_t": "第 2 頁 · 時間與世界", "c3_b": "v1.0.1 / v2.0.1", "c3_p": "控制晝夜時段、天數推進、日記天氣與特殊劇本線，附帶動作冷卻繞過與卡關解凍。", "c3_l1": "支援跳過每日角色動作鎖定、解除等待計時與常見軟鎖狀態。", "c3_l2": "提供天氣鎖定與下雪/薄霧氛圍效果，並可安全切換六角城、聖誕世界與女子監獄劇本線。", "c4_t": "第 3 頁 · 屬性與技能", "c4_b": "v1.0.1 / v2.0.1", "c4_p": "支援主角 6 項基礎屬性與 8 項特工技能的精細加減，同時保留一鍵重設為正常人數值的按鈕。", "c4_l1": "支援開啟「好感防降保護」、快速回滿生命，以及在未裝小遊戲模組時重設賭場與輪盤次數限制。", "c4_l2": "屬性面板嚴格對齊原版上限，不影響後續劇情觸發條件。", "c5_t": "第 4 頁 · 顯示與字體工坊", "c5_b": "v1.0.1 / v2.0.1", "c5_p": "專為中文體驗打造，支援執行時免重啟更換字體、雙語對照閱讀以及對話框外觀精細排版。", "c5_l1": "內建 4 款中文字體切換，且自動放行原版韓文與泰文字體路徑，切換語言不會出現方塊亂碼。", "c5_l2": "支援開啟<strong>中文 + 英文</strong>或<strong>中文 + 韓文</strong>雙語字幕，可單獨調節譯文字號、名字偏移與框體透明度。", "c6_t": "第 5 頁 · 角色與分支", "c6_b": "v2.0.1 訂閱專屬", "c6_p": "集中管理全部 32 位角色（19 位主要角色 + 13 位支線角色）的好感狀態、劇情傾向與任務進度。", "c6_l1": "可批量或逐一調節好感（相容原版 6 心上限顯示）、服從與心情；支援真實紅藍命運卡牌選擇及清空重設。", "c6_l2": "支援切換 10 套角色外觀造型、查看目前啟用任務並直達現場，以及查閱全角色攻略與禮物偏好。", "c7_t": "第 6 頁 · 收藏與圖鑑", "c7_b": "v2.0.1 訂閱專屬", "c7_p": "整合了 52 首遊戲原聲隨身聽與全部收集要素管理，脫離房間限制自由點歌與閱覽圖鑑。", "c7_l1": "<strong>隨身聽 (52)</strong>：依日常休閒、角色主題、戰鬥行動等 5 種曲風篩選，隨時切歌或恢復房間預設背景音樂。", "c7_l2": "<strong>相冊與通訊</strong>：51 張拍立得逐頁預覽、全部內褲/書籍/攝影機一鍵同步、加密郵件歸檔閱讀與圖片附件查看。", "c8_t": "第 7 頁 · 小遊戲與傳送", "c8_b": "v2.0.1 訂閱專屬", "c8_p": "大幅減輕重複小遊戲與全城跑圖負擔，並統一核對過 0.26.10 原版全部有效房間與收集上限。", "c8_l1": "常駐開關支援老虎機 777、撬鎖直接通過、露娜密碼自動破譯、迷宮高攻防、拼酒體力不減；12 項目前小遊戲支援亮藍燈一鍵跳過。", "c8_l2": "提供 27 項拼圖秒解、8 項公開贊助禮包與 286 張娃娃機貼紙解鎖，以及 33 處跨世界地點傳送（六角城 21 + 聖誕 6 + 監獄 6）。", "c9_t": "第 8 頁 / 主選單 · 獨立畫廊與劇情館", "c9_b": "v1.0.1 / v2.0.1", "c9_p": "可在主選單直接開啟，無需載入存檔即可播放全量演出；所有劇情重播皆在獨立沙盒上下文中執行。", "c9_l1": "<strong>劇情重播 (62 幕)</strong>：覆蓋 25 個主題與角色，補全原版真實選卡事件，結束後自動清理臨時變數並安全退出，不破壞已有存檔。", "c9_l2": "<strong>動畫影院 (459 段)</strong>：全量補齊縮圖預覽，支援上一幕/下一幕切換與「畫廊隱藏」模式（一鍵遮蔽封面與劇情標題，方便示範與錄屏）。", "empty_hint": "沒有找到符合的模組說明，可以嘗試清空關鍵字重新篩選。", "sec_faq": "常見問題", "sec_faq_sub": "實機使用與排錯答疑", "faq1_q": "為什麼按 F10、G、H 等快捷鍵打不開控制台或畫廊？", "faq1_a": "為了徹底避免與遊戲原版按鍵及中文輸入法產生衝突，新版已取消全部全域快捷鍵（僅保留 <code>Esc</code> 關閉介面）。主選單點擊<strong>【畫廊】</strong>，進入遊戲後直接點擊畫面右側工具欄的<strong>【閃電】</strong>或<strong>【滑桿】</strong>圖示即可。", "faq2_q": "如何開啟中英或中韓雙語字幕？會影響語言切換選單的韓文顯示嗎？", "faq2_a": "開啟控制台進入第 4 頁「顯示與字體」，在「雙語字幕」一欄選擇 <code>中文 + 英文</code> 或 <code>中文 + 韓文</code> 即可即時生效，旁邊可獨立調節雙語字號大小。新版字體攔截已主動放行原版韓文與泰文字體路徑，官方語言切換選單不會出現方塊字。", "faq3_q": "錄屏或直播時，怎麼把畫廊裡的封面和直白標題遮住？", "faq3_a": "在控制台第 8 頁「畫廊」開啟「畫廊隱藏」，或者進入獨立畫廊後點擊右上角【畫廊隱藏】按鈕，即可把所有封面替換為深色佔位框並將標題遮罩為純序號顯示，依然可以直接點擊播放，關閉後立即恢復。", "faq4_q": "控制台左上角的 LQ 圖示有什麼作用？", "faq4_a": "點擊控制台左上角的 LQ 徽標與標題，可直接用預設瀏覽器造訪作者 Hugo 主頁（<code>luoqian29.github.io</code>）查看後續更新動態。", "faq5_q": "如何確認目前載入的是公開版還是訂閱版？", "faq5_a": "開啟控制台查看頂部徽標，或查看第 4 頁「顯示與字體」右下角狀態列：安裝 5 個基礎模組時自動顯示 <code>v1.0.1 公開版</code>，完整安裝 7 個模組時自動顯示 <code>v2.0.1 訂閱版</code>。", "foot_author": "作者：落謙 (luoqian) · 由 Antigravity (Gemini 4 Hydrogen) 協助建構", "foot_home": "主頁：<a href=\"https://luoqian29.github.io/\" target=\"_blank\" rel=\"noopener\">luoqian29.github.io</a>", "faq6_q": "安卓手機怎麼安裝這個 Mod？複製不進 Android/data 目錄怎麼辦？", "faq6_a": "用電腦傳輸線連接手機，或使用已授權目錄存取的 <strong>MT 管理器</strong>，進入 <code>手機儲存空間/Android/data/&lt;Agent17包名&gt;/files/</code>（尋找含 <code>agent17</code> 或 <code>hexatail</code> 的包名資料夾），在 <code>files</code> 內新建名為 <code>game</code> 的資料夾，再將解壓出的 <code>mod_luoqian</code> 複製進 <code>files/game/</code> 裡面即可（請注意要放進新建的 <code>game</code> 資料夾，不要直接丟在 <code>files</code> 下）；進階玩家也可用 MT 管理器直接將檔案打包進 APK。"}, "en": {"page_title": "Agent17 Mod User Guide · v1.0.1 / v2.0.1", "nav_title": "Agent17 Mod User Guide", "nav_sub": "For Agent17 v0.26.10 · v1.0.1 Public & v2.0.1 Supporter", "nav_blog": "Blog", "nav_post": "Agent17 Post", "nav_support": "Support", "theme_title": "Toggle Light / Dark Theme", "lang_title": "Switch Language", "hero_eyebrow": "Agent17 v0.26.10 · luoqian & Antigravity (Gemini 4 Hydrogen)", "hero_title": "Clean, Non-Invasive Gallery & Utility Suite", "hero_desc": "All modules live cleanly inside <code>game/mod_luoqian</code> with zero base-script edits and zero save pollution. Pure mouse-driven UI with native English, Simplified Chinese, and Traditional Chinese support.", "spec_1_l": "Editions", "spec_1_v": "v1.0.1 Public / v2.0.1 Supporter", "spec_2_l": "Navigation", "spec_2_v": "Mouse UI · Esc to Close", "spec_3_l": "Standalone Gallery", "spec_3_v": "459 Clips · 62 Story Replays", "spec_4_l": "Scope", "spec_4_v": "32 Characters · 52 Tracks · 33 Warps", "sec_install": "Install & Hot-Swap Guide", "sec_install_sub": "Three quick steps to install, switch, or uninstall cleanly", "step1_tag": "Step 1 · Install", "step1_t": "Copy & Merge <code>game</code> Folder", "step1_p": "<strong>PC</strong>: Copy and merge the archive's <code>game</code> folder into your Agent17 root directory.<br><strong>Android</strong>: Connect via PC USB or use <strong>MT Manager</strong> to place <code>mod_luoqian</code> inside <code>Android/data/&lt;package&gt;/files/game/</code> (create <code>game</code> if missing).", "step2_tag": "Step 2 · Access", "step2_t": "Pure Mouse Controls", "step2_p": "Global hotkeys were removed to avoid OS/game conflicts. Click <strong>Gallery</strong> on the main menu, or use the right-sidebar <strong>Lightning</strong> (Quick Drawer) and <strong>Sliders</strong> (Console) icons in-game.", "step3_tag": "Step 3 · Swap & Remove", "step3_t": "Modular Hot-Plug", "step3_p": "Delete <code>game/mod_luoqian/</code> anytime to return to pure vanilla. Moving <code>mod_heroine_collection</code> and <code>mod_minigames_unlock</code> outside <code>game/</code> switches <code>v2.0.1</code> cleanly down to <code>v1.0.1</code>.", "warn_title": "Upgrading from Older Releases (Important)", "warn_p": "If you previously installed legacy standalone files, delete <code>game/mod_cheats/</code>, <code>game/mod_gallery/</code>, and <code>game/script/Menu/zz_mainmenu_gallery.rpy*</code> before copying <code>game/mod_luoqian/</code> to prevent duplicate screen conflicts.", "sec_compare": "Edition Comparison", "sec_compare_sub": "Shared modular core, differentiated cleanly by folder", "th_mod": "Feature Area", "th_pub": "v1.0.1 Public Edition (5 Modules)", "th_sub": "v2.0.1 Supporter Edition (7 Modules)", "cmp1_name": "<strong>Main Menu & Standalone Gallery</strong><br><span class=\"meta-id\">mod_gallery</span>", "cmp1_pub": "<span class=\"tag tag-pub\">Included</span><br>Title-screen Gallery button, 459 animated clips, 62 sandboxed story replays, and Gallery Hide Mode", "cmp1_sub": "<span class=\"tag tag-pub\">Included</span><br>Same complete animation browser, story sandbox, and cover hide toggle", "cmp2_name": "<strong>Right-Sidebar Quick Drawer</strong><br><span class=\"meta-id\">mod_quick_drawer</span>", "cmp2_pub": "<span class=\"tag tag-pub\">Core Quick Tools</span><br>Open Console shortcut, clear daily cooldowns/locks, 5 timeslots & weekday toggle, 4 core warps", "cmp2_sub": "<span class=\"tag tag-sub\">+ Live Character Radar</span><br>Includes all Core Quick Tools plus <strong>live 32-character presence tracker & 1-click warp to actor</strong>", "cmp3_name": "<strong>Assets, Schedule & Player Stats</strong><br><span class=\"meta-id\">mod_basic_cheats</span>", "cmp3_pub": "<span class=\"tag tag-pub\">Included (Tabs 1–3)</span><br>Money/items/vehicles, time/weather & Christmas/Prison arcs, player stats & 8 agent skills", "cmp3_sub": "<span class=\"tag tag-pub\">Included (Tabs 1–3)</span><br>Starter package automatically links extension hooks when optional modules are installed", "cmp4_name": "<strong>Display, Fonts & Bilingual Subs</strong><br><span class=\"meta-id\">mod_font_manager</span>", "cmp4_pub": "<span class=\"tag tag-pub\">Included (Tab 4)</span><br>Runtime CN fonts, <strong>CN+EN / CN+KR bilingual subtitles</strong>, dialogue size/position/opacity controls", "cmp4_sub": "<span class=\"tag tag-pub\">Included (Tab 4)</span><br>Same complete typography and bilingual subtitle controls", "cmp5_name": "<strong>Heroines, Fate Cards & Archive</strong><br><span class=\"meta-id\">mod_heroine_collection</span>", "cmp5_pub": "<span class=\"tag tag-none\">Not Included</span><br>Keeps standard vanilla progression", "cmp5_sub": "<span class=\"tag tag-sub\">Supporter Add-on (Tabs 5–6)</span><br>32-character stats/looks & Red/Blue card pairs, active quest tracker, 52-track Walkman, 51 Polaroids, mails, cameras & panties", "cmp6_name": "<strong>Minigame Skips & Global Warp</strong><br><span class=\"meta-id\">mod_minigames_unlock</span>", "cmp6_pub": "<span class=\"tag tag-none\">Not Included</span><br>Includes 4 core drawer warps", "cmp6_sub": "<span class=\"tag tag-sub\">Supporter Add-on (Tab 7)</span><br>Slot 777/lockpick/drink/battle toggles, 12 instant minigame clears, 27 puzzles & 286 stickers, 33 verified room warps", "sec_feat": "Module Breakdown", "sec_feat_sub": "Filter by edition or search keywords directly", "f_all": "All Modules", "f_pub": "Public Core (v1.0.1+)", "f_sub": "Supporter Add-ons (v2.0.1)", "f_gal": "Gallery & Subtitles", "search_ph": "Search features (e.g., gallery, walkman, bilingual, lockpick, warp)", "c1_t": "Right-Sidebar Quick Drawer", "c1_b": "Public Base / Supporter Complete", "c1_p": "Anchored cleanly to the native 4th sidebar slot (Lightning icon) for fast everyday adjustments without opening the full console.", "c1_l1": "<strong>Both Editions</strong>: Launch Console, reset daily cooldowns & actor locks, switch 5 timeslots, toggle Weekday/Weekend, and warp to Bedroom / School / Downtown / Ruby Villa.", "c1_l2": "<strong>Supporter Edition</strong>: Appends a live 32-character radar showing current room locations with 1-click teleport and quick stat actions.", "c2_t": "Tab 1 · Assets & Items", "c2_b": "v1.0.1 / v2.0.1", "c2_p": "Manage Gold, Mission Points, Casino Chips, Prison Cash, and categorized vanilla inventories silently without toast spam.", "c2_l1": "Includes Gold earn multipliers (1x–10x), Free Shopping, and Infinite Consumables / Books / Action Points.", "c2_l2": "Grants tools, access cards, ores, gifts, combat gear, and all 6 valid vehicles while preserving higher manual Charm stats.", "c3_t": "Tab 2 · Time & World", "c3_b": "v1.0.1 / v2.0.1", "c3_p": "Control time of day, day progression, diary weather effects, and story arcs, plus action cooldown bypass and softlock recovery.", "c3_l1": "Toggle daily cooldown bypass, clear stuck map/wait timers, and recover common dialogue/navigation softlocks safely.", "c3_l2": "Supports weather lock, Snow/Mist visual atmosphere toggles, and clean transitions between Hexa City, Christmas World, and Prison Arc.", "c4_t": "Tab 3 · Stats & Skills", "c4_b": "v1.0.1 / v2.0.1", "c4_p": "Fine-tune all 6 protagonist stats and 8 agent skills with steppers, or restore everything back to normal levels in one click.", "c4_l1": "Includes Love Point Drop Protection, Full HP restore, and Casino/Roulette limit reset (available even without Tab 7).", "c4_l2": "Respects vanilla stat boundaries so story triggers and combat checks behave reliably.", "c5_t": "Tab 4 · Display & Fonts", "c5_b": "v1.0.1 / v2.0.1", "c5_p": "Runtime font switcher, bilingual subtitle reader, and dialogue box typography controls without restarting the game.", "c5_l1": "Switches among 4 bundled fonts in Chinese modes while leaving native English, Korean, Thai, and other language fonts untouched.", "c5_l2": "Supports <strong>CN + EN</strong> and <strong>CN + KR</strong> bilingual dialogue subtitles with independent scale, offset, and box opacity adjustments.", "c6_t": "Tab 5 · Heroines & Branches", "c6_b": "v2.0.1 Supporter", "c6_p": "Manage affection, submission, mood, outfits, active quests, and real card choices across all 32 characters (19 main + 13 supporting).", "c6_l1": "Adjust stats safely within vanilla 6-heart limits, trigger real Red/Blue card selectors, or reset card pairs back to unselected.", "c6_l2": "Toggle 10 character looks, inspect currently active quests with direct prep & warp, and browse character dossiers and gift hints.", "c7_t": "Tab 6 · Collections & Archive", "c7_b": "v2.0.1 Supporter", "c7_p": "Access the 52-track in-game Walkman anywhere without room locks, alongside full gallery items, Polaroids, and encrypted mails.", "c7_l1": "<strong>Walkman (52 Tracks)</strong>: Filter by 5 genres (Daily, Heroine Themes, Battle, Romance, Christmas), skip tracks, or restore room BGM.", "c7_l2": "<strong>Archive & Mail</strong>: Browse all 51 working Polaroids, sync panties/books/cameras, and read archived SMS/mails with image attachments.", "c8_t": "Tab 7 · Minigames & Warp", "c8_b": "v2.0.1 Supporter", "c8_p": "Skip repetitive minigames and travel directly across 33 verified rooms across Hexa City, Christmas World, and Prison.", "c8_l1": "Persistent toggles for Slot 777, Instant Lockpick, Luna Auto-Password, Battle Godmode, and Drink HP Lock, plus 12 context-highlighted instant clears.", "c8_l2": "Solve all 27 puzzles, redeem 8 plain coupons, collect all 286 claw-machine stickers, and warp to 33 rooms (21 City + 6 Christmas + 6 Prison).", "c9_t": "Tab 8 / Main Menu · Standalone Gallery", "c9_b": "v1.0.1 / v2.0.1", "c9_p": "Accessible straight from the title screen without a save file. Story replays execute inside an isolated context.", "c9_l1": "<strong>Story Replays (62 Chapters)</strong>: Covers 25 routes & specials with authentic card choices, automatically restoring variables safely on exit.", "c9_l2": "<strong>Animation Cinema (459 Clips)</strong>: Complete static preview thumbnails, Prev/Next navigation, and <strong>Gallery Hide Mode</strong> to mask covers/titles while recording.", "empty_hint": "No matching modules found. Try clearing the search filter.", "sec_faq": "FAQ", "sec_faq_sub": "Common questions & troubleshooting", "faq1_q": "Why don't F10, G, or H hotkeys open the console or gallery?", "faq1_a": "All global hotkeys were intentionally removed to prevent conflicts with vanilla shortcuts and IMEs (only <code>Esc</code> remains to close overlays). Click <strong>Gallery</strong> on the main menu, or click the right-sidebar <strong>Lightning</strong> / <strong>Sliders</strong> icons in-game.", "faq2_q": "How do bilingual subtitles work, and does the font mod affect non-Chinese languages?", "faq2_a": "Open Tab 4 (Display & Fonts) and pick <code>CN + EN</code> or <code>CN + KR</code> under Bilingual Subtitles. Font overrides apply strictly to Chinese modes, so English, Korean, Thai, and all other native languages render cleanly.", "faq3_q": "How can I hide explicit thumbnails and titles while recording video?", "faq3_a": "Enable <strong>Gallery Hide Mode</strong> on Tab 8 or in the top-right corner of the Standalone Gallery. Covers turn into neutral placeholders and titles mask to index numbers while keeping every scene playable.", "faq4_q": "What does clicking the top-left LQ logo in the console do?", "faq4_a": "Clicking the top-left LQ emblem or title opens the author's Hugo page (<code>luoqian29.github.io</code>) in your default web browser.", "faq5_q": "How can I check whether v1.0.1 or v2.0.1 is currently active?", "faq5_a": "Check the top header pill inside the Console or the bottom-right status card in Tab 4: 5 core modules display <code>v1.0.1 Public Edition</code>, while adding the optional modules switches automatically to <code>v2.0.1 Supporter Edition</code>.", "foot_author": "Author: luoqian · Co-crafted with Antigravity (Gemini 4 Hydrogen)", "foot_home": "Home: <a href=\"https://luoqian29.github.io/\" target=\"_blank\" rel=\"noopener\">luoqian29.github.io</a>", "faq6_q": "How do I install this Mod on Android when Android/data is restricted?", "faq6_a": "Connect your phone to a PC via USB, or use <strong>MT Manager</strong> (with directory permission) to open <code>Android/data/&lt;package&gt;/files/</code> (look for a folder containing <code>agent17</code> or <code>hexatail</code>). Create a <code>game</code> folder inside <code>files</code> and copy <code>mod_luoqian</code> into <code>files/game/</code> (so the path becomes <code>files/game/mod_luoqian/</code>, not directly under <code>files/</code>). Advanced users can also pack the files straight into the APK using MT Manager."}};
+const I18N = {"chs": {"page_title": "Agent17 功能扩展使用指南 · v1.0.1 / v2.0.1", "nav_title": "Agent17 功能扩展使用指南", "nav_sub": "适配游戏 v0.26.10 · 支持 v1.0.1 公开版 / v2.0.1 订阅版", "nav_blog": "博客主页", "nav_post": "Agent17 专帖", "nav_support": "爱发电支持", "theme_title": "切换深浅色外观", "lang_title": "切换页面语言", "hero_eyebrow": "Agent17 v0.26.10 · 落谦 & Antigravity (Gemini 4 Hydrogen) · 2026-11-28", "hero_title": "简洁、干净的 Agent17 辅助与画廊工具", "hero_desc": "全模块集中收纳于 <code>game/mod_luoqian</code>，不改写游戏原版脚本，不损坏已有存档。全鼠标微圆角交互，支持简体中文、繁体中文与英文环境。", "spec_1_l": "发行版本", "spec_1_v": "v1.0.1 公开 / v2.0.1 订阅", "spec_1_s": "5 核心底座 · 7 完整套件", "spec_2_l": "呼出方式", "spec_2_v": "纯鼠标点选 · Esc 返回", "spec_2_s": "无冲突热键 · H 键藏界面", "spec_3_l": "独立画廊", "spec_3_v": "459 动画 · 70 剧情", "spec_3_s": "31 动画分类 · 28 剧情章节", "spec_4_l": "内容覆盖", "spec_4_v": "32 角色 · 52 曲 · 33 传送", "spec_4_s": "4 字库 · 51 拍立得 · 286 贴纸", "anchor_install": "安装与入口", "anchor_tree": "目录结构", "anchor_compare": "版本对照", "anchor_feat": "模块详解", "anchor_font": "字体与双语预览", "anchor_faq": "常见问题", "cl_badge": "2026-11-28 近期重点更新", "cl_title": "v1.0.1 / v2.0.1 四大体验升级速览", "cl_1": "<strong>独立画廊扩充至 70 幕（28 类）：</strong>补全露娜、梅丽莎、特工 17、索菲亚、幽灵及圣诞篇共 8 幕剧情，主菜单进入自带全数值/18 道具隔离沙盒。", "cl_2": "<strong>左上角随时【退出回放】：</strong>新增悬浮退出 HUD（遇到恐惧/自尊条自动让位，按 H 同步隐藏），任意节点瞬间退回画廊，外层存档零污染。", "cl_3": "<strong>双语字幕彻底无方块：</strong>修复中文下 <code>defer_tl_scripts</code> 延迟加载与 <code>FontGroup</code> 映射，中英/中韩自动回退原版字库、<code>{p}</code> 分段对齐。", "cl_4": "<strong>全站微圆角 UI 手感统一：</strong>全套 6 个深色毛玻璃模块交互按钮统一 <code>r=6px</code> 微圆角体系，悬停只变高亮光影、零跳形与切片畸变。", "sec_install": "安装、入口与目录结构", "sec_install_sub": "三步完成安装，看图找入口，热插拔切换版本", "step1_tag": "第 1 步 · 安装", "step1_t": "复制覆盖 <code>game</code> 文件夹", "step1_p": "<strong>PC 端</strong>：将压缩包里的 <code>game</code> 文件夹复制到游戏根目录覆盖。<br><strong>安卓端</strong>：用电脑数据线连手机或 <strong>MT 管理器</strong>，将 <code>mod_luoqian</code> 放入 <code>Android/data/&lt;包名&gt;/files/game/</code>（无 <code>game</code> 则新建）。", "step2_tag": "第 2 步 · 入口", "step2_t": "全鼠标点击打开", "step2_p": "新版已移除易冲突的全局快捷键。开始页面点击<strong>【画廊】</strong>看全部演出；进游戏后点击画面右侧工具栏<strong>【闪电】</strong>打开快捷抽屉，或<strong>【滑块】</strong>打开完整控制台。", "step3_tag": "第 3 步 · 切换与卸载", "step3_t": "模块热插拔", "step3_p": "删除 <code>game/mod_luoqian/</code> 即可完全还原官方原版。在 <code>v2.0.1</code> 基础上移出 <code>mod_heroine_collection</code> 与 <code>mod_minigames_unlock</code> 至游戏外即可切换为 <code>v1.0.1</code>。", "ent1_t": "开始菜单 ·【画廊】", "ent1_d": "标题画面下方白底按钮，无需读取存档即可直接体验全部 70 幕剧情与 459 段动画。", "ent2_t": "右侧栏 ·【闪电】与【滑块】", "ent2_d": "第 4 格闪电打开纸质快捷工作台，下方滑块打开完整深色毛玻璃控制台。", "ent3_t": "控制台 · LQ 徽标与底栏", "ent3_d": "点击左上角 LQ 跳转博客主页，<code>Esc</code> 关闭窗口，左下角滑杆调节控制台透明度。", "ent4_t": "回放中 · 左上角【退出回放】", "ent4_d": "剧情回放期间常驻左上角，支持随时中断退回画廊；按 <code>H</code> 隐藏 UI 时同步隐身。", "svg_mm_hdr": "AGENT17 主菜单", "svg_mm_btn": "画廊", "svg_mm_sub": "70 剧情 · 459 动画", "svg_sb_room": "游戏房间主画面", "svg_con_ttl": "控制台", "svg_con_cls": "Esc 关闭", "svg_rep_ex": "退出回放", "svg_rep_main": "Ruby: 中文对白主字幕", "tree_title": "<code>game/mod_luoqian/</code> 模块目录对照", "tree_sub": "保留前 5 个即公开版（v1.0.1）；保留全部 7 个即订阅版（v2.0.1）", "copy_tree_btn": "复制安装目录路径", "copy_clean_btn": "复制旧版清理路径", "copied_label": "已复制", "tree_g1_t": "基础核心层（v1.0.1 & v2.0.1 必留 5 项）", "tree_g2_t": "订阅扩展层（v2.0.1 专属 · 移走即变 v1.0.1）", "tr_core": "控制台外壳、微圆角纹理与多语言公共词典", "tr_basic": "第 1~3 页：资产道具、时间世界与属性技能", "tr_font": "第 4 页：4 款中文字库切换、字号与双语字幕", "tr_gal": "主菜单画廊、70 幕沙盒回放与 459 段动画", "tr_quick": "右侧闪电工作台（含订阅版 32 角色雷达挂钩）", "tr_hero": "第 5~6 页：32 角色分支/任务、唱片/图鉴与邮件", "tr_mini": "第 7 页：12 项小游戏跳过、286 贴纸与 33 传送", "warn_title": "老版本升级必读（防止同名屏幕冲突）", "warn_p": "如果你之前装过早期的单文件旧版 Mod，升级新版前请先前往游戏 <code>game/</code> 目录删除以下旧目录和文件，然后再放入新版的 <code>game/mod_luoqian/</code>：<code>game/mod_cheats/</code>、<code>game/mod_gallery/</code>、<code>game/script/Menu/zz_mainmenu_gallery.rpy*</code>。", "sec_compare": "版本功能对照", "sec_compare_sub": "同一套底座架构，按文件夹物理区分", "th_mod": "功能板块", "th_pub": "v1.0.1 公开版（5 模块）", "th_sub": "v2.0.1 订阅版（7 模块）", "cmp1_name": "<strong>主菜单与独立画廊</strong><br><span class=\"meta-id\">mod_gallery</span>", "cmp1_pub": "<span class=\"tag tag-pub\">完整包含</span><br>主菜单入口、459 段动画（31 类）、70 幕剧情沙盒回放（28 类）、左上角随时退出、画廊隐藏遮罩", "cmp1_sub": "<span class=\"tag tag-pub\">完整包含</span><br>同公开版全部画廊、全局沙盒与隐藏模式功能", "cmp2_name": "<strong>右侧闪电快捷工作台</strong><br><span class=\"meta-id\">mod_quick_drawer</span>", "cmp2_pub": "<span class=\"tag tag-pub\">基础工作台</span><br>打开控制台、清除当日冷却与锁定、5 时段与工作日/周末切换、4 处高频传送", "cmp2_sub": "<span class=\"tag tag-sub\">含实时人物雷达</span><br>包含基础工作台全部功能 + <strong>32 位角色四色状态雷达、一键瞬移、快速解锁与三围微调</strong>", "cmp3_name": "<strong>基础数值与世界调节</strong><br><span class=\"meta-id\">mod_basic_cheats</span>", "cmp3_pub": "<span class=\"tag tag-pub\">完整包含（第 1~3 页）</span><br>资产道具（含 1,000 监狱现金）、时间世界（含天气特效/监狱天数/篇章）、6 项属性与 8 项技能", "cmp3_sub": "<span class=\"tag tag-pub\">完整包含（第 1~3 页）</span><br>支持与扩展模块联动，一键开局补给包同步发放收藏与拼图奖励", "cmp4_name": "<strong>显示、字体与双语字幕</strong><br><span class=\"meta-id\">mod_font_manager</span>", "cmp4_pub": "<span class=\"tag tag-pub\">完整包含（第 4 页）</span><br>文源圆体等 4 款中文字库、<code>FontGroup</code> 缺字兜底、<strong>中英 / 中韩双语字幕</strong>、字号位移与框体透明度", "cmp4_sub": "<span class=\"tag tag-pub\">完整包含（第 4 页）</span><br>同公开版全部字体、缺字补齐与双语字幕能力", "cmp5_name": "<strong>角色、命运分支与图鉴</strong><br><span class=\"meta-id\">mod_heroine_collection</span>", "cmp5_pub": "<span class=\"tag tag-none\">未包含</span><br>保留原版流程体验", "cmp5_sub": "<span class=\"tag tag-sub\">订阅专属（第 5、6 页）</span><br>32 人好感/服从/外观与 13 组红蓝命运卡、进行中任务诊断追踪、52 首随身听、51 拍立得、82 藏书、15 内裤与邮件查看", "cmp6_name": "<strong>小游戏秒过与全城传送</strong><br><span class=\"meta-id\">mod_minigames_unlock</span>", "cmp6_pub": "<span class=\"tag tag-none\">未包含</span><br>保留抽屉内 4 处基础传送", "cmp6_sub": "<span class=\"tag tag-sub\">订阅专属（第 7 页）</span><br>5 项常驻开关、12 项高亮一键通关、27 拼图与 286 贴纸收集、33 房间跨世界传送（21+6+6）", "sec_feat": "全模块功能详解", "sec_feat_sub": "可按版本筛选或输入关键词快速定位", "f_all": "全部模块", "f_pub": "公开版可用 (v1.0.1+)", "f_sub": "订阅版专属 (v2.0.1)", "f_gal": "画廊与字体双语", "search_ph": "搜索功能（如：70 剧情、退出回放、三极行楷、双语、随身听、传送）", "c1_t": "右侧闪电快捷工作台", "c1_b": "公开基础 / 订阅完全体", "c1_p": "紧贴游戏右侧原生工具栏第 4 个图标，沿用原生仿纸质外观，不进大控制台即可处理高频日常操作。", "c1_l1": "<strong>两版共有</strong>：打开主控制台、干净重置今日冷却与锁定（不乱塞道具）、5 段时段切换、工作日/周末切换、卧室/学院/商街/露比别墅传送。", "c1_l2": "<strong>订阅版额外</strong>：底部实时扫描 32 位角色，按「在场 / 未解锁 / 圣诞·监狱篇 / 其他时段」分色展示，最多同屏显示 6 名在场角色并提供瞬移、解锁与好感/屈服/心情调整。", "c2_t": "第 1 页 · 资产与道具", "c2_b": "v1.0.1 / v2.0.1", "c2_p": "统一管理金钱、任务点数（突破 10 点上限防倒扣）、赌场筹码、监狱现金与游戏内合法道具包，全静默入包无弹窗刷屏。", "c2_l1": "支持金币倍率调节（1x~10x）、消费免扣金币、道具/书籍/行动点不消耗开关，以及一键开局补给包。", "c2_l2": "提供工具饮料、钥匙门禁、矿石材料 (x99)、礼物、战斗装备药剂、<code>+100,000</code> 筹码、<code>+1,000</code> 监狱现金与 6 辆合法跑车（装备 Lobster 且保留更高手动魅力）。", "c3_t": "第 2 页 · 时间与世界", "c3_b": "v1.0.1 / v2.0.1", "c3_p": "控制昼夜时段、天数推进、日记天气与特殊剧本世界线，附带日常锁冷却绕过与卡关解冻。", "c3_l1": "支持开关「跳过每日角色与动作锁定」、推进 +1/+7 天、解除等待计时与常见软锁状态。", "c3_l2": "支持天气锁定、独立「飘雪 / 迷雾 / 关闭特效」（不中断当前 BGM），以及安全切换日常都市、圣诞世界与女子监狱天数步进。", "c4_t": "第 3 页 · 属性与技能", "c4_b": "v1.0.1 / v2.0.1", "c4_p": "支持主角 6 项基础属性（魅力、攻击、防御、生命上限、拼酒体力、精力 0-6）与 8 项特工技能的精细加减。", "c4_l1": "技能严格对齐原版上限（开锁/潜行/制药 Lv4，按摩/砍价/修理/烹饪 Lv3，知识 Lv2），未学习也能直接设满或逐级步进。", "c4_l2": "保留「一键重置」按原版装备/车辆规则重算魅力加成，并提供「好感防降保护」与赌场/轮盘每日次数重置。", "c5_t": "第 4 页 · 显示与字体工坊", "c5_b": "v1.0.1 / v2.0.1", "c5_p": "专为中文体验打造，支持游戏运行中实时热切字体、双语对照阅读与对话框排版微调。", "c5_l1": "内置<strong>文源圆体、般若楷书、寒蝉圆体、三极行楷</strong> 4 款字库，自动兜底缺失简繁字形并放行韩文/泰文等外语原字体。", "c5_l2": "支持<strong>中英对照</strong>与<strong>中韩对照</strong>（中文下自动延迟载入英文库 + <code>{p}</code> 逐段对齐），独立调节副字幕字号、对话/人名位移、行距与框体透明度。", "c6_t": "第 5 页 · 角色与分支", "c6_b": "v2.0.1 订阅专属", "c6_p": "集中管理全部 32 位角色（19 位主要角色 + 13 位支线角色）的好感状态、剧情倾向与激活任务。", "c6_l1": "好感对齐原版 6 心上限防爆框、屈服/心情精确至 0-5；覆盖 13 组红蓝命运卡牌（含艾尔莎/红玫瑰互斥），支持单组清除重选。", "c6_l2": "支持 10 位核心角色地图立绘换装（应用造型 + 前往场景）、进行中任务条件诊断直达，以及直读游戏真数据的角色情报指南。", "c7_t": "第 6 页 · 收藏与图鉴", "c7_b": "v2.0.1 订阅专属", "c7_p": "集成 52 首游戏原声随身听与全部收集要素管理，脱离房间限制自由切歌、换海报与查阅邮件。", "c7_l1": "<strong>随身听 (52 首)</strong>：支持日常轻快、角色主题、战斗潜行、浪漫夜晚、圣诞特辑 5 种曲风筛选与上一首/下一首连播。", "c7_l2": "<strong>相册与通讯</strong>：51 张有效拍立得（已过滤 8 条官方失效占位图）一键解锁并设为卧室海报，同步 82 本藏书、15 件贴身衣物、摄像头与带图附件邮件。", "c8_t": "第 7 页 · 小游戏与传送", "c8_b": "v2.0.1 订阅专属", "c8_p": "大幅减轻重复小游戏与全城跑图负担，并统一核对 0.26.10 原版有效任务与房间列表。", "c8_l1": "5 项常驻开关（老虎机 777、撬锁直通、露娜自动密码、迷宫 999,999 攻防、拼酒锁体力）+ 12 项当前小游戏亮蓝高亮一键通关。", "c8_l2": "提供 27 项拼图秒解、8 项公开赞助礼包与 286 张娃娃机贴纸解锁，以及 33 处跨世界地点传送（黑克萨市 21 + 圣诞 6 + 监狱 6）。", "c9_t": "主菜单 / 独立画廊（公开第 5 页 · 订阅第 8 页）", "c9_b": "v1.0.1 / v2.0.1", "c9_p": "可在主菜单直接打开，无需加载存档即可播放全量演出；第 15~18 轮已全面补全剧情与安全退出机制。", "c9_l1": "<strong>剧情回放 (70 幕 / 28 分类)</strong>：补全露娜/梅丽莎/特工 17/索菲亚/幽灵及圣诞篇等漏剧与真选卡分支，自带 18 项道具满属性沙盒与左上角【退出回放】。", "c9_l2": "<strong>动画影院 (459 段 / 31 分类)</strong>：全量补齐静态预览图，支持上一幕/下一幕切换与「画廊隐藏」（遮蔽封面与剧情标题，方便录屏演示）。", "empty_hint": "没有找到匹配的模块说明，可以尝试清空关键词重新筛选。", "sec_font_show": "字体工坊与双语效果预览", "sec_font_show_sub": "4 款内嵌字库与双语实时排版示意", "font_card_t": "第 4 页内置 4 款精选字库（仅作用于简繁中文）", "font_card_p": "通过纯 Python 解析字体字符表并在 <code>FontGroup</code> 中以原版 <code>fonts/arial.ttf</code> 兜底缺字，简繁切换零方块；英文、韩文、泰文等其他语言自动保持原游戏字体。", "f1_n": "文源圆体", "f1_d": "清晰柔和的现代圆体，适合长对话流畅阅读", "f2_n": "般若楷书", "f2_d": "古风楷书笔韵，汉字轮廓分明更有文学感", "f3_n": "寒蝉圆体", "f3_d": "均衡圆润的无衬线体，兼顾控制台与对白清晰度", "f4_n": "三极行楷", "f4_d": "稳重饱满的行楷书法字体，大屏视觉辨识度高", "pv_title": "双语字幕对白框效果示意", "pv_off": "仅中文", "pv_en": "中英对照", "pv_kr": "中韩对照", "pv_main": "我一直在等你。", "pv_note": "提示：副字幕自动剔除原句游戏编号前缀、匹配 <code>{p}</code> 分段停顿并沿用原游戏无衬线 / 韩文字体；中文模式下开启「中英对照」会自动静默载入英文译文库，不改变游戏 UI 语言。", "sec_faq": "常见问题", "sec_faq_sub": "实机使用与排错答疑", "faq1_q": "为什么按 F10、G、H 等快捷键打不开控制台或画廊？", "faq1_a": "为了彻底避免与游戏原版按键（如 <code>H</code> 隐藏 UI）及中文输入法产生冲突，新版已取消全部全局快捷键（仅保留 <code>Esc</code> 关闭界面）。主菜单点击<strong>【画廊】</strong>，进入游戏后直接点击画面右侧工具栏的<strong>【闪电】</strong>或<strong>【滑块】</strong>图标即可。", "faq2_q": "如何开启中英或中韩双语字幕？会影响语言切换菜单的韩文显示吗？", "faq2_a": "打开控制台进入第 4 页「显示与字体」，在「双语字幕对照」选择 <code>中英对照</code> 或 <code>中韩对照 (原版)</code> 即可实时生效，下方可调节较小/适中/偏大双语字号。新版已彻底修复中文环境下的英文译文延迟加载与 <code>FontGroup</code> 映射问题，副字幕与官方语言切换菜单均按原版字库渲染，不会出现方块字。", "faq3_q": "录屏或直播时，怎么把画廊里的封面和直白标题遮住？", "faq3_a": "在控制台画廊页开启「画廊隐藏」，或者进入独立画廊后点击右上角【画廊隐藏】按钮，即可把所有封面替换为深色占位框并将标题遮罩为纯序号显示，依然可以直接点击播放，关闭后立即恢复。", "faq4_q": "控制台左上角的 LQ 图标有什么作用？", "faq4_a": "点击控制台左上角的 LQ 徽标与标题，可直接用默认浏览器访问作者 Hugo 主页（<code>luoqian29.github.io</code>）查看后续更新动态。", "faq5_q": "如何确认当前加载的是公开版还是订阅版？", "faq5_a": "打开控制台查看顶部徽标，或查看第 4 页「显示与字体」右下角状态栏：安装 5 个基础模块时自动显示 <code>v1.0.1 公开版</code>，完整安装 7 个模块时自动显示 <code>v2.0.1 订阅版</code>。", "faq6_q": "安卓手机怎么安装这个 Mod？复制不进 Android/data 目录怎么办？", "faq6_a": "用电脑数据线连接手机，或使用已授权目录访问的 <strong>MT 管理器</strong>，进入 <code>手机存储/Android/data/&lt;Agent17包名&gt;/files/</code>（查找含 <code>agent17</code> 或 <code>hexatail</code> 的包名文件夹），在 <code>files</code> 内新建名为 <code>game</code> 的文件夹，再将解压出来的 <code>mod_luoqian</code> 复制进 <code>files/game/</code> 里面即可（注意要放进新建的 <code>game</code> 文件夹，不要直接丢在 <code>files</code> 下）；进阶用户也可用 MT 管理器直接将文件打包进 APK。", "faq7_q": "从主菜单直接进入剧情回放，会影响我现在玩到一半的正式存档吗？", "faq7_a": "完全不会。所有 70 幕剧情回放均在 Ren'Py 隔离回放沙盒中启动，开场前会在临时上下文中自动拉满好感/屈服/潜行等级并注入 18 项关键道具，点击左上角【退出回放】或播放结束时自动清理残余界面并返回画廊，不会改动外层正式存档的任何数值或任务进度。", "faq8_q": "更新新版后如果发现字体或按钮贴图没变，该怎么处理？", "faq8_a": "第 18 轮起在 <code>mod_core/gui/</code> 中新增了微圆角与退出按钮贴图，请务必将新版 <code>game/mod_luoqian/</code>（尤其是 <code>mod_core</code> 与 <code>mod_font_manager</code> 连同 <code>.rpyc</code>）整套覆盖或先删旧 <code>mod_luoqian</code> 再放入新版。你的存档位于游戏 <code>game/saves/</code> 目录，删换 <code>mod_luoqian</code> 不会丢失任何存档。", "faq9_q": "在「显示与字体」调乱了字号或框体位置，怎么一键恢复？", "faq9_a": "切到控制台第 4 页「显示与字体」，点击右下角红色的<strong>【恢复默认设置】</strong>按钮，即可一次性把字库、双语字幕、字号偏移、行距与框体位置透明度全部还原为出厂默认。", "foot_author": "作者：落谦 (luoqian) · 由 Antigravity (Gemini 4 Hydrogen) 协助构建", "foot_home": "主页：<a href=\"https://luoqian29.github.io/\" target=\"_blank\" rel=\"noopener\">luoqian29.github.io</a>"}, "cht": {"page_title": "Agent17 功能擴展使用指南 · v1.0.1 / v2.0.1", "nav_title": "Agent17 功能擴展使用指南", "nav_sub": "適配遊戲 v0.26.10 · 支援 v1.0.1 公開版 / v2.0.1 訂閱版", "nav_blog": "部落格首頁", "nav_post": "Agent17 專帖", "nav_support": "愛發電支持", "theme_title": "切換深淺色外觀", "lang_title": "切換頁面語言", "hero_eyebrow": "Agent17 v0.26.10 · 落謙 & Antigravity (Gemini 4 Hydrogen) · 2026-11-28", "hero_title": "簡潔、乾淨的 Agent17 輔助與畫廊工具", "hero_desc": "全模組集中收納於 <code>game/mod_luoqian</code>，不改寫遊戲原版腳本，不損壞已有存檔。全滑鼠微圓角互動，支援簡體中文、繁體中文與英文環境。", "spec_1_l": "發行版本", "spec_1_v": "v1.0.1 公開 / v2.0.1 訂閱", "spec_1_s": "5 核心底座 · 7 完整套件", "spec_2_l": "開啟方式", "spec_2_v": "純滑鼠點選 · Esc 返回", "spec_2_s": "無衝突快捷鍵 · H 鍵藏介面", "spec_3_l": "獨立畫廊", "spec_3_v": "459 動畫 · 70 劇情", "spec_3_s": "31 動畫分類 · 28 劇情章節", "spec_4_l": "內容覆蓋", "spec_4_v": "32 角色 · 52 曲 · 33 傳送", "spec_4_s": "4 字庫 · 51 拍立得 · 286 貼紙", "anchor_install": "安裝與入口", "anchor_tree": "目錄結構", "anchor_compare": "版本對照", "anchor_feat": "模組詳解", "anchor_font": "字體與雙語預覽", "anchor_faq": "常見問題", "cl_badge": "2026-11-28 近期重點更新", "cl_title": "v1.0.1 / v2.0.1 四大體驗升級速覽", "cl_1": "<strong>獨立畫廊擴充至 70 幕（28 類）：</strong>補全露娜、梅麗莎、特工 17、索菲亞、幽靈及聖誕篇共 8 幕劇情，主選單進入自帶全數值/18 道具隔離沙盒。", "cl_2": "<strong>左上角隨時【退出回放】：</strong>新增懸浮退出 HUD（遇到恐懼/自尊條自動讓位，按 H 同步隱藏），任意節點瞬間退回畫廊，外層存檔零污染。", "cl_3": "<strong>雙語字幕徹底無方塊：</strong>修復中文下 <code>defer_tl_scripts</code> 延遲載入與 <code>FontGroup</code> 映射，中英/中韓自動回退原版字庫、<code>{p}</code> 分段對齊。", "cl_4": "<strong>全站微圓角 UI 手感統一：</strong>全套 6 個深色毛玻璃模組互動按鈕統一 <code>r=6px</code> 微圓角體系，懸停只變高亮光影、零跳形與切片畸變。", "sec_install": "安裝、入口與目錄結構", "sec_install_sub": "三步完成安裝，看圖找入口，熱插拔切換版本", "step1_tag": "第 1 步 · 安裝", "step1_t": "複製覆蓋 <code>game</code> 資料夾", "step1_p": "<strong>PC 端</strong>：將壓縮包裡的 <code>game</code> 資料夾複製到遊戲根目錄覆蓋。<br><strong>安卓端</strong>：用電腦傳輸線連手機或透過 <strong>MT 管理器</strong>，將 <code>mod_luoqian</code> 放入 <code>Android/data/&lt;包名&gt;/files/game/</code>（無 <code>game</code> 則新建）。", "step2_tag": "第 2 步 · 入口", "step2_t": "全滑鼠點擊開啟", "step2_p": "新版已移除易衝突的全域快捷鍵。開始頁面點擊<strong>【畫廊】</strong>觀看全部演出；進遊戲後點擊畫面右側工具欄<strong>【閃電】</strong>開啟快捷抽屜，或<strong>【滑桿】</strong>開啟完整控制台。", "step3_tag": "第 3 步 · 切換與卸載", "step3_t": "模組熱插拔", "step3_p": "刪除 <code>game/mod_luoqian/</code> 即可完全還原官方原版。在 <code>v2.0.1</code> 基礎上移出 <code>mod_heroine_collection</code> 與 <code>mod_minigames_unlock</code> 至遊戲外即可切換為 <code>v1.0.1</code>。", "ent1_t": "開始選單 ·【畫廊】", "ent1_d": "標題畫面下方白底按鈕，無需讀取存檔即可直接體驗全部 70 幕劇情與 459 段動畫。", "ent2_t": "右側欄 ·【閃電】與【滑桿】", "ent2_d": "第 4 格閃電開啟紙質快捷工作台，下方滑桿開啟完整深色毛玻璃控制台。", "ent3_t": "控制台 · LQ 徽標與底欄", "ent3_d": "點擊左上角 LQ 跳轉部落格首頁，<code>Esc</code> 關閉視窗，左下角滑桿調節控制台透明度。", "ent4_t": "重播中 · 左上角【退出回放】", "ent4_d": "劇情迴放期間常駐左上角，支援隨時中斷退回畫廊；按 <code>H</code> 隱藏 UI 時同步隱身。", "svg_mm_hdr": "AGENT17 主選單", "svg_mm_btn": "畫廊", "svg_mm_sub": "70 劇情 · 459 動畫", "svg_sb_room": "遊戲房間主畫面", "svg_con_ttl": "控制台", "svg_con_cls": "Esc 關閉", "svg_rep_ex": "退出回放", "svg_rep_main": "Ruby: 中文對白主字幕", "tree_title": "<code>game/mod_luoqian/</code> 模組目錄對照", "tree_sub": "保留前 5 個即公開版（v1.0.1）；保留全部 7 個即訂閱版（v2.0.1）", "copy_tree_btn": "複製安裝目錄路徑", "copy_clean_btn": "複製舊版清理路徑", "copied_label": "已複製", "tree_g1_t": "基礎核心層（v1.0.1 & v2.0.1 必留 5 項）", "tree_g2_t": "訂閱擴展層（v2.0.1 專屬 · 移走即變 v1.0.1）", "tr_core": "控制台外殼、微圓角紋理與多語言公共詞典", "tr_basic": "第 1~3 頁：資產道具、時間世界與屬性技能", "tr_font": "第 4 頁：4 款中文字庫切換、字號與雙語字幕", "tr_gal": "主選單畫廊、70 幕沙盒迴放與 459 段動畫", "tr_quick": "右側閃電工作台（含訂閱版 32 角色雷達掛鉤）", "tr_hero": "第 5~6 頁：32 角色分支/任務、唱片/圖鑑與郵件", "tr_mini": "第 7 頁：12 項小遊戲跳過、286 貼紙與 33 傳送", "warn_title": "舊版本升級必讀（防止同名畫面衝突）", "warn_p": "如果你之前裝過早期的單檔舊版 Mod，升級新版前請先前往遊戲 <code>game/</code> 目錄刪除以下舊資料夾與檔案，然後再放入新版的 <code>game/mod_luoqian/</code>：<code>game/mod_cheats/</code>、<code>game/mod_gallery/</code>、<code>game/script/Menu/zz_mainmenu_gallery.rpy*</code>。", "sec_compare": "版本功能對照", "sec_compare_sub": "同一套底座架構，依資料夾實體區分", "th_mod": "功能板塊", "th_pub": "v1.0.1 公開版（5 模組）", "th_sub": "v2.0.1 訂閱版（7 模組）", "cmp1_name": "<strong>主選單與獨立畫廊</strong><br><span class=\"meta-id\">mod_gallery</span>", "cmp1_pub": "<span class=\"tag tag-pub\">完整包含</span><br>主選單入口、459 段動畫（31 類）、70 幕劇情沙盒迴放（28 類）、左上角隨時退出、畫廊隱藏遮罩", "cmp1_sub": "<span class=\"tag tag-pub\">完整包含</span><br>同公開版全部畫廊、全域沙盒與隱藏模式功能", "cmp2_name": "<strong>右側閃電快捷工作台</strong><br><span class=\"meta-id\">mod_quick_drawer</span>", "cmp2_pub": "<span class=\"tag tag-pub\">基礎工作台</span><br>開啟控制台、清除當日冷卻與鎖定、5 時段與平日/週末切換、4 處高頻傳送", "cmp2_sub": "<span class=\"tag tag-sub\">含即時人物雷達</span><br>包含基礎工作台全部功能 + <strong>32 位角色四色狀態雷達、一鍵瞬移、快速解鎖與三圍微調</strong>", "cmp3_name": "<strong>基礎數值與世界調節</strong><br><span class=\"meta-id\">mod_basic_cheats</span>", "cmp3_pub": "<span class=\"tag tag-pub\">完整包含（第 1~3 頁）</span><br>資產道具（含 1,000 監獄現金）、時間世界（含天氣特效/監獄天數/篇章）、6 項屬性與 8 項技能", "cmp3_sub": "<span class=\"tag tag-pub\">完整包含（第 1~3 頁）</span><br>支援與擴展模組聯動，一鍵開局補給包同步發放收藏與拼圖獎勵", "cmp4_name": "<strong>顯示、字體與雙語字幕</strong><br><span class=\"meta-id\">mod_font_manager</span>", "cmp4_pub": "<span class=\"tag tag-pub\">完整包含（第 4 頁）</span><br>文源圓體等 4 款中文字庫、<code>FontGroup</code> 缺字兜底、<strong>中英 / 中韓雙語字幕</strong>、字號位移與框體透明度", "cmp4_sub": "<span class=\"tag tag-pub\">完整包含（第 4 頁）</span><br>同公開版全部字體、缺字補齊與雙語字幕能力", "cmp5_name": "<strong>角色、命運分支與圖鑑</strong><br><span class=\"meta-id\">mod_heroine_collection</span>", "cmp5_pub": "<span class=\"tag tag-none\">未包含</span><br>保留原版流程體驗", "cmp5_sub": "<span class=\"tag tag-sub\">訂閱專屬（第 5、6 頁）</span><br>32 人好感/服從/外觀與 13 組紅藍命運卡、進行中任務診斷追蹤、52 首隨身聽、51 拍立得、82 藏書、15 內褲與郵件查看", "cmp6_name": "<strong>小遊戲秒過與全城傳送</strong><br><span class=\"meta-id\">mod_minigames_unlock</span>", "cmp6_pub": "<span class=\"tag tag-none\">未包含</span><br>保留抽屜內 4 處基礎傳送", "cmp6_sub": "<span class=\"tag tag-sub\">訂閱專屬（第 7 頁）</span><br>5 項常駐開關、12 項高亮一鍵通關、27 拼圖與 286 貼紙收集、33 房間跨世界傳送（21+6+6）", "sec_feat": "全模組功能詳解", "sec_feat_sub": "可依版本篩選或輸入關鍵字快速定位", "f_all": "全部模組", "f_pub": "公開版可用 (v1.0.1+)", "f_sub": "訂閱版專屬 (v2.0.1)", "f_gal": "畫廊與字體雙語", "search_ph": "搜尋功能（如：70 劇情、退出回放、三極行楷、雙語、隨身聽、傳送）", "c1_t": "右側閃電快捷工作台", "c1_b": "公開基礎 / 訂閱完全體", "c1_p": "緊貼遊戲右側原生工具欄第 4 個圖示，沿用原生仿紙質外觀，不進大控制台即可處理高頻日常操作。", "c1_l1": "<strong>兩版共有</strong>：開啟主控制台、乾淨重設今日冷卻與鎖定（不亂塞道具）、5 段時段切換、平日/週末切換、臥室/學院/商街/露比別墅傳送。", "c1_l2": "<strong>訂閱版額外</strong>：底部即時掃描 32 位角色，依「在場 / 未解鎖 / 聖誕·監獄篇 / 其他時段」分色展示，最多同屏顯示 6 名在場角色並提供瞬移、解鎖與好感/屈服/心情調整。", "c2_t": "第 1 頁 · 資產與道具", "c2_b": "v1.0.1 / v2.0.1", "c2_p": "統一管理金錢、任務點數（突破 10 點上限防倒扣）、賭場籌碼、監獄現金與遊戲內合法道具包，全靜默入包無洗版彈窗。", "c2_l1": "支援金幣倍率調節（1x~10x）、消費免扣金幣、道具/書籍/行動點不消耗開關，以及一鍵開局補給包。", "c2_l2": "提供工具飲料、鑰匙門禁、礦石材料 (x99)、禮物、戰鬥裝備藥劑、<code>+100,000</code> 籌碼、<code>+1,000</code> 監獄現金與 6 輛合法跑車（裝備 Lobster 且保留更高手動魅力）。", "c3_t": "第 2 頁 · 時間與世界", "c3_b": "v1.0.1 / v2.0.1", "c3_p": "控制晝夜時段、天數推進、日記天氣與特殊劇本世界線，附帶日常鎖冷卻繞過與卡關解凍。", "c3_l1": "支援開關「跳過每日角色與動作鎖定」、推進 +1/+7 天、解除等待計時與常見軟鎖狀態。", "c3_l2": "支援天氣鎖定、獨立「飄雪 / 迷霧 / 關閉特效」（不中斷目前 BGM），以及安全切換日常都市、聖誕世界與女子監獄天數步進。", "c4_t": "第 3 頁 · 屬性與技能", "c4_b": "v1.0.1 / v2.0.1", "c4_p": "支援主角 6 項基礎屬性（魅力、攻擊、防禦、生命上限、拼酒體力、精力 0-6）與 8 項特工技能的精細加減。", "c4_l1": "技能嚴格對齊原版上限（開鎖/潛行/製藥 Lv4，按摩/砍價/修理/烹飪 Lv3，知識 Lv2），未學習也能直接設滿或逐級步進。", "c4_l2": "保留「一鍵重設」依原版裝備/車輛規則重算魅力加成，並提供「好感防降保護」與賭場/輪盤每日次數重設。", "c5_t": "第 4 頁 · 顯示與字體工坊", "c5_b": "v1.0.1 / v2.0.1", "c5_p": "專為中文體驗打造，支援遊戲執行中即時熱切字體、雙語對照閱讀與對話框排版微調。", "c5_l1": "內建<strong>文源圓體、般若楷書、寒蟬圓體、三極行楷</strong> 4 款字庫，自動兜底缺失簡繁字形並放行韓文/泰文等外語原字體。", "c5_l2": "支援<strong>中英對照</strong>與<strong>中韓對照</strong>（中文下自動延遲載入英文庫 + <code>{p}</code> 逐段對齊），獨立調節副字幕字號、對話/人名位移、行距與框體透明度。", "c6_t": "第 5 頁 · 角色與分支", "c6_b": "v2.0.1 訂閱專屬", "c6_p": "集中管理全部 32 位角色（19 位主要角色 + 13 位支線角色）的好感狀態、劇情傾向與啟用任務。", "c6_l1": "好感對齊原版 6 心上限防爆框、屈服/心情精確至 0-5；覆蓋 13 組紅藍命運卡牌（含艾爾莎/紅玫瑰互斥），支援單組清除重選。", "c6_l2": "支援 10 位核心角色地圖立繪換裝（套用造型 + 前往場景）、進行中任務條件診斷直達，以及直讀遊戲真資料的角色情報指南。", "c7_t": "第 6 頁 · 收藏與圖鑑", "c7_b": "v2.0.1 訂閱專屬", "c7_p": "整合 52 首遊戲原聲隨身聽與全部收集要素管理，脫離房間限制自由切歌、換海報與查閱郵件。", "c7_l1": "<strong>隨身聽 (52 首)</strong>：支援日常輕快、角色主題、戰鬥潛行、浪漫夜晚、聖誕特輯 5 種曲風篩選與上一首/下一首連播。", "c7_l2": "<strong>相冊與通訊</strong>：51 張有效拍立得（已過濾 8 條官方失效佔位圖）一鍵解鎖並設為臥室海報，同步 82 本藏書、15 件貼身衣物、攝影機與附圖郵件。", "c8_t": "第 7 頁 · 小遊戲與傳送", "c8_b": "v2.0.1 訂閱專屬", "c8_p": "大幅減輕重複小遊戲與全城跑圖負擔，並統一核對 0.26.10 原版有效任務與房間列表。", "c8_l1": "5 項常駐開關（老虎機 777、撬鎖直通、露娜自動密碼、迷宮 999,999 攻防、拼酒鎖體力）+ 12 項目前小遊戲亮藍高亮一鍵通關。", "c8_l2": "提供 27 項拼圖秒解、8 項公開贊助禮包與 286 張娃娃機貼紙解鎖，以及 33 處跨世界地點傳送（黑克薩市 21 + 聖誕 6 + 監獄 6）。", "c9_t": "主選單 / 獨立畫廊（公開第 5 頁 · 訂閱第 8 頁）", "c9_b": "v1.0.1 / v2.0.1", "c9_p": "可在主選單直接開啟，無需載入存檔即可播放全量演出；第 15~18 輪已全面補全劇情與安全退出機制。", "c9_l1": "<strong>劇情迴放 (70 幕 / 28 分類)</strong>：補全露娜/梅麗莎/特工 17/索菲亞/幽靈及聖誕篇等漏劇與真選卡分支，自帶 18 項道具滿屬性沙盒與左上角【退出回放】。", "c9_l2": "<strong>動畫影院 (459 段 / 31 分類)</strong>：全量補齊靜態預覽圖，支援上一幕/下一幕切換與「畫廊隱藏」（遮蔽封面與劇情標題，方便錄屏示範）。", "empty_hint": "沒有找到符合的模組說明，可以嘗試清空關鍵字重新篩選。", "sec_font_show": "字體工坊與雙語效果預覽", "sec_font_show_sub": "4 款內嵌字庫與雙語即時排版示意", "font_card_t": "第 4 頁內建 4 款精選字庫（僅作用於簡繁中文）", "font_card_p": "透過純 Python 解析字體字元表並在 <code>FontGroup</code> 中以原版 <code>fonts/arial.ttf</code> 兜底缺字，簡繁切換零方塊；英文、韓文、泰文等其他語言自動保持原遊戲字體。", "f1_n": "文源圓體", "f1_d": "清晰柔和的現代圓體，適合長對話流暢閱讀", "f2_n": "般若楷書", "f2_d": "古風楷書筆韻，漢字輪廓分明更有文學感", "f3_n": "寒蟬圓體", "f3_d": "均衡圓潤的無襯線體，兼顧控制台與對白清晰度", "f4_n": "三極行楷", "f4_d": "穩重飽滿的行楷書法字體，大螢幕視覺辨識度高", "pv_title": "雙語字幕對話框效果示意", "pv_off": "僅中文", "pv_en": "中英對照", "pv_kr": "中韓對照", "pv_main": "我一直在等你。", "pv_note": "提示：副字幕自動剔除原句遊戲編號前綴、匹配 <code>{p}</code> 分段停頓並沿用原遊戲無襯線 / 韓文字體；中文模式下開啟「中英對照」會自動靜默載入英文譯文庫，不改變遊戲 UI 語言。", "sec_faq": "常見問題", "sec_faq_sub": "實機使用與排錯答疑", "faq1_q": "為什麼按 F10、G、H 等快捷鍵打不開控制台或畫廊？", "faq1_a": "為了徹底避免與遊戲原版按鍵（如 <code>H</code> 隱藏 UI）及中文輸入法產生衝突，新版已取消全部全域快捷鍵（僅保留 <code>Esc</code> 關閉介面）。主選單點擊<strong>【畫廊】</strong>，進入遊戲後直接點擊畫面右側工具欄的<strong>【閃電】</strong>或<strong>【滑桿】</strong>圖示即可。", "faq2_q": "如何開啟中英或中韓雙語字幕？會影響語言切換選單的韓文顯示嗎？", "faq2_a": "開啟控制台進入第 4 頁「顯示與字體」，在「雙語字幕對照」選擇 <code>中英對照</code> 或 <code>中韓對照 (原版)</code> 即可即時生效，下方可調節較小/適中/偏大雙語字號。新版已徹底修復中文環境下的英文譯文延遲載入與 <code>FontGroup</code> 映射問題，副字幕與官方語言切換選單皆按原版字庫算繪，不會出現方塊字。", "faq3_q": "錄屏或直播時，怎麼把畫廊裡的封面和直白標題遮住？", "faq3_a": "在控制台畫廊頁開啟「畫廊隱藏」，或者進入獨立畫廊後點擊右上角【畫廊隱藏】按鈕，即可把所有封面替換為深色佔位框並將標題遮罩為純序號顯示，依然可以直接點擊播放，關閉後立即恢復。", "faq4_q": "控制台左上角的 LQ 圖示有什麼作用？", "faq4_a": "點擊控制台左上角的 LQ 徽標與標題，可直接用預設瀏覽器造訪作者 Hugo 主頁（<code>luoqian29.github.io</code>）查看後續更新動態。", "faq5_q": "如何確認目前載入的是公開版還是訂閱版？", "faq5_a": "開啟控制台查看頂部徽標，或查看第 4 頁「顯示與字體」右下角狀態列：安裝 5 個基礎模組時自動顯示 <code>v1.0.1 公開版</code>，完整安裝 7 個模組時自動顯示 <code>v2.0.1 訂閱版</code>。", "faq6_q": "安卓手機怎麼安裝這個 Mod？複製不進 Android/data 目錄怎麼辦？", "faq6_a": "用電腦傳輸線連接手機，或使用已授權目錄存取的 <strong>MT 管理器</strong>，進入 <code>手機儲存空間/Android/data/&lt;Agent17包名&gt;/files/</code>（尋找含 <code>agent17</code> 或 <code>hexatail</code> 的包名資料夾），在 <code>files</code> 內新建名為 <code>game</code> 的資料夾，再將解壓出的 <code>mod_luoqian</code> 複製進 <code>files/game/</code> 裡面即可（請注意要放進新建的 <code>game</code> 資料夾，不要直接丟在 <code>files</code> 下）；進階玩家也可用 MT 管理器直接將檔案打包進 APK。", "faq7_q": "從主選單直接進入劇情迴放，會影響我現在玩到一半的正式存檔嗎？", "faq7_a": "完全不會。全部 70 幕劇情迴放皆在 Ren'Py 隔離重播沙盒中啟動，開場前會在臨時上下文中自動補滿好感/屈服/潛行等級並注入 18 項關鍵道具，點擊左上角【退出回放】或播放結束時自動清理殘餘介面並返回畫廊，不會改動外層正式存檔的任何數值或任務進度。", "faq8_q": "更新新版後若發現字體或按鈕貼圖沒變，該怎麼處理？", "faq8_a": "第 18 輪起在 <code>mod_core/gui/</code> 中新增了微圓角與退出按鈕貼圖，請務必將新版 <code>game/mod_luoqian/</code>（尤其是 <code>mod_core</code> 與 <code>mod_font_manager</code> 連同 <code>.rpyc</code>）整套覆蓋或先刪舊 <code>mod_luoqian</code> 再放入新版。你的存檔位於遊戲 <code>game/saves/</code> 目錄，刪換 <code>mod_luoqian</code> 不會遺失任何存檔。", "faq9_q": "在「顯示與字體」調亂了字號或框體位置，怎麼一鍵恢復？", "faq9_a": "切到控制台第 4 頁「顯示與字體」，點擊右下角紅色的<strong>【恢復預設設定】</strong>按鈕，即可一次性把字庫、雙語字幕、字號偏移、行距與框體位置透明度全部還原為出廠預設。", "foot_author": "作者：落謙 (luoqian) · 由 Antigravity (Gemini 4 Hydrogen) 協助建構", "foot_home": "主頁：<a href=\"https://luoqian29.github.io/\" target=\"_blank\" rel=\"noopener\">luoqian29.github.io</a>"}, "en": {"page_title": "Agent17 Mod User Guide · v1.0.1 / v2.0.1", "nav_title": "Agent17 Mod User Guide", "nav_sub": "For Agent17 v0.26.10 · v1.0.1 Public & v2.0.1 Supporter", "nav_blog": "Blog", "nav_post": "Agent17 Post", "nav_support": "Support", "theme_title": "Toggle Light / Dark Theme", "lang_title": "Switch Language", "hero_eyebrow": "Agent17 v0.26.10 · luoqian & Antigravity (Gemini 4 Hydrogen) · 2026-11-28", "hero_title": "Clean, Non-Invasive Gallery & Utility Suite", "hero_desc": "All modules live cleanly inside <code>game/mod_luoqian</code> with zero base-script edits and zero save pollution. Pure mouse-driven UI with native English, Simplified Chinese, and Traditional Chinese support.", "spec_1_l": "Editions", "spec_1_v": "v1.0.1 Public / v2.0.1 Supporter", "spec_1_s": "5 Core Folders · 7 Full Suite", "spec_2_l": "Navigation", "spec_2_v": "Mouse UI · Esc to Close", "spec_2_s": "Zero Hotkey Conflicts · H Hides HUD", "spec_3_l": "Standalone Gallery", "spec_3_v": "459 Clips · 70 Stories", "spec_3_s": "31 Clip Groups · 28 Story Routes", "spec_4_l": "Scope", "spec_4_v": "32 Actors · 52 BGM · 33 Warps", "spec_4_s": "4 CN Fonts · 51 Polaroids · 286 Stickers", "anchor_install": "Install & Entry", "anchor_tree": "Folder Tree", "anchor_compare": "Comparison", "anchor_feat": "Modules", "anchor_font": "Fonts & Subtitles", "anchor_faq": "FAQ", "cl_badge": "2026-11-28 Highlights", "cl_title": "What's New in v1.0.1 / v2.0.1", "cl_1": "<strong>Story Replays Expanded to 70 Chapters (28 Routes):</strong> Added Luna, Melissa, Agent 17, Sophia, Ghost, and 3 Christmas specials with full sandboxed stats and 18 key items.", "cl_2": "<strong>Top-Left [Exit Replay] HUD:</strong> Always-accessible floating exit button (smartly avoids gauge overlays, hides cleanly on <code>H</code>) for zero-pollution instant return to Gallery.", "cl_3": "<strong>Tofu-Free Bilingual Subtitles:</strong> Fixed <code>defer_tl_scripts</code> on-demand English loading and <code>FontGroup</code> native mapping for crisp CN+EN / CN+KR reading and <code>{p}</code> alignment.", "cl_4": "<strong>Unified Micro-Rounded Dark Glass UI:</strong> All 6 dark-glass modules share an anti-aliased <code>r=6px</code> button system—zero hover shape-morphing or slice pinching.", "sec_install": "Install, Entries & Folder Tree", "sec_install_sub": "Three quick steps to install, locate UI entries, or hot-swap editions", "step1_tag": "Step 1 · Install", "step1_t": "Copy & Merge <code>game</code> Folder", "step1_p": "<strong>PC</strong>: Copy and merge the archive's <code>game</code> folder into your Agent17 root directory.<br><strong>Android</strong>: Connect via PC USB or use <strong>MT Manager</strong> to place <code>mod_luoqian</code> inside <code>Android/data/&lt;package&gt;/files/game/</code> (create <code>game</code> if missing).", "step2_tag": "Step 2 · Access", "step2_t": "Pure Mouse Controls", "step2_p": "Global hotkeys were removed to avoid OS/game conflicts. Click <strong>Gallery</strong> on the main menu, or use the right-sidebar <strong>Lightning</strong> (Quick Drawer) and <strong>Sliders</strong> (Console) icons in-game.", "step3_tag": "Step 3 · Swap & Remove", "step3_t": "Modular Hot-Plug", "step3_p": "Delete <code>game/mod_luoqian/</code> anytime to return to pure vanilla. Moving <code>mod_heroine_collection</code> and <code>mod_minigames_unlock</code> outside <code>game/</code> switches <code>v2.0.1</code> cleanly down to <code>v1.0.1</code>.", "ent1_t": "Main Menu · [Gallery]", "ent1_d": "Paper button below title actions—watch all 70 story chapters & 459 clips without a save file.", "ent2_t": "Right Sidebar · [Lightning] & [Sliders]", "ent2_d": "Slot 4 Lightning opens the paper Quick Drawer; Sliders below launches the full Console.", "ent3_t": "Console · LQ Logo & Opacity", "ent3_d": "Click top-left LQ emblem for blog updates, press <code>Esc</code> to close, drag bottom-left slider for opacity.", "ent4_t": "Replay · Top-Left [Exit Replay]", "ent4_d": "Stays cleanly in the top-left corner to exit replays anytime; hides together when pressing <code>H</code>.", "svg_mm_hdr": "AGENT17 MAIN MENU", "svg_mm_btn": "Gallery", "svg_mm_sub": "70 Story · 459 Clips", "svg_sb_room": "In-Game Room Screen", "svg_con_ttl": "Console", "svg_con_cls": "Esc Close", "svg_rep_ex": "Exit Replay", "svg_rep_main": "Ruby: Chinese Primary Line", "tree_title": "<code>game/mod_luoqian/</code> Module Structure", "tree_sub": "Keep the 5 Core folders for v1.0.1 Public; keep all 7 for v2.0.1 Supporter", "copy_tree_btn": "Copy Target Path", "copy_clean_btn": "Copy Legacy Paths", "copied_label": "Copied", "tree_g1_t": "Core Suite (Keep all 5 in v1.0.1 & v2.0.1)", "tree_g2_t": "Supporter Add-ons (Move out for v1.0.1)", "tr_core": "Console shell, micro-rounded GUI & shared localization", "tr_basic": "Tabs 1–3: Assets, Schedule/World & Stats/Skills", "tr_font": "Tab 4: 4 CN fonts, typography & bilingual subtitles", "tr_gal": "Main menu Gallery, 70 story sandboxes & 459 clips", "tr_quick": "Right paper Quick Drawer (+ 32-actor radar hook)", "tr_hero": "Tabs 5–6: 32 actors/quests/cards, Walkman & Mail", "tr_mini": "Tab 7: 12 game skips, 286 stickers & 33 warps", "warn_title": "Upgrading from Older Releases (Important)", "warn_p": "If you previously installed legacy standalone files, delete <code>game/mod_cheats/</code>, <code>game/mod_gallery/</code>, and <code>game/script/Menu/zz_mainmenu_gallery.rpy*</code> before copying <code>game/mod_luoqian/</code> to prevent duplicate screen conflicts.", "sec_compare": "Edition Comparison", "sec_compare_sub": "Shared modular core, differentiated cleanly by folder", "th_mod": "Feature Area", "th_pub": "v1.0.1 Public Edition (5 Modules)", "th_sub": "v2.0.1 Supporter Edition (7 Modules)", "cmp1_name": "<strong>Main Menu & Standalone Gallery</strong><br><span class=\"meta-id\">mod_gallery</span>", "cmp1_pub": "<span class=\"tag tag-pub\">Included</span><br>Title-screen Gallery button, 459 clips (31 groups), 70 sandboxed story replays (28 routes), top-left Exit HUD, Gallery Hide Mode", "cmp1_sub": "<span class=\"tag tag-pub\">Included</span><br>Same complete animation browser, isolated story sandbox, and hide toggle", "cmp2_name": "<strong>Right-Sidebar Quick Drawer</strong><br><span class=\"meta-id\">mod_quick_drawer</span>", "cmp2_pub": "<span class=\"tag tag-pub\">Core Quick Tools</span><br>Open Console shortcut, clear daily cooldowns/locks, 5 timeslots & weekday toggle, 4 core warps", "cmp2_sub": "<span class=\"tag tag-sub\">+ Live Character Radar</span><br>All Core Quick Tools plus <strong>32-character 4-color location radar, 1-click warp, unlock & stat steppers</strong>", "cmp3_name": "<strong>Assets, Schedule & Player Stats</strong><br><span class=\"meta-id\">mod_basic_cheats</span>", "cmp3_pub": "<span class=\"tag tag-pub\">Included (Tabs 1–3)</span><br>Money/items/cars (+1,000 Prison Cash), time/atmosphere/Prison Day & arcs, 6 player stats & 8 agent skills", "cmp3_sub": "<span class=\"tag tag-pub\">Included (Tabs 1–3)</span><br>Starter package automatically triggers extension hooks when optional modules are installed", "cmp4_name": "<strong>Display, Fonts & Bilingual Subs</strong><br><span class=\"meta-id\">mod_font_manager</span>", "cmp4_pub": "<span class=\"tag tag-pub\">Included (Tab 4)</span><br>4 bundled CN fonts with <code>FontGroup</code> fallback, <strong>CN+EN / CN+KR bilingual subtitles</strong>, size/shift/opacity controls", "cmp4_sub": "<span class=\"tag tag-pub\">Included (Tab 4)</span><br>Same complete typography, glyph fallback, and bilingual subtitle suite", "cmp5_name": "<strong>Heroines, Fate Cards & Archive</strong><br><span class=\"meta-id\">mod_heroine_collection</span>", "cmp5_pub": "<span class=\"tag tag-none\">Not Included</span><br>Keeps standard vanilla progression", "cmp5_sub": "<span class=\"tag tag-sub\">Supporter Add-on (Tabs 5–6)</span><br>32-actor stats/10 looks & 13 Red/Blue card pairs, active quest diagnostics, 52-track Walkman, 51 Polaroids, 82 books, 15 panties & mails", "cmp6_name": "<strong>Minigame Skips & Global Warp</strong><br><span class=\"meta-id\">mod_minigames_unlock</span>", "cmp6_pub": "<span class=\"tag tag-none\">Not Included</span><br>Includes 4 core drawer warps", "cmp6_sub": "<span class=\"tag tag-sub\">Supporter Add-on (Tab 7)</span><br>5 persistent toggles, 12 context-highlighted instant clears, 27 puzzles & 286 stickers, 33 verified room warps (21+6+6)", "sec_feat": "Module Breakdown", "sec_feat_sub": "Filter by edition or search keywords directly", "f_all": "All Modules", "f_pub": "Public Core (v1.0.1+)", "f_sub": "Supporter Add-ons (v2.0.1)", "f_gal": "Gallery & Subtitles", "search_ph": "Search features (e.g., 70 stories, Exit Replay, bilingual, walkman, warp)", "c1_t": "Right-Sidebar Quick Drawer", "c1_b": "Public Base / Supporter Complete", "c1_p": "Anchored cleanly to the native 4th sidebar slot (Lightning icon) in vanilla paper styling for fast everyday adjustments.", "c1_l1": "<strong>Both Editions</strong>: Launch Console, reset daily cooldowns & actor locks cleanly (no item spam), switch 5 timeslots, toggle Weekday/Weekend, and warp to 4 core spots.", "c1_l2": "<strong>Supporter Edition</strong>: Live 32-character radar color-coded by Present / Locked / Christmas or Prison / Other Time, showing up to 6 room actors for 1-click warp, unlock & stat edits.", "c2_t": "Tab 1 · Assets & Items", "c2_b": "v1.0.1 / v2.0.1", "c2_p": "Manage Gold, Mission Points (raises cap cleanly past 10), Casino Chips, Prison Cash, and categorized vanilla inventories silently.", "c2_l1": "Includes Gold multipliers (1x–10x), Free Shopping, Infinite Consumables / Books / Action Points, and All-in-One Starter Package.", "c2_l2": "Grants tools, access cards, ores (x99), gifts, combat gear, <code>+100,000</code> Chips, <code>+1,000</code> Prison Cash, and 6 valid vehicles (equips Lobster while preserving higher Charm).", "c3_t": "Tab 2 · Time & World", "c3_b": "v1.0.1 / v2.0.1", "c3_p": "Control time of day, day progression, diary weather, atmosphere effects, and story arcs with softlock recovery.", "c3_l1": "Toggle daily cooldown bypass, advance +1/+7 days, clear stuck map/wait timers, and recover dialogue softlocks safely.", "c3_l2": "Includes Weather Lock, Snow / Mist toggles (without interrupting BGM), clean transitions for Hexa City / Christmas / Prison, and Prison Day stepping.", "c4_t": "Tab 3 · Stats & Skills", "c4_b": "v1.0.1 / v2.0.1", "c4_p": "Fine-tune all 6 protagonist stats (Charm, ATK, DEF, Max HP, Drink Stamina, Vigor 0–6) and 8 agent skills.", "c4_l1": "Strictly matches vanilla caps (Lockpick/Stealth/Drug Lv4, Massage/Discount/Repair/Cook Lv3, Knowledge Lv2) even before skills are learned.", "c4_l2": "Reset restores base stats cleanly and recalculates equipped car/gear bonuses; also includes Love Drop Protection & Casino limit reset.", "c5_t": "Tab 4 · Display & Fonts", "c5_b": "v1.0.1 / v2.0.1", "c5_p": "Runtime Chinese font switcher, tofu-free bilingual subtitle reader, and dialogue typography controls.", "c5_l1": "Bundles <strong>WenYuan Rounded, AaBanRuo KaiShu, ChillReunion Round, SanJi XingKai</strong> with automatic <code>FontGroup</code> glyph fallback while keeping EN/KR/TH fonts native.", "c5_l2": "Supports <strong>CN + EN</strong> and <strong>CN + KR</strong> bilingual dialogue (on-demand English loading + <code>{p}</code> segment alignment) with independent size, shift, spacing & box opacity.", "c6_t": "Tab 5 · Heroines & Branches", "c6_b": "v2.0.1 Supporter", "c6_p": "Manage affection, submission, mood, outfits, active quests, and real card choices across all 32 characters (19 main + 13 supporting).", "c6_l1": "Enforces safe 6-heart <code>max_love</code> caps and 0–5 submission/mood ranges; triggers all 13 Red/Blue fate card pairs (with clear/reset support).", "c6_l2": "Toggle 10 wardrobe looks (Apply + Warp), inspect active quests with condition diagnostic badges, and browse live engine-backed actor guides.", "c7_t": "Tab 6 · Collections & Archive", "c7_b": "v2.0.1 Supporter", "c7_p": "Access the 52-track Walkman anywhere alongside validated Polaroids, books, panties, cameras, and encrypted mails.", "c7_l1": "<strong>Walkman (52 Tracks)</strong>: Filter by 5 genres (Daily 8 / Character 17 / Battle 6 / Romance 10 / Christmas 11) with localized track announcements.", "c7_l2": "<strong>Archive & Mail</strong>: Browse 51 valid Polaroids (8 dead game stubs filtered) with Room Poster setting, sync 82 books & 15 panties, and read SMS/mails with image attachments.", "c8_t": "Tab 7 · Minigames & Warp", "c8_b": "v2.0.1 Supporter", "c8_p": "Skip repetitive minigames and travel directly across 33 verified rooms in Hexa City, Christmas World, and Prison.", "c8_l1": "5 persistent toggles (Slot 777, Lockpick, Luna Auto-Code, Battle Godmode, Drink Lock) plus 12 context-highlighted instant clears.", "c8_l2": "Solve all 27 puzzles, redeem 8 plain coupons, collect all 286 claw-machine stickers, and warp to 33 rooms (21 City + 6 Christmas + 6 Prison).", "c9_t": "Main Menu / Gallery (Tab 5 Public · Tab 8 Supporter)", "c9_b": "v1.0.1 / v2.0.1", "c9_p": "Accessible straight from the title screen without a save file. Thoroughly expanded and hardened in Rounds 15–18.", "c9_l1": "<strong>Story Replays (70 Chapters / 28 Routes)</strong>: Added Luna, Melissa, Agent 17, Sophia, Ghost & 3 Christmas episodes with 18-item maxed sandbox & top-left <strong>Exit Replay</strong> HUD.", "c9_l2": "<strong>Animation Cinema (459 Clips / 31 Groups)</strong>: Complete static preview thumbnails, Prev/Next navigation, and <strong>Gallery Hide Mode</strong> to mask covers/titles.", "empty_hint": "No matching modules found. Try clearing the search filter.", "sec_font_show": "Font & Bilingual Subtitle Preview", "sec_font_show_sub": "4 bundled runtime fonts & live dialogue box layout simulation", "font_card_t": "4 Bundled Chinese Fonts (Chinese Modes Only)", "font_card_p": "Inspects SFNT font tables in pure Python and maps missing Simplified/Traditional glyphs cleanly via <code>FontGroup</code> back to vanilla <code>fonts/arial.ttf</code>, while leaving English, Korean, and Thai untouched.", "f1_n": "WenYuan Rounded (文源圆体)", "f1_d": "Clean, gentle rounded sans-serif built for long reading", "f2_n": "AaBanRuo KaiShu (般若楷书)", "f2_d": "Classical calligraphic KaiShu brush style", "f3_n": "ChillReunion Round (寒蝉圆体)", "f3_d": "Balanced soft rounded font for UI & dialogue", "f4_n": "SanJi XingKai (三极行楷)", "f4_d": "Bold, expressive XingKai calligraphy for clear headlines", "pv_title": "Bilingual Dialogue Box Preview", "pv_off": "CN Only", "pv_en": "CN + EN", "pv_kr": "CN + KR", "pv_main": "我一直在等你。", "pv_note": "Subtitles automatically strip line index prefixes, align <code>{p}</code> pauses per segment, and render in vanilla sans-serif / Korean fonts without changing your UI language.", "sec_faq": "FAQ", "sec_faq_sub": "Common questions & troubleshooting", "faq1_q": "Why don't F10, G, or H hotkeys open the console or gallery?", "faq1_a": "All global hotkeys were intentionally removed to prevent conflicts with vanilla shortcuts (like <code>H</code> to hide UI) and IMEs—only <code>Esc</code> remains to close overlays. Click <strong>Gallery</strong> on the main menu, or click the right-sidebar <strong>Lightning</strong> / <strong>Sliders</strong> icons in-game.", "faq2_q": "How do bilingual subtitles work, and will non-Chinese fonts show boxes?", "faq2_a": "Open Tab 4 (Display & Fonts) and pick <code>CN + EN</code> or <code>CN + KR</code> under Bilingual Subtitles, plus Small/Medium/Large subtitle scale. Round 16 fixed <code>defer_tl_scripts</code> lazy English loading and <code>FontGroup</code> mapping so both secondary subtitles and the language menu render cleanly without tofu boxes.", "faq3_q": "How can I hide explicit thumbnails and titles while recording video?", "faq3_a": "Enable <strong>Gallery Hide Mode</strong> on the Gallery tab or in the top-right corner of the Standalone Gallery. Covers turn into neutral placeholders and titles mask to index numbers while keeping every scene playable.", "faq4_q": "What does clicking the top-left LQ logo in the console do?", "faq4_a": "Clicking the top-left LQ emblem or title opens the author's Hugo page (<code>luoqian29.github.io</code>) in your default web browser.", "faq5_q": "How can I check whether v1.0.1 or v2.0.1 is currently active?", "faq5_a": "Check the top header pill inside the Console or the bottom-right status card in Tab 4: 5 core modules display <code>v1.0.1 Public Edition</code>, while adding the optional modules switches automatically to <code>v2.0.1 Supporter Edition</code>.", "faq6_q": "How do I install this Mod on Android when Android/data is restricted?", "faq6_a": "Connect your phone to a PC via USB, or use <strong>MT Manager</strong> (with directory permission) to open <code>Android/data/&lt;package&gt;/files/</code> (look for a folder containing <code>agent17</code> or <code>hexatail</code>). Create a <code>game</code> folder inside <code>files</code> and copy <code>mod_luoqian</code> into <code>files/game/</code> (so the path becomes <code>files/game/mod_luoqian/</code>, not directly under <code>files/</code>). Advanced users can also pack the files straight into the APK using MT Manager.", "faq7_q": "Does launching Story Replays from the Main Menu alter my ongoing save file?", "faq7_a": "Not at all. All 70 story replays run inside an isolated Ren'Py replay sandbox pre-seeded with maxed actor stats and 18 key items. Clicking top-left <strong>Exit Replay</strong> or finishing a chapter cleans up stray overlays and returns to the Gallery without touching your save progress.", "faq8_q": "What if UI buttons or fonts look unchanged after updating?", "faq8_a": "Round 18 added new button textures under <code>mod_core/gui/</code>, so please replace the full <code>game/mod_luoqian/</code> folder set (including both <code>.rpy</code> and <code>.rpyc</code>, never mixing an older <code>mod_core</code>). Save files reside in <code>game/saves/</code> and stay completely safe.", "faq9_q": "How do I reset font sizes or dialogue box shifts if something looks misaligned?", "faq9_a": "Go to Tab 4 (Display & Fonts) and click the red <strong>Restore Font Defaults</strong> button in the bottom-right console footer to reset font preset, bilingual mode, scale, spacing, offsets, and box opacity at once.", "foot_author": "Author: luoqian · Co-crafted with Antigravity (Gemini 4 Hydrogen)", "foot_home": "Home: <a href=\"https://luoqian29.github.io/\" target=\"_blank\" rel=\"noopener\">luoqian29.github.io</a>"}};
 const ICON_MOON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
 const ICON_SUN = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg>';
+const PV_SUBS = { off: "", en: "I've been waiting.", kr: "계속 기다리고 있었어." };
 
 let currentFilter = 'all';
 let currentLang = 'chs';
+let currentPreview = 'en';
 
 function safeGet(k) {
   try { return localStorage.getItem(k); } catch (e) { return null; }
@@ -870,6 +1403,10 @@ function applyTheme(theme) {
 }
 
 (function initTheme() {
+  try {
+    const qt = new URLSearchParams(window.location.search).get('theme');
+    if (qt === 'dark' || qt === 'light') { applyTheme(qt); return; }
+  } catch (e) {}
   const saved = safeGet('lq_agent17_guide_theme');
   if (saved === 'dark' || saved === 'light') {
     applyTheme(saved);
@@ -884,6 +1421,51 @@ document.getElementById('themeToggle').addEventListener('click', () => {
   applyTheme(next);
   safeSet('lq_agent17_guide_theme', next);
 });
+
+function setPreviewMode(mode, btn) {
+  currentPreview = mode;
+  document.querySelectorAll('#fonts-showcase .seg button').forEach(b => b.classList.remove('active'));
+  if (btn) btn.classList.add('active');
+  const sub = document.getElementById('pvSubText');
+  if (sub) {
+    const txt = PV_SUBS[mode] || "";
+    sub.textContent = txt;
+    sub.style.display = txt ? 'block' : 'none';
+  }
+}
+
+function copyText(text, btn) {
+  const onDone = () => {
+    if (!btn) return;
+    const origKey = btn.getAttribute('data-i18n');
+    const dict = I18N[currentLang] || I18N.chs;
+    btn.classList.add('copied');
+    btn.textContent = dict.copied_label || 'Copied';
+    setTimeout(() => {
+      btn.classList.remove('copied');
+      if (origKey && dict[origKey]) btn.textContent = dict[origKey];
+    }, 1600);
+  };
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(text).then(onDone).catch(() => fallbackCopy(text, onDone));
+  } else {
+    fallbackCopy(text, onDone);
+  }
+}
+
+function fallbackCopy(text, cb) {
+  try {
+    const ta = document.createElement('textarea');
+    ta.value = text;
+    ta.style.position = 'fixed';
+    ta.style.opacity = '0';
+    document.body.appendChild(ta);
+    ta.select();
+    document.execCommand('copy');
+    document.body.removeChild(ta);
+    cb();
+  } catch (e) {}
+}
 
 function setLang(lang) {
   if (!I18N[lang]) lang = 'chs';
@@ -913,6 +1495,7 @@ function setLang(lang) {
     b.classList.toggle('active', b.getAttribute('data-lang') === lang);
   });
   safeSet('lq_agent17_guide_lang', lang);
+  applyFilters();
 }
 
 (function initLang() {
@@ -933,23 +1516,27 @@ function setLang(lang) {
 
 function setFilter(filter, btn) {
   currentFilter = filter;
-  document.querySelectorAll('.seg button').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('#features .seg button').forEach(b => b.classList.remove('active'));
   if (btn) btn.classList.add('active');
   applyFilters();
 }
 
 function clearSearch() {
-  document.getElementById('searchInput').value = '';
+  const inp = document.getElementById('searchInput');
+  if (inp) inp.value = '';
   applyFilters();
 }
 
 function applyFilters() {
-  const raw = (document.getElementById('searchInput').value || '').trim().toLowerCase();
+  const inp = document.getElementById('searchInput');
+  const raw = (inp ? inp.value : '').trim().toLowerCase();
   document.getElementById('clearBtn').style.display = raw ? 'block' : 'none';
 
   const cards = document.querySelectorAll('.feat-card');
   let shown = 0;
+  let lastShown = null;
   cards.forEach(card => {
+    card.classList.remove('span-full');
     const cat = card.getAttribute('data-cat');
     const keys = ((card.getAttribute('data-keys') || '') + ' ' + card.textContent).toLowerCase();
     const catOk = (currentFilter === 'all')
@@ -959,11 +1546,31 @@ function applyFilters() {
     const textOk = !raw || keys.includes(raw);
     const match = catOk && textOk;
     card.classList.toggle('hidden', !match);
-    if (match) shown += 1;
+    if (match) {
+      shown += 1;
+      lastShown = card;
+    }
   });
+  if (shown > 1 && shown % 2 === 1 && lastShown) {
+    lastShown.classList.add('span-full');
+  }
 
   document.getElementById('emptyHint').style.display = shown === 0 ? 'block' : 'none';
+  const cnt = document.getElementById('filterCount');
+  if (cnt) cnt.textContent = shown + ' / ' + cards.length;
 }
+
+document.getElementById('searchInput').addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') {
+    clearSearch();
+    e.target.blur();
+  }
+});
+
+window.addEventListener('scroll', () => {
+  const btn = document.getElementById('backTopBtn');
+  if (btn) btn.classList.toggle('show', window.scrollY > 340);
+}, { passive: true });
 </script>
 </body>
 </html>

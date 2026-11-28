@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>官中 on 一落归谦</title><link>https://luoqian29.github.io/tags/%E5%AE%98%E4%B8%AD/</link><description>Recent content in 官中 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><atom:link href="https://luoqian29.github.io/tags/%E5%AE%98%E4%B8%AD/index.xml" rel="self" type="application/rss+xml"/><item><title>Agent17 特工17</title><link>https://luoqian29.github.io/p/agent17/</link><pubDate>Fri, 27 Nov 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/agent17/</guid><description>&lt;img src="https://files.catbox.moe/eyh2ty.png" alt="Featured image of post Agent17 特工17" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>官中 on 一落归谦</title><link>https://luoqian29.github.io/tags/%E5%AE%98%E4%B8%AD/</link><description>Recent content in 官中 on 一落归谦</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>一落归谦</copyright><atom:link href="https://luoqian29.github.io/tags/%E5%AE%98%E4%B8%AD/index.xml" rel="self" type="application/rss+xml"/><item><title>Agent17 特工17</title><link>https://luoqian29.github.io/p/agent17/</link><pubDate>Sat, 28 Nov 2026 00:00:00 +0800</pubDate><guid>https://luoqian29.github.io/p/agent17/</guid><description>&lt;img src="https://files.catbox.moe/eyh2ty.png" alt="Featured image of post Agent17 特工17" /&gt;&lt;div class="reading-layout native-details native-link-buttons"&gt;
 &lt;h1 id="agent17-v02610-hexatail"&gt;Agent17 [v0.26.10] [HEXATAIL]
 &lt;/h1&gt;&lt;p&gt;&lt;img src="https://img.itch.zone/aW1nLzEyNjUxNDU0LnBuZw==/original/fUvxcE.png"
 loading="lazy"
@@ -81,17 +81,17 @@ The mundane school life that once held no interest for you begins to change as y
 &lt;/h2&gt;&lt;details class="reading-note reading-changelog"&gt;
 &lt;summary style="color:#00A1D6;"&gt;博文更新日志&lt;/summary&gt;
 &lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
-&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.11.27&lt;/time&gt;&lt;span&gt; · 23:30&lt;/span&gt;&lt;/span&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.11.28&lt;/time&gt;&lt;span&gt; · 21:20&lt;/span&gt;&lt;/span&gt;
 &lt;div class="reading-update-main"&gt;
 &lt;strong class="reading-update-version"&gt;v2.0.1&lt;/strong&gt;
-&lt;span class="reading-update-detail"&gt;画廊Mod&amp;amp;作弊Mod · 订阅（模块重构 + 字体双语）&lt;/span&gt;
+&lt;span class="reading-update-detail"&gt;画廊Mod&amp;amp;作弊Mod · 订阅（70幕沙盒 + 双语修复 + 微圆角UI）&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
-&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.11.27&lt;/time&gt;&lt;span&gt; · 23:30&lt;/span&gt;&lt;/span&gt;
+&lt;span class="reading-update-datetime"&gt;&lt;time&gt;2026.11.28&lt;/time&gt;&lt;span&gt; · 21:20&lt;/span&gt;&lt;/span&gt;
 &lt;div class="reading-update-main"&gt;
 &lt;strong class="reading-update-version"&gt;v1.0.1&lt;/strong&gt;
-&lt;span class="reading-update-detail"&gt;画廊&amp;amp;功能模组 · 公开（精简 5 模块）&lt;/span&gt;
+&lt;span class="reading-update-detail"&gt;画廊&amp;amp;功能模组 · 公开（精简 5 模块 · 含70幕画廊）&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="reading-update-entry is-current" aria-label="更新状态：已更新"&gt;
@@ -255,20 +255,16 @@ alt="screenshot0020.png"
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;Mod说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;这次我和 &lt;strong&gt;Antigravity (Gemini 4 Hydrogen)&lt;/strong&gt; 一起把整套 Mod 重写了一遍（替换掉之前的老 V2.0），所有功能统一收在 &lt;code&gt;game/mod_luoqian/&lt;/code&gt; 目录下，不改动原版脚本也不破坏存档，全程鼠标点选即可（&lt;code&gt;Esc&lt;/code&gt; 关闭），支持&lt;strong&gt;简体中文、繁体中文与英文&lt;/strong&gt;环境。&lt;/p&gt;
-&lt;p&gt;相比公开版，&lt;strong&gt;&lt;code&gt;v2.0.1&lt;/code&gt; 是完整 7 模块版本&lt;/strong&gt;，适合想省去重复跑图和小游戏折腾的玩家：&lt;/p&gt;
+&lt;p&gt;我和 &lt;strong&gt;Antigravity (Gemini 4 Hydrogen)&lt;/strong&gt; 从零重构的 &lt;strong&gt;7 模块完整订阅版&lt;/strong&gt;，统一收纳于 &lt;code&gt;game/mod_luoqian/&lt;/code&gt;，不改原版脚本、全鼠标微圆角交互（&lt;code&gt;Esc&lt;/code&gt; 返回），适配&lt;strong&gt;简 / 繁 / EN&lt;/strong&gt;。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;独立画廊与剧情回放（主菜单 / 第 8 页）：&lt;/strong&gt; 主菜单可直接打开，收录 &lt;strong&gt;459 段动画&lt;/strong&gt;与 &lt;strong&gt;62 幕真实剧情沙盒回放&lt;/strong&gt;，带「画廊隐藏」遮罩开关（方便录屏演示）。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;右侧闪电抽屉 + 32 位角色雷达：&lt;/strong&gt; 紧贴游戏右侧工具栏第 4 格，随时切时段、清当日冷却，并在底部实时列出当前在场的 &lt;strong&gt;32 位角色&lt;/strong&gt;，点名片就能传到她身边。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;显示、字体与双语字幕（第 4 页）：&lt;/strong&gt; 免重启切换 &lt;strong&gt;4 款中文字体&lt;/strong&gt;，支持开启 &lt;strong&gt;中文 + 英文&lt;/strong&gt; 或 &lt;strong&gt;中文 + 韩文&lt;/strong&gt;双语对照，可调字号、位移和框体透明度，也不会破坏语言菜单里的韩/泰文显示。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;角色分支与全图鉴随身听（第 5、6 页）：&lt;/strong&gt; 32 位角色好感/服从/红蓝命运卡与造型切换、&lt;strong&gt;52 首原声随身听&lt;/strong&gt;自由点播，外加 &lt;strong&gt;51 张拍立得&lt;/strong&gt;、内裤/邮件/摄像头一键收集。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;小游戏免折腾与全城传送（第 7 页）：&lt;/strong&gt; 老虎机 777、自动撬锁、密码破译、拼酒免伤等常驻开关，支持 &lt;strong&gt;12 项小游戏直接跳过&lt;/strong&gt;、27 拼图与 286 贴纸收集，以及 &lt;strong&gt;33 个地点跨世界传送&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;数值与世界调节（第 1~3 页）：&lt;/strong&gt; 金币/道具/载具/钥匙发放、天气与圣诞/监狱线切换、属性精细调节并保留一键恢复正常数值。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;全解锁独立画廊（主菜单 / 第 8 页）：&lt;/strong&gt; 收录 &lt;strong&gt;459 段动画&lt;/strong&gt;与 &lt;strong&gt;70 幕真实剧情沙盒回放&lt;/strong&gt;（自带满道具前置与左上角【退出回放】），支持「画廊隐藏」遮罩。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;字体工坊与双语字幕（第 4 页）：&lt;/strong&gt; 热切 &lt;strong&gt;4 款中文字库&lt;/strong&gt;，支持&lt;strong&gt;中英 / 中韩双语字幕&lt;/strong&gt;（含缺字自动兜底，无方块不乱码）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;快捷雷达与基础修改（右侧闪电 / 第 1~3 页）：&lt;/strong&gt; 清当日冷却、切时段天气、全资源载具、8 项技能与 &lt;strong&gt;32 位角色四色位置雷达&lt;/strong&gt;一键瞬移。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;订阅专属全拓展（第 5~7 页）：&lt;/strong&gt; 32 人好感/红蓝命运卡/换装/任务追踪、&lt;strong&gt;52 首随身听 &amp;amp; 51 张拍立得&lt;/strong&gt;、&lt;strong&gt;12 项小游戏秒过&lt;/strong&gt;、&lt;strong&gt;286 贴纸&lt;/strong&gt;及 &lt;strong&gt;33 处跨世界传送&lt;/strong&gt;。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;所有按键说明和常见问题都整理进了一页网页说明书，手机和电脑都能直接看：&lt;/p&gt;
-&lt;p&gt;👉 &lt;strong&gt;&lt;a class="link" href="https://luoqian29.github.io/guides/Agent17-v0.26.10-Mod-Guide.html" &gt;📖 在线查看《Agent17 v0.26.10 Mod 使用指南》（支持简/繁/EN 切换）&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;（注：因为我平时自己并不怎么肝这游戏，主要精力花在维护这套 7 模块完整版与适配上，所以把完全体放在 ¥10/月 爱发电订阅里分担一部分算力与维护成本。基础游玩用下面的 &lt;code&gt;v1.0.1 公开版&lt;/code&gt; 就已经很够用了，大家按需选择。）&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装与升级提醒：&lt;/strong&gt; PC 端解压后把 &lt;code&gt;game&lt;/code&gt; 文件夹覆盖到游戏根目录（与 &lt;code&gt;Agent17.exe&lt;/code&gt; 同级）即可；&lt;strong&gt;安卓端也可用&lt;/strong&gt;，需用&lt;strong&gt;电脑数据线连接手机&lt;/strong&gt;或通过 &lt;strong&gt;MT 管理器&lt;/strong&gt;打开 &lt;code&gt;手机存储/Android/data/&amp;lt;Agent17包名&amp;gt;/files/&lt;/code&gt;（找含 &lt;code&gt;agent17&lt;/code&gt; 或 &lt;code&gt;hexatail&lt;/code&gt; 的文件夹），在 &lt;code&gt;files&lt;/code&gt; 内新建 &lt;code&gt;game&lt;/code&gt; 文件夹并把 &lt;code&gt;mod_luoqian&lt;/code&gt; 复制进 &lt;code&gt;files/game/&lt;/code&gt; 里面即可（或用 MT 管理器直接打进 APK）。&lt;strong&gt;如果你之前装过早期的 &lt;code&gt;V1.0&lt;/code&gt; 老版本&lt;/strong&gt;，安装新版前请先去 &lt;code&gt;game/&lt;/code&gt; 目录删掉旧的 &lt;code&gt;mod_cheats/&lt;/code&gt;、&lt;code&gt;mod_gallery/&lt;/code&gt; 和 &lt;code&gt;script/Menu/zz_mainmenu_gallery.rpy*&lt;/code&gt;，避免界面重名报错。&lt;/p&gt;
+&lt;p&gt;👉 &lt;strong&gt;&lt;a class="link" href="https://luoqian29.github.io/guides/Agent17-v0.26.10-Mod-Guide.html" &gt;📖 在线查看《Agent17 v0.26.10 Mod 使用指南》（含入口图示、字体预览、模块对照与安卓图文步骤）&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;（注：平时主要精力花在维护适配这套完全体上，放在 ¥10/月 订阅里分担算力与维护成本；日常基础体验选下面的 &lt;code&gt;v1.0.1 公开版&lt;/code&gt; 就很够用了。）&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;极简安装：&lt;/strong&gt; 解压覆盖 &lt;code&gt;game/&lt;/code&gt; 目录即可（安卓需放入 &lt;code&gt;Android/data/&amp;lt;包名&amp;gt;/files/game/mod_luoqian/&lt;/code&gt;）；更新覆盖请整套替换 &lt;code&gt;mod_luoqian&lt;/code&gt;，老 &lt;code&gt;V1.0&lt;/code&gt; 用户需先删旧文件（详细路径与常见问题见上方使用指南）。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -278,19 +274,19 @@ alt="screenshot0020.png"
 &lt;span class="reading-platform-title" style="color: #34C759;"&gt;v1.0.1&lt;/span&gt;&lt;span class="reading-platform-subtitle"&gt;公开 · 精简底座&lt;/span&gt;&lt;span class="reading-platform-chevron" aria-hidden="true"&gt;&lt;/span&gt;
 &lt;/summary&gt;
 &lt;div class="reading-platform-body"&gt;
-&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/ri7owAv9" target="_blank" rel="noopener"
+&lt;p&gt;&lt;a class="link" href="https://gofile.io/d/JqA3ILAQ" target="_blank" rel="noopener"
 &gt;GOFILE&lt;/a&gt;
-&lt;a class="link" href="https://pixeldrain.com/u/7JwoBPyu" target="_blank" rel="noopener"
+&lt;a class="link" href="https://pixeldrain.com/u/RyBYwXho" target="_blank" rel="noopener"
 &gt;PIXELDRAIN&lt;/a&gt;&lt;/p&gt;
 &lt;div class="reading-details-card"&gt;&lt;div class="reading-details-card-header"&gt;Mod说明&lt;/div&gt;&lt;div class="reading-details-card-body"&gt;
-&lt;p&gt;全新重构架构的&lt;strong&gt;免费公开版（5 模块）&lt;/strong&gt;，和上面的 &lt;code&gt;v2.0.1&lt;/code&gt; 共用同一套底层（同样放在 &lt;code&gt;game/mod_luoqian/&lt;/code&gt;），只移除了人物雷达、图鉴随身听和小游戏秒过等进阶扩展，保留了最常用的核心能力：&lt;/p&gt;
+&lt;p&gt;全新架构的&lt;strong&gt;公开版（5 核心模块）&lt;/strong&gt;，与 &lt;code&gt;v2.0.1&lt;/code&gt; 共用同一底座，移除了人物雷达、图鉴随身听与小游戏秒过扩展，核心体验全保留：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;完整独立画廊与剧情馆：&lt;/strong&gt; 主菜单点击【画廊】即可畅看 &lt;strong&gt;459 段动画&lt;/strong&gt;与 &lt;strong&gt;62 幕剧情沙盒回放&lt;/strong&gt;，带「画廊隐藏」模式。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;基础右侧闪电抽屉 + 核心 3 页控制台：&lt;/strong&gt; 清当日冷却、切换昼夜与工作日、4 处高频地点传送，以及资产道具、天气世界、属性技能调整。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;显示、字体与双语字幕（第 4 页）：&lt;/strong&gt; 完整保留 &lt;strong&gt;4 款中文字体切换&lt;/strong&gt;与 &lt;strong&gt;中英 / 中韩双语字幕&lt;/strong&gt;，切语言不乱码。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;完整画廊与剧情馆（主菜单 / 第 5 页）：&lt;/strong&gt; 畅看 &lt;strong&gt;459 段动画&lt;/strong&gt;与 &lt;strong&gt;70 幕沙盒剧情回放&lt;/strong&gt;，含左上角【退出回放】与「画廊隐藏」模式。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;快捷工作台 + 核心 3 页：&lt;/strong&gt; 清冷却、切时段与 4 处高频传送，以及资产道具、天气世界、属性技能修改。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;显示、字体与双语（第 4 页）：&lt;/strong&gt; 完整保留 &lt;strong&gt;4 款中文字库&lt;/strong&gt;与无方块&lt;strong&gt;中英 / 中韩双语字幕&lt;/strong&gt;。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;👉 &lt;strong&gt;&lt;a class="link" href="https://luoqian29.github.io/guides/Agent17-v0.26.10-Mod-Guide.html" &gt;📖 在线查看使用指南（页面内可按“公开版”筛选）&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装与升级提醒：&lt;/strong&gt; PC 端解压覆盖 &lt;code&gt;game&lt;/code&gt; 文件夹即可；&lt;strong&gt;安卓端&lt;/strong&gt;同样可用，用&lt;strong&gt;电脑数据线连接手机&lt;/strong&gt;或 &lt;strong&gt;MT 管理器&lt;/strong&gt;前往 &lt;code&gt;手机存储/Android/data/&amp;lt;游戏包名&amp;gt;/files/&lt;/code&gt; 新建 &lt;code&gt;game&lt;/code&gt; 文件夹，把解压出的 &lt;code&gt;mod_luoqian&lt;/code&gt; 放进 &lt;code&gt;files/game/&lt;/code&gt; 里面即可（或用 MT 管理器打包进 APK）。如果是从下面的老 &lt;code&gt;V1.0&lt;/code&gt; 升级过来，记得先删掉旧的 &lt;code&gt;game/mod_cheats/&lt;/code&gt;、&lt;code&gt;game/mod_gallery/&lt;/code&gt; 和 &lt;code&gt;game/script/Menu/zz_mainmenu_gallery.rpy*&lt;/code&gt; 再放入新版。&lt;/p&gt;
+&lt;p&gt;👉 &lt;strong&gt;&lt;a class="link" href="https://luoqian29.github.io/guides/Agent17-v0.26.10-Mod-Guide.html" &gt;📖 查看使用指南与安装教程（页面内可筛选「公开版」）&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;（PC 覆盖 &lt;code&gt;game/&lt;/code&gt;，安卓及老 &lt;code&gt;V1.0&lt;/code&gt; 升级清理步骤见上方指南）&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
